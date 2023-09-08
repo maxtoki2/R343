@@ -1,0 +1,734 @@
+"team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played","season"
+"Inter Milan","Serie A","Italy","Vid Belec","https://www.transfermarkt.com/vid-belec/profil/spieler/73090","Goalkeeper",17,"Slovenia",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","Enrico Alfonso","https://www.transfermarkt.com/enrico-alfonso/profil/spieler/34334","Goalkeeper",19,"Italy",3,1,0,90,2007
+"Inter Milan","Serie A","Italy","Paolo Tornaghi","https://www.transfermarkt.com/paolo-tornaghi/profil/spieler/45583","Goalkeeper",19,"Italy",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","Francesco Toldo","https://www.transfermarkt.com/francesco-toldo/profil/spieler/5769","Goalkeeper",35,"Italy",37,8,0,662,2007
+"Inter Milan","Serie A","Italy","Júlio César","https://www.transfermarkt.com/julio-cesar/profil/spieler/22412","Goalkeeper",27,"Brazil",47,44,0,3882,2007
+"Inter Milan","Serie A","Italy","Paolo Orlandoni","https://www.transfermarkt.com/paolo-orlandoni/profil/spieler/21797","Goalkeeper",34,"Italy",21,3,0,224,2007
+"Inter Milan","Serie A","Italy","Iván Córdoba","https://www.transfermarkt.com/ivan-cordoba/profil/spieler/5772","Centre-Back",30,"Colombia",29,27,3,2415,2007
+"Inter Milan","Serie A","Italy","Javier Zanetti","https://www.transfermarkt.com/javier-zanetti/profil/spieler/1161","Right-Back",33,"Argentina",51,51,1,4197,2007
+"Inter Milan","Serie A","Italy","Maxwell","https://www.transfermarkt.com/maxwell/profil/spieler/4317","Left-Back",25,"Brazil",46,43,0,3465,2007
+"Inter Milan","Serie A","Italy","Maicon","https://www.transfermarkt.com/maicon/profil/spieler/18301","Right-Back",25,"Brazil",39,39,1,3259,2007
+"Inter Milan","Serie A","Italy","Nicolás Burdisso","https://www.transfermarkt.com/nicolas-burdisso/profil/spieler/3417","Centre-Back",26,"Argentina",42,33,1,2456,2007
+"Inter Milan","Serie A","Italy","Francesco Coco","https://www.transfermarkt.com/francesco-coco/profil/spieler/3508","Left-Back",30,"Italy",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","Marco Materazzi","https://www.transfermarkt.com/marco-materazzi/profil/spieler/5778","Centre-Back",33,"Italy",34,31,1,1973,2007
+"Inter Milan","Serie A","Italy","Nelson Rivas","https://www.transfermarkt.com/nelson-rivas/profil/spieler/52580","Centre-Back",24,"Colombia",33,19,0,1335,2007
+"Inter Milan","Serie A","Italy","Walter Samuel","https://www.transfermarkt.com/walter-samuel/profil/spieler/5938","Centre-Back",29,"Argentina",22,18,1,1559,2007
+"Inter Milan","Serie A","Italy","Cristian Chivu","https://www.transfermarkt.com/cristian-chivu/profil/spieler/4314","Centre-Back",26,"Romania",39,36,0,2815,2007
+"Inter Milan","Serie A","Italy","Dennis Esposito","https://www.transfermarkt.com/dennis-esposito/profil/spieler/84565","Centre-Back",19,"Italy",3,0,0,0,2007
+"Inter Milan","Serie A","Italy","Daniele Federici","https://www.transfermarkt.com/daniele-federici/profil/spieler/86344","Left-Back",19,"Italy",1,0,0,0,2007
+"Inter Milan","Serie A","Italy","Ivan Fatic","https://www.transfermarkt.com/ivan-fatic/profil/spieler/68078","Centre-Back",18,"Montenegro",5,2,0,180,2007
+"Inter Milan","Serie A","Italy","Daniele Pedrelli","https://www.transfermarkt.com/daniele-pedrelli/profil/spieler/82838","Left-Back",19,"Italy",2,0,0,0,2007
+"Inter Milan","Serie A","Italy","Marco Filippini","https://www.transfermarkt.com/marco-filippini/profil/spieler/104587","Defender",18,"Italy",3,1,0,7,2007
+"Inter Milan","Serie A","Italy","Alberto Gerbo","https://www.transfermarkt.com/alberto-gerbo/profil/spieler/88690","Central Midfield",17,"Italy",1,0,0,0,2007
+"Inter Milan","Serie A","Italy","Dejan Stanković","https://www.transfermarkt.com/dejan-stankovi%C4%87/profil/spieler/3428","Central Midfield",28,"Serbia",33,31,1,2363,2007
+"Inter Milan","Serie A","Italy","Luis Jiménez","https://www.transfermarkt.com/luis-jimenez/profil/spieler/21821","Attacking Midfield",23,"Chile",34,22,4,1146,2007
+"Inter Milan","Serie A","Italy","Patrick Vieira","https://www.transfermarkt.com/patrick-vieira/profil/spieler/3183","Defensive Midfield",31,"France",23,23,3,1436,2007
+"Inter Milan","Serie A","Italy","Olivier Dacourt","https://www.transfermarkt.com/olivier-dacourt/profil/spieler/3572","Defensive Midfield",32,"France",16,13,0,743,2007
+"Inter Milan","Serie A","Italy","Esteban Cambiasso","https://www.transfermarkt.com/esteban-cambiasso/profil/spieler/7520","Defensive Midfield",26,"Argentina",46,44,8,3602,2007
+"Inter Milan","Serie A","Italy","Santiago Solari","https://www.transfermarkt.com/santiago-solari/profil/spieler/7527","Left Midfield",30,"Argentina",31,15,1,739,2007
+"Inter Milan","Serie A","Italy","Maniche","https://www.transfermarkt.com/maniche/profil/spieler/9822","Central Midfield",29,"Portugal",23,11,1,543,2007
+"Inter Milan","Serie A","Italy","Pelé","https://www.transfermarkt.com/pele/profil/spieler/48930","Central Midfield",19,"Portugal",33,22,2,1022,2007
+"Inter Milan","Serie A","Italy","César","https://www.transfermarkt.com/cesar/profil/spieler/5839","Left Midfield",32,"Brazil",27,23,2,1649,2007
+"Inter Milan","Serie A","Italy","Francesco Bolzoni","https://www.transfermarkt.com/francesco-bolzoni/profil/spieler/49521","Defensive Midfield",18,"Italy",7,5,0,263,2007
+"Inter Milan","Serie A","Italy","Gabriele Puccio","https://www.transfermarkt.com/gabriele-puccio/profil/spieler/84546","Central Midfield",17,"Italy",6,1,0,8,2007
+"Inter Milan","Serie A","Italy","Attila Filkor","https://www.transfermarkt.com/attila-filkor/profil/spieler/45576","Central Midfield",18,"Hungary",1,0,0,0,2007
+"Inter Milan","Serie A","Italy","Ibrahim Maaroufi","https://www.transfermarkt.com/ibrahim-maaroufi/profil/spieler/45279","Defensive Midfield",18,"Morocco",1,1,0,15,2007
+"Inter Milan","Serie A","Italy","José Coelho","https://www.transfermarkt.com/jose-coelho/profil/spieler/45258","Attacking Midfield",17,"Portugal",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","Rene Krhin","https://www.transfermarkt.com/rene-krhin/profil/spieler/73092","Defensive Midfield",17,"Slovenia",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","Mario Balotelli","https://www.transfermarkt.com/mario-balotelli/profil/spieler/45146","Centre-Forward",16,"Italy",19,15,7,930,2007
+"Inter Milan","Serie A","Italy","Luca Siligardi","https://www.transfermarkt.com/luca-siligardi/profil/spieler/86079","Right Winger",19,"Italy",3,2,0,58,2007
+"Inter Milan","Serie A","Italy","Luís Figo","https://www.transfermarkt.com/luis-figo/profil/spieler/3446","Right Winger",34,"Portugal",26,22,1,1206,2007
+"Inter Milan","Serie A","Italy","Zlatan Ibrahimović","https://www.transfermarkt.com/zlatan-ibrahimovi%C4%87/profil/spieler/3455","Centre-Forward",25,"Sweden",36,34,22,2659,2007
+"Inter Milan","Serie A","Italy","Julio Cruz","https://www.transfermarkt.com/julio-cruz/profil/spieler/6006","Centre-Forward",32,"Argentina",44,38,19,2540,2007
+"Inter Milan","Serie A","Italy","Adriano","https://www.transfermarkt.com/adriano/profil/spieler/5876","Centre-Forward",25,"Brazil",6,4,1,241,2007
+"Inter Milan","Serie A","Italy","Filippo Mancini","https://www.transfermarkt.com/filippo-mancini/profil/spieler/67764","Right Winger",16,"Italy",1,1,0,7,2007
+"Inter Milan","Serie A","Italy","Hernán Crespo","https://www.transfermarkt.com/hernan-crespo/profil/spieler/3410","Centre-Forward",31,"Argentina",52,29,7,1610,2007
+"Inter Milan","Serie A","Italy","Álvaro Recoba","https://www.transfermarkt.com/alvaro-recoba/profil/spieler/5796","Second Striker",31,"Uruguay",0,0,0,0,2007
+"Inter Milan","Serie A","Italy","David Suazo","https://www.transfermarkt.com/david-suazo/profil/spieler/20749","Centre-Forward",27,"Honduras",44,37,8,1730,2007
+"Inter Milan","Serie A","Italy","Aiman Napoli","https://www.transfermarkt.com/aiman-napoli/profil/spieler/88698","Centre-Forward",17,"Italy",1,1,0,1,2007
+"AC Milan","Serie A","Italy","Daniel Offredi","https://www.transfermarkt.com/daniel-offredi/profil/spieler/56625","Goalkeeper",19,"Italy",0,0,0,0,2007
+"AC Milan","Serie A","Italy","Dida","https://www.transfermarkt.com/dida/profil/spieler/5800","Goalkeeper",33,"Brazil",29,20,0,1796,2007
+"AC Milan","Serie A","Italy","Marco Storari","https://www.transfermarkt.com/marco-storari/profil/spieler/19136","Goalkeeper",30,"Italy",0,0,0,0,2007
+"AC Milan","Serie A","Italy","Zeljko Kalac","https://www.transfermarkt.com/zeljko-kalac/profil/spieler/6079","Goalkeeper",34,"Australia",50,32,0,2786,2007
+"AC Milan","Serie A","Italy","Valerio Fiori","https://www.transfermarkt.com/valerio-fiori/profil/spieler/5799","Goalkeeper",38,"Italy",25,0,0,0,2007
+"AC Milan","Serie A","Italy","Matteo Darmian","https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906","Right-Back",17,"Italy",1,1,0,1,2007
+"AC Milan","Serie A","Italy","Simone Romagnoli","https://www.transfermarkt.com/simone-romagnoli/profil/spieler/88706","Centre-Back",17,"Italy",0,0,0,0,2007
+"AC Milan","Serie A","Italy","Matteo Bruscagin","https://www.transfermarkt.com/matteo-bruscagin/profil/spieler/56618","Right-Back",17,"Italy",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Cafu","https://www.transfermarkt.com/cafu/profil/spieler/5937","Right-Back",37,"Brazil",33,19,1,1084,2007
+"AC Milan","Serie A","Italy","Paolo Maldini","https://www.transfermarkt.com/paolo-maldini/profil/spieler/5803","Left-Back",39,"Italy",25,23,1,1642,2007
+"AC Milan","Serie A","Italy","Kakhaber Kaladze","https://www.transfermarkt.com/kakhaber-kaladze/profil/spieler/3430","Centre-Back",29,"Georgia",43,42,0,3589,2007
+"AC Milan","Serie A","Italy","Alessandro Nesta","https://www.transfermarkt.com/alessandro-nesta/profil/spieler/4171","Centre-Back",31,"Italy",39,39,2,3347,2007
+"AC Milan","Serie A","Italy","Dario Simic","https://www.transfermarkt.com/dario-simic/profil/spieler/2540","Right-Back",31,"Croatia",29,7,0,337,2007
+"AC Milan","Serie A","Italy","Marek Jankulovski","https://www.transfermarkt.com/marek-jankulovski/profil/spieler/3532","Left-Back",30,"Czech Republic",23,19,1,1308,2007
+"AC Milan","Serie A","Italy","Giuseppe Favalli","https://www.transfermarkt.com/giuseppe-favalli/profil/spieler/5832","Left-Back",35,"Italy",44,30,0,1890,2007
+"AC Milan","Serie A","Italy","Daniele Bonera","https://www.transfermarkt.com/daniele-bonera/profil/spieler/5856","Centre-Back",26,"Italy",43,29,0,2149,2007
+"AC Milan","Serie A","Italy","Digão","https://www.transfermarkt.com/digao/profil/spieler/44365","Centre-Back",21,"Brazil",8,3,0,224,2007
+"AC Milan","Serie A","Italy","Giorgio Gianola","https://www.transfermarkt.com/giorgio-gianola/profil/spieler/88692","Centre-Back",17,"Italy",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Massimo Oddo","https://www.transfermarkt.com/massimo-oddo/profil/spieler/5837","Right-Back",31,"Italy",42,34,1,2526,2007
+"AC Milan","Serie A","Italy","William-Fils Aubameyang","https://www.transfermarkt.com/william-fils-aubameyang/profil/spieler/54896","Centre-Back",20,"Gabon",3,1,0,46,2007
+"AC Milan","Serie A","Italy","Émerson","https://www.transfermarkt.com/emerson/profil/spieler/70","Defensive Midfield",31,"Brazil",33,22,0,823,2007
+"AC Milan","Serie A","Italy","Gennaro Gattuso","https://www.transfermarkt.com/gennaro-gattuso/profil/spieler/5813","Central Midfield",29,"Italy",44,43,1,3287,2007
+"AC Milan","Serie A","Italy","Clarence Seedorf","https://www.transfermarkt.com/clarence-seedorf/profil/spieler/4168","Central Midfield",31,"Netherlands",43,42,10,3443,2007
+"AC Milan","Serie A","Italy","Yoann Gourcuff","https://www.transfermarkt.com/yoann-gourcuff/profil/spieler/18912","Attacking Midfield",20,"France",39,20,1,760,2007
+"AC Milan","Serie A","Italy","Andrea Pirlo","https://www.transfermarkt.com/andrea-pirlo/profil/spieler/5817","Defensive Midfield",28,"Italy",45,45,5,3904,2007
+"AC Milan","Serie A","Italy","Kaká","https://www.transfermarkt.com/kaka/profil/spieler/3366","Attacking Midfield",25,"Brazil",41,41,19,3544,2007
+"AC Milan","Serie A","Italy","Massimo Ambrosini","https://www.transfermarkt.com/massimo-ambrosini/profil/spieler/5818","Central Midfield",30,"Italy",43,43,4,3597,2007
+"AC Milan","Serie A","Italy","Serginho","https://www.transfermarkt.com/serginho/profil/spieler/5819","Left Midfield",36,"Brazil",19,15,0,707,2007
+"AC Milan","Serie A","Italy","Cristian Brocchi","https://www.transfermarkt.com/cristian-brocchi/profil/spieler/5812","Central Midfield",31,"Italy",48,32,0,1251,2007
+"AC Milan","Serie A","Italy","Ibrahim Bá","https://www.transfermarkt.com/ibrahim-ba/profil/spieler/5815","Right Midfield",33,"France",0,0,0,0,2007
+"AC Milan","Serie A","Italy","Davide Ancelotti","https://www.transfermarkt.com/davide-ancelotti/profil/spieler/56687","Central Midfield",17,"Italy",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Riccardo Caraglia","https://www.transfermarkt.com/riccardo-caraglia/profil/spieler/56620","Defensive Midfield",18,"Italy",2,0,0,0,2007
+"AC Milan","Serie A","Italy","Alex Guerci","https://www.transfermarkt.com/alex-guerci/profil/spieler/56623","Central Midfield",17,"Italy",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Alessandro Ruggeri","https://www.transfermarkt.com/alessandro-ruggeri/profil/spieler/88707","Left Midfield",16,"Italy",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Pierre-Emerick Aubameyang","https://www.transfermarkt.com/pierre-emerick-aubameyang/profil/spieler/58864","Centre-Forward",18,"Gabon",1,0,0,0,2007
+"AC Milan","Serie A","Italy","Alexandre Pato","https://www.transfermarkt.com/alexandre-pato/profil/spieler/37579","Centre-Forward",17,"Brazil",21,20,9,1444,2007
+"AC Milan","Serie A","Italy","Alberto Paloschi","https://www.transfermarkt.com/alberto-paloschi/profil/spieler/68306","Centre-Forward",17,"Italy",13,9,4,408,2007
+"AC Milan","Serie A","Italy","Filippo Inzaghi","https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821","Centre-Forward",33,"Italy",36,29,18,1857,2007
+"AC Milan","Serie A","Italy","Alberto Gilardino","https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878","Centre-Forward",24,"Italy",49,40,9,2289,2007
+"AC Milan","Serie A","Italy","Kingsley Umunegbu","https://www.transfermarkt.com/kingsley-umunegbu/profil/spieler/56634","Second Striker",17,"Nigeria",1,1,0,44,2007
+"AC Milan","Serie A","Italy","Ronaldo","https://www.transfermarkt.com/ronaldo/profil/spieler/3140","Centre-Forward",30,"Brazil",8,6,2,320,2007
+"AS Roma","Serie A","Italy","Gianluca Curci","https://www.transfermarkt.com/gianluca-curci/profil/spieler/24001","Goalkeeper",21,"Italy",45,8,0,595,2007
+"AS Roma","Serie A","Italy","Carlo Zotti","https://www.transfermarkt.com/carlo-zotti/profil/spieler/16865","Goalkeeper",24,"Italy",3,0,0,0,2007
+"AS Roma","Serie A","Italy","Júlio Sérgio","https://www.transfermarkt.com/julio-sergio/profil/spieler/20052","Goalkeeper",28,"Brazil",14,0,0,0,2007
+"AS Roma","Serie A","Italy","Doni","https://www.transfermarkt.com/doni/profil/spieler/20392","Goalkeeper",27,"Brazil",51,50,0,4444,2007
+"AS Roma","Serie A","Italy","Riccardo Delfino","https://www.transfermarkt.com/riccardo-delfino/profil/spieler/342812","Goalkeeper",18,"Italy",0,0,0,0,2007
+"AS Roma","Serie A","Italy","Riccardo Brosco","https://www.transfermarkt.com/riccardo-brosco/profil/spieler/89034","Centre-Back",16,"Italy",1,0,0,0,2007
+"AS Roma","Serie A","Italy","Aleandro Rosi","https://www.transfermarkt.com/aleandro-rosi/profil/spieler/34239","Right-Back",20,"Italy",2,1,0,0,2007
+"AS Roma","Serie A","Italy","Antunes","https://www.transfermarkt.com/antunes/profil/spieler/44699","Left-Back",20,"Portugal",33,9,0,405,2007
+"AS Roma","Serie A","Italy","Christian Panucci","https://www.transfermarkt.com/christian-panucci/profil/spieler/5940","Right-Back",34,"Italy",45,39,6,2830,2007
+"AS Roma","Serie A","Italy","Cicinho","https://www.transfermarkt.com/cicinho/profil/spieler/26101","Right-Back",27,"Brazil",54,44,2,2626,2007
+"AS Roma","Serie A","Italy","Juan","https://www.transfermarkt.com/juan/profil/spieler/1599","Centre-Back",28,"Brazil",40,32,3,2567,2007
+"AS Roma","Serie A","Italy","Philippe Mexès","https://www.transfermarkt.com/philippe-mexes/profil/spieler/5422","Centre-Back",25,"France",47,45,2,3799,2007
+"AS Roma","Serie A","Italy","Marco Andreolli","https://www.transfermarkt.com/marco-andreolli/profil/spieler/36356","Centre-Back",21,"Italy",1,0,0,0,2007
+"AS Roma","Serie A","Italy","Matteo Ferrari","https://www.transfermarkt.com/matteo-ferrari/profil/spieler/5860","Centre-Back",27,"Italy",37,23,0,1866,2007
+"AS Roma","Serie A","Italy","Max Tonetto","https://www.transfermarkt.com/max-tonetto/profil/spieler/6447","Left-Back",32,"Italy",52,51,1,4020,2007
+"AS Roma","Serie A","Italy","Samuel Kuffour","https://www.transfermarkt.com/samuel-kuffour/profil/spieler/208","Centre-Back",30,"Ghana",0,0,0,0,2007
+"AS Roma","Serie A","Italy","Marco Cassetti","https://www.transfermarkt.com/marco-cassetti/profil/spieler/16975","Right-Back",30,"Italy",41,41,1,3085,2007
+"AS Roma","Serie A","Italy","Massimiliano Marsili","https://www.transfermarkt.com/massimiliano-marsili/profil/spieler/55791","Defensive Midfield",19,"Italy",0,0,0,0,2007
+"AS Roma","Serie A","Italy","David Pizarro","https://www.transfermarkt.com/david-pizarro/profil/spieler/5896","Central Midfield",27,"Chile",51,46,4,3317,2007
+"AS Roma","Serie A","Italy","Alberto Aquilani","https://www.transfermarkt.com/alberto-aquilani/profil/spieler/5957","Central Midfield",22,"Italy",34,31,4,1926,2007
+"AS Roma","Serie A","Italy","Daniele De Rossi","https://www.transfermarkt.com/daniele-de-rossi/profil/spieler/5947","Defensive Midfield",23,"Italy",53,51,6,4491,2007
+"AS Roma","Serie A","Italy","Édgar Álvarez","https://www.transfermarkt.com/edgar-alvarez/profil/spieler/28006","Right Midfield",27,"Honduras",1,1,0,5,2007
+"AS Roma","Serie A","Italy","Simone Perrotta","https://www.transfermarkt.com/simone-perrotta/profil/spieler/5922","Attacking Midfield",29,"Italy",43,41,7,3050,2007
+"AS Roma","Serie A","Italy","Adrian Pit","https://www.transfermarkt.com/adrian-pit/profil/spieler/19924","Left Midfield",23,"Romania",9,1,0,56,2007
+"AS Roma","Serie A","Italy","Ahmed Barusso","https://www.transfermarkt.com/ahmed-barusso/profil/spieler/40979","Defensive Midfield",22,"Ghana",20,5,0,115,2007
+"AS Roma","Serie A","Italy","Matteo Brighi","https://www.transfermarkt.com/matteo-brighi/profil/spieler/5868","Central Midfield",26,"Italy",52,32,1,988,2007
+"AS Roma","Serie A","Italy","Claudio Della Penna","https://www.transfermarkt.com/claudio-della-penna/profil/spieler/55783","Central Midfield",18,"Italy",3,1,0,10,2007
+"AS Roma","Serie A","Italy","Daniel Unal","https://www.transfermarkt.com/daniel-unal/profil/spieler/52559","Central Midfield",17,"Switzerland",5,0,0,0,2007
+"AS Roma","Serie A","Italy","João Paulo","https://www.transfermarkt.com/joao-paulo/profil/spieler/99926","Right Midfield",18,"Brazil",1,0,0,0,2007
+"AS Roma","Serie A","Italy","Mirko Vucinic","https://www.transfermarkt.com/mirko-vucinic/profil/spieler/6448","Centre-Forward",23,"Montenegro",52,48,14,3235,2007
+"AS Roma","Serie A","Italy","Francesco Totti","https://www.transfermarkt.com/francesco-totti/profil/spieler/5958","Second Striker",30,"Italy",36,35,18,2860,2007
+"AS Roma","Serie A","Italy","Rodrigo Taddei","https://www.transfermarkt.com/rodrigo-taddei/profil/spieler/15342","Right Winger",27,"Brazil",38,36,7,2615,2007
+"AS Roma","Serie A","Italy","Ludovic Giuly","https://www.transfermarkt.com/ludovic-giuly/profil/spieler/5299","Right Winger",30,"France",51,48,8,2602,2007
+"AS Roma","Serie A","Italy","Mauro Esposito","https://www.transfermarkt.com/mauro-esposito/profil/spieler/20735","Right Winger",28,"Italy",40,16,0,327,2007
+"AS Roma","Serie A","Italy","Keivan Zarineh","https://www.transfermarkt.com/keivan-zarineh/profil/spieler/55802","Centre-Forward",22,"Iran",0,0,0,0,2007
+"AS Roma","Serie A","Italy","Shabani Nonda","https://www.transfermarkt.com/shabani-nonda/profil/spieler/3499","Centre-Forward",30,"DR Congo",1,0,0,0,2007
+"AS Roma","Serie A","Italy","Mancini","https://www.transfermarkt.com/mancini/profil/spieler/15291","Left Winger",26,"Brazil",53,46,13,3396,2007
+"Juventus FC","Serie A","Italy","Gianluigi Buffon","https://www.transfermarkt.com/gianluigi-buffon/profil/spieler/5023","Goalkeeper",29,"Italy",36,35,0,3140,2007
+"Juventus FC","Serie A","Italy","Emanuele Belardi","https://www.transfermarkt.com/emanuele-belardi/profil/spieler/6060","Goalkeeper",29,"Italy",41,9,0,730,2007
+"Juventus FC","Serie A","Italy","Jess Kedwell Vanstrattan","https://www.transfermarkt.com/jess-kedwell-vanstrattan/profil/spieler/21984","Goalkeeper",24,"Australia",8,0,0,0,2007
+"Juventus FC","Serie A","Italy","Cristiano Novembre","https://www.transfermarkt.com/cristiano-novembre/profil/spieler/54054","Goalkeeper",20,"Italy",1,0,0,0,2007
+"Juventus FC","Serie A","Italy","Giorgio Chiellini","https://www.transfermarkt.com/giorgio-chiellini/profil/spieler/29260","Centre-Back",22,"Italy",33,32,3,2798,2007
+"Juventus FC","Serie A","Italy","Salvatore D'Elia","https://www.transfermarkt.com/salvatore-delia/profil/spieler/62365","Left-Back",18,"Italy",1,0,0,0,2007
+"Juventus FC","Serie A","Italy","Alessandro Birindelli","https://www.transfermarkt.com/alessandro-birindelli/profil/spieler/5753","Right-Back",32,"Italy",33,11,0,735,2007
+"Juventus FC","Serie A","Italy","Jonathan Zebina","https://www.transfermarkt.com/jonathan-zebina/profil/spieler/5942","Centre-Back",28,"France",22,17,0,1324,2007
+"Juventus FC","Serie A","Italy","Jorge Andrade","https://www.transfermarkt.com/jorge-andrade/profil/spieler/7491","Centre-Back",29,"Portugal",5,5,0,414,2007
+"Juventus FC","Serie A","Italy","Jean-Alain Boumsong","https://www.transfermarkt.com/jean-alain-boumsong/profil/spieler/5418","Centre-Back",27,"France",5,3,1,136,2007
+"Juventus FC","Serie A","Italy","Domenico Criscito","https://www.transfermarkt.com/domenico-criscito/profil/spieler/44136","Left-Back",20,"Italy",15,9,0,722,2007
+"Juventus FC","Serie A","Italy","Zdenek Grygera","https://www.transfermarkt.com/zdenek-grygera/profil/spieler/6833","Right-Back",27,"Czech Republic",34,27,1,2181,2007
+"Juventus FC","Serie A","Italy","Guglielmo Stendardo","https://www.transfermarkt.com/guglielmo-stendardo/profil/spieler/22093","Centre-Back",26,"Italy",15,6,0,434,2007
+"Juventus FC","Serie A","Italy","Cristian Molinaro","https://www.transfermarkt.com/cristian-molinaro/profil/spieler/21972","Left-Back",23,"Italy",40,36,1,2996,2007
+"Juventus FC","Serie A","Italy","Nicola Legrottaglie","https://www.transfermarkt.com/nicola-legrottaglie/profil/spieler/5925","Centre-Back",30,"Italy",38,37,3,3119,2007
+"Juventus FC","Serie A","Italy","Lorenzo Ariaudo","https://www.transfermarkt.com/lorenzo-ariaudo/profil/spieler/84921","Centre-Back",18,"Italy",6,0,0,0,2007
+"Juventus FC","Serie A","Italy","Luca Castiglia","https://www.transfermarkt.com/luca-castiglia/profil/spieler/62358","Central Midfield",18,"Italy",10,2,0,1,2007
+"Juventus FC","Serie A","Italy","Sergio Almirón","https://www.transfermarkt.com/sergio-almiron/profil/spieler/5890","Central Midfield",26,"Argentina",15,11,1,640,2007
+"Juventus FC","Serie A","Italy","Cristiano Zanetti","https://www.transfermarkt.com/cristiano-zanetti/profil/spieler/5783","Defensive Midfield",30,"Italy",30,29,0,2499,2007
+"Juventus FC","Serie A","Italy","Hasan Salihamidzic","https://www.transfermarkt.com/hasan-salihamidzic/profil/spieler/214","Right Midfield",30,"Bosnia-Herzegovina",41,30,5,2172,2007
+"Juventus FC","Serie A","Italy","Mauro Camoranesi","https://www.transfermarkt.com/mauro-camoranesi/profil/spieler/5762","Right Midfield",30,"Italy",24,23,5,1561,2007
+"Juventus FC","Serie A","Italy","Pavel Nedved","https://www.transfermarkt.com/pavel-nedved/profil/spieler/3603","Left Midfield",34,"Czech Republic",34,33,3,2522,2007
+"Juventus FC","Serie A","Italy","Mohamed Sissoko","https://www.transfermarkt.com/mohamed-sissoko/profil/spieler/6119","Defensive Midfield",22,"Mali",16,15,1,1053,2007
+"Juventus FC","Serie A","Italy","Antonio Nocerino","https://www.transfermarkt.com/antonio-nocerino/profil/spieler/22203","Central Midfield",22,"Italy",38,36,0,2409,2007
+"Juventus FC","Serie A","Italy","Rubén Olivera","https://www.transfermarkt.com/ruben-olivera/profil/spieler/5768","Central Midfield",24,"Uruguay",5,1,0,13,2007
+"Juventus FC","Serie A","Italy","Tiago Mendes","https://www.transfermarkt.com/tiago-mendes/profil/spieler/8538","Central Midfield",26,"Portugal",43,23,0,1226,2007
+"Juventus FC","Serie A","Italy","Marco Marchionni","https://www.transfermarkt.com/marco-marchionni/profil/spieler/5873","Right Midfield",26,"Italy",20,14,2,457,2007
+"Juventus FC","Serie A","Italy","Marco Duravia","https://www.transfermarkt.com/marco-duravia/profil/spieler/62366","Right Midfield",17,"Italy",1,0,0,0,2007
+"Juventus FC","Serie A","Italy","Nicola Cosentini","https://www.transfermarkt.com/nicola-cosentini/profil/spieler/62361","Defensive Midfield",19,"Italy",0,0,0,0,2007
+"Juventus FC","Serie A","Italy","Cristian Pasquato","https://www.transfermarkt.com/cristian-pasquato/profil/spieler/62379","Second Striker",17,"Italy",4,1,0,0,2007
+"Juventus FC","Serie A","Italy","Vincenzo Iaquinta","https://www.transfermarkt.com/vincenzo-iaquinta/profil/spieler/5904","Centre-Forward",27,"Italy",30,29,12,1420,2007
+"Juventus FC","Serie A","Italy","Alessandro Del Piero","https://www.transfermarkt.com/alessandro-del-piero/profil/spieler/4289","Second Striker",32,"Italy",42,41,24,3033,2007
+"Juventus FC","Serie A","Italy","David Trézéguet","https://www.transfermarkt.com/david-trezeguet/profil/spieler/4146","Centre-Forward",29,"France",40,39,20,3272,2007
+"Juventus FC","Serie A","Italy","Raffaele Palladino","https://www.transfermarkt.com/raffaele-palladino/profil/spieler/28855","Left Winger",23,"Italy",42,31,2,1468,2007
+"Juventus FC","Serie A","Italy","Simone Esposito","https://www.transfermarkt.com/simone-esposito/profil/spieler/62367","Right Winger",17,"Italy",5,0,0,0,2007
+"Juventus FC","Serie A","Italy","Ayub Daud","https://www.transfermarkt.com/ayub-daud/profil/spieler/75405","Second Striker",17,"Somalia",0,0,0,0,2007
+"Juventus FC","Serie A","Italy","Donato Bottone","https://www.transfermarkt.com/donato-bottone/profil/spieler/62355","Centre-Forward",19,"Italy",0,0,0,0,2007
+"Juventus FC","Serie A","Italy","Oussama Essabr","https://www.transfermarkt.com/oussama-essabr/profil/spieler/50198","Centre-Forward",18,"Morocco",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Andrea Seculin","https://www.transfermarkt.com/andrea-seculin/profil/spieler/85380","Goalkeeper",16,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Sébastien Frey","https://www.transfermarkt.com/sebastien-frey/profil/spieler/5854","Goalkeeper",27,"France",49,49,0,4464,2007
+"ACF Fiorentina","Serie A","Italy","Cristiano Lupatelli","https://www.transfermarkt.com/cristiano-lupatelli/profil/spieler/5908","Goalkeeper",29,"Italy",29,6,0,540,2007
+"ACF Fiorentina","Serie A","Italy","Vlada Avramov","https://www.transfermarkt.com/vlada-avramov/profil/spieler/22185","Goalkeeper",28,"Serbia",33,2,0,126,2007
+"ACF Fiorentina","Serie A","Italy","Edoardo Pazzagli","https://www.transfermarkt.com/edoardo-pazzagli/profil/spieler/54055","Goalkeeper",18,"Italy",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Paolo Pincio","https://www.transfermarkt.com/paolo-pincio/profil/spieler/471301","Goalkeeper",15,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Danilo D'Ambrosio","https://www.transfermarkt.com/danilo-dambrosio/profil/spieler/55769","Centre-Back",18,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Manuel da Costa","https://www.transfermarkt.com/manuel-da-costa/profil/spieler/37398","Centre-Back",21,"Morocco",12,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Samuele Bettoni","https://www.transfermarkt.com/samuele-bettoni/profil/spieler/57634","Centre-Back",17,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Massimiliano Tagliani","https://www.transfermarkt.com/massimiliano-tagliani/profil/spieler/54051","Centre-Back",18,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Per Kröldrup","https://www.transfermarkt.com/per-kroldrup/profil/spieler/12112","Centre-Back",27,"Denmark",47,29,1,2640,2007
+"ACF Fiorentina","Serie A","Italy","Dario Dainelli","https://www.transfermarkt.com/dario-dainelli/profil/spieler/5970","Centre-Back",28,"Italy",46,29,0,2459,2007
+"ACF Fiorentina","Serie A","Italy","Alessandro Gamberini","https://www.transfermarkt.com/alessandro-gamberini/profil/spieler/16868","Centre-Back",25,"Italy",45,41,1,3587,2007
+"ACF Fiorentina","Serie A","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",23,"Italy",31,17,0,1238,2007
+"ACF Fiorentina","Serie A","Italy","Anthony Vanden Borre","https://www.transfermarkt.com/anthony-vanden-borre/profil/spieler/15844","Right-Back",19,"Belgium",8,5,0,216,2007
+"ACF Fiorentina","Serie A","Italy","Ondrej Mazuch","https://www.transfermarkt.com/ondrej-mazuch/profil/spieler/23443","Centre-Back",18,"Czech Republic",4,2,0,165,2007
+"ACF Fiorentina","Serie A","Italy","Federico Balzaretti","https://www.transfermarkt.com/federico-balzaretti/profil/spieler/21876","Left-Back",25,"Italy",18,11,0,837,2007
+"ACF Fiorentina","Serie A","Italy","Massimo Gobbi","https://www.transfermarkt.com/massimo-gobbi/profil/spieler/28020","Left-Back",26,"Italy",45,36,1,2291,2007
+"ACF Fiorentina","Serie A","Italy","Tomas Ujfalusi","https://www.transfermarkt.com/tomas-ujfalusi/profil/spieler/325","Centre-Back",29,"Czech Republic",44,43,0,3798,2007
+"ACF Fiorentina","Serie A","Italy","Manuel Pasqual","https://www.transfermarkt.com/manuel-pasqual/profil/spieler/23284","Left-Back",25,"Italy",52,40,0,3092,2007
+"ACF Fiorentina","Serie A","Italy","Alex Costa","https://www.transfermarkt.com/alex-costa/profil/spieler/57662","Right-Back",18,"Brazil",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Dario Fedi","https://www.transfermarkt.com/dario-fedi/profil/spieler/57642","Centre-Back",18,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Luca Petri","https://www.transfermarkt.com/luca-petri/profil/spieler/57656","Centre-Back",18,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Andrea Paolucci","https://www.transfermarkt.com/andrea-paolucci/profil/spieler/44540","Defensive Midfield",20,"Italy",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Marco Romizi","https://www.transfermarkt.com/marco-romizi/profil/spieler/57659","Central Midfield",17,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Marco Donadel","https://www.transfermarkt.com/marco-donadel/profil/spieler/6427","Defensive Midfield",24,"Italy",47,44,3,3251,2007
+"ACF Fiorentina","Serie A","Italy","Michele Pazienza","https://www.transfermarkt.com/michele-pazienza/profil/spieler/17130","Defensive Midfield",24,"Italy",23,16,0,876,2007
+"ACF Fiorentina","Serie A","Italy","Fabio Liverani","https://www.transfermarkt.com/fabio-liverani/profil/spieler/5846","Defensive Midfield",31,"Italy",43,39,1,2803,2007
+"ACF Fiorentina","Serie A","Italy","Jan Hable","https://www.transfermarkt.com/jan-hable/profil/spieler/50470","Central Midfield",18,"Czech Republic",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Riccardo Montolivo","https://www.transfermarkt.com/riccardo-montolivo/profil/spieler/19446","Defensive Midfield",22,"Italy",47,47,3,3742,2007
+"ACF Fiorentina","Serie A","Italy","Martin Jörgensen","https://www.transfermarkt.com/martin-jorgensen/profil/spieler/5892","Central Midfield",31,"Denmark",43,40,2,2577,2007
+"ACF Fiorentina","Serie A","Italy","Zdravko Kuzmanovic","https://www.transfermarkt.com/zdravko-kuzmanovic/profil/spieler/25441","Central Midfield",19,"Serbia",53,49,2,3054,2007
+"ACF Fiorentina","Serie A","Italy","Pape Diakhaté","https://www.transfermarkt.com/pape-diakhate/profil/spieler/57655","Defensive Midfield",18,"Senegal",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Samuel Di Carmine","https://www.transfermarkt.com/samuel-di-carmine/profil/spieler/45389","Centre-Forward",18,"Italy",3,1,1,8,2007
+"ACF Fiorentina","Serie A","Italy","Manuel Nocciolini","https://www.transfermarkt.com/manuel-nocciolini/profil/spieler/57653","Centre-Forward",18,"Italy",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Franco Semioli","https://www.transfermarkt.com/franco-semioli/profil/spieler/6154","Right Winger",27,"Italy",40,32,4,2045,2007
+"ACF Fiorentina","Serie A","Italy","Daniel Osvaldo","https://www.transfermarkt.com/daniel-osvaldo/profil/spieler/37389","Centre-Forward",21,"Italy",43,25,6,1296,2007
+"ACF Fiorentina","Serie A","Italy","Adrian Mutu","https://www.transfermarkt.com/adrian-mutu/profil/spieler/5879","Centre-Forward",28,"Romania",41,40,23,3403,2007
+"ACF Fiorentina","Serie A","Italy","Arturo Lupoli","https://www.transfermarkt.com/arturo-lupoli/profil/spieler/22227","Centre-Forward",20,"Italy",2,1,0,44,2007
+"ACF Fiorentina","Serie A","Italy","N'Diaye Papa Waigo","https://www.transfermarkt.com/ndiaye-papa-waigo/profil/spieler/21871","Right Winger",23,"Senegal",13,7,2,317,2007
+"ACF Fiorentina","Serie A","Italy","Mario Santana","https://www.transfermarkt.com/mario-santana/profil/spieler/6721","Second Striker",25,"Argentina",34,34,6,2398,2007
+"ACF Fiorentina","Serie A","Italy","Giampaolo Pazzini","https://www.transfermarkt.com/giampaolo-pazzini/profil/spieler/19447","Centre-Forward",22,"Italy",53,47,13,3254,2007
+"ACF Fiorentina","Serie A","Italy","Christian Vieri","https://www.transfermarkt.com/christian-vieri/profil/spieler/5797","Centre-Forward",33,"Italy",41,39,9,1759,2007
+"ACF Fiorentina","Serie A","Italy","Matthias Lepiller","https://www.transfermarkt.com/matthias-lepiller/profil/spieler/44876","Second Striker",19,"France",0,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Lorenzo Morelli","https://www.transfermarkt.com/lorenzo-morelli/profil/spieler/57652","Centre-Forward",19,"Italy",1,0,0,0,2007
+"ACF Fiorentina","Serie A","Italy","Daniele Cacia","https://www.transfermarkt.com/daniele-cacia/profil/spieler/21780","Centre-Forward",23,"Italy",14,6,1,135,2007
+"Udinese Calcio","Serie A","Italy","Samir Handanovic","https://www.transfermarkt.com/samir-handanovic/profil/spieler/28021","Goalkeeper",22,"Slovenia",39,36,0,3240,2007
+"Udinese Calcio","Serie A","Italy","Saulo","https://www.transfermarkt.com/saulo/profil/spieler/72378","Goalkeeper",21,"Brazil",11,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Andrea Paroni","https://www.transfermarkt.com/andrea-paroni/profil/spieler/57272","Goalkeeper",17,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Antonio Chimenti","https://www.transfermarkt.com/antonio-chimenti/profil/spieler/5745","Goalkeeper",37,"Italy",36,7,0,630,2007
+"Udinese Calcio","Serie A","Italy","Ilario Lamberti","https://www.transfermarkt.com/ilario-lamberti/profil/spieler/114651","Goalkeeper",19,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Mauricio Isla","https://www.transfermarkt.com/mauricio-isla/profil/spieler/43722","Right-Back",19,"Chile",23,13,0,618,2007
+"Udinese Calcio","Serie A","Italy","Cristián Zapata","https://www.transfermarkt.com/cristian-zapata/profil/spieler/34344","Centre-Back",20,"Colombia",28,27,1,2288,2007
+"Udinese Calcio","Serie A","Italy","Antonio Marino","https://www.transfermarkt.com/antonio-marino/profil/spieler/102537","Centre-Back",18,"Italy",2,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Marco Motta","https://www.transfermarkt.com/marco-motta/profil/spieler/30333","Right-Back",21,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Andrea Coda","https://www.transfermarkt.com/andrea-coda/profil/spieler/28833","Centre-Back",22,"Italy",41,24,0,1919,2007
+"Udinese Calcio","Serie A","Italy","Felipe","https://www.transfermarkt.com/felipe/profil/spieler/17127","Centre-Back",22,"Brazil",28,25,2,2078,2007
+"Udinese Calcio","Serie A","Italy","Emanuele Politti","https://www.transfermarkt.com/emanuele-politti/profil/spieler/44665","Centre-Back",19,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Salvatore Masiello","https://www.transfermarkt.com/salvatore-masiello/profil/spieler/21769","Left-Back",25,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Giandomenico Mesto","https://www.transfermarkt.com/giandomenico-mesto/profil/spieler/16744","Right-Back",25,"Italy",30,29,2,2372,2007
+"Udinese Calcio","Serie A","Italy","Tomas Zapotocny","https://www.transfermarkt.com/tomas-zapotocny/profil/spieler/21262","Centre-Back",26,"Czech Republic",32,23,0,1725,2007
+"Udinese Calcio","Serie A","Italy","Aleksandar Lukovic","https://www.transfermarkt.com/aleksandar-lukovic/profil/spieler/19712","Centre-Back",24,"Serbia",40,36,0,2877,2007
+"Udinese Calcio","Serie A","Italy","Igor Djuric","https://www.transfermarkt.com/igor-djuric/profil/spieler/33756","Centre-Back",18,"Switzerland",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Damiano Ferronetti","https://www.transfermarkt.com/damiano-ferronetti/profil/spieler/5948","Centre-Back",22,"Italy",28,21,2,1440,2007
+"Udinese Calcio","Serie A","Italy","Tomas Sivok","https://www.transfermarkt.com/tomas-sivok/profil/spieler/26936","Centre-Back",23,"Czech Republic",8,3,0,128,2007
+"Udinese Calcio","Serie A","Italy","Mohamadou Sissoko","https://www.transfermarkt.com/mohamadou-sissoko/profil/spieler/16230","Centre-Back",18,"France",1,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Guilherme Siqueira","https://www.transfermarkt.com/guilherme-siqueira/profil/spieler/44373","Left-Back",21,"Brazil",14,9,0,637,2007
+"Udinese Calcio","Serie A","Italy","Moreno","https://www.transfermarkt.com/moreno/profil/spieler/55466","Left-Back",24,"Brazil",7,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Antonio Candreva","https://www.transfermarkt.com/antonio-candreva/profil/spieler/25488","Right Midfield",20,"Italy",18,8,0,320,2007
+"Udinese Calcio","Serie A","Italy","Gökhan Inler","https://www.transfermarkt.com/gokhan-inler/profil/spieler/19041","Defensive Midfield",23,"Switzerland",40,40,2,3585,2007
+"Udinese Calcio","Serie A","Italy","Roman Eremenko","https://www.transfermarkt.com/roman-eremenko/profil/spieler/44367","Attacking Midfield",20,"Finland",33,11,0,549,2007
+"Udinese Calcio","Serie A","Italy","Gaetano D'Agostino","https://www.transfermarkt.com/gaetano-dagostino/profil/spieler/6157","Central Midfield",25,"Italy",37,36,0,2869,2007
+"Udinese Calcio","Serie A","Italy","Christian Obodo","https://www.transfermarkt.com/christian-obodo/profil/spieler/6087","Central Midfield",23,"Nigeria",5,4,0,254,2007
+"Udinese Calcio","Serie A","Italy","Andrea Dossena","https://www.transfermarkt.com/andrea-dossena/profil/spieler/21863","Left Midfield",25,"Italy",37,36,2,3065,2007
+"Udinese Calcio","Serie A","Italy","Giampiero Pinzi","https://www.transfermarkt.com/giampiero-pinzi/profil/spieler/5893","Central Midfield",26,"Italy",19,13,0,241,2007
+"Udinese Calcio","Serie A","Italy","Riccardo Colombo","https://www.transfermarkt.com/riccardo-colombo/profil/spieler/22237","Right Midfield",24,"Italy",13,4,0,41,2007
+"Udinese Calcio","Serie A","Italy","Viktor Budyanskiy","https://www.transfermarkt.com/viktor-budyanskiy/profil/spieler/34194","Central Midfield",23,"Russia",11,3,0,226,2007
+"Udinese Calcio","Serie A","Italy","Raffaele De Martino","https://www.transfermarkt.com/raffaele-de-martino/profil/spieler/17222","Defensive Midfield",21,"Italy",2,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Claudio Vargas","https://www.transfermarkt.com/claudio-vargas/profil/spieler/44670","Defensive Midfield",21,"Paraguay",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Kelvin Matute","https://www.transfermarkt.com/kelvin-matute/profil/spieler/48949","Defensive Midfield",18,"Cameroon",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Andrea Migliorini","https://www.transfermarkt.com/andrea-migliorini/profil/spieler/28075","Defensive Midfield",19,"Italy",1,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Zsolt Tamási","https://www.transfermarkt.com/zsolt-tamasi/profil/spieler/110754","Central Midfield",17,"Hungary",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Jani Virtanen","https://www.transfermarkt.com/jani-virtanen/profil/spieler/44377","Attacking Midfield",19,"Finland",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Fabio Quagliarella","https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328","Centre-Forward",24,"Italy",40,39,12,3135,2007
+"Udinese Calcio","Serie A","Italy","Schumacher","https://www.transfermarkt.com/schumacher/profil/spieler/44662","Centre-Forward",20,"Brazil",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Federico Gerardi","https://www.transfermarkt.com/federico-gerardi/profil/spieler/44368","Centre-Forward",19,"Italy",1,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Asamoah Gyan","https://www.transfermarkt.com/asamoah-gyan/profil/spieler/26802","Centre-Forward",21,"Ghana",13,13,3,733,2007
+"Udinese Calcio","Serie A","Italy","Simone Pepe","https://www.transfermarkt.com/simone-pepe/profil/spieler/17249","Right Winger",23,"Italy",40,38,5,2332,2007
+"Udinese Calcio","Serie A","Italy","Michele Paolucci","https://www.transfermarkt.com/michele-paolucci/profil/spieler/41311","Centre-Forward",21,"Italy",13,6,2,326,2007
+"Udinese Calcio","Serie A","Italy","Antonio Di Natale","https://www.transfermarkt.com/antonio-di-natale/profil/spieler/6031","Centre-Forward",29,"Italy",38,37,18,3130,2007
+"Udinese Calcio","Serie A","Italy","Christian Tiboni","https://www.transfermarkt.com/christian-tiboni/profil/spieler/44376","Centre-Forward",19,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Federico Laurito","https://www.transfermarkt.com/federico-laurito/profil/spieler/44371","Centre-Forward",17,"Argentina",2,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Felipe Sodinha","https://www.transfermarkt.com/felipe-sodinha/profil/spieler/84770","Second Striker",18,"Brazil",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Alessandro Osso Armellino","https://www.transfermarkt.com/alessandro-osso-armellino/profil/spieler/38748","Attack",20,"Italy",0,0,0,0,2007
+"Udinese Calcio","Serie A","Italy","Antonio Floro Flores","https://www.transfermarkt.com/antonio-floro-flores/profil/spieler/16893","Centre-Forward",24,"Italy",43,42,4,1584,2007
+"SS Lazio","Serie A","Italy","Fernando Muslera","https://www.transfermarkt.com/fernando-muslera/profil/spieler/58088","Goalkeeper",21,"Uruguay",49,13,0,1170,2007
+"SS Lazio","Serie A","Italy","Tommaso Berni","https://www.transfermarkt.com/tommaso-berni/profil/spieler/21752","Goalkeeper",24,"Italy",5,0,0,0,2007
+"SS Lazio","Serie A","Italy","Marco Ballotta","https://www.transfermarkt.com/marco-ballotta/profil/spieler/6034","Goalkeeper",43,"Italy",50,39,0,3510,2007
+"SS Lazio","Serie A","Italy","Davide Faraoni","https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926","Right-Back",15,"Italy",2,0,0,0,2007
+"SS Lazio","Serie A","Italy","Alessandro Tuia","https://www.transfermarkt.com/alessandro-tuia/profil/spieler/73943","Centre-Back",17,"Italy",0,0,0,0,2007
+"SS Lazio","Serie A","Italy","Lorenzo De Silvestri","https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571","Right-Back",19,"Italy",42,34,1,2310,2007
+"SS Lazio","Serie A","Italy","Modibo Diakité","https://www.transfermarkt.com/modibo-diakite/profil/spieler/41749","Centre-Back",20,"France",1,1,0,41,2007
+"SS Lazio","Serie A","Italy","Stefan Radu","https://www.transfermarkt.com/stefan-radu/profil/spieler/44420","Left-Back",20,"Romania",15,13,0,1130,2007
+"SS Lazio","Serie A","Italy","Guglielmo Stendardo","https://www.transfermarkt.com/guglielmo-stendardo/profil/spieler/22093","Centre-Back",26,"Italy",26,23,0,1851,2007
+"SS Lazio","Serie A","Italy","Aleksandar Kolarov","https://www.transfermarkt.com/aleksandar-kolarov/profil/spieler/46156","Left-Back",21,"Serbia",43,32,3,2040,2007
+"SS Lazio","Serie A","Italy","Lionel Scaloni","https://www.transfermarkt.com/lionel-scaloni/profil/spieler/7499","Right-Back",29,"Argentina",29,18,0,963,2007
+"SS Lazio","Serie A","Italy","David Rozehnal","https://www.transfermarkt.com/david-rozehnal/profil/spieler/9659","Centre-Back",26,"Czech Republic",19,10,0,650,2007
+"SS Lazio","Serie A","Italy","Manuel Belleri","https://www.transfermarkt.com/manuel-belleri/profil/spieler/6018","Right-Back",29,"Italy",1,0,0,0,2007
+"SS Lazio","Serie A","Italy","Luciano Zauri","https://www.transfermarkt.com/luciano-zauri/profil/spieler/6832","Right-Back",29,"Italy",29,27,1,2190,2007
+"SS Lazio","Serie A","Italy","Sebastiano Siviglia","https://www.transfermarkt.com/sebastiano-siviglia/profil/spieler/5864","Centre-Back",34,"Italy",27,27,1,2292,2007
+"SS Lazio","Serie A","Italy","Ivan Artipoli","https://www.transfermarkt.com/ivan-artipoli/profil/spieler/21682","Centre-Back",21,"Italy",8,2,0,78,2007
+"SS Lazio","Serie A","Italy","Cribari","https://www.transfermarkt.com/cribari/profil/spieler/6017","Centre-Back",27,"Brazil",45,42,0,3600,2007
+"SS Lazio","Serie A","Italy","Simone Sannibale","https://www.transfermarkt.com/simone-sannibale/profil/spieler/22623","Centre-Back",21,"Italy",0,0,0,0,2007
+"SS Lazio","Serie A","Italy","Antonio Cinelli","https://www.transfermarkt.com/antonio-cinelli/profil/spieler/73920","Central Midfield",17,"Italy",1,0,0,0,2007
+"SS Lazio","Serie A","Italy","Andrea Russotto","https://www.transfermarkt.com/andrea-russotto/profil/spieler/20590","Attacking Midfield",19,"Italy",0,0,0,0,2007
+"SS Lazio","Serie A","Italy","Fabio Firmani","https://www.transfermarkt.com/fabio-firmani/profil/spieler/22083","Central Midfield",29,"Italy",14,8,3,505,2007
+"SS Lazio","Serie A","Italy","Massimo Mutarelli","https://www.transfermarkt.com/massimo-mutarelli/profil/spieler/20982","Central Midfield",29,"Italy",37,37,3,2724,2007
+"SS Lazio","Serie A","Italy","Ousmane Dabo","https://www.transfermarkt.com/ousmane-dabo/profil/spieler/3904","Defensive Midfield",30,"France",17,15,0,890,2007
+"SS Lazio","Serie A","Italy","Roberto Baronio","https://www.transfermarkt.com/roberto-baronio/profil/spieler/6089","Defensive Midfield",29,"Italy",26,10,1,637,2007
+"SS Lazio","Serie A","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/6043","Attacking Midfield",27,"Italy",38,33,3,2196,2007
+"SS Lazio","Serie A","Italy","Mourad Meghni","https://www.transfermarkt.com/mourad-meghni/profil/spieler/6003","Attacking Midfield",23,"Algeria",30,24,0,998,2007
+"SS Lazio","Serie A","Italy","Cristian Ledesma","https://www.transfermarkt.com/cristian-ledesma/profil/spieler/6438","Defensive Midfield",24,"Italy",44,43,3,3751,2007
+"SS Lazio","Serie A","Italy","Gaby Mudingayi","https://www.transfermarkt.com/gaby-mudingayi/profil/spieler/13749","Defensive Midfield",25,"Belgium",40,35,0,2676,2007
+"SS Lazio","Serie A","Italy","Alessandro Corvesi","https://www.transfermarkt.com/alessandro-corvesi/profil/spieler/73921","Central Midfield",18,"Italy",1,0,0,0,2007
+"SS Lazio","Serie A","Italy","Valon Behrami","https://www.transfermarkt.com/valon-behrami/profil/spieler/21905","Defensive Midfield",22,"Switzerland",32,32,2,2619,2007
+"SS Lazio","Serie A","Italy","Rolando Bianchi","https://www.transfermarkt.com/rolando-bianchi/profil/spieler/20726","Centre-Forward",24,"Italy",19,17,4,961,2007
+"SS Lazio","Serie A","Italy","Igli Tare","https://www.transfermarkt.com/igli-tare/profil/spieler/101","Centre-Forward",33,"Albania",38,25,2,703,2007
+"SS Lazio","Serie A","Italy","Tommaso Rocchi","https://www.transfermarkt.com/tommaso-rocchi/profil/spieler/6026","Centre-Forward",29,"Italy",48,48,19,3669,2007
+"SS Lazio","Serie A","Italy","Goran Pandev","https://www.transfermarkt.com/goran-pandev/profil/spieler/12563","Second Striker",23,"North Macedonia",46,45,19,3580,2007
+"SS Lazio","Serie A","Italy","Stephen Makinwa","https://www.transfermarkt.com/stephen-makinwa/profil/spieler/17146","Centre-Forward",23,"Nigeria",25,19,0,747,2007
+"SS Lazio","Serie A","Italy","Fabio Vignaroli","https://www.transfermarkt.com/fabio-vignaroli/profil/spieler/17153","Centre-Forward",31,"Italy",23,11,0,557,2007
+"SS Lazio","Serie A","Italy","Simone Inzaghi","https://www.transfermarkt.com/simone-inzaghi/profil/spieler/5849","Centre-Forward",31,"Italy",0,0,0,0,2007
+"SS Lazio","Serie A","Italy","Christian Manfredini","https://www.transfermarkt.com/christian-manfredini/profil/spieler/5850","Left Winger",32,"Cote d'Ivoire",45,32,1,1808,2007
+"SS Lazio","Serie A","Italy","Simone Del Nero","https://www.transfermarkt.com/simone-del-nero/profil/spieler/5982","Left Winger",25,"Italy",19,11,0,365,2007
+"SS Lazio","Serie A","Italy","Fabio Casini","https://www.transfermarkt.com/fabio-casini/profil/spieler/73918","Attack",18,"Italy",1,0,0,0,2007
+"Palermo FC","Serie B","Italy","Samir Ujkani","https://www.transfermarkt.com/samir-ujkani/profil/spieler/42744","Goalkeeper",18,"Kosovo",6,0,0,0,2007
+"Palermo FC","Serie B","Italy","Federico Agliardi","https://www.transfermarkt.com/federico-agliardi/profil/spieler/16888","Goalkeeper",24,"Italy",42,14,0,1243,2007
+"Palermo FC","Serie B","Italy","Alberto Fontana","https://www.transfermarkt.com/alberto-fontana/profil/spieler/5770","Goalkeeper",40,"Italy",36,30,0,2567,2007
+"Palermo FC","Serie B","Italy","Giuseppe Ingrassia","https://www.transfermarkt.com/giuseppe-ingrassia/profil/spieler/61749","Goalkeeper",18,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Antonio Mazzotta","https://www.transfermarkt.com/antonio-mazzotta/profil/spieler/61751","Left-Back",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Samuele Romeo","https://www.transfermarkt.com/samuele-romeo/profil/spieler/61759","Centre-Back",18,"Italy",2,0,0,0,2007
+"Palermo FC","Serie B","Italy","Paolo Dellafiore","https://www.transfermarkt.com/paolo-dellafiore/profil/spieler/28935","Centre-Back",22,"Italy",1,0,0,0,2007
+"Palermo FC","Serie B","Italy","Cristian Zaccardo","https://www.transfermarkt.com/cristian-zaccardo/profil/spieler/5993","Centre-Back",25,"Italy",39,38,1,3124,2007
+"Palermo FC","Serie B","Italy","Ciro Capuano","https://www.transfermarkt.com/ciro-capuano/profil/spieler/38584","Centre-Back",25,"Italy",19,14,0,1061,2007
+"Palermo FC","Serie B","Italy","Mattia Cassani","https://www.transfermarkt.com/mattia-cassani/profil/spieler/21859","Right-Back",23,"Italy",37,30,1,2016,2007
+"Palermo FC","Serie B","Italy","Giuseppe Biava","https://www.transfermarkt.com/giuseppe-biava/profil/spieler/20913","Centre-Back",30,"Italy",33,24,0,2044,2007
+"Palermo FC","Serie B","Italy","Luca Di Matteo","https://www.transfermarkt.com/luca-di-matteo/profil/spieler/68862","Left-Back",19,"Italy",9,2,0,63,2007
+"Palermo FC","Serie B","Italy","Marco Pisano","https://www.transfermarkt.com/marco-pisano/profil/spieler/16901","Left-Back",25,"Italy",8,7,0,427,2007
+"Palermo FC","Serie B","Italy","Federico Balzaretti","https://www.transfermarkt.com/federico-balzaretti/profil/spieler/21876","Left-Back",25,"Italy",16,16,0,1423,2007
+"Palermo FC","Serie B","Italy","Andrea Barzagli","https://www.transfermarkt.com/andrea-barzagli/profil/spieler/7109","Centre-Back",26,"Italy",40,36,0,3190,2007
+"Palermo FC","Serie B","Italy","Adriano Siragusa","https://www.transfermarkt.com/adriano-siragusa/profil/spieler/61765","Centre-Back",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Alberto Cossentino","https://www.transfermarkt.com/alberto-cossentino/profil/spieler/48943","Centre-Back",18,"Italy",12,1,0,79,2007
+"Palermo FC","Serie B","Italy","Francesco Inglese","https://www.transfermarkt.com/francesco-inglese/profil/spieler/61748","Defender",19,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Leandro Rinaudo","https://www.transfermarkt.com/leandro-rinaudo/profil/spieler/21988","Centre-Back",24,"Italy",39,26,2,2121,2007
+"Palermo FC","Serie B","Italy","Rosario Costantino","https://www.transfermarkt.com/rosario-costantino/profil/spieler/426521","Defender",19,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Gaspare Parisi","https://www.transfermarkt.com/gaspare-parisi/profil/spieler/517194","Defender",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Gianvito Misuraca","https://www.transfermarkt.com/gianvito-misuraca/profil/spieler/61753","Central Midfield",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Giovanni Tedesco","https://www.transfermarkt.com/giovanni-tedesco/profil/spieler/6092","Central Midfield",35,"Italy",41,21,2,1103,2007
+"Palermo FC","Serie B","Italy","Giulio Migliaccio","https://www.transfermarkt.com/giulio-migliaccio/profil/spieler/21756","Central Midfield",26,"Italy",36,34,0,2599,2007
+"Palermo FC","Serie B","Italy","Roberto Guana","https://www.transfermarkt.com/roberto-guana/profil/spieler/5976","Central Midfield",26,"Italy",37,33,0,2269,2007
+"Palermo FC","Serie B","Italy","Franco Brienza","https://www.transfermarkt.com/franco-brienza/profil/spieler/16137","Attacking Midfield",28,"Italy",15,9,1,392,2007
+"Palermo FC","Serie B","Italy","Fabio Caserta","https://www.transfermarkt.com/fabio-caserta/profil/spieler/28832","Central Midfield",28,"Italy",36,30,1,1955,2007
+"Palermo FC","Serie B","Italy","Mark Bresciano","https://www.transfermarkt.com/mark-bresciano/profil/spieler/5867","Central Midfield",27,"Australia",35,30,1,1560,2007
+"Palermo FC","Serie B","Italy","Fábio Simplício","https://www.transfermarkt.com/fabio-simplicio/profil/spieler/24716","Central Midfield",27,"Brazil",38,35,5,2650,2007
+"Palermo FC","Serie B","Italy","Aimo Diana","https://www.transfermarkt.com/aimo-diana/profil/spieler/6749","Right Midfield",29,"Italy",19,18,1,1304,2007
+"Palermo FC","Serie B","Italy","Antonio Tranchina","https://www.transfermarkt.com/antonio-tranchina/profil/spieler/61771","Central Midfield",18,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Daniele Conti","https://www.transfermarkt.com/daniele-conti/profil/spieler/61773","Left Midfield",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Mirko Velardi","https://www.transfermarkt.com/mirko-velardi/profil/spieler/54920","Central Midfield",19,"Italy",3,0,0,0,2007
+"Palermo FC","Serie B","Italy","Edinson Cavani","https://www.transfermarkt.com/edinson-cavani/profil/spieler/48280","Centre-Forward",20,"Uruguay",38,37,5,2135,2007
+"Palermo FC","Serie B","Italy","Paolo Carbonaro","https://www.transfermarkt.com/paolo-carbonaro/profil/spieler/54900","Second Striker",18,"Italy",3,1,0,11,2007
+"Palermo FC","Serie B","Italy","Edgar Cani","https://www.transfermarkt.com/edgar-cani/profil/spieler/61863","Centre-Forward",17,"Albania",8,1,0,17,2007
+"Palermo FC","Serie B","Italy","Davide Matteini","https://www.transfermarkt.com/davide-matteini/profil/spieler/29593","Left Winger",25,"Italy",1,0,0,0,2007
+"Palermo FC","Serie B","Italy","Fabrizio Miccoli","https://www.transfermarkt.com/fabrizio-miccoli/profil/spieler/6097","Centre-Forward",28,"Italy",31,22,8,1591,2007
+"Palermo FC","Serie B","Italy","Amauri","https://www.transfermarkt.com/amauri/profil/spieler/6234","Centre-Forward",27,"Italy",38,38,15,3168,2007
+"Palermo FC","Serie B","Italy","Boško Janković","https://www.transfermarkt.com/bo-scaron-ko-jankovi%C4%87/profil/spieler/19708","Right Winger",23,"Serbia",37,30,3,1568,2007
+"Palermo FC","Serie B","Italy","Carlo Failla","https://www.transfermarkt.com/carlo-failla/profil/spieler/61774","Centre-Forward",17,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Gianluca Palmiteri","https://www.transfermarkt.com/gianluca-palmiteri/profil/spieler/37390","Attack",19,"Italy",0,0,0,0,2007
+"Palermo FC","Serie B","Italy","Giuseppe Polito","https://www.transfermarkt.com/giuseppe-polito/profil/spieler/61755","Second Striker",18,"Italy",0,0,0,0,2007
+"SSC Napoli","Serie A","Italy","Gennaro Iezzo","https://www.transfermarkt.com/gennaro-iezzo/profil/spieler/20738","Goalkeeper",34,"Italy",27,20,0,1800,2007
+"SSC Napoli","Serie A","Italy","Biagio Del Giudice","https://www.transfermarkt.com/biagio-del-giudice/profil/spieler/59635","Goalkeeper",18,"Italy",5,0,0,0,2007
+"SSC Napoli","Serie A","Italy","Matteo Gianello","https://www.transfermarkt.com/matteo-gianello/profil/spieler/21686","Goalkeeper",31,"Italy",37,20,0,1860,2007
+"SSC Napoli","Serie A","Italy","Nicolás Navarro","https://www.transfermarkt.com/nicolas-navarro/profil/spieler/26727","Goalkeeper",22,"Argentina",17,3,0,270,2007
+"SSC Napoli","Serie A","Italy","Gianluca Grava","https://www.transfermarkt.com/gianluca-grava/profil/spieler/8207","Right-Back",30,"Italy",38,23,0,1575,2007
+"SSC Napoli","Serie A","Italy","Erminio Rullo","https://www.transfermarkt.com/erminio-rullo/profil/spieler/6444","Left-Back",23,"Italy",17,8,0,446,2007
+"SSC Napoli","Serie A","Italy","Rubén Maldonado","https://www.transfermarkt.com/ruben-maldonado/profil/spieler/6152","Centre-Back",28,"Paraguay",11,4,0,351,2007
+"SSC Napoli","Serie A","Italy","Fabiano Santacroce","https://www.transfermarkt.com/fabiano-santacroce/profil/spieler/56817","Centre-Back",20,"Italy",13,13,0,1012,2007
+"SSC Napoli","Serie A","Italy","György Garics","https://www.transfermarkt.com/gyorgy-garics/profil/spieler/2926","Right-Back",23,"Austria",31,28,1,1814,2007
+"SSC Napoli","Serie A","Italy","Andrea Cupi","https://www.transfermarkt.com/andrea-cupi/profil/spieler/6016","Centre-Back",31,"Italy",23,17,0,1263,2007
+"SSC Napoli","Serie A","Italy","Mirko Savini","https://www.transfermarkt.com/mirko-savini/profil/spieler/21155","Left-Back",28,"Italy",32,31,0,2527,2007
+"SSC Napoli","Serie A","Italy","Maurizio Domizzi","https://www.transfermarkt.com/maurizio-domizzi/profil/spieler/6750","Centre-Back",27,"Italy",33,33,11,2948,2007
+"SSC Napoli","Serie A","Italy","Mario D'Urso","https://www.transfermarkt.com/mario-durso/profil/spieler/133961","Defender",17,"Italy",1,0,0,0,2007
+"SSC Napoli","Serie A","Italy","Paolo Cannavaro","https://www.transfermarkt.com/paolo-cannavaro/profil/spieler/5858","Centre-Back",26,"Italy",39,39,0,3516,2007
+"SSC Napoli","Serie A","Italy","Matteo Contini","https://www.transfermarkt.com/matteo-contini/profil/spieler/25318","Centre-Back",27,"Italy",38,31,1,2224,2007
+"SSC Napoli","Serie A","Italy","Walter Gargano","https://www.transfermarkt.com/walter-gargano/profil/spieler/52266","Defensive Midfield",22,"Uruguay",39,37,2,3299,2007
+"SSC Napoli","Serie A","Italy","Francesco Montervino","https://www.transfermarkt.com/francesco-montervino/profil/spieler/30647","Central Midfield",29,"Italy",42,13,0,421,2007
+"SSC Napoli","Serie A","Italy","Michele Pazienza","https://www.transfermarkt.com/michele-pazienza/profil/spieler/17130","Defensive Midfield",24,"Italy",14,13,0,802,2007
+"SSC Napoli","Serie A","Italy","Fabio Gatti","https://www.transfermarkt.com/fabio-gatti/profil/spieler/22804","Defensive Midfield",25,"Italy",2,1,0,46,2007
+"SSC Napoli","Serie A","Italy","Manuele Blasi","https://www.transfermarkt.com/manuele-blasi/profil/spieler/6090","Central Midfield",26,"Italy",30,30,0,2582,2007
+"SSC Napoli","Serie A","Italy","Marek Hamsik","https://www.transfermarkt.com/marek-hamsik/profil/spieler/38593","Central Midfield",19,"Slovakia",41,40,10,3057,2007
+"SSC Napoli","Serie A","Italy","Mariano Bogliacino","https://www.transfermarkt.com/mariano-bogliacino/profil/spieler/44394","Attacking Midfield",27,"Uruguay",42,38,3,1829,2007
+"SSC Napoli","Serie A","Italy","Roberto De Zerbi","https://www.transfermarkt.com/roberto-de-zerbi/profil/spieler/23194","Attacking Midfield",28,"Italy",14,6,1,255,2007
+"SSC Napoli","Serie A","Italy","Samuele Dalla Bona","https://www.transfermarkt.com/samuele-dalla-bona/profil/spieler/4291","Central Midfield",26,"Italy",20,5,1,218,2007
+"SSC Napoli","Serie A","Italy","Marco Capparella","https://www.transfermarkt.com/marco-capparella/profil/spieler/28819","Right Midfield",32,"Italy",7,2,0,28,2007
+"SSC Napoli","Serie A","Italy","Daniele Mannini","https://www.transfermarkt.com/daniele-mannini/profil/spieler/21690","Right Midfield",23,"Italy",15,15,1,1214,2007
+"SSC Napoli","Serie A","Italy","Ezequiel Lavezzi","https://www.transfermarkt.com/ezequiel-lavezzi/profil/spieler/50570","Left Winger",22,"Argentina",39,39,11,3199,2007
+"SSC Napoli","Serie A","Italy","Roberto Sosa","https://www.transfermarkt.com/roberto-sosa/profil/spieler/19285","Centre-Forward",32,"Argentina",40,34,6,1343,2007
+"SSC Napoli","Serie A","Italy","Emanuele Calaiò","https://www.transfermarkt.com/emanuele-calaio/profil/spieler/22268","Centre-Forward",25,"Italy",42,31,3,1168,2007
+"SSC Napoli","Serie A","Italy","Marcelo Zalayeta","https://www.transfermarkt.com/marcelo-zalayeta/profil/spieler/5767","Centre-Forward",28,"Uruguay",24,24,8,1951,2007
+"UC Sampdoria","Serie B","Italy","Vincenzo Fiorillo","https://www.transfermarkt.com/vincenzo-fiorillo/profil/spieler/55000","Goalkeeper",17,"Italy",9,1,0,25,2007
+"UC Sampdoria","Serie B","Italy","Antonio Mirante","https://www.transfermarkt.com/antonio-mirante/profil/spieler/22141","Goalkeeper",23,"Italy",45,18,0,1553,2007
+"UC Sampdoria","Serie B","Italy","Luca Castellazzi","https://www.transfermarkt.com/luca-castellazzi/profil/spieler/6058","Goalkeeper",31,"Italy",41,31,0,2742,2007
+"UC Sampdoria","Serie B","Italy","Gianluca Di Gennaro","https://www.transfermarkt.com/gianluca-di-gennaro/profil/spieler/48763","Goalkeeper",20,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Reto Ziegler","https://www.transfermarkt.com/reto-ziegler/profil/spieler/9915","Centre-Back",21,"Switzerland",43,28,1,1319,2007
+"UC Sampdoria","Serie B","Italy","Pietro Accardi","https://www.transfermarkt.com/pietro-accardi/profil/spieler/17155","Left-Back",24,"Italy",27,26,1,1944,2007
+"UC Sampdoria","Serie B","Italy","Stefano Lucchini","https://www.transfermarkt.com/stefano-lucchini/profil/spieler/6012","Centre-Back",26,"Italy",39,34,1,2520,2007
+"UC Sampdoria","Serie B","Italy","Christian Maggio","https://www.transfermarkt.com/christian-maggio/profil/spieler/21151","Right-Back",25,"Italy",38,34,10,2861,2007
+"UC Sampdoria","Serie B","Italy","Luigi Sala","https://www.transfermarkt.com/luigi-sala/profil/spieler/6254","Centre-Back",33,"Italy",42,34,2,2793,2007
+"UC Sampdoria","Serie B","Italy","Hugo Campagnaro","https://www.transfermarkt.com/hugo-campagnaro/profil/spieler/21782","Centre-Back",27,"Argentina",31,30,1,2414,2007
+"UC Sampdoria","Serie B","Italy","Jonathan Rossini","https://www.transfermarkt.com/jonathan-rossini/profil/spieler/54916","Centre-Back",18,"Switzerland",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Daniele Gastaldello","https://www.transfermarkt.com/daniele-gastaldello/profil/spieler/7096","Centre-Back",24,"Italy",39,32,2,2537,2007
+"UC Sampdoria","Serie B","Italy","Leonardo Migliónico","https://www.transfermarkt.com/leonardo-miglionico/profil/spieler/21895","Centre-Back",27,"Uruguay",12,4,0,127,2007
+"UC Sampdoria","Serie B","Italy","Alessandro Bastrini","https://www.transfermarkt.com/alessandro-bastrini/profil/spieler/39829","Centre-Back",20,"Italy",13,5,0,328,2007
+"UC Sampdoria","Serie B","Italy","Mirko Pieri","https://www.transfermarkt.com/mirko-pieri/profil/spieler/5894","Left-Back",28,"Italy",44,40,0,2935,2007
+"UC Sampdoria","Serie B","Italy","Gianluigi Bianco","https://www.transfermarkt.com/gianluigi-bianco/profil/spieler/61778","Left-Back",18,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Luca Calzolaio","https://www.transfermarkt.com/luca-calzolaio/profil/spieler/61781","Centre-Back",18,"Italy",1,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Matteo Lanzoni","https://www.transfermarkt.com/matteo-lanzoni/profil/spieler/61785","Centre-Back",18,"Italy",1,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Cristian Zenoni","https://www.transfermarkt.com/cristian-zenoni/profil/spieler/6794","Right-Back",30,"Italy",44,24,0,1740,2007
+"UC Sampdoria","Serie B","Italy","Massimo Volta","https://www.transfermarkt.com/massimo-volta/profil/spieler/54921","Centre-Back",20,"Italy",1,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Manuel Ustulin","https://www.transfermarkt.com/manuel-ustulin/profil/spieler/61795","Centre-Back",19,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Andrea Poli","https://www.transfermarkt.com/andrea-poli/profil/spieler/44834","Central Midfield",17,"Italy",9,1,0,2,2007
+"UC Sampdoria","Serie B","Italy","Vladimir Koman","https://www.transfermarkt.com/vladimir-koman/profil/spieler/49719","Attacking Midfield",18,"Hungary",2,2,0,121,2007
+"UC Sampdoria","Serie B","Italy","Nikola Gulan","https://www.transfermarkt.com/nikola-gulan/profil/spieler/46553","Defensive Midfield",18,"Serbia",1,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Sergio Volpi","https://www.transfermarkt.com/sergio-volpi/profil/spieler/16908","Central Midfield",33,"Italy",40,38,2,2490,2007
+"UC Sampdoria","Serie B","Italy","Angelo Palombo","https://www.transfermarkt.com/angelo-palombo/profil/spieler/6793","Defensive Midfield",25,"Italy",43,40,2,3581,2007
+"UC Sampdoria","Serie B","Italy","Daniele Franceschini","https://www.transfermarkt.com/daniele-franceschini/profil/spieler/5927","Left Midfield",31,"Italy",46,35,2,2450,2007
+"UC Sampdoria","Serie B","Italy","Paolo Sammarco","https://www.transfermarkt.com/paolo-sammarco/profil/spieler/7101","Central Midfield",24,"Italy",39,36,5,2601,2007
+"UC Sampdoria","Serie B","Italy","Carmine Cucciniello","https://www.transfermarkt.com/carmine-cucciniello/profil/spieler/54904","Central Midfield",18,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Gennaro Delvecchio","https://www.transfermarkt.com/gennaro-delvecchio/profil/spieler/22080","Central Midfield",29,"Italy",35,33,3,1974,2007
+"UC Sampdoria","Serie B","Italy","Francesco Signori","https://www.transfermarkt.com/francesco-signori/profil/spieler/61792","Central Midfield",18,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Guido Marilungo","https://www.transfermarkt.com/guido-marilungo/profil/spieler/61786","Centre-Forward",17,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Vincenzo Montella","https://www.transfermarkt.com/vincenzo-montella/profil/spieler/5960","Centre-Forward",33,"Italy",20,18,5,930,2007
+"UC Sampdoria","Serie B","Italy","Claudio Bellucci","https://www.transfermarkt.com/claudio-bellucci/profil/spieler/6008","Centre-Forward",32,"Italy",42,41,13,3003,2007
+"UC Sampdoria","Serie B","Italy","Emiliano Bonazzoli","https://www.transfermarkt.com/emiliano-bonazzoli/profil/spieler/5877","Centre-Forward",28,"Italy",35,34,4,1506,2007
+"UC Sampdoria","Serie B","Italy","Ikechukwu Kalu","https://www.transfermarkt.com/ikechukwu-kalu/profil/spieler/33768","Centre-Forward",23,"Nigeria",19,6,0,123,2007
+"UC Sampdoria","Serie B","Italy","Andrea Caracciolo","https://www.transfermarkt.com/andrea-caracciolo/profil/spieler/6098","Centre-Forward",25,"Italy",24,20,1,1036,2007
+"UC Sampdoria","Serie B","Italy","Pietro Arnulfo","https://www.transfermarkt.com/pietro-arnulfo/profil/spieler/54895","Attack",18,"Italy",0,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Gabriel Ferrari","https://www.transfermarkt.com/gabriel-ferrari/profil/spieler/48716","Centre-Forward",18,"United States",4,0,0,0,2007
+"UC Sampdoria","Serie B","Italy","Salvatore Foti","https://www.transfermarkt.com/salvatore-foti/profil/spieler/38559","Centre-Forward",18,"Italy",5,1,0,0,2007
+"UC Sampdoria","Serie B","Italy","Antonio Cassano","https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962","Second Striker",24,"Italy",26,25,9,1748,2007
+"Genoa CFC","Serie A","Italy","Gianluca Pegolo","https://www.transfermarkt.com/gianluca-pegolo/profil/spieler/21872","Goalkeeper",26,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Damián Lanza","https://www.transfermarkt.com/damian-lanza/profil/spieler/37375","Goalkeeper",25,"Ecuador",8,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Alessio Scarpi","https://www.transfermarkt.com/alessio-scarpi/profil/spieler/6809","Goalkeeper",34,"Italy",40,14,0,962,2007
+"Genoa CFC","Serie A","Italy","Rubinho","https://www.transfermarkt.com/rubinho/profil/spieler/37598","Goalkeeper",24,"Brazil",32,31,0,2666,2007
+"Genoa CFC","Serie A","Italy","Stefano Raggio Garibaldi","https://www.transfermarkt.com/stefano-raggio-garibaldi/profil/spieler/421464","Goalkeeper",18,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Mirko Lamantia","https://www.transfermarkt.com/mirko-lamantia/profil/spieler/435750","Goalkeeper",17,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Andrea Masiello","https://www.transfermarkt.com/andrea-masiello/profil/spieler/34198","Centre-Back",21,"Italy",10,4,1,192,2007
+"Genoa CFC","Serie A","Italy","Andrea Signorini","https://www.transfermarkt.com/andrea-signorini/profil/spieler/56682","Centre-Back",17,"Italy",1,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Alessio Grea","https://www.transfermarkt.com/alessio-grea/profil/spieler/129613","Centre-Back",17,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Cesare Bovo","https://www.transfermarkt.com/cesare-bovo/profil/spieler/5946","Centre-Back",24,"Italy",28,27,0,2288,2007
+"Genoa CFC","Serie A","Italy","Francesco Bega","https://www.transfermarkt.com/francesco-bega/profil/spieler/21904","Centre-Back",32,"Italy",13,11,0,855,2007
+"Genoa CFC","Serie A","Italy","Alessandro Lucarelli","https://www.transfermarkt.com/alessandro-lucarelli/profil/spieler/28022","Centre-Back",29,"Italy",36,29,1,2117,2007
+"Genoa CFC","Serie A","Italy","Domenico Criscito","https://www.transfermarkt.com/domenico-criscito/profil/spieler/44136","Left-Back",20,"Italy",16,16,0,1402,2007
+"Genoa CFC","Serie A","Italy","Tommaso Ghinassi","https://www.transfermarkt.com/tommaso-ghinassi/profil/spieler/59412","Centre-Back",20,"Italy",10,1,0,20,2007
+"Genoa CFC","Serie A","Italy","Abdoulay Konko","https://www.transfermarkt.com/abdoulay-konko/profil/spieler/22139","Right-Back",23,"France",39,39,3,3348,2007
+"Genoa CFC","Serie A","Italy","Gaetano De Rosa","https://www.transfermarkt.com/gaetano-de-rosa/profil/spieler/22106","Centre-Back",34,"Italy",29,17,0,1365,2007
+"Genoa CFC","Serie A","Italy","Cristian Stellini","https://www.transfermarkt.com/cristian-stellini/profil/spieler/22213","Centre-Back",33,"Italy",3,2,0,210,2007
+"Genoa CFC","Serie A","Italy","Fabiano","https://www.transfermarkt.com/fabiano/profil/spieler/38590","Left-Back",28,"Brazil",34,29,0,1835,2007
+"Genoa CFC","Serie A","Italy","Santos","https://www.transfermarkt.com/santos/profil/spieler/19439","Centre-Back",25,"Brazil",24,18,0,1198,2007
+"Genoa CFC","Serie A","Italy","Anthony Vanden Borre","https://www.transfermarkt.com/anthony-vanden-borre/profil/spieler/15844","Right-Back",19,"Belgium",15,6,0,143,2007
+"Genoa CFC","Serie A","Italy","Matteo Amico","https://www.transfermarkt.com/matteo-amico/profil/spieler/432287","Centre-Back",18,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Salvatore Cannella","https://www.transfermarkt.com/salvatore-cannella/profil/spieler/456215","Defender",18,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Silvano Raggio Garibaldi","https://www.transfermarkt.com/silvano-raggio-garibaldi/profil/spieler/56683","Defensive Midfield",18,"Italy",6,2,0,23,2007
+"Genoa CFC","Serie A","Italy","Manuel Coppola","https://www.transfermarkt.com/manuel-coppola/profil/spieler/28851","Central Midfield",25,"Italy",14,4,0,145,2007
+"Genoa CFC","Serie A","Italy","Marco Rossi","https://www.transfermarkt.com/marco-rossi/profil/spieler/21955","Right Midfield",29,"Italy",35,34,2,2550,2007
+"Genoa CFC","Serie A","Italy","Danilo Sacramento","https://www.transfermarkt.com/danilo-sacramento/profil/spieler/56681","Attacking Midfield",24,"Brazil",28,22,1,1640,2007
+"Genoa CFC","Serie A","Italy","Julio de León","https://www.transfermarkt.com/julio-de-leon/profil/spieler/6074","Attacking Midfield",27,"Honduras",35,31,4,2055,2007
+"Genoa CFC","Serie A","Italy","Lucas Rimoldi","https://www.transfermarkt.com/lucas-rimoldi/profil/spieler/22211","Central Midfield",27,"Argentina",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Matteo Paro","https://www.transfermarkt.com/matteo-paro/profil/spieler/7100","Central Midfield",24,"Italy",24,22,0,1547,2007
+"Genoa CFC","Serie A","Italy","Ivan Juric","https://www.transfermarkt.com/ivan-juric/profil/spieler/22150","Central Midfield",31,"Croatia",36,35,0,2921,2007
+"Genoa CFC","Serie A","Italy","Omar Milanetto","https://www.transfermarkt.com/omar-milanetto/profil/spieler/7430","Defensive Midfield",31,"Italy",36,31,2,2395,2007
+"Genoa CFC","Serie A","Italy","Simone Pasqui","https://www.transfermarkt.com/simone-pasqui/profil/spieler/456216","midfield",18,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Emmanuel Ledesma","https://www.transfermarkt.com/emmanuel-ledesma/profil/spieler/62247","Right Winger",19,"Argentina",1,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Óscar Torres","https://www.transfermarkt.com/oscar-torres/profil/spieler/130379","Second Striker",17,"Paraguay",1,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Luciano Figueroa","https://www.transfermarkt.com/luciano-figueroa/profil/spieler/7133","Centre-Forward",26,"Argentina",32,21,3,724,2007
+"Genoa CFC","Serie A","Italy","Matías Masiero","https://www.transfermarkt.com/matias-masiero/profil/spieler/65849","Second Striker",19,"Uruguay",8,2,1,45,2007
+"Genoa CFC","Serie A","Italy","Adaílton","https://www.transfermarkt.com/adailton/profil/spieler/21853","Second Striker",30,"Brazil",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Giuseppe Sculli","https://www.transfermarkt.com/giuseppe-sculli/profil/spieler/6046","Left Winger",26,"Italy",37,35,4,2167,2007
+"Genoa CFC","Serie A","Italy","N'Diaye Papa Waigo","https://www.transfermarkt.com/ndiaye-papa-waigo/profil/spieler/21871","Right Winger",23,"Senegal",11,11,2,430,2007
+"Genoa CFC","Serie A","Italy","Marco Di Vaio","https://www.transfermarkt.com/marco-di-vaio/profil/spieler/4170","Centre-Forward",30,"Italy",32,24,4,1167,2007
+"Genoa CFC","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",25,"Italy",37,37,19,3067,2007
+"Genoa CFC","Serie A","Italy","Mirco Gasparetto","https://www.transfermarkt.com/mirco-gasparetto/profil/spieler/22111","Centre-Forward",27,"Italy",3,2,0,143,2007
+"Genoa CFC","Serie A","Italy","Mirko Martucci","https://www.transfermarkt.com/mirko-martucci/profil/spieler/62255","Right Winger",19,"Italy",0,0,0,0,2007
+"Genoa CFC","Serie A","Italy","Wilson","https://www.transfermarkt.com/wilson/profil/spieler/52850","Centre-Forward",22,"Brazil",6,3,0,107,2007
+"Genoa CFC","Serie A","Italy","Simone Mazzei","https://www.transfermarkt.com/simone-mazzei/profil/spieler/461082","Attack",18,"Italy",0,0,0,0,2007
+"Torino FC","Serie A","Italy","Matteo Sereni","https://www.transfermarkt.com/matteo-sereni/profil/spieler/5964","Goalkeeper",32,"Italy",35,33,0,2899,2007
+"Torino FC","Serie A","Italy","Alberto Maria Fontana","https://www.transfermarkt.com/alberto-maria-fontana/profil/spieler/21884","Goalkeeper",32,"Italy",39,10,0,791,2007
+"Torino FC","Serie A","Italy","Lys Gomis","https://www.transfermarkt.com/lys-gomis/profil/spieler/57644","Goalkeeper",17,"Senegal",6,0,0,0,2007
+"Torino FC","Serie A","Italy","Umberto Ferrauto","https://www.transfermarkt.com/umberto-ferrauto/profil/spieler/56735","Goalkeeper",18,"Italy",2,0,0,0,2007
+"Torino FC","Serie A","Italy","Angelo Ogbonna","https://www.transfermarkt.com/angelo-ogbonna/profil/spieler/48002","Centre-Back",19,"Italy",2,0,0,0,2007
+"Torino FC","Serie A","Italy","Simone Benedetti","https://www.transfermarkt.com/simone-benedetti/profil/spieler/99923","Centre-Back",15,"Italy",2,0,0,0,2007
+"Torino FC","Serie A","Italy","Marco Motta","https://www.transfermarkt.com/marco-motta/profil/spieler/30333","Right-Back",21,"Italy",34,25,1,1345,2007
+"Torino FC","Serie A","Italy","Paolo Dellafiore","https://www.transfermarkt.com/paolo-dellafiore/profil/spieler/28935","Centre-Back",22,"Italy",33,30,1,2467,2007
+"Torino FC","Serie A","Italy","Gianluca Comotto","https://www.transfermarkt.com/gianluca-comotto/profil/spieler/16685","Right-Back",28,"Italy",26,26,2,2181,2007
+"Torino FC","Serie A","Italy","Marco Pisano","https://www.transfermarkt.com/marco-pisano/profil/spieler/16901","Left-Back",25,"Italy",14,14,0,1260,2007
+"Torino FC","Serie A","Italy","Cesare Natali","https://www.transfermarkt.com/cesare-natali/profil/spieler/16870","Centre-Back",28,"Italy",28,27,1,2212,2007
+"Torino FC","Serie A","Italy","Ivan Franceschini","https://www.transfermarkt.com/ivan-franceschini/profil/spieler/6066","Centre-Back",30,"Italy",3,1,0,13,2007
+"Torino FC","Serie A","Italy","Marco Di Loreto","https://www.transfermarkt.com/marco-di-loreto/profil/spieler/6083","Centre-Back",32,"Italy",37,32,0,2737,2007
+"Torino FC","Serie A","Italy","Salvatore Lanna","https://www.transfermarkt.com/salvatore-lanna/profil/spieler/5916","Left-Back",30,"Italy",39,32,1,2660,2007
+"Torino FC","Serie A","Italy","Stefano Procida","https://www.transfermarkt.com/stefano-procida/profil/spieler/158474","Centre-Back",17,"Italy",1,0,0,0,2007
+"Torino FC","Serie A","Italy","Davide Cristino","https://www.transfermarkt.com/davide-cristino/profil/spieler/56731","Centre-Back",19,"Italy",1,0,0,0,2007
+"Torino FC","Serie A","Italy","Matteo Rubin","https://www.transfermarkt.com/matteo-rubin/profil/spieler/55001","Left-Back",19,"Italy",11,6,0,242,2007
+"Torino FC","Serie A","Italy","Gabriele Cioffi","https://www.transfermarkt.com/gabriele-cioffi/profil/spieler/32079","Centre-Back",31,"Italy",0,0,0,0,2007
+"Torino FC","Serie A","Italy","Jacopo Ferretti","https://www.transfermarkt.com/jacopo-ferretti/profil/spieler/56736","Centre-Back",19,"Italy",1,0,0,0,2007
+"Torino FC","Serie A","Italy","Eugenio Corini","https://www.transfermarkt.com/eugenio-corini/profil/spieler/5921","Defensive Midfield",36,"Italy",37,34,1,2456,2007
+"Torino FC","Serie A","Italy","Simone Barone","https://www.transfermarkt.com/simone-barone/profil/spieler/5866","Central Midfield",29,"Italy",31,25,2,1992,2007
+"Torino FC","Serie A","Italy","Nikola Lazetic","https://www.transfermarkt.com/nikola-lazetic/profil/spieler/5919","Right Midfield",29,"Serbia",21,17,0,996,2007
+"Torino FC","Serie A","Italy","Vince Grella","https://www.transfermarkt.com/vince-grella/profil/spieler/6021","Central Midfield",27,"Australia",32,31,1,2326,2007
+"Torino FC","Serie A","Italy","Aimo Diana","https://www.transfermarkt.com/aimo-diana/profil/spieler/6749","Right Midfield",29,"Italy",17,17,2,1416,2007
+"Torino FC","Serie A","Italy","Kwadwo Asamoah","https://www.transfermarkt.com/kwadwo-asamoah/profil/spieler/63531","Left Midfield",18,"Ghana",5,0,0,0,2007
+"Torino FC","Serie A","Italy","Domenico Bettini","https://www.transfermarkt.com/domenico-bettini/profil/spieler/153988","Attacking Midfield",18,"Italy",1,0,0,0,2007
+"Torino FC","Serie A","Italy","Paolo Zanetti","https://www.transfermarkt.com/paolo-zanetti/profil/spieler/6405","Defensive Midfield",24,"Italy",27,24,0,1752,2007
+"Torino FC","Serie A","Italy","Tommaso Vailatti","https://www.transfermarkt.com/tommaso-vailatti/profil/spieler/28861","Right Midfield",21,"Italy",12,9,1,446,2007
+"Torino FC","Serie A","Italy","Davide Bottone","https://www.transfermarkt.com/davide-bottone/profil/spieler/54999","Central Midfield",21,"Italy",26,11,1,445,2007
+"Torino FC","Serie A","Italy","Vincenzo Nitride","https://www.transfermarkt.com/vincenzo-nitride/profil/spieler/158471","Central Midfield",17,"Italy",5,0,0,0,2007
+"Torino FC","Serie A","Italy","Gianmario Comi","https://www.transfermarkt.com/gianmario-comi/profil/spieler/130324","Centre-Forward",15,"Italy",1,0,0,0,2007
+"Torino FC","Serie A","Italy","Loreto Lo Bosco","https://www.transfermarkt.com/loreto-lo-bosco/profil/spieler/56767","Centre-Forward",17,"Italy",3,0,0,0,2007
+"Torino FC","Serie A","Italy","Álvaro Recoba","https://www.transfermarkt.com/alvaro-recoba/profil/spieler/5796","Second Striker",31,"Uruguay",29,24,3,1192,2007
+"Torino FC","Serie A","Italy","Nicola Ventola","https://www.transfermarkt.com/nicola-ventola/profil/spieler/5798","Centre-Forward",29,"Italy",28,22,5,1156,2007
+"Torino FC","Serie A","Italy","Alessandro Rosina","https://www.transfermarkt.com/alessandro-rosina/profil/spieler/16902","Right Winger",23,"Italy",36,36,9,2635,2007
+"Torino FC","Serie A","Italy","Masashi Oguro","https://www.transfermarkt.com/masashi-oguro/profil/spieler/31353","Centre-Forward",27,"Japan",16,4,0,51,2007
+"Torino FC","Serie A","Italy","David Di Michele","https://www.transfermarkt.com/david-di-michele/profil/spieler/6076","Centre-Forward",31,"Italy",28,26,6,1829,2007
+"Torino FC","Serie A","Italy","Sasa Bjelanovic","https://www.transfermarkt.com/sasa-bjelanovic/profil/spieler/22187","Centre-Forward",28,"Croatia",27,22,0,1028,2007
+"Torino FC","Serie A","Italy","Roberto Stellone","https://www.transfermarkt.com/roberto-stellone/profil/spieler/16745","Centre-Forward",29,"Italy",24,22,3,1667,2007
+"Torino FC","Serie A","Italy","Dominique Malonga","https://www.transfermarkt.com/dominique-malonga/profil/spieler/45532","Centre-Forward",18,"Congo",18,9,1,226,2007
+"Catania FC","Serie C - Girone C","Italy","Albano Bizzarri","https://www.transfermarkt.com/albano-bizzarri/profil/spieler/7797","Goalkeeper",29,"Argentina",31,12,0,1080,2007
+"Catania FC","Serie C - Girone C","Italy","Armando Pantanelli","https://www.transfermarkt.com/armando-pantanelli/profil/spieler/20745","Goalkeeper",36,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Ciro Polito","https://www.transfermarkt.com/ciro-polito/profil/spieler/22123","Goalkeeper",28,"Italy",40,33,0,3000,2007
+"Catania FC","Serie C - Girone C","Italy","Generoso Rossi","https://www.transfermarkt.com/generoso-rossi/profil/spieler/6443","Goalkeeper",28,"Italy",15,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Raffaele Ioime","https://www.transfermarkt.com/raffaele-ioime/profil/spieler/57645","Goalkeeper",19,"Italy",3,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Gennaro Sardo","https://www.transfermarkt.com/gennaro-sardo/profil/spieler/21770","Right-Back",28,"Italy",33,25,1,2093,2007
+"Catania FC","Serie C - Girone C","Italy","Rocco Sabato","https://www.transfermarkt.com/rocco-sabato/profil/spieler/20747","Left-Back",25,"Italy",36,22,0,1214,2007
+"Catania FC","Serie C - Girone C","Italy","Andrea Sottil","https://www.transfermarkt.com/andrea-sottil/profil/spieler/5886","Centre-Back",33,"Italy",29,11,0,750,2007
+"Catania FC","Serie C - Girone C","Italy","Matías Silvestre","https://www.transfermarkt.com/matias-silvestre/profil/spieler/20003","Centre-Back",22,"Argentina",18,13,0,1013,2007
+"Catania FC","Serie C - Girone C","Italy","Mauro Minelli","https://www.transfermarkt.com/mauro-minelli/profil/spieler/21693","Centre-Back",26,"Italy",1,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Lorenzo Stovini","https://www.transfermarkt.com/lorenzo-stovini/profil/spieler/6446","Centre-Back",30,"Italy",42,42,1,3810,2007
+"Catania FC","Serie C - Girone C","Italy","Juan Manuel Vargas","https://www.transfermarkt.com/juan-manuel-vargas/profil/spieler/30584","Left-Back",23,"Peru",40,40,6,3319,2007
+"Catania FC","Serie C - Girone C","Italy","Marcello Gazzola","https://www.transfermarkt.com/marcello-gazzola/profil/spieler/57643","Right-Back",22,"Italy",18,7,0,396,2007
+"Catania FC","Serie C - Girone C","Italy","Cristian Silvestri","https://www.transfermarkt.com/cristian-silvestri/profil/spieler/6445","Centre-Back",32,"Italy",38,26,2,2004,2007
+"Catania FC","Serie C - Girone C","Italy","Pablo Álvarez","https://www.transfermarkt.com/pablo-alvarez/profil/spieler/55993","Right-Back",23,"Argentina",11,8,0,382,2007
+"Catania FC","Serie C - Girone C","Italy","Christian Terlizzi","https://www.transfermarkt.com/christian-terlizzi/profil/spieler/20941","Centre-Back",27,"Italy",32,27,1,2298,2007
+"Catania FC","Serie C - Girone C","Italy","Gianluca Falsini","https://www.transfermarkt.com/gianluca-falsini/profil/spieler/6063","Left-Back",31,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Cristian Llama","https://www.transfermarkt.com/cristian-llama/profil/spieler/30882","Attacking Midfield",21,"Argentina",8,1,0,44,2007
+"Catania FC","Serie C - Girone C","Italy","Mark Edusei","https://www.transfermarkt.com/mark-edusei/profil/spieler/21788","Defensive Midfield",30,"Ghana",40,33,0,2564,2007
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Colucci","https://www.transfermarkt.com/giuseppe-colucci/profil/spieler/6717","Central Midfield",26,"Italy",34,29,1,1790,2007
+"Catania FC","Serie C - Girone C","Italy","Mariano Izco","https://www.transfermarkt.com/mariano-izco/profil/spieler/30853","Central Midfield",24,"Argentina",44,39,1,2535,2007
+"Catania FC","Serie C - Girone C","Italy","Davide Baiocco","https://www.transfermarkt.com/davide-baiocco/profil/spieler/5761","Defensive Midfield",32,"Italy",41,39,1,2957,2007
+"Catania FC","Serie C - Girone C","Italy","Giacomo Tedesco","https://www.transfermarkt.com/giacomo-tedesco/profil/spieler/17170","Central Midfield",31,"Italy",37,33,0,2127,2007
+"Catania FC","Serie C - Girone C","Italy","Fabio Sciacca","https://www.transfermarkt.com/fabio-sciacca/profil/spieler/105625","Central Midfield",18,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Fabio Caserta","https://www.transfermarkt.com/fabio-caserta/profil/spieler/28832","Central Midfield",28,"Italy",2,2,0,53,2007
+"Catania FC","Serie C - Girone C","Italy","Marco Biagianti","https://www.transfermarkt.com/marco-biagianti/profil/spieler/47646","Defensive Midfield",23,"Italy",35,21,0,1444,2007
+"Catania FC","Serie C - Girone C","Italy","Mattia Biso","https://www.transfermarkt.com/mattia-biso/profil/spieler/22309","Central Midfield",30,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Riccardo Nardini","https://www.transfermarkt.com/riccardo-nardini/profil/spieler/38600","Central Midfield",24,"Italy",7,4,0,163,2007
+"Catania FC","Serie C - Girone C","Italy","Mirco Antenucci","https://www.transfermarkt.com/mirco-antenucci/profil/spieler/83458","Centre-Forward",22,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Takayuki Morimoto","https://www.transfermarkt.com/takayuki-morimoto/profil/spieler/42417","Centre-Forward",19,"Japan",26,17,2,482,2007
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Mascara","https://www.transfermarkt.com/giuseppe-mascara/profil/spieler/22085","Second Striker",27,"Italy",42,42,5,3430,2007
+"Catania FC","Serie C - Girone C","Italy","Piá","https://www.transfermarkt.com/piatm/profil/spieler/21695","Left Winger",25,"Brazil",15,9,0,439,2007
+"Catania FC","Serie C - Girone C","Italy","Umberto Del Core","https://www.transfermarkt.com/umberto-del-core/profil/spieler/23195","Centre-Forward",27,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Babù","https://www.transfermarkt.com/babu/profil/spieler/28008","Right Winger",26,"Brazil",7,3,0,77,2007
+"Catania FC","Serie C - Girone C","Italy","Christian Iannelli","https://www.transfermarkt.com/christian-iannelli/profil/spieler/29588","Centre-Forward",21,"Italy",1,1,0,5,2007
+"Catania FC","Serie C - Girone C","Italy","Gionatha Spinesi","https://www.transfermarkt.com/gionatha-spinesi/profil/spieler/22126","Centre-Forward",29,"Italy",37,37,9,2974,2007
+"Catania FC","Serie C - Girone C","Italy","Jorge Martínez","https://www.transfermarkt.com/jorge-martinez/profil/spieler/55800","Right Winger",24,"Uruguay",37,36,9,2310,2007
+"Catania FC","Serie C - Girone C","Italy","Francesco Millesi","https://www.transfermarkt.com/francesco-millesi/profil/spieler/32098","Left Winger",26,"Italy",6,1,0,2,2007
+"Catania FC","Serie C - Girone C","Italy","Fabrizio Lasagna","https://www.transfermarkt.com/fabrizio-lasagna/profil/spieler/102645","Centre-Forward",19,"Italy",0,0,0,0,2007
+"Catania FC","Serie C - Girone C","Italy","Gianvito Plasmati","https://www.transfermarkt.com/gianvito-plasmati/profil/spieler/44116","Centre-Forward",24,"Italy",0,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Simone Colombi","https://www.transfermarkt.com/simone-colombi/profil/spieler/57285","Goalkeeper",16,"Italy",1,0,0,0,2007
+"Atalanta BC","Serie A","Italy","George Forsyth","https://www.transfermarkt.com/george-forsyth/profil/spieler/1992","Goalkeeper",25,"Peru",17,1,0,120,2007
+"Atalanta BC","Serie A","Italy","Andrea Ivan","https://www.transfermarkt.com/andrea-ivan/profil/spieler/35866","Goalkeeper",34,"Italy",21,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Ferdinando Coppola","https://www.transfermarkt.com/ferdinando-coppola/profil/spieler/5986","Goalkeeper",29,"Italy",38,38,0,3420,2007
+"Atalanta BC","Serie A","Italy","Marino Defendi","https://www.transfermarkt.com/marino-defendi/profil/spieler/38589","Right-Back",21,"Italy",12,7,0,215,2007
+"Atalanta BC","Serie A","Italy","Leonardo Talamonti","https://www.transfermarkt.com/leonardo-talamonti/profil/spieler/22960","Centre-Back",25,"Argentina",9,9,0,652,2007
+"Atalanta BC","Serie A","Italy","Manuel Belleri","https://www.transfermarkt.com/manuel-belleri/profil/spieler/6018","Right-Back",29,"Italy",32,20,0,1341,2007
+"Atalanta BC","Serie A","Italy","Adriano","https://www.transfermarkt.com/adriano/profil/spieler/25469","Right-Back",25,"Brazil",2,2,0,171,2007
+"Atalanta BC","Serie A","Italy","Thomas Manfredini","https://www.transfermarkt.com/thomas-manfredini/profil/spieler/5889","Centre-Back",27,"Italy",25,17,0,1330,2007
+"Atalanta BC","Serie A","Italy","Gianpaolo Bellini","https://www.transfermarkt.com/gianpaolo-bellini/profil/spieler/19435","Left-Back",27,"Italy",24,24,2,2112,2007
+"Atalanta BC","Serie A","Italy","Claudio Rivalta","https://www.transfermarkt.com/claudio-rivalta/profil/spieler/21697","Centre-Back",29,"Italy",32,31,1,2634,2007
+"Atalanta BC","Serie A","Italy","Matteo Gentili","https://www.transfermarkt.com/matteo-gentili/profil/spieler/57291","Centre-Back",17,"Italy",1,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Marco Colombo","https://www.transfermarkt.com/marco-colombo/profil/spieler/57286","Centre-Back",17,"Italy",0,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Maximiliano Pellegrino","https://www.transfermarkt.com/maximiliano-pellegrino/profil/spieler/26447","Centre-Back",27,"Argentina",33,26,1,1978,2007
+"Atalanta BC","Serie A","Italy","Daniele Capelli","https://www.transfermarkt.com/daniele-capelli/profil/spieler/30332","Centre-Back",21,"Italy",32,24,2,1975,2007
+"Atalanta BC","Serie A","Italy","Riccardo Fissore","https://www.transfermarkt.com/riccardo-fissore/profil/spieler/22209","Centre-Back",27,"Italy",14,2,0,129,2007
+"Atalanta BC","Serie A","Italy","Moris Carrozzieri","https://www.transfermarkt.com/moris-carrozzieri/profil/spieler/6747","Centre-Back",26,"Italy",21,21,2,1832,2007
+"Atalanta BC","Serie A","Italy","Giacomo Bonaventura","https://www.transfermarkt.com/giacomo-bonaventura/profil/spieler/57280","Central Midfield",17,"Italy",2,1,0,15,2007
+"Atalanta BC","Serie A","Italy","Ivan Radovanovic","https://www.transfermarkt.com/ivan-radovanovic/profil/spieler/46105","Defensive Midfield",18,"Serbia",4,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Costinha","https://www.transfermarkt.com/costinha/profil/spieler/9826","Defensive Midfield",32,"Portugal",1,1,0,54,2007
+"Atalanta BC","Serie A","Italy","Antonino Bernardini","https://www.transfermarkt.com/antonino-bernardini/profil/spieler/19436","Defensive Midfield",33,"Italy",16,7,0,322,2007
+"Atalanta BC","Serie A","Italy","Diego De Ascentis","https://www.transfermarkt.com/diego-de-ascentis/profil/spieler/21880","Defensive Midfield",30,"Italy",34,32,0,2082,2007
+"Atalanta BC","Serie A","Italy","Tiberio Guarente","https://www.transfermarkt.com/tiberio-guarente/profil/spieler/28868","Central Midfield",21,"Italy",33,28,0,2100,2007
+"Atalanta BC","Serie A","Italy","Fernando Tissone","https://www.transfermarkt.com/fernando-tissone/profil/spieler/35871","Defensive Midfield",20,"Argentina",36,35,3,2585,2007
+"Atalanta BC","Serie A","Italy","Simone Padoin","https://www.transfermarkt.com/simone-padoin/profil/spieler/56703","Central Midfield",23,"Italy",39,32,4,1735,2007
+"Atalanta BC","Serie A","Italy","Michael Girasole","https://www.transfermarkt.com/michael-girasole/profil/spieler/57292","midfield",18,"Italy",1,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/83380","Left Midfield",19,"Italy",0,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Cristiano Doni","https://www.transfermarkt.com/cristiano-doni/profil/spieler/6195","Attacking Midfield",34,"Italy",30,30,12,2538,2007
+"Atalanta BC","Serie A","Italy","Michael Cia","https://www.transfermarkt.com/michael-cia/profil/spieler/85606","Central Midfield",18,"Italy",0,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Michele Marconi","https://www.transfermarkt.com/michele-marconi/profil/spieler/57299","Centre-Forward",18,"Italy",6,4,1,93,2007
+"Atalanta BC","Serie A","Italy","Karamoko Cissé","https://www.transfermarkt.com/karamoko-cisse/profil/spieler/65635","Centre-Forward",18,"Guinea",0,0,0,0,2007
+"Atalanta BC","Serie A","Italy","Ferreira Pinto","https://www.transfermarkt.com/ferreira-pinto/profil/spieler/22811","Right Winger",27,"Brazil",38,38,4,3037,2007
+"Atalanta BC","Serie A","Italy","Michele Paolucci","https://www.transfermarkt.com/michele-paolucci/profil/spieler/41311","Centre-Forward",21,"Italy",16,9,0,250,2007
+"Atalanta BC","Serie A","Italy","Riccardo Zampagna","https://www.transfermarkt.com/riccardo-zampagna/profil/spieler/20895","Centre-Forward",32,"Italy",11,11,3,946,2007
+"Atalanta BC","Serie A","Italy","Simone Inzaghi","https://www.transfermarkt.com/simone-inzaghi/profil/spieler/5849","Centre-Forward",31,"Italy",26,19,0,439,2007
+"Atalanta BC","Serie A","Italy","Zlatan Muslimovic","https://www.transfermarkt.com/zlatan-muslimovic/profil/spieler/30650","Centre-Forward",26,"Bosnia-Herzegovina",23,10,2,408,2007
+"Atalanta BC","Serie A","Italy","Antonio Langella","https://www.transfermarkt.com/antonio-langella/profil/spieler/20739","Second Striker",30,"Italy",30,28,8,1607,2007
+"Atalanta BC","Serie A","Italy","Sergio Floccari","https://www.transfermarkt.com/sergio-floccari/profil/spieler/30638","Centre-Forward",25,"Italy",38,35,8,2706,2007
+"Parma Calcio 1913","Serie B","Italy","Radek Petr","https://www.transfermarkt.com/radek-petr/profil/spieler/59363","Goalkeeper",20,"Czech Republic",4,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Luca Bucci","https://www.transfermarkt.com/luca-bucci/profil/spieler/6407","Goalkeeper",38,"Italy",35,31,0,2670,2007
+"Parma Calcio 1913","Serie B","Italy","Fabio Virgili","https://www.transfermarkt.com/fabio-virgili/profil/spieler/42978","Goalkeeper",21,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Eros Corradini","https://www.transfermarkt.com/eros-corradini/profil/spieler/54903","Goalkeeper",18,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Nicola Pavarini","https://www.transfermarkt.com/nicola-pavarini/profil/spieler/28027","Goalkeeper",33,"Italy",39,10,0,840,2007
+"Parma Calcio 1913","Serie B","Italy","Marco Rossi","https://www.transfermarkt.com/marco-rossi/profil/spieler/33605","Centre-Back",19,"Italy",27,15,1,1176,2007
+"Parma Calcio 1913","Serie B","Italy","Cristian Anelli","https://www.transfermarkt.com/cristian-anelli/profil/spieler/80448","Centre-Back",18,"Italy",2,1,0,5,2007
+"Parma Calcio 1913","Serie B","Italy","Damiano Zenoni","https://www.transfermarkt.com/damiano-zenoni/profil/spieler/19451","Right-Back",30,"Italy",38,31,0,2377,2007
+"Parma Calcio 1913","Serie B","Italy","Giuseppe Cardone","https://www.transfermarkt.com/giuseppe-cardone/profil/spieler/16811","Right-Back",33,"Italy",1,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Luca Antonelli","https://www.transfermarkt.com/luca-antonelli/profil/spieler/45565","Left-Back",20,"Italy",13,8,0,296,2007
+"Parma Calcio 1913","Serie B","Italy","Paolo Castellini","https://www.transfermarkt.com/paolo-castellini/profil/spieler/16891","Left-Back",28,"Italy",35,35,1,3101,2007
+"Parma Calcio 1913","Serie B","Italy","Alessio Tombesi","https://www.transfermarkt.com/alessio-tombesi/profil/spieler/54918","Left-Back",25,"Italy",7,3,0,95,2007
+"Parma Calcio 1913","Serie B","Italy","Giulio Falcone","https://www.transfermarkt.com/giulio-falcone/profil/spieler/5989","Centre-Back",33,"Italy",29,28,0,2277,2007
+"Parma Calcio 1913","Serie B","Italy","Fernando Couto","https://www.transfermarkt.com/fernando-couto/profil/spieler/5831","Centre-Back",37,"Portugal",26,18,0,1504,2007
+"Parma Calcio 1913","Serie B","Italy","Francesco Bega","https://www.transfermarkt.com/francesco-bega/profil/spieler/21904","Centre-Back",32,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Thomas Som","https://www.transfermarkt.com/thomas-som/profil/spieler/56884","Left-Back",18,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Massimo Paci","https://www.transfermarkt.com/massimo-paci/profil/spieler/28026","Centre-Back",29,"Italy",28,23,4,1956,2007
+"Parma Calcio 1913","Serie B","Italy","Ferdinand Coly","https://www.transfermarkt.com/ferdinand-coly/profil/spieler/3794","Right-Back",33,"Senegal",25,22,1,1792,2007
+"Parma Calcio 1913","Serie B","Italy","Mattia Ferrato","https://www.transfermarkt.com/mattia-ferrato/profil/spieler/56867","Centre-Back",17,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Antonio Bocchetti","https://www.transfermarkt.com/antonio-bocchetti/profil/spieler/21779","Left-Back",27,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Federico Bega","https://www.transfermarkt.com/federico-bega/profil/spieler/56846","Centre-Back",18,"Italy",1,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Luca Cigarini","https://www.transfermarkt.com/luca-cigarini/profil/spieler/33218","Defensive Midfield",21,"Italy",36,32,3,2378,2007
+"Parma Calcio 1913","Serie B","Italy","Daniele Dessena","https://www.transfermarkt.com/daniele-dessena/profil/spieler/29962","Central Midfield",20,"Italy",34,29,0,1635,2007
+"Parma Calcio 1913","Serie B","Italy","Stefano Morrone","https://www.transfermarkt.com/stefano-morrone/profil/spieler/6722","Central Midfield",28,"Italy",37,37,3,3299,2007
+"Parma Calcio 1913","Serie B","Italy","Domenico Morfeo","https://www.transfermarkt.com/domenico-morfeo/profil/spieler/5786","Attacking Midfield",31,"Italy",19,12,1,321,2007
+"Parma Calcio 1913","Serie B","Italy","Andrea Pisanu","https://www.transfermarkt.com/andrea-pisanu/profil/spieler/25323","Right Midfield",25,"Italy",27,26,4,2059,2007
+"Parma Calcio 1913","Serie B","Italy","McDonald Mariga","https://www.transfermarkt.com/mcdonald-mariga/profil/spieler/37124","Defensive Midfield",20,"Kenya",25,18,0,970,2007
+"Parma Calcio 1913","Serie B","Italy","Federico Moretti","https://www.transfermarkt.com/federico-moretti/profil/spieler/37731","Central Midfield",18,"Italy",3,1,0,2,2007
+"Parma Calcio 1913","Serie B","Italy","Niccolò Galli","https://www.transfermarkt.com/niccolo-galli/profil/spieler/56869","Central Midfield",18,"Italy",0,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Francesco Parravicini","https://www.transfermarkt.com/francesco-parravicini/profil/spieler/23364","Defensive Midfield",25,"Italy",35,17,0,953,2007
+"Parma Calcio 1913","Serie B","Italy","Aleksandar Prijovic","https://www.transfermarkt.com/aleksandar-prijovic/profil/spieler/61505","Centre-Forward",17,"Serbia",2,1,0,7,2007
+"Parma Calcio 1913","Serie B","Italy","Daniele Paponi","https://www.transfermarkt.com/daniele-paponi/profil/spieler/35853","Centre-Forward",19,"Italy",17,8,0,267,2007
+"Parma Calcio 1913","Serie B","Italy","Reginaldo","https://www.transfermarkt.com/reginaldo/profil/spieler/23365","Centre-Forward",23,"Brazil",37,36,3,2692,2007
+"Parma Calcio 1913","Serie B","Italy","Davide Matteini","https://www.transfermarkt.com/davide-matteini/profil/spieler/29593","Left Winger",25,"Italy",16,12,1,243,2007
+"Parma Calcio 1913","Serie B","Italy","Cristiano Lucarelli","https://www.transfermarkt.com/cristiano-lucarelli/profil/spieler/21408","Centre-Forward",31,"Italy",18,16,4,1072,2007
+"Parma Calcio 1913","Serie B","Italy","Leandro Martínez","https://www.transfermarkt.com/leandro-martinez/profil/spieler/54912","Left Winger",17,"Italy",7,1,0,12,2007
+"Parma Calcio 1913","Serie B","Italy","Andrea Gasbarroni","https://www.transfermarkt.com/andrea-gasbarroni/profil/spieler/20967","Second Striker",25,"Italy",27,26,5,1660,2007
+"Parma Calcio 1913","Serie B","Italy","Igor Budan","https://www.transfermarkt.com/igor-budan/profil/spieler/19437","Centre-Forward",27,"Croatia",17,16,7,825,2007
+"Parma Calcio 1913","Serie B","Italy","Pietro Lorenzini","https://www.transfermarkt.com/pietro-lorenzini/profil/spieler/43399","Centre-Forward",18,"Italy",2,1,0,7,2007
+"Parma Calcio 1913","Serie B","Italy","Stefano Crisci","https://www.transfermarkt.com/stefano-crisci/profil/spieler/56578","Right Winger",17,"Italy",3,0,0,0,2007
+"Parma Calcio 1913","Serie B","Italy","Bernardo Corradi","https://www.transfermarkt.com/bernardo-corradi/profil/spieler/5851","Centre-Forward",31,"Italy",30,27,5,1840,2007
+"FC Empoli","Serie A","Italy","Alberto Pelagotti","https://www.transfermarkt.com/alberto-pelagotti/profil/spieler/56921","Goalkeeper",18,"Italy",3,0,0,0,2007
+"FC Empoli","Serie A","Italy","Davide Bassi","https://www.transfermarkt.com/davide-bassi/profil/spieler/41914","Goalkeeper",22,"Italy",42,21,0,1846,2007
+"FC Empoli","Serie A","Italy","Daniele Balli","https://www.transfermarkt.com/daniele-balli/profil/spieler/16747","Goalkeeper",39,"Italy",39,22,0,1934,2007
+"FC Empoli","Serie A","Italy","Lino Marzorati","https://www.transfermarkt.com/lino-marzorati/profil/spieler/41935","Centre-Back",20,"Italy",39,35,1,2752,2007
+"FC Empoli","Serie A","Italy","Simone Iacoponi","https://www.transfermarkt.com/simone-iacoponi/profil/spieler/59699","Centre-Back",20,"Italy",1,1,0,81,2007
+"FC Empoli","Serie A","Italy","Felice Piccolo","https://www.transfermarkt.com/felice-piccolo/profil/spieler/28029","Centre-Back",23,"Italy",30,23,1,1726,2007
+"FC Empoli","Serie A","Italy","Nicola Ascoli","https://www.transfermarkt.com/nicola-ascoli/profil/spieler/24290","Left-Back",27,"Italy",9,2,0,92,2007
+"FC Empoli","Serie A","Italy","Rincón","https://www.transfermarkt.com/rincon/profil/spieler/47653","Centre-Back",20,"Brazil",13,2,0,166,2007
+"FC Empoli","Serie A","Italy","Ignazio Abate","https://www.transfermarkt.com/ignazio-abate/profil/spieler/16631","Right-Back",20,"Italy",39,28,2,1505,2007
+"FC Empoli","Serie A","Italy","Vittorio Tosto","https://www.transfermarkt.com/vittorio-tosto/profil/spieler/22216","Left-Back",33,"Italy",39,33,0,2425,2007
+"FC Empoli","Serie A","Italy","Daniele Adani","https://www.transfermarkt.com/daniele-adani/profil/spieler/5774","Centre-Back",32,"Italy",15,7,0,513,2007
+"FC Empoli","Serie A","Italy","Richard Vanigli","https://www.transfermarkt.com/richard-vanigli/profil/spieler/21190","Centre-Back",36,"Italy",29,15,0,743,2007
+"FC Empoli","Serie A","Italy","Daniele Mori","https://www.transfermarkt.com/daniele-mori/profil/spieler/56917","Centre-Back",17,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Andrea Raggi","https://www.transfermarkt.com/andrea-raggi/profil/spieler/28845","Centre-Back",23,"Italy",37,36,1,3018,2007
+"FC Empoli","Serie A","Italy","Francesco Pratali","https://www.transfermarkt.com/francesco-pratali/profil/spieler/6028","Centre-Back",28,"Italy",20,17,0,1360,2007
+"FC Empoli","Serie A","Italy","Luca Antonini","https://www.transfermarkt.com/luca-antonini/profil/spieler/6792","Left-Back",24,"Italy",42,36,2,2660,2007
+"FC Empoli","Serie A","Italy","Felice Prevete","https://www.transfermarkt.com/felice-prevete/profil/spieler/59698","Centre-Back",20,"Italy",1,1,0,90,2007
+"FC Empoli","Serie A","Italy","Andrea Caponi","https://www.transfermarkt.com/andrea-caponi/profil/spieler/56896","Defensive Midfield",19,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Stefano Manzo","https://www.transfermarkt.com/stefano-manzo/profil/spieler/56909","Defensive Midfield",17,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Gianluca Musacci","https://www.transfermarkt.com/gianluca-musacci/profil/spieler/71302","Central Midfield",20,"Italy",3,2,0,91,2007
+"FC Empoli","Serie A","Italy","Davide Moro","https://www.transfermarkt.com/davide-moro/profil/spieler/28841","Central Midfield",25,"Italy",39,35,0,2292,2007
+"FC Empoli","Serie A","Italy","Francesco Marianini","https://www.transfermarkt.com/francesco-marianini/profil/spieler/21936","Central Midfield",28,"Italy",35,28,0,1664,2007
+"FC Empoli","Serie A","Italy","Ighli Vannucchi","https://www.transfermarkt.com/ighli-vannucchi/profil/spieler/6022","Attacking Midfield",29,"Italy",38,37,5,2829,2007
+"FC Empoli","Serie A","Italy","Giuseppe Arvia","https://www.transfermarkt.com/giuseppe-arvia/profil/spieler/56893","Defensive Midfield",19,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Guillermo Giacomazzi","https://www.transfermarkt.com/guillermo-giacomazzi/profil/spieler/6428","Defensive Midfield",29,"Uruguay",33,21,0,1143,2007
+"FC Empoli","Serie A","Italy","Claudio Marchisio","https://www.transfermarkt.com/claudio-marchisio/profil/spieler/44716","Central Midfield",21,"Italy",33,29,0,2127,2007
+"FC Empoli","Serie A","Italy","Antonio Buscè","https://www.transfermarkt.com/antonio-busce/profil/spieler/17174","Right Midfield",31,"Italy",31,31,2,2639,2007
+"FC Empoli","Serie A","Italy","Samuele Pizza","https://www.transfermarkt.com/samuele-pizza/profil/spieler/56924","Central Midfield",18,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Alessandro Budel","https://www.transfermarkt.com/alessandro-budel/profil/spieler/25314","Defensive Midfield",26,"Italy",19,19,2,1452,2007
+"FC Empoli","Serie A","Italy","Salvatore Caturano","https://www.transfermarkt.com/salvatore-caturano/profil/spieler/56898","Centre-Forward",16,"Italy",2,0,0,0,2007
+"FC Empoli","Serie A","Italy","Éder","https://www.transfermarkt.com/eder/profil/spieler/37418","Centre-Forward",20,"Italy",1,0,0,0,2007
+"FC Empoli","Serie A","Italy","Levan Mchedlidze","https://www.transfermarkt.com/levan-mchedlidze/profil/spieler/56912","Centre-Forward",17,"Georgia",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Diego Fabbrini","https://www.transfermarkt.com/diego-fabbrini/profil/spieler/56903","Left Winger",16,"Italy",0,0,0,0,2007
+"FC Empoli","Serie A","Italy","Nicola Pozzi","https://www.transfermarkt.com/nicola-pozzi/profil/spieler/16117","Centre-Forward",21,"Italy",23,21,10,1389,2007
+"FC Empoli","Serie A","Italy","Luca Saudati","https://www.transfermarkt.com/luca-saudati/profil/spieler/6029","Centre-Forward",29,"Italy",33,30,4,2088,2007
+"FC Empoli","Serie A","Italy","Sebastian Giovinco","https://www.transfermarkt.com/sebastian-giovinco/profil/spieler/52312","Second Striker",20,"Italy",39,37,6,2185,2007
+"FC Empoli","Serie A","Italy","Rey Volpato","https://www.transfermarkt.com/rey-volpato/profil/spieler/35847","Centre-Forward",20,"Italy",29,16,0,651,2007
+"FC Empoli","Serie A","Italy","Luca Hemmy","https://www.transfermarkt.com/luca-hemmy/profil/spieler/56907","Centre-Forward",18,"Italy",0,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Marco Amelia","https://www.transfermarkt.com/marco-amelia/profil/spieler/16810","Goalkeeper",25,"Italy",35,33,0,2958,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Alfonso De Lucia","https://www.transfermarkt.com/alfonso-de-lucia/profil/spieler/5853","Goalkeeper",23,"Italy",38,7,0,582,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Antonio Di Matteo","https://www.transfermarkt.com/antonio-di-matteo/profil/spieler/140426","Goalkeeper",18,"Italy",5,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Massimo Piscopo","https://www.transfermarkt.com/massimo-piscopo/profil/spieler/76552","Centre-Back",18,"Italy",2,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Fabio Galante","https://www.transfermarkt.com/fabio-galante/profil/spieler/21886","Centre-Back",33,"Italy",35,35,1,2951,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Dario Knezevic","https://www.transfermarkt.com/dario-knezevic/profil/spieler/27875","Centre-Back",25,"Croatia",38,36,3,3119,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Rahman Rezaei","https://www.transfermarkt.com/rahman-rezaei/profil/spieler/5218","Centre-Back",32,"Iran",17,5,0,217,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Filip Krstic","https://www.transfermarkt.com/filip-krstic/profil/spieler/48292","Centre-Back",18,"Serbia",2,1,0,32,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Giovanni Pasquale","https://www.transfermarkt.com/giovanni-pasquale/profil/spieler/5793","Left-Back",25,"Italy",36,36,0,3221,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Simone Pavan","https://www.transfermarkt.com/simone-pavan/profil/spieler/17149","Centre-Back",33,"Italy",34,17,1,950,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Sidny","https://www.transfermarkt.com/sidny/profil/spieler/54972","Right-Back",25,"Brazil",2,2,0,149,2007
+"US Livorno 1915","Serie D - Girone E","Italy","David Balleri","https://www.transfermarkt.com/david-balleri/profil/spieler/21182","Right-Back",38,"Italy",32,29,0,2230,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Alessandro Grandoni","https://www.transfermarkt.com/alessandro-grandoni/profil/spieler/6751","Centre-Back",29,"Italy",35,34,2,2990,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Matteo Melara","https://www.transfermarkt.com/matteo-melara/profil/spieler/21187","Right-Back",27,"Italy",8,4,0,360,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Edoardo Pasta","https://www.transfermarkt.com/edoardo-pasta/profil/spieler/456539","Defender",17,"Italy",0,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Christian Cacciò","https://www.transfermarkt.com/christian-caccio/profil/spieler/456540","Defender",18,"Italy",0,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Emanuele Filippini","https://www.transfermarkt.com/emanuele-filippini/profil/spieler/5871","Central Midfield",33,"Italy",36,19,0,994,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Antonio Filippini","https://www.transfermarkt.com/antonio-filippini/profil/spieler/5973","Right Midfield",33,"Italy",29,27,0,2030,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Nico Pulzetti","https://www.transfermarkt.com/nico-pulzetti/profil/spieler/38602","Central Midfield",23,"Italy",26,26,2,2011,2007
+"US Livorno 1915","Serie D - Girone E","Italy","José Luís Vidigal","https://www.transfermarkt.com/jose-luis-vidigal/profil/spieler/17407","Central Midfield",34,"Portugal",21,18,1,1371,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Martin Bergvold","https://www.transfermarkt.com/martin-bergvold/profil/spieler/14963","Defensive Midfield",23,"Denmark",14,13,1,868,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Daniele De Vezze","https://www.transfermarkt.com/daniele-de-vezze/profil/spieler/21147","Central Midfield",27,"Italy",28,27,1,1940,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Giuliano Giannichedda","https://www.transfermarkt.com/giuliano-giannichedda/profil/spieler/5844","Defensive Midfield",32,"Italy",10,8,0,424,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Édgar Álvarez","https://www.transfermarkt.com/edgar-alvarez/profil/spieler/28006","Right Midfield",27,"Honduras",17,8,0,246,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Massimo Loviso","https://www.transfermarkt.com/massimo-loviso/profil/spieler/16869","Defensive Midfield",23,"Italy",31,20,2,1480,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Alessandro Diamanti","https://www.transfermarkt.com/alessandro-diamanti/profil/spieler/23197","Attacking Midfield",24,"Italy",34,27,4,1470,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Vikash Dhorasoo","https://www.transfermarkt.com/vikash-dhorasoo/profil/spieler/5351","Central Midfield",33,"France",2,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Tommaso Vailatti","https://www.transfermarkt.com/tommaso-vailatti/profil/spieler/28861","Right Midfield",21,"Italy",7,4,0,73,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Niccolò Rosso","https://www.transfermarkt.com/niccolo-rosso/profil/spieler/355626","midfield",18,"Italy",2,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Simone De Meo","https://www.transfermarkt.com/simone-de-meo/profil/spieler/545751","midfield",18,"Italy",0,0,0,0,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Francesco Tavano","https://www.transfermarkt.com/francesco-tavano/profil/spieler/6020","Centre-Forward",28,"Italy",33,31,11,2459,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Fausto Rossini","https://www.transfermarkt.com/fausto-rossini/profil/spieler/16872","Centre-Forward",29,"Italy",25,21,3,770,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Diego Tristán","https://www.transfermarkt.com/diego-tristan/profil/spieler/7504","Centre-Forward",31,"Spain",29,22,1,1397,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Francesco Volpe","https://www.transfermarkt.com/francesco-volpe/profil/spieler/55002","Right Winger",21,"Italy",5,3,0,124,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Erjon Bogdani","https://www.transfermarkt.com/erjon-bogdani/profil/spieler/6075","Centre-Forward",30,"Albania",34,28,2,1433,2007
+"US Livorno 1915","Serie D - Girone E","Italy","Elia Pellegrini","https://www.transfermarkt.com/elia-pellegrini/profil/spieler/137109","Centre-Forward",17,"Italy",0,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Mauro Vigorito","https://www.transfermarkt.com/mauro-vigorito/profil/spieler/88595","Goalkeeper",17,"Italy",1,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Jan Koprivec","https://www.transfermarkt.com/jan-koprivec/profil/spieler/50286","Goalkeeper",18,"Slovenia",12,2,0,180,2007
+"Cagliari Calcio","Serie A","Italy","Vincenzo Marruocco","https://www.transfermarkt.com/vincenzo-marruocco/profil/spieler/55799","Goalkeeper",28,"Italy",15,5,0,450,2007
+"Cagliari Calcio","Serie A","Italy","Luca Capecchi","https://www.transfermarkt.com/luca-capecchi/profil/spieler/57786","Goalkeeper",32,"Italy",19,1,0,90,2007
+"Cagliari Calcio","Serie A","Italy","Marco Storari","https://www.transfermarkt.com/marco-storari/profil/spieler/19136","Goalkeeper",30,"Italy",20,20,0,1800,2007
+"Cagliari Calcio","Serie A","Italy","Marco Fortin","https://www.transfermarkt.com/marco-fortin/profil/spieler/6808","Goalkeeper",32,"Italy",14,13,0,1170,2007
+"Cagliari Calcio","Serie A","Italy","Cristiano Del Grosso","https://www.transfermarkt.com/cristiano-del-grosso/profil/spieler/34211","Left-Back",24,"Italy",37,19,0,1337,2007
+"Cagliari Calcio","Serie A","Italy","Diego López","https://www.transfermarkt.com/diego-lopez/profil/spieler/20740","Centre-Back",32,"Uruguay",26,26,0,2176,2007
+"Cagliari Calcio","Serie A","Italy","Francesco Pisano","https://www.transfermarkt.com/francesco-pisano/profil/spieler/35733","Right-Back",21,"Italy",23,18,0,1324,2007
+"Cagliari Calcio","Serie A","Italy","Paolo Bianco","https://www.transfermarkt.com/paolo-bianco/profil/spieler/22102","Centre-Back",29,"Italy",32,31,2,2713,2007
+"Cagliari Calcio","Serie A","Italy","Michele Canini","https://www.transfermarkt.com/michele-canini/profil/spieler/19438","Centre-Back",22,"Italy",33,20,0,1725,2007
+"Cagliari Calcio","Serie A","Italy","Joe Bizera","https://www.transfermarkt.com/joe-bizera/profil/spieler/35715","Centre-Back",27,"Uruguay",16,10,0,740,2007
+"Cagliari Calcio","Serie A","Italy","Daniele Magliocchetti","https://www.transfermarkt.com/daniele-magliocchetti/profil/spieler/44290","Centre-Back",21,"Italy",22,5,0,437,2007
+"Cagliari Calcio","Serie A","Italy","Michele Ferri","https://www.transfermarkt.com/michele-ferri/profil/spieler/20920","Centre-Back",26,"Italy",33,29,0,2084,2007
+"Cagliari Calcio","Serie A","Italy","Alessandro Agostini","https://www.transfermarkt.com/alessandro-agostini/profil/spieler/17171","Left-Back",27,"Italy",37,29,0,2473,2007
+"Cagliari Calcio","Serie A","Italy","Claudio Herrera","https://www.transfermarkt.com/claudio-herrera/profil/spieler/68935","Right-Back",19,"Uruguay",1,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Marco Mancosu","https://www.transfermarkt.com/marco-mancosu/profil/spieler/51736","Attacking Midfield",18,"Italy",20,13,0,512,2007
+"Cagliari Calcio","Serie A","Italy","Vítor Gomes","https://www.transfermarkt.com/vitor-gomes/profil/spieler/38780","Defensive Midfield",19,"Portugal",0,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Davide Marchini","https://www.transfermarkt.com/davide-marchini/profil/spieler/38596","Right Midfield",26,"Italy",4,2,0,65,2007
+"Cagliari Calcio","Serie A","Italy","Alessandro Budel","https://www.transfermarkt.com/alessandro-budel/profil/spieler/25314","Defensive Midfield",26,"Italy",16,11,0,655,2007
+"Cagliari Calcio","Serie A","Italy","Daniele Conti","https://www.transfermarkt.com/daniele-conti/profil/spieler/20730","Defensive Midfield",28,"Italy",34,33,5,2875,2007
+"Cagliari Calcio","Serie A","Italy","Andrea Cossu","https://www.transfermarkt.com/andrea-cossu/profil/spieler/21861","Attacking Midfield",27,"Italy",16,16,1,1081,2007
+"Cagliari Calcio","Serie A","Italy","Antonino D'Agostino","https://www.transfermarkt.com/antonino-dagostino/profil/spieler/23353","Right Midfield",28,"Italy",15,14,0,586,2007
+"Cagliari Calcio","Serie A","Italy","Davide Biondini","https://www.transfermarkt.com/davide-biondini/profil/spieler/22186","Central Midfield",24,"Italy",33,27,1,1856,2007
+"Cagliari Calcio","Serie A","Italy","Pasquale Foggia","https://www.transfermarkt.com/pasquale-foggia/profil/spieler/17175","Attacking Midfield",24,"Italy",35,34,5,2143,2007
+"Cagliari Calcio","Serie A","Italy","Sebastián Rosano","https://www.transfermarkt.com/sebastian-rosano/profil/spieler/68934","Right Midfield",20,"Uruguay",0,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Abdoulaye Diarra","https://www.transfermarkt.com/abdoulaye-diarra/profil/spieler/45573","Left Midfield",20,"Cote d'Ivoire",0,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Andrea Parola","https://www.transfermarkt.com/andrea-parola/profil/spieler/21949","Defensive Midfield",28,"Italy",33,33,0,2608,2007
+"Cagliari Calcio","Serie A","Italy","Michele Fini","https://www.transfermarkt.com/michele-fini/profil/spieler/22082","Central Midfield",33,"Italy",32,32,3,1965,2007
+"Cagliari Calcio","Serie A","Italy","Rijat Shala","https://www.transfermarkt.com/rijat-shala/profil/spieler/9916","Central Midfield",23,"Switzerland",2,1,0,90,2007
+"Cagliari Calcio","Serie A","Italy","Rafael Acosta","https://www.transfermarkt.com/rafael-acosta/profil/spieler/57958","Central Midfield",18,"Venezuela",3,1,0,44,2007
+"Cagliari Calcio","Serie A","Italy","Enrico Cotza","https://www.transfermarkt.com/enrico-cotza/profil/spieler/57991","Central Midfield",18,"Italy",11,6,0,251,2007
+"Cagliari Calcio","Serie A","Italy","Davide Meloni","https://www.transfermarkt.com/davide-meloni/profil/spieler/58078","Central Midfield",18,"Italy",1,0,0,0,2007
+"Cagliari Calcio","Serie A","Italy","Davide Puddu","https://www.transfermarkt.com/davide-puddu/profil/spieler/58108","midfield",19,"Italy",1,1,0,90,2007
+"Cagliari Calcio","Serie A","Italy","Daniele Ragatzu","https://www.transfermarkt.com/daniele-ragatzu/profil/spieler/66360","Second Striker",15,"Italy",2,1,0,30,2007
+"Cagliari Calcio","Serie A","Italy","Joaquín Larrivey","https://www.transfermarkt.com/joaquin-larrivey/profil/spieler/52428","Centre-Forward",22,"Argentina",35,29,1,1369,2007
+"Cagliari Calcio","Serie A","Italy","Andrea Cocco","https://www.transfermarkt.com/andrea-cocco/profil/spieler/35719","Centre-Forward",21,"Italy",1,1,0,37,2007
+"Cagliari Calcio","Serie A","Italy","Robert Acquafresca","https://www.transfermarkt.com/robert-acquafresca/profil/spieler/35703","Centre-Forward",19,"Italy",38,34,12,1872,2007
+"Cagliari Calcio","Serie A","Italy","Jeda","https://www.transfermarkt.com/jeda/profil/spieler/21773","Second Striker",28,"Brazil",21,20,3,1638,2007
+"Cagliari Calcio","Serie A","Italy","Alessandro Matri","https://www.transfermarkt.com/alessandro-matri/profil/spieler/40660","Centre-Forward",22,"Italy",39,36,7,2020,2007
+"Cagliari Calcio","Serie A","Italy","Giacomo Garau","https://www.transfermarkt.com/giacomo-garau/profil/spieler/41929","Centre-Forward",19,"Italy",1,1,0,18,2007
+"Cagliari Calcio","Serie A","Italy","Alessandro Dettori","https://www.transfermarkt.com/alessandro-dettori/profil/spieler/445754","Attack",17,"Italy",0,0,0,0,2007

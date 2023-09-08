@@ -1,0 +1,838 @@
+"team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played","season"
+"Juventus FC","Serie A","Italy","Wojciech Szczesny","https://www.transfermarkt.com/wojciech-szczesny/profil/spieler/44058","Goalkeeper",31,"Poland",51,40,0,3600,2021
+"Juventus FC","Serie A","Italy","Mattia Perin","https://www.transfermarkt.com/mattia-perin/profil/spieler/110923","Goalkeeper",28,"Italy",51,12,0,1096,2021
+"Juventus FC","Serie A","Italy","Franco Israel","https://www.transfermarkt.com/franco-israel/profil/spieler/492319","Goalkeeper",21,"Uruguay",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Marco Raina","https://www.transfermarkt.com/marco-raina/profil/spieler/494301","Goalkeeper",19,"Italy",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Zsombor Senkó","https://www.transfermarkt.com/zsombor-senko/profil/spieler/663519","Goalkeeper",18,"Hungary",2,0,0,0,2021
+"Juventus FC","Serie A","Italy","Carlo Pinsoglio","https://www.transfermarkt.com/carlo-pinsoglio/profil/spieler/75411","Goalkeeper",31,"Italy",50,1,0,44,2021
+"Juventus FC","Serie A","Italy","Matthijs de Ligt","https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031","Centre-Back",21,"Netherlands",49,42,3,3691,2021
+"Juventus FC","Serie A","Italy","Danilo","https://www.transfermarkt.com/danilo/profil/spieler/145707","Centre-Back",29,"Brazil",36,31,2,2627,2021
+"Juventus FC","Serie A","Italy","Luca Pellegrini","https://www.transfermarkt.com/luca-pellegrini/profil/spieler/346567","Left-Back",22,"Italy",43,21,0,1238,2021
+"Juventus FC","Serie A","Italy","Koni De Winter","https://www.transfermarkt.com/koni-de-winter/profil/spieler/490384","Centre-Back",19,"Belgium",12,2,0,81,2021
+"Juventus FC","Serie A","Italy","Mattia De Sciglio","https://www.transfermarkt.com/mattia-de-sciglio/profil/spieler/88682","Right-Back",28,"Italy",38,29,1,1886,2021
+"Juventus FC","Serie A","Italy","Alex Sandro","https://www.transfermarkt.com/alex-sandro/profil/spieler/79960","Left-Back",30,"Brazil",44,40,2,2807,2021
+"Juventus FC","Serie A","Italy","Daniele Rugani","https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959","Centre-Back",26,"Italy",47,18,1,1263,2021
+"Juventus FC","Serie A","Italy","Leonardo Bonucci","https://www.transfermarkt.com/leonardo-bonucci/profil/spieler/39983","Centre-Back",34,"Italy",42,34,5,2816,2021
+"Juventus FC","Serie A","Italy","Giorgio Chiellini","https://www.transfermarkt.com/giorgio-chiellini/profil/spieler/29260","Centre-Back",36,"Italy",37,26,0,1602,2021
+"Juventus FC","Serie A","Italy","Diego Stramaccioni","https://www.transfermarkt.com/diego-stramaccioni/profil/spieler/536341","Centre-Back",20,"Italy",3,0,0,0,2021
+"Juventus FC","Serie A","Italy","Rodrigo Bentancur","https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362","Central Midfield",24,"Uruguay",30,26,0,1583,2021
+"Juventus FC","Serie A","Italy","Adrien Rabiot","https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913","Central Midfield",26,"France",47,45,0,3360,2021
+"Juventus FC","Serie A","Italy","Nicolò Fagioli","https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090","Central Midfield",20,"Italy",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Manuel Locatelli","https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088","Defensive Midfield",23,"Italy",44,43,3,3051,2021
+"Juventus FC","Serie A","Italy","Weston McKennie","https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697","Central Midfield",22,"United States",32,29,4,1966,2021
+"Juventus FC","Serie A","Italy","Denis Zakaria","https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526","Defensive Midfield",24,"Switzerland",14,13,1,823,2021
+"Juventus FC","Serie A","Italy","Fabio Miretti","https://www.transfermarkt.com/fabio-miretti/profil/spieler/571607","Central Midfield",17,"Italy",19,7,0,320,2021
+"Juventus FC","Serie A","Italy","Arthur Melo","https://www.transfermarkt.com/arthur-melo/profil/spieler/362842","Central Midfield",24,"Brazil",38,31,0,1534,2021
+"Juventus FC","Serie A","Italy","Juan Cuadrado","https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970","Right Midfield",33,"Colombia",48,45,5,3303,2021
+"Juventus FC","Serie A","Italy","Aaron Ramsey","https://www.transfermarkt.com/aaron-ramsey/profil/spieler/50057","Central Midfield",30,"Wales",11,5,0,112,2021
+"Juventus FC","Serie A","Italy","Hans Nicolussi Caviglia","https://www.transfermarkt.com/hans-nicolussi-caviglia/profil/spieler/430280","Central Midfield",21,"Italy",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Filippo Ranocchia","https://www.transfermarkt.com/filippo-ranocchia/profil/spieler/489611","Central Midfield",20,"Italy",2,0,0,0,2021
+"Juventus FC","Serie A","Italy","Martin Palumbo","https://www.transfermarkt.com/martin-palumbo/profil/spieler/617170","Central Midfield",19,"Norway",1,1,0,12,2021
+"Juventus FC","Serie A","Italy","Emanuele Zuelli","https://www.transfermarkt.com/emanuele-zuelli/profil/spieler/477556","Central Midfield",19,"Italy",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Dusan Vlahovic","https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498","Centre-Forward",21,"Serbia",21,21,9,1641,2021
+"Juventus FC","Serie A","Italy","Dejan Kulusevski","https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755","Right Winger",21,"Sweden",29,27,2,969,2021
+"Juventus FC","Serie A","Italy","Federico Chiesa","https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092","Left Winger",23,"Italy",18,18,4,1205,2021
+"Juventus FC","Serie A","Italy","Paulo Dybala","https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050","Second Striker",27,"Argentina",39,39,15,2614,2021
+"Juventus FC","Serie A","Italy","Álvaro Morata","https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223","Centre-Forward",28,"Spain",49,48,12,3203,2021
+"Juventus FC","Serie A","Italy","Moise Kean","https://www.transfermarkt.com/moise-kean/profil/spieler/364135","Centre-Forward",21,"Italy",43,42,6,1375,2021
+"Juventus FC","Serie A","Italy","Cristiano Ronaldo","https://www.transfermarkt.com/cristiano-ronaldo/profil/spieler/8198","Centre-Forward",36,"Portugal",1,1,0,30,2021
+"Juventus FC","Serie A","Italy","Samuel Iling Junior","https://www.transfermarkt.com/samuel-iling-junior/profil/spieler/581672","Left Winger",17,"England",1,0,0,0,2021
+"Juventus FC","Serie A","Italy","Federico Bernardeschi","https://www.transfermarkt.com/federico-bernardeschi/profil/spieler/197300","Right Winger",27,"Italy",39,36,2,1997,2021
+"Juventus FC","Serie A","Italy","Matías Soulé","https://www.transfermarkt.com/matias-soule/profil/spieler/668951","Right Winger",18,"Argentina",14,2,0,1,2021
+"Juventus FC","Serie A","Italy","Kaio Jorge","https://www.transfermarkt.com/kaio-jorge/profil/spieler/620477","Centre-Forward",19,"Brazil",23,11,0,124,2021
+"Juventus FC","Serie A","Italy","Marley Aké","https://www.transfermarkt.com/marley-ake/profil/spieler/682032","Left Winger",20,"France",17,6,0,135,2021
+"Juventus FC","Serie A","Italy","Cosimo da Graça","https://www.transfermarkt.com/cosimo-da-graca/profil/spieler/564795","Centre-Forward",19,"Italy",1,1,0,0,2021
+"Inter Milan","Serie A","Italy","Ionut Radu","https://www.transfermarkt.com/ionut-radu/profil/spieler/303657","Goalkeeper",24,"Romania",52,2,0,210,2021
+"Inter Milan","Serie A","Italy","Samir Handanovic","https://www.transfermarkt.com/samir-handanovic/profil/spieler/28021","Goalkeeper",36,"Slovenia",52,50,0,4560,2021
+"Inter Milan","Serie A","Italy","Alex Cordaz","https://www.transfermarkt.com/alex-cordaz/profil/spieler/16633","Goalkeeper",38,"Italy",39,0,0,0,2021
+"Inter Milan","Serie A","Italy","William Rovida","https://www.transfermarkt.com/william-rovida/profil/spieler/704337","Goalkeeper",18,"Italy",1,0,0,0,2021
+"Inter Milan","Serie A","Italy","Alessandro Bastoni","https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853","Centre-Back",22,"Italy",46,44,1,3328,2021
+"Inter Milan","Serie A","Italy","Milan Skriniar","https://www.transfermarkt.com/milan-skriniar/profil/spieler/204069","Centre-Back",26,"Slovakia",52,48,4,4380,2021
+"Inter Milan","Serie A","Italy","Federico Dimarco","https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116","Left-Back",23,"Italy",52,42,2,1892,2021
+"Inter Milan","Serie A","Italy","Stefan de Vrij","https://www.transfermarkt.com/stefan-de-vrij/profil/spieler/111196","Centre-Back",29,"Netherlands",45,41,1,3365,2021
+"Inter Milan","Serie A","Italy","Matteo Darmian","https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906","Right-Back",31,"Italy",47,36,2,2047,2021
+"Inter Milan","Serie A","Italy","Danilo D'Ambrosio","https://www.transfermarkt.com/danilo-dambrosio/profil/spieler/55769","Centre-Back",32,"Italy",52,27,1,1421,2021
+"Inter Milan","Serie A","Italy","Franco Carboni","https://www.transfermarkt.com/franco-carboni/profil/spieler/731491","Left-Back",18,"Argentina",6,0,0,0,2021
+"Inter Milan","Serie A","Italy","Mattia Zanotti","https://www.transfermarkt.com/mattia-zanotti/profil/spieler/582353","Right-Back",18,"Italy",5,1,0,8,2021
+"Inter Milan","Serie A","Italy","Fabio Cortinovis","https://www.transfermarkt.com/fabio-cortinovis/profil/spieler/614498","Centre-Back",19,"Italy",2,0,0,0,2021
+"Inter Milan","Serie A","Italy","Aleksandar Kolarov","https://www.transfermarkt.com/aleksandar-kolarov/profil/spieler/46156","Left-Back",35,"Serbia",32,4,0,44,2021
+"Inter Milan","Serie A","Italy","Andrea Ranocchia","https://www.transfermarkt.com/andrea-ranocchia/profil/spieler/44327","Centre-Back",33,"Italy",49,10,1,556,2021
+"Inter Milan","Serie A","Italy","Nicolò Barella","https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942","Central Midfield",24,"Italy",49,48,4,3934,2021
+"Inter Milan","Serie A","Italy","Hakan Calhanoglu","https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414","Central Midfield",27,"Turkey",49,46,8,3356,2021
+"Inter Milan","Serie A","Italy","Denzel Dumfries","https://www.transfermarkt.com/denzel-dumfries/profil/spieler/321528","Right Midfield",25,"Netherlands",52,45,5,2849,2021
+"Inter Milan","Serie A","Italy","Marcelo Brozovic","https://www.transfermarkt.com/marcelo-brozovic/profil/spieler/156617","Defensive Midfield",28,"Croatia",48,48,3,4094,2021
+"Inter Milan","Serie A","Italy","Robin Gosens","https://www.transfermarkt.com/robin-gosens/profil/spieler/273132","Left Midfield",26,"Germany",15,9,1,174,2021
+"Inter Milan","Serie A","Italy","Cesare Casadei","https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380","Central Midfield",18,"Italy",1,0,0,0,2021
+"Inter Milan","Serie A","Italy","Stefano Sensi","https://www.transfermarkt.com/stefano-sensi/profil/spieler/216179","Central Midfield",25,"Italy",23,12,1,195,2021
+"Inter Milan","Serie A","Italy","Lucien Agoumé","https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384","Defensive Midfield",19,"France",1,0,0,0,2021
+"Inter Milan","Serie A","Italy","Ivan Perisic","https://www.transfermarkt.com/ivan-perisic/profil/spieler/42460","Left Midfield",32,"Croatia",51,49,10,3898,2021
+"Inter Milan","Serie A","Italy","Matías Vecino","https://www.transfermarkt.com/matias-vecino/profil/spieler/143812","Central Midfield",29,"Uruguay",47,23,1,557,2021
+"Inter Milan","Serie A","Italy","Roberto Gagliardini","https://www.transfermarkt.com/roberto-gagliardini/profil/spieler/197471","Central Midfield",27,"Italy",49,24,2,786,2021
+"Inter Milan","Serie A","Italy","Arturo Vidal","https://www.transfermarkt.com/arturo-vidal/profil/spieler/37666","Central Midfield",34,"Chile",44,41,2,1377,2021
+"Inter Milan","Serie A","Italy","Mattia Sangalli","https://www.transfermarkt.com/mattia-sangalli/profil/spieler/614500","Defensive Midfield",19,"Italy",6,0,0,0,2021
+"Inter Milan","Serie A","Italy","Lautaro Martínez","https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625","Centre-Forward",23,"Argentina",50,49,25,3292,2021
+"Inter Milan","Serie A","Italy","Andrea Pinamonti","https://www.transfermarkt.com/andrea-pinamonti/profil/spieler/315865","Centre-Forward",22,"Italy",1,0,0,0,2021
+"Inter Milan","Serie A","Italy","Joaquín Correa","https://www.transfermarkt.com/joaquin-correa/profil/spieler/227081","Second Striker",26,"Argentina",37,36,6,1317,2021
+"Inter Milan","Serie A","Italy","Martín Satriano","https://www.transfermarkt.com/martin-satriano/profil/spieler/640109","Centre-Forward",20,"Uruguay",13,4,0,33,2021
+"Inter Milan","Serie A","Italy","Alexis Sánchez","https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433","Centre-Forward",32,"Chile",46,39,9,1345,2021
+"Inter Milan","Serie A","Italy","Edin Dzeko","https://www.transfermarkt.com/edin-dzeko/profil/spieler/28396","Centre-Forward",35,"Bosnia-Herzegovina",52,49,17,3370,2021
+"Inter Milan","Serie A","Italy","Felipe Caicedo","https://www.transfermarkt.com/felipe-caicedo/profil/spieler/37834","Centre-Forward",32,"Ecuador",18,3,0,20,2021
+"Inter Milan","Serie A","Italy","Dennis Curatolo","https://www.transfermarkt.com/dennis-curatolo/profil/spieler/819036","Centre-Forward",17,"Italy",2,0,0,0,2021
+"AC Milan","Serie A","Italy","Mike Maignan","https://www.transfermarkt.com/mike-maignan/profil/spieler/182906","Goalkeeper",25,"France",39,39,0,3540,2021
+"AC Milan","Serie A","Italy","Sebastiano Desplanches","https://www.transfermarkt.com/sebastiano-desplanches/profil/spieler/567465","Goalkeeper",18,"Italy",3,0,0,0,2021
+"AC Milan","Serie A","Italy","Alessandro Plizzari","https://www.transfermarkt.com/alessandro-plizzari/profil/spieler/357991","Goalkeeper",21,"Italy",2,0,0,0,2021
+"AC Milan","Serie A","Italy","Ciprian Tatarusanu","https://www.transfermarkt.com/ciprian-tatarusanu/profil/spieler/55282","Goalkeeper",35,"Romania",45,9,0,810,2021
+"AC Milan","Serie A","Italy","Andreas Jungdal","https://www.transfermarkt.com/andreas-jungdal/profil/spieler/592924","Goalkeeper",19,"Denmark",13,0,0,0,2021
+"AC Milan","Serie A","Italy","Lapo Nava","https://www.transfermarkt.com/lapo-nava/profil/spieler/815563","Goalkeeper",17,"Italy",3,0,0,0,2021
+"AC Milan","Serie A","Italy","Antonio Mirante","https://www.transfermarkt.com/antonio-mirante/profil/spieler/22141","Goalkeeper",37,"Italy",35,0,0,0,2021
+"AC Milan","Serie A","Italy","Theo Hernández","https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808","Left-Back",23,"France",41,41,5,3553,2021
+"AC Milan","Serie A","Italy","Fikayo Tomori","https://www.transfermarkt.com/fikayo-tomori/profil/spieler/303254","Centre-Back",23,"England",41,40,1,3356,2021
+"AC Milan","Serie A","Italy","Pierre Kalulu","https://www.transfermarkt.com/pierre-kalulu/profil/spieler/585949","Centre-Back",21,"France",48,37,1,2516,2021
+"AC Milan","Serie A","Italy","Davide Calabria","https://www.transfermarkt.com/davide-calabria/profil/spieler/262523","Right-Back",24,"Italy",34,33,2,2595,2021
+"AC Milan","Serie A","Italy","Alessio Romagnoli","https://www.transfermarkt.com/alessio-romagnoli/profil/spieler/197747","Centre-Back",26,"Italy",37,26,1,1914,2021
+"AC Milan","Serie A","Italy","Matteo Gabbia","https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167","Centre-Back",21,"Italy",45,10,0,674,2021
+"AC Milan","Serie A","Italy","Fodé Ballo-Touré","https://www.transfermarkt.com/fode-ballo-toure/profil/spieler/296422","Left-Back",24,"Senegal",39,12,0,534,2021
+"AC Milan","Serie A","Italy","Simon Kjaer","https://www.transfermarkt.com/simon-kjaer/profil/spieler/48859","Centre-Back",32,"Denmark",17,14,0,1073,2021
+"AC Milan","Serie A","Italy","Alessandro Florenzi","https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365","Right-Back",30,"Italy",35,30,2,1418,2021
+"AC Milan","Serie A","Italy","Andrea Conti","https://www.transfermarkt.com/andrea-conti/profil/spieler/111227","Right-Back",27,"Italy",14,1,0,12,2021
+"AC Milan","Serie A","Italy","Luca Stanga","https://www.transfermarkt.com/luca-stanga/profil/spieler/621123","Centre-Back",19,"Italy",5,1,0,2,2021
+"AC Milan","Serie A","Italy","Sandro Tonali","https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033","Defensive Midfield",21,"Italy",46,45,5,3151,2021
+"AC Milan","Serie A","Italy","Ismaël Bennacer","https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816","Defensive Midfield",23,"Algeria",40,40,2,2100,2021
+"AC Milan","Serie A","Italy","Franck Kessié","https://www.transfermarkt.com/franck-kessie/profil/spieler/294808","Central Midfield",24,"Cote d'Ivoire",39,39,7,2900,2021
+"AC Milan","Serie A","Italy","Brahim Díaz","https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678","Attacking Midfield",21,"Spain",44,40,4,2438,2021
+"AC Milan","Serie A","Italy","Tommaso Pobega","https://www.transfermarkt.com/tommaso-pobega/profil/spieler/392538","Central Midfield",21,"Italy",1,0,0,0,2021
+"AC Milan","Serie A","Italy","Rade Krunic","https://www.transfermarkt.com/rade-krunic/profil/spieler/259953","Central Midfield",27,"Bosnia-Herzegovina",41,35,0,1810,2021
+"AC Milan","Serie A","Italy","Daniel Maldini","https://www.transfermarkt.com/daniel-maldini/profil/spieler/539134","Attacking Midfield",19,"Italy",39,13,1,239,2021
+"AC Milan","Serie A","Italy","Tiemoué Bakayoko","https://www.transfermarkt.com/tiemoue-bakayoko/profil/spieler/182618","Defensive Midfield",26,"France",37,18,0,607,2021
+"AC Milan","Serie A","Italy","Enrico Di Gesù","https://www.transfermarkt.com/enrico-di-gesu/profil/spieler/582302","Central Midfield",19,"Italy",1,0,0,0,2021
+"AC Milan","Serie A","Italy","Rafael Leão","https://www.transfermarkt.com/rafael-leao/profil/spieler/357164","Left Winger",22,"Portugal",44,42,14,3201,2021
+"AC Milan","Serie A","Italy","Alexis Saelemaekers","https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950","Right Winger",22,"Belgium",48,46,2,2490,2021
+"AC Milan","Serie A","Italy","Samu Castillejo","https://www.transfermarkt.com/samu-castillejo/profil/spieler/195171","Right Winger",26,"Spain",24,5,0,122,2021
+"AC Milan","Serie A","Italy","Ante Rebic","https://www.transfermarkt.com/ante-rebic/profil/spieler/187587","Left Winger",27,"Croatia",32,29,3,1106,2021
+"AC Milan","Serie A","Italy","Junior Messias","https://www.transfermarkt.com/junior-messias/profil/spieler/449151","Right Winger",30,"Brazil",33,32,6,1749,2021
+"AC Milan","Serie A","Italy","Olivier Giroud","https://www.transfermarkt.com/olivier-giroud/profil/spieler/82442","Centre-Forward",34,"France",39,38,14,2520,2021
+"AC Milan","Serie A","Italy","Pietro Pellegri","https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133","Centre-Forward",20,"Italy",12,6,0,127,2021
+"AC Milan","Serie A","Italy","Marko Lazetic","https://www.transfermarkt.com/marko-lazetic/profil/spieler/698548","Centre-Forward",17,"Serbia",7,1,0,4,2021
+"AC Milan","Serie A","Italy","Emil Roback","https://www.transfermarkt.com/emil-roback/profil/spieler/673495","Centre-Forward",18,"Sweden",1,1,0,2,2021
+"AC Milan","Serie A","Italy","Zlatan Ibrahimović","https://www.transfermarkt.com/zlatan-ibrahimovi%C4%87/profil/spieler/3455","Centre-Forward",39,"Sweden",29,27,8,1167,2021
+"SSC Napoli","Serie A","Italy","Alex Meret","https://www.transfermarkt.com/alex-meret/profil/spieler/240414","Goalkeeper",24,"Italy",40,15,0,1324,2021
+"SSC Napoli","Serie A","Italy","David Ospina","https://www.transfermarkt.com/david-ospina/profil/spieler/73396","Goalkeeper",32,"Colombia",45,33,0,2926,2021
+"SSC Napoli","Serie A","Italy","Hubert Idasiak","https://www.transfermarkt.com/hubert-idasiak/profil/spieler/555557","Goalkeeper",19,"Poland",16,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Valerio Boffelli","https://www.transfermarkt.com/valerio-boffelli/profil/spieler/809986","Goalkeeper",16,"Italy",2,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Davide Marfella","https://www.transfermarkt.com/davide-marfella/profil/spieler/417414","Goalkeeper",21,"Italy",35,1,0,10,2021
+"SSC Napoli","Serie A","Italy","Amir Rrahmani","https://www.transfermarkt.com/amir-rrahmani/profil/spieler/257732","Centre-Back",27,"Kosovo",46,41,4,3518,2021
+"SSC Napoli","Serie A","Italy","Giovanni Di Lorenzo","https://www.transfermarkt.com/giovanni-di-lorenzo/profil/spieler/169880","Right-Back",27,"Italy",43,42,1,3713,2021
+"SSC Napoli","Serie A","Italy","Kalidou Koulibaly","https://www.transfermarkt.com/kalidou-koulibaly/profil/spieler/93128","Centre-Back",30,"Senegal",34,34,3,3037,2021
+"SSC Napoli","Serie A","Italy","Mário Rui","https://www.transfermarkt.com/mario-rui/profil/spieler/87884","Left-Back",30,"Portugal",40,39,0,3305,2021
+"SSC Napoli","Serie A","Italy","Alessandro Zanoli","https://www.transfermarkt.com/alessandro-zanoli/profil/spieler/397225","Right-Back",20,"Italy",40,13,0,457,2021
+"SSC Napoli","Serie A","Italy","Axel Tuanzebe","https://www.transfermarkt.com/axel-tuanzebe/profil/spieler/342046","Centre-Back",23,"England",11,2,0,130,2021
+"SSC Napoli","Serie A","Italy","Juan Jesus","https://www.transfermarkt.com/juan-jesus/profil/spieler/121985","Centre-Back",30,"Brazil",47,28,1,1754,2021
+"SSC Napoli","Serie A","Italy","Konstantinos Manolas","https://www.transfermarkt.com/konstantinos-manolas/profil/spieler/104752","Centre-Back",30,"Greece",14,7,0,486,2021
+"SSC Napoli","Serie A","Italy","Faouzi Ghoulam","https://www.transfermarkt.com/faouzi-ghoulam/profil/spieler/126656","Left-Back",30,"Algeria",32,16,0,423,2021
+"SSC Napoli","Serie A","Italy","Kévin Malcuit","https://www.transfermarkt.com/kevin-malcuit/profil/spieler/126711","Right-Back",29,"France",32,13,0,503,2021
+"SSC Napoli","Serie A","Italy","Jonathan Spedalieri","https://www.transfermarkt.com/jonathan-spedalieri/profil/spieler/616142","Centre-Back",19,"Italy",1,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Benedetto Barba","https://www.transfermarkt.com/benedetto-barba/profil/spieler/582354","Centre-Back",18,"Italy",2,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Davide Costanzo","https://www.transfermarkt.com/davide-costanzo/profil/spieler/618505","Centre-Back",18,"Italy",4,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Moussa Mané","https://www.transfermarkt.com/moussa-mane/profil/spieler/877620","Right-Back",17,"Italy",1,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Stanislav Lobotka","https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735","Defensive Midfield",26,"Slovakia",33,26,1,1881,2021
+"SSC Napoli","Serie A","Italy","Frank Anguissa","https://www.transfermarkt.com/frank-anguissa/profil/spieler/354361","Central Midfield",25,"Cameroon",30,30,0,2284,2021
+"SSC Napoli","Serie A","Italy","Piotr Zielinski","https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136","Central Midfield",27,"Poland",43,42,8,2614,2021
+"SSC Napoli","Serie A","Italy","Fabián Ruiz","https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219","Central Midfield",25,"Spain",40,38,7,2798,2021
+"SSC Napoli","Serie A","Italy","Eljif Elmas","https://www.transfermarkt.com/eljif-elmas/profil/spieler/400489","Central Midfield",21,"North Macedonia",46,46,7,2338,2021
+"SSC Napoli","Serie A","Italy","Gianluca Gaetano","https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008","Attacking Midfield",21,"Italy",2,2,0,16,2021
+"SSC Napoli","Serie A","Italy","Diego Demme","https://www.transfermarkt.com/diego-demme/profil/spieler/82070","Defensive Midfield",29,"Germany",39,25,1,1039,2021
+"SSC Napoli","Serie A","Italy","Luca Palmiero","https://www.transfermarkt.com/luca-palmiero/profil/spieler/240357","Defensive Midfield",25,"Italy",2,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Antonio Vergara","https://www.transfermarkt.com/antonio-vergara/profil/spieler/703245","Attacking Midfield",18,"Italy",5,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Victor Osimhen","https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923","Centre-Forward",22,"Nigeria",32,32,18,2310,2021
+"SSC Napoli","Serie A","Italy","Hirving Lozano","https://www.transfermarkt.com/hirving-lozano/profil/spieler/316889","Right Winger",25,"Mexico",38,37,6,1997,2021
+"SSC Napoli","Serie A","Italy","Matteo Politano","https://www.transfermarkt.com/matteo-politano/profil/spieler/165895","Right Winger",27,"Italy",42,39,5,1906,2021
+"SSC Napoli","Serie A","Italy","Andrea Petagna","https://www.transfermarkt.com/andrea-petagna/profil/spieler/199258","Centre-Forward",26,"Italy",44,32,4,1004,2021
+"SSC Napoli","Serie A","Italy","Lorenzo Insigne","https://www.transfermarkt.com/lorenzo-insigne/profil/spieler/133964","Left Winger",30,"Italy",38,37,13,2652,2021
+"SSC Napoli","Serie A","Italy","Adam Ounas","https://www.transfermarkt.com/adam-ounas/profil/spieler/400485","Right Winger",24,"Algeria",27,21,2,439,2021
+"SSC Napoli","Serie A","Italy","Dries Mertens","https://www.transfermarkt.com/dries-mertens/profil/spieler/56416","Second Striker",34,"Belgium",41,37,13,1736,2021
+"SSC Napoli","Serie A","Italy","Giuseppe Ambrosino","https://www.transfermarkt.com/giuseppe-ambrosino/profil/spieler/707295","Centre-Forward",17,"Italy",2,0,0,0,2021
+"SSC Napoli","Serie A","Italy","Antonio Cioffi","https://www.transfermarkt.com/antonio-cioffi/profil/spieler/566936","Left Winger",18,"Italy",3,1,0,29,2021
+"Atalanta BC","Serie A","Italy","Juan Musso","https://www.transfermarkt.com/juan-musso/profil/spieler/242359","Goalkeeper",27,"Argentina",51,47,0,4193,2021
+"Atalanta BC","Serie A","Italy","Marco Sportiello","https://www.transfermarkt.com/marco-sportiello/profil/spieler/199976","Goalkeeper",29,"Italy",50,5,0,450,2021
+"Atalanta BC","Serie A","Italy","Jacopo Sassi","https://www.transfermarkt.com/jacopo-sassi/profil/spieler/617808","Goalkeeper",17,"Italy",2,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Tommaso Bertini","https://www.transfermarkt.com/tommaso-bertini/profil/spieler/667060","Goalkeeper",17,"Italy",2,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Francesco Rossi","https://www.transfermarkt.com/francesco-rossi/profil/spieler/126634","Goalkeeper",30,"Italy",50,1,0,36,2021
+"Atalanta BC","Serie A","Italy","Matevz Dajcar","https://www.transfermarkt.com/matevz-dajcar/profil/spieler/704079","Goalkeeper",19,"Slovenia",1,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Giorgio Scalvini","https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604","Centre-Back",17,"Italy",45,21,1,873,2021
+"Atalanta BC","Serie A","Italy","Merih Demiral","https://www.transfermarkt.com/merih-demiral/profil/spieler/340879","Centre-Back",23,"Turkey",48,42,2,2986,2021
+"Atalanta BC","Serie A","Italy","Joakim Maehle","https://www.transfermarkt.com/joakim-maehle/profil/spieler/369674","Right-Back",24,"Denmark",44,35,3,2101,2021
+"Atalanta BC","Serie A","Italy","Berat Djimsiti","https://www.transfermarkt.com/berat-djimsiti/profil/spieler/165513","Centre-Back",28,"Albania",43,41,3,2932,2021
+"Atalanta BC","Serie A","Italy","Davide Zappacosta","https://www.transfermarkt.com/davide-zappacosta/profil/spieler/173859","Right-Back",29,"Italy",48,45,2,3184,2021
+"Atalanta BC","Serie A","Italy","Matteo Lovato","https://www.transfermarkt.com/matteo-lovato/profil/spieler/459655","Centre-Back",21,"Italy",20,7,0,347,2021
+"Atalanta BC","Serie A","Italy","Rafael Tolói","https://www.transfermarkt.com/rafael-toloi/profil/spieler/72441","Centre-Back",30,"Italy",29,28,1,2079,2021
+"Atalanta BC","Serie A","Italy","Hans Hateboer","https://www.transfermarkt.com/hans-hateboer/profil/spieler/275303","Right-Back",27,"Netherlands",32,30,0,2112,2021
+"Atalanta BC","Serie A","Italy","Giorgio Cittadini","https://www.transfermarkt.com/giorgio-cittadini/profil/spieler/616628","Centre-Back",19,"Italy",15,3,0,1,2021
+"Atalanta BC","Serie A","Italy","Enrico Del Prato","https://www.transfermarkt.com/enrico-del-prato/profil/spieler/392956","Right-Back",21,"Italy",1,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Bosko Sutalo","https://www.transfermarkt.com/bosko-sutalo/profil/spieler/431698","Centre-Back",21,"Croatia",1,0,0,0,2021
+"Atalanta BC","Serie A","Italy","José Luis Palomino","https://www.transfermarkt.com/jose-luis-palomino/profil/spieler/125020","Centre-Back",31,"Argentina",46,45,2,3539,2021
+"Atalanta BC","Serie A","Italy","Giuseppe Pezzella","https://www.transfermarkt.com/giuseppe-pezzella/profil/spieler/336960","Left-Back",23,"Italy",45,29,0,1301,2021
+"Atalanta BC","Serie A","Italy","Teun Koopmeiners","https://www.transfermarkt.com/teun-koopmeiners/profil/spieler/360518","Defensive Midfield",23,"Netherlands",48,43,4,2915,2021
+"Atalanta BC","Serie A","Italy","Mario Pasalic","https://www.transfermarkt.com/mario-pasalic/profil/spieler/205938","Attacking Midfield",26,"Croatia",51,48,14,2527,2021
+"Atalanta BC","Serie A","Italy","Robin Gosens","https://www.transfermarkt.com/robin-gosens/profil/spieler/273132","Left Midfield",26,"Germany",8,8,2,562,2021
+"Atalanta BC","Serie A","Italy","Ruslan Malinovskyi","https://www.transfermarkt.com/ruslan-malinovskyi/profil/spieler/207877","Attacking Midfield",28,"Ukraine",44,41,10,2313,2021
+"Atalanta BC","Serie A","Italy","Matteo Pessina","https://www.transfermarkt.com/matteo-pessina/profil/spieler/332179","Central Midfield",24,"Italy",46,37,2,1936,2021
+"Atalanta BC","Serie A","Italy","Aleksey Miranchuk","https://www.transfermarkt.com/aleksey-miranchuk/profil/spieler/255450","Attacking Midfield",25,"Russia",43,25,2,943,2021
+"Atalanta BC","Serie A","Italy","Marten de Roon","https://www.transfermarkt.com/marten-de-roon/profil/spieler/133179","Defensive Midfield",30,"Netherlands",45,44,3,3667,2021
+"Atalanta BC","Serie A","Italy","Remo Freuler","https://www.transfermarkt.com/remo-freuler/profil/spieler/148252","Central Midfield",29,"Switzerland",48,43,2,3528,2021
+"Atalanta BC","Serie A","Italy","Jacopo Da Riva","https://www.transfermarkt.com/jacopo-da-riva/profil/spieler/430503","Central Midfield",20,"Italy",1,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Samuel Giovane","https://www.transfermarkt.com/samuel-giovane/profil/spieler/567470","Central Midfield",18,"Italy",1,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Alassane Sidibe","https://www.transfermarkt.com/alassane-sidibe/profil/spieler/616638","Central Midfield",19,"Cote d'Ivoire",1,1,0,5,2021
+"Atalanta BC","Serie A","Italy","Andrea Oliveri","https://www.transfermarkt.com/andrea-oliveri/profil/spieler/663939","Right Midfield",18,"Italy",4,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Simone Panada","https://www.transfermarkt.com/simone-panada/profil/spieler/487836","Defensive Midfield",19,"Italy",3,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Federico Zuccon","https://www.transfermarkt.com/federico-zuccon/profil/spieler/567472","Central Midfield",18,"Italy",3,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Josip Ilicic","https://www.transfermarkt.com/josip-ilicic/profil/spieler/80351","Attacking Midfield",33,"Slovenia",27,24,4,1085,2021
+"Atalanta BC","Serie A","Italy","Guillaume Renault","https://www.transfermarkt.com/guillaume-renault/profil/spieler/487846","Right Midfield",19,"Italy",2,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Jérémie Boga","https://www.transfermarkt.com/jeremie-boga/profil/spieler/216569","Left Winger",24,"Cote d'Ivoire",22,22,2,1072,2021
+"Atalanta BC","Serie A","Italy","Duván Zapata","https://www.transfermarkt.com/duvan-zapata/profil/spieler/73794","Centre-Forward",30,"Colombia",34,32,13,2313,2021
+"Atalanta BC","Serie A","Italy","Luis Muriel","https://www.transfermarkt.com/luis-muriel/profil/spieler/119228","Centre-Forward",30,"Colombia",43,39,14,2057,2021
+"Atalanta BC","Serie A","Italy","Roberto Piccoli","https://www.transfermarkt.com/roberto-piccoli/profil/spieler/432092","Centre-Forward",20,"Italy",27,12,1,185,2021
+"Atalanta BC","Serie A","Italy","Valentin Mihaila","https://www.transfermarkt.com/valentin-mihaila/profil/spieler/535469","Left Winger",21,"Romania",23,7,0,98,2021
+"Atalanta BC","Serie A","Italy","Sam Lammers","https://www.transfermarkt.com/sam-lammers/profil/spieler/386914","Centre-Forward",24,"Netherlands",2,2,0,36,2021
+"Atalanta BC","Serie A","Italy","Moustapha Cissé","https://www.transfermarkt.com/moustapha-cisse/profil/spieler/988862","Centre-Forward",17,"Guinea",7,3,1,35,2021
+"Atalanta BC","Serie A","Italy","Bryan Cabezas","https://www.transfermarkt.com/bryan-cabezas/profil/spieler/312735","Left Winger",24,"Ecuador",0,0,0,0,2021
+"Atalanta BC","Serie A","Italy","Tommaso De Nipoti","https://www.transfermarkt.com/tommaso-de-nipoti/profil/spieler/622031","Second Striker",17,"Italy",4,1,0,5,2021
+"AS Roma","Serie A","Italy","Rui Patrício","https://www.transfermarkt.com/rui-patricio/profil/spieler/45026","Goalkeeper",33,"Portugal",54,54,0,4860,2021
+"AS Roma","Serie A","Italy","Daniel Fuzato","https://www.transfermarkt.com/daniel-fuzato/profil/spieler/438682","Goalkeeper",23,"Brazil",52,1,0,79,2021
+"AS Roma","Serie A","Italy","Pietro Boer","https://www.transfermarkt.com/pietro-boer/profil/spieler/581604","Goalkeeper",19,"Italy",31,0,0,0,2021
+"AS Roma","Serie A","Italy","Davide Mastrantonio","https://www.transfermarkt.com/davide-mastrantonio/profil/spieler/703227","Goalkeeper",17,"Italy",4,0,0,0,2021
+"AS Roma","Serie A","Italy","Roger Ibañez","https://www.transfermarkt.com/roger-ibanez/profil/spieler/524481","Centre-Back",22,"Brazil",52,51,4,4257,2021
+"AS Roma","Serie A","Italy","Gianluca Mancini","https://www.transfermarkt.com/gianluca-mancini/profil/spieler/256448","Centre-Back",25,"Italy",49,46,1,4032,2021
+"AS Roma","Serie A","Italy","Leonardo Spinazzola","https://www.transfermarkt.com/leonardo-spinazzola/profil/spieler/118689","Left-Back",28,"Italy",10,4,0,152,2021
+"AS Roma","Serie A","Italy","Matías Viña","https://www.transfermarkt.com/matias-vina/profil/spieler/439072","Left-Back",23,"Uruguay",48,37,0,2104,2021
+"AS Roma","Serie A","Italy","Chris Smalling","https://www.transfermarkt.com/chris-smalling/profil/spieler/103427","Centre-Back",31,"England",41,38,4,2902,2021
+"AS Roma","Serie A","Italy","Marash Kumbulla","https://www.transfermarkt.com/marash-kumbulla/profil/spieler/371371","Centre-Back",21,"Albania",52,28,1,1801,2021
+"AS Roma","Serie A","Italy","Rick Karsdorp","https://www.transfermarkt.com/rick-karsdorp/profil/spieler/205006","Right-Back",26,"Netherlands",51,51,0,4083,2021
+"AS Roma","Serie A","Italy","Riccardo Calafiori","https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821","Left-Back",19,"Italy",25,9,0,429,2021
+"AS Roma","Serie A","Italy","Bryan Reynolds","https://www.transfermarkt.com/bryan-reynolds/profil/spieler/475208","Right-Back",20,"United States",17,3,0,88,2021
+"AS Roma","Serie A","Italy","Filippo Missori","https://www.transfermarkt.com/filippo-missori/profil/spieler/650993","Right-Back",17,"Italy",4,1,0,11,2021
+"AS Roma","Serie A","Italy","Maissa Ndiaye","https://www.transfermarkt.com/maissa-ndiaye/profil/spieler/716411","Centre-Back",19,"Senegal",2,0,0,0,2021
+"AS Roma","Serie A","Italy","Dimitrios Keramitsis","https://www.transfermarkt.com/dimitrios-keramitsis/profil/spieler/861192","Centre-Back",17,"Greece",8,1,0,4,2021
+"AS Roma","Serie A","Italy","Jan Oliveras","https://www.transfermarkt.com/jan-oliveras/profil/spieler/709970","Left-Back",16,"Spain",2,0,0,0,2021
+"AS Roma","Serie A","Italy","Davide Santon","https://www.transfermarkt.com/davide-santon/profil/spieler/84344","Left-Back",30,"Italy",0,0,0,0,2021
+"AS Roma","Serie A","Italy","Lorenzo Pellegrini","https://www.transfermarkt.com/lorenzo-pellegrini/profil/spieler/286297","Attacking Midfield",25,"Italy",42,41,14,3223,2021
+"AS Roma","Serie A","Italy","Nicolò Zaniolo","https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085","Attacking Midfield",21,"Italy",45,42,8,2881,2021
+"AS Roma","Serie A","Italy","Bryan Cristante","https://www.transfermarkt.com/bryan-cristante/profil/spieler/199248","Defensive Midfield",26,"Italy",50,50,3,3828,2021
+"AS Roma","Serie A","Italy","Nicola Zalewski","https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108","Left Midfield",19,"Poland",50,24,0,1206,2021
+"AS Roma","Serie A","Italy","Jordan Veretout","https://www.transfermarkt.com/jordan-veretout/profil/spieler/164771","Central Midfield",28,"France",51,50,4,3098,2021
+"AS Roma","Serie A","Italy","Edoardo Bove","https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049","Central Midfield",19,"Italy",48,13,1,110,2021
+"AS Roma","Serie A","Italy","Ainsley Maitland-Niles","https://www.transfermarkt.com/ainsley-maitland-niles/profil/spieler/285845","Central Midfield",23,"England",27,12,0,651,2021
+"AS Roma","Serie A","Italy","Sérgio Oliveira","https://www.transfermarkt.com/sergio-oliveira/profil/spieler/112465","Central Midfield",29,"Portugal",23,22,3,1426,2021
+"AS Roma","Serie A","Italy","Henrikh Mkhitaryan","https://www.transfermarkt.com/henrikh-mkhitaryan/profil/spieler/55735","Central Midfield",32,"Armenia",47,44,5,3360,2021
+"AS Roma","Serie A","Italy","Cristian Volpato","https://www.transfermarkt.com/cristian-volpato/profil/spieler/746891","Attacking Midfield",17,"Italy",9,3,1,34,2021
+"AS Roma","Serie A","Italy","Gonzalo Villar","https://www.transfermarkt.com/gonzalo-villar/profil/spieler/398163","Central Midfield",23,"Spain",18,6,0,205,2021
+"AS Roma","Serie A","Italy","Amadou Diawara","https://www.transfermarkt.com/amadou-diawara/profil/spieler/355501","Defensive Midfield",23,"Guinea",40,8,0,307,2021
+"AS Roma","Serie A","Italy","Ebrima Darboe","https://www.transfermarkt.com/ebrima-darboe/profil/spieler/647484","Defensive Midfield",20,"The Gambia",33,5,0,231,2021
+"AS Roma","Serie A","Italy","Filippo Tripi","https://www.transfermarkt.com/filippo-tripi/profil/spieler/628645","Defensive Midfield",19,"Italy",10,0,0,0,2021
+"AS Roma","Serie A","Italy","Tammy Abraham","https://www.transfermarkt.com/tammy-abraham/profil/spieler/331726","Centre-Forward",23,"England",53,53,27,4257,2021
+"AS Roma","Serie A","Italy","Borja Mayoral","https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976","Centre-Forward",24,"Spain",24,11,1,250,2021
+"AS Roma","Serie A","Italy","Eldor Shomurodov","https://www.transfermarkt.com/eldor-shomurodov/profil/spieler/358166","Centre-Forward",26,"Uzbekistan",54,40,5,1188,2021
+"AS Roma","Serie A","Italy","Carles Pérez","https://www.transfermarkt.com/carles-perez/profil/spieler/282810","Right Winger",23,"Spain",51,28,3,994,2021
+"AS Roma","Serie A","Italy","Felix Afena-Gyan","https://www.transfermarkt.com/felix-afena-gyan/profil/spieler/872380","Centre-Forward",18,"Ghana",34,22,2,774,2021
+"AS Roma","Serie A","Italy","Stephan El Shaarawy","https://www.transfermarkt.com/stephan-el-shaarawy/profil/spieler/94529","Left Winger",28,"Italy",46,36,7,1523,2021
+"AS Roma","Serie A","Italy","Joel Voelkerling Persson","https://www.transfermarkt.com/joel-voelkerling-persson/profil/spieler/647534","Centre-Forward",18,"Sweden",1,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Bartlomiej Dragowski","https://www.transfermarkt.com/bartlomiej-dragowski/profil/spieler/208166","Goalkeeper",23,"Poland",29,9,0,690,2021
+"ACF Fiorentina","Serie A","Italy","Pietro Terracciano","https://www.transfermarkt.com/pietro-terracciano/profil/spieler/96254","Goalkeeper",31,"Italy",42,36,0,3201,2021
+"ACF Fiorentina","Serie A","Italy","Michele Cerofolini","https://www.transfermarkt.com/michele-cerofolini/profil/spieler/370701","Goalkeeper",22,"Italy",8,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Antonio Rosati","https://www.transfermarkt.com/antonio-rosati/profil/spieler/6442","Goalkeeper",38,"Italy",33,1,0,90,2021
+"ACF Fiorentina","Serie A","Italy","Nikola Milenkovic","https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507","Centre-Back",23,"Serbia",41,39,3,3329,2021
+"ACF Fiorentina","Serie A","Italy","Lucas Martínez Quarta","https://www.transfermarkt.com/lucas-martinez-quarta/profil/spieler/373373","Centre-Back",25,"Argentina",39,22,1,1598,2021
+"ACF Fiorentina","Serie A","Italy","Igor","https://www.transfermarkt.com/igor/profil/spieler/380350","Centre-Back",23,"Brazil",44,35,0,2626,2021
+"ACF Fiorentina","Serie A","Italy","Cristiano Biraghi","https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555","Left-Back",28,"Italy",43,42,5,3644,2021
+"ACF Fiorentina","Serie A","Italy","Germán Pezzella","https://www.transfermarkt.com/german-pezzella/profil/spieler/113133","Centre-Back",30,"Argentina",1,1,0,90,2021
+"ACF Fiorentina","Serie A","Italy","Álvaro Odriozola","https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730","Right-Back",25,"Spain",35,27,1,1868,2021
+"ACF Fiorentina","Serie A","Italy","Luca Ranieri","https://www.transfermarkt.com/luca-ranieri/profil/spieler/346561","Centre-Back",22,"Italy",2,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Aleksa Terzic","https://www.transfermarkt.com/aleksa-terzic/profil/spieler/404260","Left-Back",21,"Serbia",44,15,0,350,2021
+"ACF Fiorentina","Serie A","Italy","Lorenzo Venuti","https://www.transfermarkt.com/lorenzo-venuti/profil/spieler/240219","Right-Back",26,"Italy",41,28,2,1990,2021
+"ACF Fiorentina","Serie A","Italy","Matija Nastasic","https://www.transfermarkt.com/matija-nastasic/profil/spieler/143559","Centre-Back",28,"Serbia",32,6,0,305,2021
+"ACF Fiorentina","Serie A","Italy","Filippo Frison","https://www.transfermarkt.com/filippo-frison/profil/spieler/610383","Centre-Back",18,"Italy",4,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Sofyan Amrabat","https://www.transfermarkt.com/sofyan-amrabat/profil/spieler/287579","Defensive Midfield",24,"Morocco",35,25,1,1051,2021
+"ACF Fiorentina","Serie A","Italy","Lucas Torreira","https://www.transfermarkt.com/lucas-torreira/profil/spieler/318077","Defensive Midfield",25,"Uruguay",39,35,5,2550,2021
+"ACF Fiorentina","Serie A","Italy","Gaetano Castrovilli","https://www.transfermarkt.com/gaetano-castrovilli/profil/spieler/303116","Central Midfield",24,"Italy",29,27,1,1649,2021
+"ACF Fiorentina","Serie A","Italy","Erick Pulgar","https://www.transfermarkt.com/erick-pulgar/profil/spieler/215616","Defensive Midfield",27,"Chile",15,8,0,441,2021
+"ACF Fiorentina","Serie A","Italy","Youssef Maleh","https://www.transfermarkt.com/youssef-maleh/profil/spieler/324377","Central Midfield",22,"Morocco",43,33,3,1335,2021
+"ACF Fiorentina","Serie A","Italy","Alfred Duncan","https://www.transfermarkt.com/alfred-duncan/profil/spieler/184894","Central Midfield",28,"Ghana",44,37,2,2081,2021
+"ACF Fiorentina","Serie A","Italy","Giacomo Bonaventura","https://www.transfermarkt.com/giacomo-bonaventura/profil/spieler/57280","Central Midfield",31,"Italy",38,35,4,2511,2021
+"ACF Fiorentina","Serie A","Italy","Riccardo Saponara","https://www.transfermarkt.com/riccardo-saponara/profil/spieler/88909","Attacking Midfield",29,"Italy",41,34,3,1549,2021
+"ACF Fiorentina","Serie A","Italy","Marco Benassi","https://www.transfermarkt.com/marco-benassi/profil/spieler/201040","Central Midfield",26,"Italy",20,8,0,234,2021
+"ACF Fiorentina","Serie A","Italy","Alessandro Bianco","https://www.transfermarkt.com/alessandro-bianco/profil/spieler/602124","Central Midfield",18,"Italy",7,2,0,4,2021
+"ACF Fiorentina","Serie A","Italy","Vittorio Agostinelli","https://www.transfermarkt.com/vittorio-agostinelli/profil/spieler/561150","Attacking Midfield",19,"Italy",1,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Dusan Vlahovic","https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498","Centre-Forward",21,"Serbia",24,24,20,2038,2021
+"ACF Fiorentina","Serie A","Italy","Nicolás González","https://www.transfermarkt.com/nicolas-gonzalez/profil/spieler/486031","Right Winger",23,"Argentina",40,39,8,2698,2021
+"ACF Fiorentina","Serie A","Italy","Arthur Cabral","https://www.transfermarkt.com/arthur-cabral/profil/spieler/390638","Centre-Forward",23,"Brazil",19,16,2,864,2021
+"ACF Fiorentina","Serie A","Italy","Jonathan Ikoné","https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690","Right Winger",23,"France",23,21,1,856,2021
+"ACF Fiorentina","Serie A","Italy","Riccardo Sottil","https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455","Left Winger",22,"Italy",38,29,4,1432,2021
+"ACF Fiorentina","Serie A","Italy","Krzysztof Piatek","https://www.transfermarkt.com/krzysztof-piatek/profil/spieler/327757","Centre-Forward",26,"Poland",22,18,6,949,2021
+"ACF Fiorentina","Serie A","Italy","Louis Munteanu","https://www.transfermarkt.com/louis-munteanu/profil/spieler/547786","Centre-Forward",19,"Romania",12,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","José Callejón","https://www.transfermarkt.com/jose-callejon/profil/spieler/61253","Right Winger",34,"Spain",44,33,1,1456,2021
+"ACF Fiorentina","Serie A","Italy","Aleksandr Kokorin","https://www.transfermarkt.com/aleksandr-kokorin/profil/spieler/89086","Second Striker",30,"Russia",31,7,0,125,2021
+"ACF Fiorentina","Serie A","Italy","Filippo Distefano","https://www.transfermarkt.com/filippo-distefano/profil/spieler/669915","Second Striker",17,"Italy",2,1,0,1,2021
+"ACF Fiorentina","Serie A","Italy","Eljon Toci","https://www.transfermarkt.com/eljon-toci/profil/spieler/724418","Centre-Forward",18,"Albania",1,0,0,0,2021
+"ACF Fiorentina","Serie A","Italy","Destiny Egharevba","https://www.transfermarkt.com/destiny-egharevba/profil/spieler/704176","Right Winger",18,"Italy",4,0,0,0,2021
+"SS Lazio","Serie A","Italy","Thomas Strakosha","https://www.transfermarkt.com/thomas-strakosha/profil/spieler/222209","Goalkeeper",26,"Albania",48,31,0,2790,2021
+"SS Lazio","Serie A","Italy","Pepe Reina","https://www.transfermarkt.com/pepe-reina/profil/spieler/7825","Goalkeeper",38,"Spain",48,17,0,1560,2021
+"SS Lazio","Serie A","Italy","Marius Adamonis","https://www.transfermarkt.com/marius-adamonis/profil/spieler/300137","Goalkeeper",24,"Lithuania",39,0,0,0,2021
+"SS Lazio","Serie A","Italy","Alessio Furlanetto","https://www.transfermarkt.com/alessio-furlanetto/profil/spieler/538079","Goalkeeper",19,"Italy",8,0,0,0,2021
+"SS Lazio","Serie A","Italy","Luiz Felipe","https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931","Centre-Back",24,"Italy",44,40,0,3327,2021
+"SS Lazio","Serie A","Italy","Adam Marusic","https://www.transfermarkt.com/adam-marusic/profil/spieler/239802","Left-Back",28,"Montenegro",44,41,1,3332,2021
+"SS Lazio","Serie A","Italy","Manuel Lazzari","https://www.transfermarkt.com/manuel-lazzari/profil/spieler/331401","Right-Back",27,"Italy",42,39,3,2121,2021
+"SS Lazio","Serie A","Italy","Patric","https://www.transfermarkt.com/patric/profil/spieler/126729","Centre-Back",28,"Spain",46,30,2,2217,2021
+"SS Lazio","Serie A","Italy","Elseid Hysaj","https://www.transfermarkt.com/elseid-hysaj/profil/spieler/200056","Right-Back",27,"Albania",46,38,1,2609,2021
+"SS Lazio","Serie A","Italy","Francesco Acerbi","https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075","Centre-Back",33,"Italy",37,36,4,3077,2021
+"SS Lazio","Serie A","Italy","Denis Vavro","https://www.transfermarkt.com/denis-vavro/profil/spieler/239962","Centre-Back",25,"Slovakia",14,2,0,12,2021
+"SS Lazio","Serie A","Italy","Dimitrije Kamenovic","https://www.transfermarkt.com/dimitrije-kamenovic/profil/spieler/465565","Left-Back",20,"Serbia",17,1,0,44,2021
+"SS Lazio","Serie A","Italy","Romano Floriani Mussolini","https://www.transfermarkt.com/romano-floriani-mussolini/profil/spieler/708086","Right-Back",18,"Italy",8,0,0,0,2021
+"SS Lazio","Serie A","Italy","Stefan Radu","https://www.transfermarkt.com/stefan-radu/profil/spieler/44420","Left-Back",34,"Romania",42,12,0,681,2021
+"SS Lazio","Serie A","Italy","Sergej Milinkovic-Savic","https://www.transfermarkt.com/sergej-milinkovic-savic/profil/spieler/266302","Central Midfield",26,"Serbia",47,47,11,3777,2021
+"SS Lazio","Serie A","Italy","Luis Alberto","https://www.transfermarkt.com/luis-alberto/profil/spieler/128220","Central Midfield",28,"Spain",45,44,5,3002,2021
+"SS Lazio","Serie A","Italy","Danilo Cataldi","https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733","Defensive Midfield",26,"Italy",43,42,2,2121,2021
+"SS Lazio","Serie A","Italy","Toma Basic","https://www.transfermarkt.com/toma-basic/profil/spieler/334835","Central Midfield",24,"Croatia",45,37,1,1414,2021
+"SS Lazio","Serie A","Italy","Gonzalo Escalante","https://www.transfermarkt.com/gonzalo-escalante/profil/spieler/266795","Central Midfield",28,"Argentina",22,1,0,8,2021
+"SS Lazio","Serie A","Italy","Jean-Daniel Akpa Akpro","https://www.transfermarkt.com/jean-daniel-akpa-akpro/profil/spieler/170481","Central Midfield",28,"Cote d'Ivoire",39,13,0,415,2021
+"SS Lazio","Serie A","Italy","André Anderson","https://www.transfermarkt.com/andre-anderson/profil/spieler/601577","Attacking Midfield",21,"Italy",19,4,0,61,2021
+"SS Lazio","Serie A","Italy","Patryk Dziczek","https://www.transfermarkt.com/patryk-dziczek/profil/spieler/289165","Defensive Midfield",23,"Poland",0,0,0,0,2021
+"SS Lazio","Serie A","Italy","Marco Bertini","https://www.transfermarkt.com/marco-bertini/profil/spieler/613539","Defensive Midfield",18,"Italy",4,0,0,0,2021
+"SS Lazio","Serie A","Italy","Lucas Leiva","https://www.transfermarkt.com/lucas-leiva/profil/spieler/41414","Defensive Midfield",34,"Brazil",47,45,0,2210,2021
+"SS Lazio","Serie A","Italy","Mattia Zaccagni","https://www.transfermarkt.com/mattia-zaccagni/profil/spieler/283735","Left Winger",26,"Italy",36,36,5,2437,2021
+"SS Lazio","Serie A","Italy","Vedat Muriqi","https://www.transfermarkt.com/vedat-muriqi/profil/spieler/256267","Centre-Forward",27,"Kosovo",30,15,0,384,2021
+"SS Lazio","Serie A","Italy","Felipe Anderson","https://www.transfermarkt.com/felipe-anderson/profil/spieler/159372","Right Winger",28,"Brazil",48,48,7,3590,2021
+"SS Lazio","Serie A","Italy","Ciro Immobile","https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521","Centre-Forward",31,"Italy",40,40,32,3357,2021
+"SS Lazio","Serie A","Italy","Jovane","https://www.transfermarkt.com/jovane/profil/spieler/448466","Left Winger",23,"Cape Verde",17,4,1,197,2021
+"SS Lazio","Serie A","Italy","Luka Romero","https://www.transfermarkt.com/luka-romero/profil/spieler/769063","Right Winger",16,"Argentina",36,9,0,90,2021
+"SS Lazio","Serie A","Italy","Raúl Moro","https://www.transfermarkt.com/raul-moro/profil/spieler/624942","Left Winger",18,"Spain",45,18,0,357,2021
+"SS Lazio","Serie A","Italy","Pedro","https://www.transfermarkt.com/pedro/profil/spieler/65278","Right Winger",33,"Spain",41,41,10,2565,2021
+"SS Lazio","Serie A","Italy","Felipe Caicedo","https://www.transfermarkt.com/felipe-caicedo/profil/spieler/37834","Centre-Forward",32,"Ecuador",1,0,0,0,2021
+"SS Lazio","Serie A","Italy","Jony","https://www.transfermarkt.com/jony/profil/spieler/228761","Left Winger",29,"Spain",2,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Andrea Consigli","https://www.transfermarkt.com/andrea-consigli/profil/spieler/35865","Goalkeeper",34,"Italy",39,37,0,3323,2021
+"US Sassuolo","Serie A","Italy","Gioele Zacchi","https://www.transfermarkt.com/gioele-zacchi/profil/spieler/659648","Goalkeeper",17,"Italy",2,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Giacomo Satalino","https://www.transfermarkt.com/giacomo-satalino/profil/spieler/323255","Goalkeeper",22,"Italy",31,1,0,7,2021
+"US Sassuolo","Serie A","Italy","Samuele Vitale","https://www.transfermarkt.com/samuele-vitale/profil/spieler/502475","Goalkeeper",18,"Italy",4,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Gianluca Pegolo","https://www.transfermarkt.com/gianluca-pegolo/profil/spieler/21872","Goalkeeper",40,"Italy",40,3,0,270,2021
+"US Sassuolo","Serie A","Italy","Rogério","https://www.transfermarkt.com/rogerio/profil/spieler/401527","Left-Back",23,"Brazil",36,24,0,1821,2021
+"US Sassuolo","Serie A","Italy","Jeremy Toljan","https://www.transfermarkt.com/jeremy-toljan/profil/spieler/129674","Right-Back",26,"Germany",25,20,0,1397,2021
+"US Sassuolo","Serie A","Italy","Ruan Tressoldi","https://www.transfermarkt.com/ruan-tressoldi/profil/spieler/555015","Centre-Back",22,"Brazil",21,12,0,384,2021
+"US Sassuolo","Serie A","Italy","Mert Müldür","https://www.transfermarkt.com/mert-muldur/profil/spieler/353922","Right-Back",22,"Turkey",39,33,0,2181,2021
+"US Sassuolo","Serie A","Italy","Georgios Kyriakopoulos","https://www.transfermarkt.com/georgios-kyriakopoulos/profil/spieler/311178","Left-Back",25,"Greece",36,31,0,2133,2021
+"US Sassuolo","Serie A","Italy","Kaan Ayhan","https://www.transfermarkt.com/kaan-ayhan/profil/spieler/119031","Centre-Back",26,"Turkey",35,24,1,1392,2021
+"US Sassuolo","Serie A","Italy","Gian Marco Ferrari","https://www.transfermarkt.com/gian-marco-ferrari/profil/spieler/277167","Centre-Back",29,"Italy",39,38,1,3306,2021
+"US Sassuolo","Serie A","Italy","Vlad Chiriches","https://www.transfermarkt.com/vlad-chiriches/profil/spieler/123261","Centre-Back",31,"Romania",39,29,0,2302,2021
+"US Sassuolo","Serie A","Italy","Edoardo Goldaniga","https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940","Centre-Back",27,"Italy",13,1,0,1,2021
+"US Sassuolo","Serie A","Italy","Yeferson Paz","https://www.transfermarkt.com/yeferson-paz/profil/spieler/655525","Right-Back",19,"Colombia",4,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Filippo Romagna","https://www.transfermarkt.com/filippo-romagna/profil/spieler/256678","Centre-Back",24,"Italy",1,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Edoardo Pieragnolo","https://www.transfermarkt.com/edoardo-pieragnolo/profil/spieler/691825","Left-Back",18,"Italy",2,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Federico Peluso","https://www.transfermarkt.com/federico-peluso/profil/spieler/21763","Left-Back",37,"Italy",37,3,0,25,2021
+"US Sassuolo","Serie A","Italy","Davide Frattesi","https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300","Central Midfield",21,"Italy",38,38,4,2920,2021
+"US Sassuolo","Serie A","Italy","Hamed Junior Traorè","https://www.transfermarkt.com/hamed-junior-traore/profil/spieler/391065","Attacking Midfield",21,"Cote d'Ivoire",33,32,8,1840,2021
+"US Sassuolo","Serie A","Italy","Maxime López","https://www.transfermarkt.com/maxime-lopez/profil/spieler/290862","Defensive Midfield",23,"France",37,37,2,3073,2021
+"US Sassuolo","Serie A","Italy","Matheus Henrique","https://www.transfermarkt.com/matheus-henrique/profil/spieler/552549","Central Midfield",23,"Brazil",33,26,0,1099,2021
+"US Sassuolo","Serie A","Italy","Abdou Harroui","https://www.transfermarkt.com/abdou-harroui/profil/spieler/416386","Central Midfield",23,"Morocco",30,24,1,599,2021
+"US Sassuolo","Serie A","Italy","Filip Djuricic","https://www.transfermarkt.com/filip-djuricic/profil/spieler/94307","Attacking Midfield",29,"Serbia",15,12,2,677,2021
+"US Sassuolo","Serie A","Italy","Pedro Obiang","https://www.transfermarkt.com/pedro-obiang/profil/spieler/101213","Central Midfield",29,"Equatorial Guinea",0,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Justin Kumi","https://www.transfermarkt.com/justin-kumi/profil/spieler/808559","Central Midfield",16,"Italy",1,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Christian Aucelli","https://www.transfermarkt.com/christian-aucelli/profil/spieler/613129","Central Midfield",19,"Italy",4,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Salim Abubakar","https://www.transfermarkt.com/salim-abubakar/profil/spieler/745436","Central Midfield",18,"Niger",4,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Francesco Magnanelli","https://www.transfermarkt.com/francesco-magnanelli/profil/spieler/7093","Defensive Midfield",36,"Italy",36,13,0,307,2021
+"US Sassuolo","Serie A","Italy","Giacomo Raspadori","https://www.transfermarkt.com/giacomo-raspadori/profil/spieler/405885","Second Striker",21,"Italy",38,38,10,2933,2021
+"US Sassuolo","Serie A","Italy","Gianluca Scamacca","https://www.transfermarkt.com/gianluca-scamacca/profil/spieler/315867","Centre-Forward",22,"Italy",38,38,16,2309,2021
+"US Sassuolo","Serie A","Italy","Domenico Berardi","https://www.transfermarkt.com/domenico-berardi/profil/spieler/177843","Right Winger",26,"Italy",34,34,15,2894,2021
+"US Sassuolo","Serie A","Italy","Jérémie Boga","https://www.transfermarkt.com/jeremie-boga/profil/spieler/216569","Left Winger",24,"Cote d'Ivoire",12,12,0,674,2021
+"US Sassuolo","Serie A","Italy","Luca Moro","https://www.transfermarkt.com/luca-moro/profil/spieler/600936","Centre-Forward",20,"Italy",0,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Emil Konradsen Ceide","https://www.transfermarkt.com/emil-konradsen-ceide/profil/spieler/508371","Left Winger",19,"Norway",15,7,0,47,2021
+"US Sassuolo","Serie A","Italy","Lukas Haraslin","https://www.transfermarkt.com/lukas-haraslin/profil/spieler/239941","Left Winger",25,"Slovakia",1,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Francesco Caputo","https://www.transfermarkt.com/francesco-caputo/profil/spieler/84765","Centre-Forward",33,"Italy",2,2,0,157,2021
+"US Sassuolo","Serie A","Italy","Grégoire Defrel","https://www.transfermarkt.com/gregoire-defrel/profil/spieler/163222","Centre-Forward",30,"France",40,40,2,1465,2021
+"US Sassuolo","Serie A","Italy","Riccardo Ciervo","https://www.transfermarkt.com/riccardo-ciervo/profil/spieler/628558","Left Winger",19,"Italy",16,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Nicolás Schiappacasse","https://www.transfermarkt.com/nicolas-schiappacasse/profil/spieler/345473","Left Winger",22,"Uruguay",0,0,0,0,2021
+"US Sassuolo","Serie A","Italy","Brian Oddei","https://www.transfermarkt.com/brian-oddei/profil/spieler/546176","Right Winger",18,"Ghana",13,2,0,6,2021
+"US Sassuolo","Serie A","Italy","Luigi Samele","https://www.transfermarkt.com/luigi-samele/profil/spieler/658244","Centre-Forward",19,"Italy",5,2,0,3,2021
+"US Sassuolo","Serie A","Italy","Asan Mata","https://www.transfermarkt.com/asan-mata/profil/spieler/691828","Left Winger",17,"Albania",4,0,0,0,2021
+"Torino FC","Serie A","Italy","Vanja Milinkovic-Savic","https://www.transfermarkt.com/vanja-milinkovic-savic/profil/spieler/257474","Goalkeeper",24,"Serbia",37,28,0,2550,2021
+"Torino FC","Serie A","Italy","Etrit Berisha","https://www.transfermarkt.com/etrit-berisha/profil/spieler/77825","Goalkeeper",32,"Albania",38,11,0,990,2021
+"Torino FC","Serie A","Italy","Luca Gemello","https://www.transfermarkt.com/luca-gemello/profil/spieler/463792","Goalkeeper",20,"Italy",30,1,0,90,2021
+"Torino FC","Serie A","Italy","Alberto Milan","https://www.transfermarkt.com/alberto-milan/profil/spieler/652920","Goalkeeper",18,"Italy",2,0,0,0,2021
+"Torino FC","Serie A","Italy","Bremer","https://www.transfermarkt.com/bremer/profil/spieler/516716","Centre-Back",24,"Brazil",34,33,3,2894,2021
+"Torino FC","Serie A","Italy","Wilfried Singo","https://www.transfermarkt.com/wilfried-singo/profil/spieler/648779","Right-Back",20,"Cote d'Ivoire",37,36,3,2704,2021
+"Torino FC","Serie A","Italy","Alessandro Buongiorno","https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446","Centre-Back",22,"Italy",38,25,0,1367,2021
+"Torino FC","Serie A","Italy","David Zima","https://www.transfermarkt.com/david-zima/profil/spieler/544149","Centre-Back",20,"Czech Republic",36,20,0,1309,2021
+"Torino FC","Serie A","Italy","Mërgim Vojvoda","https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125","Left-Back",26,"Kosovo",38,30,0,2018,2021
+"Torino FC","Serie A","Italy","Ricardo Rodríguez","https://www.transfermarkt.com/ricardo-rodriguez/profil/spieler/86784","Centre-Back",28,"Switzerland",37,36,0,2598,2021
+"Torino FC","Serie A","Italy","Ola Aina","https://www.transfermarkt.com/ola-aina/profil/spieler/236490","Right-Back",24,"Nigeria",35,23,0,1643,2021
+"Torino FC","Serie A","Italy","Armando Izzo","https://www.transfermarkt.com/armando-izzo/profil/spieler/32113","Centre-Back",29,"Italy",34,13,0,629,2021
+"Torino FC","Serie A","Italy","Koffi Djidji","https://www.transfermarkt.com/koffi-djidji/profil/spieler/183031","Centre-Back",28,"Cote d'Ivoire",30,26,0,1859,2021
+"Torino FC","Serie A","Italy","Mohamed Fares","https://www.transfermarkt.com/mohamed-fares/profil/spieler/287700","Left-Back",25,"Algeria",1,0,0,0,2021
+"Torino FC","Serie A","Italy","Cristian Ansaldi","https://www.transfermarkt.com/cristian-ansaldi/profil/spieler/55854","Left-Back",34,"Argentina",30,20,0,770,2021
+"Torino FC","Serie A","Italy","Samuele Angori","https://www.transfermarkt.com/samuele-angori/profil/spieler/705063","Left-Back",17,"Italy",2,0,0,0,2021
+"Torino FC","Serie A","Italy","Andrei Anton","https://www.transfermarkt.com/andrei-anton/profil/spieler/704729","Centre-Back",17,"Romania",2,0,0,0,2021
+"Torino FC","Serie A","Italy","Samuele Ricci","https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992","Defensive Midfield",19,"Italy",16,12,0,724,2021
+"Torino FC","Serie A","Italy","Tommaso Pobega","https://www.transfermarkt.com/tommaso-pobega/profil/spieler/392538","Central Midfield",21,"Italy",34,33,4,2236,2021
+"Torino FC","Serie A","Italy","Sasa Lukic","https://www.transfermarkt.com/sasa-lukic/profil/spieler/245056","Central Midfield",24,"Serbia",37,36,5,3068,2021
+"Torino FC","Serie A","Italy","Rolando Mandragora","https://www.transfermarkt.com/rolando-mandragora/profil/spieler/308279","Defensive Midfield",24,"Italy",27,23,1,1518,2021
+"Torino FC","Serie A","Italy","Dennis Praet","https://www.transfermarkt.com/dennis-praet/profil/spieler/129588","Central Midfield",27,"Belgium",24,24,2,1542,2021
+"Torino FC","Serie A","Italy","Simone Verdi","https://www.transfermarkt.com/simone-verdi/profil/spieler/130360","Attacking Midfield",28,"Italy",10,4,1,88,2021
+"Torino FC","Serie A","Italy","Karol Linetty","https://www.transfermarkt.com/karol-linetty/profil/spieler/225873","Central Midfield",26,"Poland",38,18,0,1043,2021
+"Torino FC","Serie A","Italy","Jacopo Segre","https://www.transfermarkt.com/jacopo-segre/profil/spieler/373899","Central Midfield",24,"Italy",3,1,0,37,2021
+"Torino FC","Serie A","Italy","Ben Lhassine Kone","https://www.transfermarkt.com/ben-lhassine-kone/profil/spieler/522681","Central Midfield",21,"Cote d'Ivoire",14,2,0,91,2021
+"Torino FC","Serie A","Italy","Tomás Rincón","https://www.transfermarkt.com/tomas-rincon/profil/spieler/75942","Defensive Midfield",33,"Venezuela",20,9,0,286,2021
+"Torino FC","Serie A","Italy","Daniele Baselli","https://www.transfermarkt.com/daniele-baselli/profil/spieler/134883","Central Midfield",29,"Italy",18,7,0,243,2021
+"Torino FC","Serie A","Italy","Matthew Garbett","https://www.transfermarkt.com/matthew-garbett/profil/spieler/617019","Central Midfield",19,"New Zealand",2,0,0,0,2021
+"Torino FC","Serie A","Italy","Denis Stojkovic","https://www.transfermarkt.com/denis-stojkovic/profil/spieler/526098","Attacking Midfield",18,"Serbia",1,0,0,0,2021
+"Torino FC","Serie A","Italy","Antonio Sanabria","https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523","Centre-Forward",25,"Paraguay",33,29,6,1812,2021
+"Torino FC","Serie A","Italy","Andrea Belotti","https://www.transfermarkt.com/andrea-belotti/profil/spieler/167727","Centre-Forward",27,"Italy",24,23,8,1418,2021
+"Torino FC","Serie A","Italy","Josip Brekalo","https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169","Left Winger",23,"Croatia",35,33,7,2364,2021
+"Torino FC","Serie A","Italy","Pietro Pellegri","https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133","Centre-Forward",20,"Italy",12,9,1,209,2021
+"Torino FC","Serie A","Italy","Demba Seck","https://www.transfermarkt.com/demba-seck/profil/spieler/551752","Right Winger",20,"Senegal",15,6,0,142,2021
+"Torino FC","Serie A","Italy","Marko Pjaca","https://www.transfermarkt.com/marko-pjaca/profil/spieler/205940","Left Winger",26,"Croatia",33,26,3,1242,2021
+"Torino FC","Serie A","Italy","Magnus Warming","https://www.transfermarkt.com/magnus-warming/profil/spieler/482107","Left Winger",21,"Denmark",29,5,0,83,2021
+"Torino FC","Serie A","Italy","Simone Zaza","https://www.transfermarkt.com/simone-zaza/profil/spieler/96828","Centre-Forward",30,"Italy",17,10,0,205,2021
+"Torino FC","Serie A","Italy","Simone Edera","https://www.transfermarkt.com/simone-edera/profil/spieler/340070","Right Winger",24,"Italy",2,0,0,0,2021
+"Torino FC","Serie A","Italy","Nicola Rauti","https://www.transfermarkt.com/nicola-rauti/profil/spieler/417896","Centre-Forward",21,"Italy",3,1,0,79,2021
+"Torino FC","Serie A","Italy","Lado Akhalaia","https://www.transfermarkt.com/lado-akhalaia/profil/spieler/706380","Centre-Forward",19,"Moldova",1,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Lukasz Skorupski","https://www.transfermarkt.com/lukasz-skorupski/profil/spieler/80894","Goalkeeper",30,"Poland",37,37,0,3330,2021
+"Bologna FC 1909","Serie A","Italy","Francesco Bardi","https://www.transfermarkt.com/francesco-bardi/profil/spieler/110925","Goalkeeper",29,"Italy",39,2,0,178,2021
+"Bologna FC 1909","Serie A","Italy","Nicola Bagnolini","https://www.transfermarkt.com/nicola-bagnolini/profil/spieler/818892","Goalkeeper",17,"Italy",10,1,0,2,2021
+"Bologna FC 1909","Serie A","Italy","Marco Molla","https://www.transfermarkt.com/marco-molla/profil/spieler/574164","Goalkeeper",19,"Albania",12,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Davide Franzini","https://www.transfermarkt.com/davide-franzini/profil/spieler/821105","Goalkeeper",16,"Italy",2,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Aaron Hickey","https://www.transfermarkt.com/aaron-hickey/profil/spieler/591949","Right-Back",19,"Scotland",36,36,5,2835,2021
+"Bologna FC 1909","Serie A","Italy","Takehiro Tomiyasu","https://www.transfermarkt.com/takehiro-tomiyasu/profil/spieler/331560","Right-Back",22,"Japan",1,1,0,9,2021
+"Bologna FC 1909","Serie A","Italy","Arthur Theate","https://www.transfermarkt.com/arthur-theate/profil/spieler/368891","Centre-Back",21,"Belgium",34,31,2,2427,2021
+"Bologna FC 1909","Serie A","Italy","Adama Soumaoro","https://www.transfermarkt.com/adama-soumaoro/profil/spieler/126673","Centre-Back",29,"France",34,29,0,2357,2021
+"Bologna FC 1909","Serie A","Italy","Luis Binks","https://www.transfermarkt.com/luis-binks/profil/spieler/471004","Centre-Back",19,"England",37,15,0,642,2021
+"Bologna FC 1909","Serie A","Italy","Kevin Bonifazi","https://www.transfermarkt.com/kevin-bonifazi/profil/spieler/247377","Centre-Back",25,"Italy",31,23,0,1298,2021
+"Bologna FC 1909","Serie A","Italy","Denso Kasius","https://www.transfermarkt.com/denso-kasius/profil/spieler/577394","Right-Back",18,"Netherlands",15,7,0,176,2021
+"Bologna FC 1909","Serie A","Italy","Mitchell Dijks","https://www.transfermarkt.com/mitchell-dijks/profil/spieler/187245","Left-Back",28,"Netherlands",30,16,0,683,2021
+"Bologna FC 1909","Serie A","Italy","Wisdom Amey","https://www.transfermarkt.com/wisdom-amey/profil/spieler/818878","Centre-Back",15,"Togo",6,1,0,72,2021
+"Bologna FC 1909","Serie A","Italy","Gabriele Corbo","https://www.transfermarkt.com/gabriele-corbo/profil/spieler/423614","Centre-Back",21,"Italy",1,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Lorenzo De Silvestri","https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571","Right-Back",33,"Italy",32,31,3,2299,2021
+"Bologna FC 1909","Serie A","Italy","Ibrahima Mbaye","https://www.transfermarkt.com/ibrahima-mbaye/profil/spieler/207715","Right-Back",26,"Senegal",31,7,0,157,2021
+"Bologna FC 1909","Serie A","Italy","Riccardo Stivanello","https://www.transfermarkt.com/riccardo-stivanello/profil/spieler/818882","Centre-Back",17,"Italy",5,1,0,44,2021
+"Bologna FC 1909","Serie A","Italy","Omar Khailoti","https://www.transfermarkt.com/omar-khailoti/profil/spieler/556173","Centre-Back",19,"Morocco",2,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Ebenezer Annan","https://www.transfermarkt.com/ebenezer-annan/profil/spieler/861221","Left-Back",18,"Ghana",4,2,0,77,2021
+"Bologna FC 1909","Serie A","Italy","Mattias Svanberg","https://www.transfermarkt.com/mattias-svanberg/profil/spieler/342405","Central Midfield",22,"Sweden",38,37,3,2587,2021
+"Bologna FC 1909","Serie A","Italy","Nicolás Domínguez","https://www.transfermarkt.com/nicolas-dominguez/profil/spieler/497291","Central Midfield",23,"Argentina",30,29,1,2098,2021
+"Bologna FC 1909","Serie A","Italy","Jerdy Schouten","https://www.transfermarkt.com/jerdy-schouten/profil/spieler/347900","Defensive Midfield",24,"Netherlands",19,18,1,1484,2021
+"Bologna FC 1909","Serie A","Italy","Michel Aebischer","https://www.transfermarkt.com/michel-aebischer/profil/spieler/237658","Central Midfield",24,"Switzerland",16,12,0,437,2021
+"Bologna FC 1909","Serie A","Italy","Roberto Soriano","https://www.transfermarkt.com/roberto-soriano/profil/spieler/63186","Attacking Midfield",30,"Italy",36,36,1,2722,2021
+"Bologna FC 1909","Serie A","Italy","Gary Medel","https://www.transfermarkt.com/gary-medel/profil/spieler/60889","Defensive Midfield",33,"Chile",35,34,0,2862,2021
+"Bologna FC 1909","Serie A","Italy","Nicolas Viola","https://www.transfermarkt.com/nicolas-viola/profil/spieler/85393","Central Midfield",31,"Italy",24,6,0,95,2021
+"Bologna FC 1909","Serie A","Italy","Niklas Pyyhtiä","https://www.transfermarkt.com/niklas-pyyhtia/profil/spieler/679754","Central Midfield",17,"Finland",5,1,0,18,2021
+"Bologna FC 1909","Serie A","Italy","Kacper Urbanski","https://www.transfermarkt.com/kacper-urbanski/profil/spieler/699442","Defensive Midfield",16,"Poland",1,1,0,44,2021
+"Bologna FC 1909","Serie A","Italy","Luis Rojas","https://www.transfermarkt.com/luis-rojas/profil/spieler/662752","Attacking Midfield",19,"Chile",0,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Andri Fannar Baldursson","https://www.transfermarkt.com/andri-fannar-baldursson/profil/spieler/464446","Central Midfield",19,"Iceland",1,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Kingsley Michael","https://www.transfermarkt.com/kingsley-michael/profil/spieler/401920","Central Midfield",21,"Nigeria",4,2,0,77,2021
+"Bologna FC 1909","Serie A","Italy","Andreas Skov Olsen","https://www.transfermarkt.com/andreas-skov-olsen/profil/spieler/432982","Right Winger",21,"Denmark",21,19,0,744,2021
+"Bologna FC 1909","Serie A","Italy","Riccardo Orsolini","https://www.transfermarkt.com/riccardo-orsolini/profil/spieler/368482","Right Winger",24,"Italy",38,30,7,1877,2021
+"Bologna FC 1909","Serie A","Italy","Musa Barrow","https://www.transfermarkt.com/musa-barrow/profil/spieler/486624","Left Winger",22,"The Gambia",36,35,6,2182,2021
+"Bologna FC 1909","Serie A","Italy","Sydney van Hooijdonk","https://www.transfermarkt.com/sydney-van-hooijdonk/profil/spieler/439292","Centre-Forward",21,"Netherlands",23,5,0,38,2021
+"Bologna FC 1909","Serie A","Italy","Marko Arnautovic","https://www.transfermarkt.com/marko-arnautovic/profil/spieler/41384","Centre-Forward",32,"Austria",35,34,15,2787,2021
+"Bologna FC 1909","Serie A","Italy","Emanuel Vignato","https://www.transfermarkt.com/emanuel-vignato/profil/spieler/394346","Right Winger",20,"Italy",36,25,0,665,2021
+"Bologna FC 1909","Serie A","Italy","Nicola Sansone","https://www.transfermarkt.com/nicola-sansone/profil/spieler/82048","Left Winger",29,"Italy",35,27,2,880,2021
+"Bologna FC 1909","Serie A","Italy","Antonio Raimondo","https://www.transfermarkt.com/antonio-raimondo/profil/spieler/818888","Centre-Forward",17,"Italy",4,1,0,75,2021
+"Bologna FC 1909","Serie A","Italy","Diego Falcinelli","https://www.transfermarkt.com/diego-falcinelli/profil/spieler/119115","Centre-Forward",30,"Italy",12,6,0,55,2021
+"Bologna FC 1909","Serie A","Italy","Gianmarco Cangiano","https://www.transfermarkt.com/gianmarco-cangiano/profil/spieler/496270","Left Winger",19,"Italy",14,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Federico Santander","https://www.transfermarkt.com/federico-santander/profil/spieler/99180","Centre-Forward",30,"Paraguay",23,7,1,58,2021
+"Bologna FC 1909","Serie A","Italy","Musa Juwara","https://www.transfermarkt.com/musa-juwara/profil/spieler/562030","Right Winger",19,"The Gambia",0,0,0,0,2021
+"Bologna FC 1909","Serie A","Italy","Mattia Pagliuca","https://www.transfermarkt.com/mattia-pagliuca/profil/spieler/616667","Centre-Forward",19,"Italy",1,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Lorenzo Montipò","https://www.transfermarkt.com/lorenzo-montipo/profil/spieler/241923","Goalkeeper",25,"Italy",36,34,0,3060,2021
+"Hellas Verona","Serie A","Italy","Ivor Pandur","https://www.transfermarkt.com/ivor-pandur/profil/spieler/371013","Goalkeeper",21,"Croatia",25,5,0,450,2021
+"Hellas Verona","Serie A","Italy","Nicola Borghetto","https://www.transfermarkt.com/nicola-borghetto/profil/spieler/415801","Goalkeeper",21,"Italy",1,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Mattia Chiesa","https://www.transfermarkt.com/mattia-chiesa/profil/spieler/535881","Goalkeeper",20,"Italy",16,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Elia Boseggia","https://www.transfermarkt.com/elia-boseggia/profil/spieler/678006","Goalkeeper",17,"Italy",6,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Alessandro Berardi","https://www.transfermarkt.com/alessandro-berardi/profil/spieler/127217","Goalkeeper",30,"Italy",33,1,0,90,2021
+"Hellas Verona","Serie A","Italy","Kaur Kivila","https://www.transfermarkt.com/kaur-kivila/profil/spieler/488270","Goalkeeper",17,"Estonia",2,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Giacomo Toniolo","https://www.transfermarkt.com/giacomo-toniolo/profil/spieler/709986","Goalkeeper",17,"Italy",1,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Nicolò Casale","https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837","Centre-Back",23,"Italy",38,37,0,2613,2021
+"Hellas Verona","Serie A","Italy","Diego Coppola","https://www.transfermarkt.com/diego-coppola/profil/spieler/660860","Centre-Back",17,"Italy",15,5,0,339,2021
+"Hellas Verona","Serie A","Italy","Koray Günter","https://www.transfermarkt.com/koray-gunter/profil/spieler/115763","Centre-Back",26,"Germany",33,31,1,2481,2021
+"Hellas Verona","Serie A","Italy","Giangiacomo Magnani","https://www.transfermarkt.com/giangiacomo-magnani/profil/spieler/310458","Centre-Back",25,"Italy",20,15,0,540,2021
+"Hellas Verona","Serie A","Italy","Davide Faraoni","https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926","Right-Back",29,"Italy",33,32,4,2578,2021
+"Hellas Verona","Serie A","Italy","Pawel Dawidowicz","https://www.transfermarkt.com/pawel-dawidowicz/profil/spieler/248732","Centre-Back",26,"Poland",18,18,0,1285,2021
+"Hellas Verona","Serie A","Italy","Fabio Depaoli","https://www.transfermarkt.com/fabio-depaoli/profil/spieler/324282","Right-Back",24,"Italy",18,18,1,697,2021
+"Hellas Verona","Serie A","Italy","Bruno Amione","https://www.transfermarkt.com/bruno-amione/profil/spieler/644676","Centre-Back",19,"Argentina",1,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Bosko Sutalo","https://www.transfermarkt.com/bosko-sutalo/profil/spieler/431698","Centre-Back",21,"Croatia",34,25,0,995,2021
+"Hellas Verona","Serie A","Italy","Panagiotis Retsos","https://www.transfermarkt.com/panagiotis-retsos/profil/spieler/324351","Centre-Back",22,"Greece",12,5,0,52,2021
+"Hellas Verona","Serie A","Italy","Federico Ceccherini","https://www.transfermarkt.com/federico-ceccherini/profil/spieler/163639","Centre-Back",29,"Italy",38,35,1,2456,2021
+"Hellas Verona","Serie A","Italy","Gianluca Frabotta","https://www.transfermarkt.com/gianluca-frabotta/profil/spieler/386755","Left-Back",22,"Italy",13,2,0,18,2021
+"Hellas Verona","Serie A","Italy","Mert Cetin","https://www.transfermarkt.com/mert-cetin/profil/spieler/391498","Centre-Back",24,"Turkey",17,3,0,132,2021
+"Hellas Verona","Serie A","Italy","Kevin Rüegg","https://www.transfermarkt.com/kevin-ruegg/profil/spieler/290032","Right-Back",22,"Switzerland",19,1,0,85,2021
+"Hellas Verona","Serie A","Italy","Ivan Ilic","https://www.transfermarkt.com/ivan-ilic/profil/spieler/470794","Central Midfield",20,"Serbia",34,34,2,2570,2021
+"Hellas Verona","Serie A","Italy","Antonin Barak","https://www.transfermarkt.com/antonin-barak/profil/spieler/272261","Attacking Midfield",26,"Czech Republic",31,30,11,2413,2021
+"Hellas Verona","Serie A","Italy","Adrien Tamèze","https://www.transfermarkt.com/adrien-tameze/profil/spieler/157507","Defensive Midfield",27,"Cameroon",40,40,4,2644,2021
+"Hellas Verona","Serie A","Italy","Daniel Bessa","https://www.transfermarkt.com/daniel-bessa/profil/spieler/140757","Central Midfield",28,"Italy",36,25,1,838,2021
+"Hellas Verona","Serie A","Italy","Martin Hongla","https://www.transfermarkt.com/martin-hongla/profil/spieler/398808","Defensive Midfield",23,"Cameroon",31,20,1,759,2021
+"Hellas Verona","Serie A","Italy","Darko Lazovic","https://www.transfermarkt.com/darko-lazovic/profil/spieler/70411","Left Midfield",30,"Serbia",37,35,2,2867,2021
+"Hellas Verona","Serie A","Italy","Filippo Terracciano","https://www.transfermarkt.com/filippo-terracciano/profil/spieler/631007","Right Midfield",18,"Italy",4,2,0,11,2021
+"Hellas Verona","Serie A","Italy","Mateusz Praszelik","https://www.transfermarkt.com/mateusz-praszelik/profil/spieler/374418","Attacking Midfield",20,"Poland",12,2,0,23,2021
+"Hellas Verona","Serie A","Italy","Miguel Veloso","https://www.transfermarkt.com/miguel-veloso/profil/spieler/43848","Defensive Midfield",35,"Portugal",27,24,0,1504,2021
+"Hellas Verona","Serie A","Italy","Christian Pierobon","https://www.transfermarkt.com/christian-pierobon/profil/spieler/554433","Central Midfield",19,"Italy",5,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Mattia Turra","https://www.transfermarkt.com/mattia-turra/profil/spieler/554432","Central Midfield",18,"Italy",2,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Mattia Zaccagni","https://www.transfermarkt.com/mattia-zaccagni/profil/spieler/283735","Left Winger",26,"Italy",3,3,2,270,2021
+"Hellas Verona","Serie A","Italy","Giovanni Simeone","https://www.transfermarkt.com/giovanni-simeone/profil/spieler/282388","Centre-Forward",25,"Argentina",37,35,17,2666,2021
+"Hellas Verona","Serie A","Italy","Gianluca Caprari","https://www.transfermarkt.com/gianluca-caprari/profil/spieler/146752","Second Striker",27,"Italy",35,35,12,2753,2021
+"Hellas Verona","Serie A","Italy","Matteo Cancellieri","https://www.transfermarkt.com/matteo-cancellieri/profil/spieler/550106","Right Winger",19,"Italy",33,14,2,385,2021
+"Hellas Verona","Serie A","Italy","Kevin Lasagna","https://www.transfermarkt.com/kevin-lasagna/profil/spieler/131951","Centre-Forward",28,"Italy",35,29,2,1242,2021
+"Hellas Verona","Serie A","Italy","Samuel Di Carmine","https://www.transfermarkt.com/samuel-di-carmine/profil/spieler/45389","Centre-Forward",32,"Italy",2,2,0,47,2021
+"Hellas Verona","Serie A","Italy","Antonino Ragusa","https://www.transfermarkt.com/antonino-ragusa/profil/spieler/102470","Left Winger",31,"Italy",17,1,1,90,2021
+"Hellas Verona","Serie A","Italy","Nikola Kalinic","https://www.transfermarkt.com/nikola-kalinic/profil/spieler/36371","Centre-Forward",33,"Croatia",18,15,4,476,2021
+"Hellas Verona","Serie A","Italy","David Flakus Bosilj","https://www.transfermarkt.com/david-flakus-bosilj/profil/spieler/506941","Centre-Forward",19,"Slovenia",3,0,0,0,2021
+"Hellas Verona","Serie A","Italy","Mattia Florio","https://www.transfermarkt.com/mattia-florio/profil/spieler/704423","Second Striker",17,"Italy",2,1,0,21,2021
+"Udinese Calcio","Serie A","Italy","Marco Silvestri","https://www.transfermarkt.com/marco-silvestri/profil/spieler/85528","Goalkeeper",30,"Italy",38,37,0,3360,2021
+"Udinese Calcio","Serie A","Italy","Simone Scuffet","https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993","Goalkeeper",25,"Italy",3,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Manuel Gasparini","https://www.transfermarkt.com/manuel-gasparini/profil/spieler/487828","Goalkeeper",19,"Italy",17,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Daniele Padelli","https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807","Goalkeeper",35,"Italy",38,4,0,360,2021
+"Udinese Calcio","Serie A","Italy","Edoardo Piana","https://www.transfermarkt.com/edoardo-piana/profil/spieler/612059","Goalkeeper",17,"Italy",10,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Antonio Santurro","https://www.transfermarkt.com/antonio-santurro/profil/spieler/130388","Goalkeeper",29,"Dominican Republic",4,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Matteo Carnelos","https://www.transfermarkt.com/matteo-carnelos/profil/spieler/617178","Goalkeeper",18,"Italy",12,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Nahuel Molina","https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042","Right-Back",23,"Argentina",37,37,8,2784,2021
+"Udinese Calcio","Serie A","Italy","Destiny Udogie","https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385","Left-Back",18,"Italy",39,37,5,2693,2021
+"Udinese Calcio","Serie A","Italy","Nehuén Pérez","https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693","Centre-Back",21,"Argentina",34,22,0,1893,2021
+"Udinese Calcio","Serie A","Italy","Rodrigo Becão","https://www.transfermarkt.com/rodrigo-becao/profil/spieler/410158","Centre-Back",25,"Brazil",38,36,2,3252,2021
+"Udinese Calcio","Serie A","Italy","Brandon Soppy","https://www.transfermarkt.com/brandon-soppy/profil/spieler/546880","Right-Back",19,"France",38,30,0,971,2021
+"Udinese Calcio","Serie A","Italy","Samir Caetano","https://www.transfermarkt.com/samir-caetano/profil/spieler/255744","Centre-Back",26,"Brazil",19,19,0,1571,2021
+"Udinese Calcio","Serie A","Italy","Pablo Marí","https://www.transfermarkt.com/pablo-mari/profil/spieler/210178","Centre-Back",27,"Spain",17,15,2,1342,2021
+"Udinese Calcio","Serie A","Italy","Filip Benkovic","https://www.transfermarkt.com/filip-benkovic/profil/spieler/293168","Centre-Back",23,"Croatia",17,2,0,6,2021
+"Udinese Calcio","Serie A","Italy","Jens Stryger Larsen","https://www.transfermarkt.com/jens-stryger-larsen/profil/spieler/69646","Right-Back",30,"Denmark",12,12,0,746,2021
+"Udinese Calcio","Serie A","Italy","Bram Nuytinck","https://www.transfermarkt.com/bram-nuytinck/profil/spieler/104597","Centre-Back",31,"Netherlands",36,29,1,2137,2021
+"Udinese Calcio","Serie A","Italy","Marvin Zeegelaar","https://www.transfermarkt.com/marvin-zeegelaar/profil/spieler/92899","Centre-Back",30,"Netherlands",39,16,0,844,2021
+"Udinese Calcio","Serie A","Italy","Sebastien De Maio","https://www.transfermarkt.com/sebastien-de-maio/profil/spieler/56830","Centre-Back",34,"France",21,4,1,301,2021
+"Udinese Calcio","Serie A","Italy","Nicolò Cocetta","https://www.transfermarkt.com/nicolo-cocetta/profil/spieler/704692","Centre-Back",17,"Italy",3,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Lorenzo Codutti","https://www.transfermarkt.com/lorenzo-codutti/profil/spieler/704693","Right-Back",18,"Italy",1,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Raed Jaziri","https://www.transfermarkt.com/raed-jaziri/profil/spieler/704711","Left-Back",18,"Tunisia",1,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Lazar Samardzic","https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833","Central Midfield",19,"Serbia",40,24,2,679,2021
+"Udinese Calcio","Serie A","Italy","Jean-Victor Makengo","https://www.transfermarkt.com/jean-victor-makengo/profil/spieler/322305","Central Midfield",23,"France",38,36,1,2512,2021
+"Udinese Calcio","Serie A","Italy","Simone Pafundi","https://www.transfermarkt.com/simone-pafundi/profil/spieler/876400","Attacking Midfield",15,"Italy",2,1,0,22,2021
+"Udinese Calcio","Serie A","Italy","Walace","https://www.transfermarkt.com/walace/profil/spieler/323954","Defensive Midfield",26,"Brazil",39,38,1,3141,2021
+"Udinese Calcio","Serie A","Italy","Roberto Pereyra","https://www.transfermarkt.com/roberto-pereyra/profil/spieler/112302","Central Midfield",30,"Argentina",26,25,5,1860,2021
+"Udinese Calcio","Serie A","Italy","Tolgay Arslan","https://www.transfermarkt.com/tolgay-arslan/profil/spieler/53536","Central Midfield",30,"Germany",39,33,1,1769,2021
+"Udinese Calcio","Serie A","Italy","Martin Palumbo","https://www.transfermarkt.com/martin-palumbo/profil/spieler/617170","Central Midfield",19,"Norway",2,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Mato Jajalo","https://www.transfermarkt.com/mato-jajalo/profil/spieler/47513","Defensive Midfield",33,"Bosnia-Herzegovina",40,24,0,759,2021
+"Udinese Calcio","Serie A","Italy","Marco Ballarini","https://www.transfermarkt.com/marco-ballarini/profil/spieler/465279","Central Midfield",20,"Italy",8,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Riccardo Pinzi","https://www.transfermarkt.com/riccardo-pinzi/profil/spieler/704712","Central Midfield",17,"Italy",5,1,0,2,2021
+"Udinese Calcio","Serie A","Italy","Riccardo Castagnaviz","https://www.transfermarkt.com/riccardo-castagnaviz/profil/spieler/704708","Defensive Midfield",18,"Italy",3,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Mattia Damiani","https://www.transfermarkt.com/mattia-damiani/profil/spieler/704709","Defensive Midfield",18,"Italy",3,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Jacopo Fedrizzi","https://www.transfermarkt.com/jacopo-fedrizzi/profil/spieler/704710","Central Midfield",18,"Italy",2,0,0,0,2021
+"Udinese Calcio","Serie A","Italy","Beto","https://www.transfermarkt.com/beto/profil/spieler/595809","Centre-Forward",23,"Portugal",30,29,11,2230,2021
+"Udinese Calcio","Serie A","Italy","Gerard Deulofeu","https://www.transfermarkt.com/gerard-deulofeu/profil/spieler/129476","Centre-Forward",27,"Spain",36,35,13,2652,2021
+"Udinese Calcio","Serie A","Italy","Isaac Success","https://www.transfermarkt.com/isaac-success/profil/spieler/295331","Centre-Forward",25,"Nigeria",26,24,3,1063,2021
+"Udinese Calcio","Serie A","Italy","Ignacio Pussetto","https://www.transfermarkt.com/ignacio-pussetto/profil/spieler/283528","Right Winger",25,"Argentina",38,31,6,1438,2021
+"Udinese Calcio","Serie A","Italy","Cristo González","https://www.transfermarkt.com/cristo-gonzalez/profil/spieler/339707","Centre-Forward",23,"Spain",2,1,0,68,2021
+"Udinese Calcio","Serie A","Italy","Stefano Okaka","https://www.transfermarkt.com/stefano-okaka/profil/spieler/35249","Centre-Forward",31,"Italy",3,3,0,42,2021
+"Udinese Calcio","Serie A","Italy","Fernando Forestieri","https://www.transfermarkt.com/fernando-forestieri/profil/spieler/44948","Second Striker",31,"Italy",18,6,2,99,2021
+"Udinese Calcio","Serie A","Italy","Ilija Nestorovski","https://www.transfermarkt.com/ilija-nestorovski/profil/spieler/54581","Centre-Forward",31,"North Macedonia",30,9,1,217,2021
+"Udinese Calcio","Serie A","Italy","Simone Ianesi","https://www.transfermarkt.com/simone-ianesi/profil/spieler/574889","Left Winger",19,"Italy",7,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Alessio Cragno","https://www.transfermarkt.com/alessio-cragno/profil/spieler/12907","Goalkeeper",27,"Italy",37,36,0,3240,2021
+"Cagliari Calcio","Serie A","Italy","Boris Radunović","https://www.transfermarkt.com/boris-radunovi%C4%87/profil/spieler/258482","Goalkeeper",25,"Serbia",40,5,0,450,2021
+"Cagliari Calcio","Serie A","Italy","Andrea D'Aniello","https://www.transfermarkt.com/andrea-daniello/profil/spieler/640544","Goalkeeper",18,"Italy",1,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Eugenio Fusco","https://www.transfermarkt.com/eugenio-fusco/profil/spieler/704260","Goalkeeper",18,"Italy",1,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Eldin Lolic","https://www.transfermarkt.com/eldin-lolic/profil/spieler/740517","Goalkeeper",17,"Bosnia-Herzegovina",3,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Simone Aresti","https://www.transfermarkt.com/simone-aresti/profil/spieler/41912","Goalkeeper",35,"Italy",38,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Matteo Lovato","https://www.transfermarkt.com/matteo-lovato/profil/spieler/459655","Centre-Back",21,"Italy",17,16,0,1240,2021
+"Cagliari Calcio","Serie A","Italy","Raoul Bellanova","https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992","Right-Back",21,"Italy",36,31,1,2500,2021
+"Cagliari Calcio","Serie A","Italy","Andrea Carboni","https://www.transfermarkt.com/andrea-carboni/profil/spieler/481834","Centre-Back",20,"Italy",40,33,0,2454,2021
+"Cagliari Calcio","Serie A","Italy","Sebastian Walukiewicz","https://www.transfermarkt.com/sebastian-walukiewicz/profil/spieler/345458","Centre-Back",21,"Poland",15,8,0,393,2021
+"Cagliari Calcio","Serie A","Italy","Gabriele Zappa","https://www.transfermarkt.com/gabriele-zappa/profil/spieler/392569","Right-Back",21,"Italy",39,28,0,1407,2021
+"Cagliari Calcio","Serie A","Italy","Adam Obert","https://www.transfermarkt.com/adam-obert/profil/spieler/568333","Centre-Back",18,"Slovakia",26,8,0,453,2021
+"Cagliari Calcio","Serie A","Italy","Giorgio Altare","https://www.transfermarkt.com/giorgio-altare/profil/spieler/354909","Centre-Back",22,"Italy",40,22,1,1599,2021
+"Cagliari Calcio","Serie A","Italy","Charalampos Lykogiannis","https://www.transfermarkt.com/charalampos-lykogiannis/profil/spieler/136514","Left-Back",27,"Greece",39,30,1,1912,2021
+"Cagliari Calcio","Serie A","Italy","Dalbert","https://www.transfermarkt.com/dalbert/profil/spieler/312862","Left-Back",27,"Brazil",33,31,0,2300,2021
+"Cagliari Calcio","Serie A","Italy","Edoardo Goldaniga","https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940","Centre-Back",27,"Italy",16,12,0,976,2021
+"Cagliari Calcio","Serie A","Italy","Luca Ceppitelli","https://www.transfermarkt.com/luca-ceppitelli/profil/spieler/102745","Centre-Back",31,"Italy",32,25,1,1452,2021
+"Cagliari Calcio","Serie A","Italy","Martín Cáceres","https://www.transfermarkt.com/martin-caceres/profil/spieler/54935","Centre-Back",34,"Uruguay",15,15,1,849,2021
+"Cagliari Calcio","Serie A","Italy","Luigi Palomba","https://www.transfermarkt.com/luigi-palomba/profil/spieler/621153","Centre-Back",18,"Italy",3,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Iurie Iovu","https://www.transfermarkt.com/iurie-iovu/profil/spieler/619353","Centre-Back",18,"Moldova",4,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Diego Godín","https://www.transfermarkt.com/diego-godin/profil/spieler/54928","Centre-Back",35,"Uruguay",12,12,0,896,2021
+"Cagliari Calcio","Serie A","Italy","Razvan Marin","https://www.transfermarkt.com/razvan-marin/profil/spieler/295183","Central Midfield",25,"Romania",38,37,1,2900,2021
+"Cagliari Calcio","Serie A","Italy","Nahitan Nández","https://www.transfermarkt.com/nahitan-nandez/profil/spieler/315063","Central Midfield",25,"Uruguay",22,22,0,1609,2021
+"Cagliari Calcio","Serie A","Italy","Gastón Pereiro","https://www.transfermarkt.com/gaston-pereiro/profil/spieler/264116","Attacking Midfield",26,"Uruguay",41,32,5,1076,2021
+"Cagliari Calcio","Serie A","Italy","Alberto Grassi","https://www.transfermarkt.com/alberto-grassi/profil/spieler/197473","Defensive Midfield",26,"Italy",37,31,0,2214,2021
+"Cagliari Calcio","Serie A","Italy","Alessandro Deiola","https://www.transfermarkt.com/alessandro-deiola/profil/spieler/235931","Central Midfield",25,"Italy",38,35,6,2306,2021
+"Cagliari Calcio","Serie A","Italy","Marko Rog","https://www.transfermarkt.com/marko-rog/profil/spieler/317482","Central Midfield",25,"Croatia",8,8,0,307,2021
+"Cagliari Calcio","Serie A","Italy","Kevin Strootman","https://www.transfermarkt.com/kevin-strootman/profil/spieler/68864","Central Midfield",31,"Netherlands",17,11,0,732,2021
+"Cagliari Calcio","Serie A","Italy","Christos Kourfalidis","https://www.transfermarkt.com/christos-kourfalidis/profil/spieler/650224","Central Midfield",18,"Greece",8,4,0,152,2021
+"Cagliari Calcio","Serie A","Italy","Christian Oliva","https://www.transfermarkt.com/christian-oliva/profil/spieler/563812","Defensive Midfield",25,"Uruguay",20,5,0,134,2021
+"Cagliari Calcio","Serie A","Italy","Paolo Faragò","https://www.transfermarkt.com/paolo-farago/profil/spieler/167796","Central Midfield",28,"Italy",4,1,0,15,2021
+"Cagliari Calcio","Serie A","Italy","Daniele Baselli","https://www.transfermarkt.com/daniele-baselli/profil/spieler/134883","Central Midfield",29,"Italy",13,9,0,285,2021
+"Cagliari Calcio","Serie A","Italy","Riccardo Ladinetti","https://www.transfermarkt.com/riccardo-ladinetti/profil/spieler/459452","Defensive Midfield",20,"Italy",5,1,0,87,2021
+"Cagliari Calcio","Serie A","Italy","Nicolò Cavuoti","https://www.transfermarkt.com/nicolo-cavuoti/profil/spieler/701842","Attacking Midfield",18,"Italy",5,1,0,3,2021
+"Cagliari Calcio","Serie A","Italy","Isaías Delpupo","https://www.transfermarkt.com/isaias-delpupo/profil/spieler/736034","Attacking Midfield",18,"Argentina",1,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Giovanni Simeone","https://www.transfermarkt.com/giovanni-simeone/profil/spieler/282388","Centre-Forward",25,"Argentina",2,2,0,9,2021
+"Cagliari Calcio","Serie A","Italy","João Pedro","https://www.transfermarkt.com/joao-pedro/profil/spieler/129129","Centre-Forward",29,"Italy",39,39,13,3444,2021
+"Cagliari Calcio","Serie A","Italy","Keita Baldé","https://www.transfermarkt.com/keita-balde/profil/spieler/238752","Centre-Forward",26,"Senegal",29,26,3,1230,2021
+"Cagliari Calcio","Serie A","Italy","Alberto Cerri","https://www.transfermarkt.com/alberto-cerri/profil/spieler/197751","Centre-Forward",25,"Italy",1,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Zito Luvumbo","https://www.transfermarkt.com/zito-luvumbo/profil/spieler/666547","Centre-Forward",19,"Angola",3,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Leonardo Pavoletti","https://www.transfermarkt.com/leonardo-pavoletti/profil/spieler/64793","Centre-Forward",32,"Italy",38,35,5,1685,2021
+"Cagliari Calcio","Serie A","Italy","Diego Farias","https://www.transfermarkt.com/diego-farias/profil/spieler/83877","Left Winger",31,"Brazil",9,4,0,62,2021
+"Cagliari Calcio","Serie A","Italy","Damir Ceter","https://www.transfermarkt.com/damir-ceter/profil/spieler/460898","Centre-Forward",23,"Colombia",13,2,1,63,2021
+"Cagliari Calcio","Serie A","Italy","Lisandru Tramoni","https://www.transfermarkt.com/lisandru-tramoni/profil/spieler/607227","Right Winger",18,"France",2,0,0,0,2021
+"Cagliari Calcio","Serie A","Italy","Jacopo Desogus","https://www.transfermarkt.com/jacopo-desogus/profil/spieler/610878","Left Winger",18,"Italy",4,2,0,21,2021
+"Cagliari Calcio","Serie A","Italy","Luca Gagliano","https://www.transfermarkt.com/luca-gagliano/profil/spieler/396682","Centre-Forward",20,"Italy",9,2,0,70,2021
+"UC Sampdoria","Serie B","Italy","Emil Audero","https://www.transfermarkt.com/emil-audero/profil/spieler/256339","Goalkeeper",24,"Italy",38,30,0,2652,2021
+"UC Sampdoria","Serie B","Italy","Wladimiro Falcone","https://www.transfermarkt.com/wladimiro-falcone/profil/spieler/238537","Goalkeeper",26,"Italy",40,12,0,1034,2021
+"UC Sampdoria","Serie B","Italy","Ivan Saio","https://www.transfermarkt.com/ivan-saio/profil/spieler/613533","Goalkeeper",19,"Italy",4,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Nicola Ravaglia","https://www.transfermarkt.com/nicola-ravaglia/profil/spieler/42796","Goalkeeper",32,"Italy",38,1,0,4,2021
+"UC Sampdoria","Serie B","Italy","Radu Dragusin","https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559","Centre-Back",19,"Romania",23,15,0,711,2021
+"UC Sampdoria","Serie B","Italy","Jeff Chabot","https://www.transfermarkt.com/jeff-chabot/profil/spieler/303219","Centre-Back",23,"Germany",24,13,0,643,2021
+"UC Sampdoria","Serie B","Italy","Fabio Depaoli","https://www.transfermarkt.com/fabio-depaoli/profil/spieler/324282","Right-Back",24,"Italy",19,8,0,204,2021
+"UC Sampdoria","Serie B","Italy","Omar Colley","https://www.transfermarkt.com/omar-colley/profil/spieler/174733","Centre-Back",28,"The Gambia",34,33,0,2765,2021
+"UC Sampdoria","Serie B","Italy","Giangiacomo Magnani","https://www.transfermarkt.com/giangiacomo-magnani/profil/spieler/310458","Centre-Back",25,"Italy",17,5,0,328,2021
+"UC Sampdoria","Serie B","Italy","Tommaso Augello","https://www.transfermarkt.com/tommaso-augello/profil/spieler/284595","Left-Back",26,"Italy",39,38,1,2566,2021
+"UC Sampdoria","Serie B","Italy","Bartosz Bereszynski","https://www.transfermarkt.com/bartosz-bereszynski/profil/spieler/144143","Right-Back",28,"Poland",38,37,0,3136,2021
+"UC Sampdoria","Serie B","Italy","Jeison Murillo","https://www.transfermarkt.com/jeison-murillo/profil/spieler/131102","Centre-Back",29,"Colombia",1,1,0,84,2021
+"UC Sampdoria","Serie B","Italy","Alex Ferrari","https://www.transfermarkt.com/alex-ferrari/profil/spieler/197491","Centre-Back",27,"Italy",41,24,1,1740,2021
+"UC Sampdoria","Serie B","Italy","Nicola Murru","https://www.transfermarkt.com/nicola-murru/profil/spieler/171399","Left-Back",26,"Italy",40,24,1,1165,2021
+"UC Sampdoria","Serie B","Italy","Lorenzo Tonelli","https://www.transfermarkt.com/lorenzo-tonelli/profil/spieler/111347","Centre-Back",31,"Italy",1,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Andrea Conti","https://www.transfermarkt.com/andrea-conti/profil/spieler/111227","Right-Back",27,"Italy",12,8,2,292,2021
+"UC Sampdoria","Serie B","Italy","Maya Yoshida","https://www.transfermarkt.com/maya-yoshida/profil/spieler/81789","Centre-Back",32,"Japan",32,26,2,1819,2021
+"UC Sampdoria","Serie B","Italy","Francesco Migliardi","https://www.transfermarkt.com/francesco-migliardi/profil/spieler/622800","Left-Back",18,"Italy",1,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Luigi Aquino","https://www.transfermarkt.com/luigi-aquino/profil/spieler/552751","Centre-Back",19,"Italy",1,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Giovanni Bonfanti","https://www.transfermarkt.com/giovanni-bonfanti/profil/spieler/663900","Centre-Back",18,"Italy",1,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Stefano Sensi","https://www.transfermarkt.com/stefano-sensi/profil/spieler/216179","Central Midfield",25,"Italy",12,11,1,759,2021
+"UC Sampdoria","Serie B","Italy","Morten Thorsby","https://www.transfermarkt.com/morten-thorsby/profil/spieler/226524","Central Midfield",25,"Norway",38,38,4,3154,2021
+"UC Sampdoria","Serie B","Italy","Abdelhamid Sabiri","https://www.transfermarkt.com/abdelhamid-sabiri/profil/spieler/340394","Attacking Midfield",24,"Morocco",15,14,3,891,2021
+"UC Sampdoria","Serie B","Italy","Ronaldo Vieira","https://www.transfermarkt.com/ronaldo-vieira/profil/spieler/434676","Central Midfield",22,"England",19,15,0,515,2021
+"UC Sampdoria","Serie B","Italy","Kristoffer Askildsen","https://www.transfermarkt.com/kristoffer-askildsen/profil/spieler/574495","Central Midfield",20,"Norway",35,22,0,950,2021
+"UC Sampdoria","Serie B","Italy","Valerio Verre","https://www.transfermarkt.com/valerio-verre/profil/spieler/162961","Attacking Midfield",27,"Italy",13,12,1,502,2021
+"UC Sampdoria","Serie B","Italy","Adrien Silva","https://www.transfermarkt.com/adrien-silva/profil/spieler/56810","Central Midfield",32,"Portugal",18,18,0,1128,2021
+"UC Sampdoria","Serie B","Italy","Antonio Candreva","https://www.transfermarkt.com/antonio-candreva/profil/spieler/25488","Right Midfield",34,"Italy",39,39,7,3263,2021
+"UC Sampdoria","Serie B","Italy","Jakub Jankto","https://www.transfermarkt.com/jakub-jankto/profil/spieler/319160","Left Midfield",25,"Czech Republic",1,1,0,53,2021
+"UC Sampdoria","Serie B","Italy","Albin Ekdal","https://www.transfermarkt.com/albin-ekdal/profil/spieler/49275","Defensive Midfield",31,"Sweden",32,27,1,1705,2021
+"UC Sampdoria","Serie B","Italy","Tomás Rincón","https://www.transfermarkt.com/tomas-rincon/profil/spieler/75942","Defensive Midfield",33,"Venezuela",18,18,0,1260,2021
+"UC Sampdoria","Serie B","Italy","Simone Trimboli","https://www.transfermarkt.com/simone-trimboli/profil/spieler/487839","Central Midfield",19,"Italy",38,5,0,60,2021
+"UC Sampdoria","Serie B","Italy","Gerard Yepes","https://www.transfermarkt.com/gerard-yepes/profil/spieler/624436","Defensive Midfield",18,"Spain",20,4,0,17,2021
+"UC Sampdoria","Serie B","Italy","Mohamed Ihattaren","https://www.transfermarkt.com/mohamed-ihattaren/profil/spieler/503638","Attacking Midfield",19,"Netherlands",1,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Marco Somma","https://www.transfermarkt.com/marco-somma/profil/spieler/567445","Right Midfield",19,"Italy",3,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Mikkel Damsgaard","https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941","Left Winger",20,"Denmark",14,12,0,613,2021
+"UC Sampdoria","Serie B","Italy","Gianluca Caprari","https://www.transfermarkt.com/gianluca-caprari/profil/spieler/146752","Second Striker",27,"Italy",1,1,0,6,2021
+"UC Sampdoria","Serie B","Italy","Manolo Gabbiadini","https://www.transfermarkt.com/manolo-gabbiadini/profil/spieler/112343","Centre-Forward",29,"Italy",21,21,7,1266,2021
+"UC Sampdoria","Serie B","Italy","Ernesto Torregrossa","https://www.transfermarkt.com/ernesto-torregrossa/profil/spieler/159883","Centre-Forward",29,"Venezuela",16,12,0,196,2021
+"UC Sampdoria","Serie B","Italy","Francesco Caputo","https://www.transfermarkt.com/francesco-caputo/profil/spieler/84765","Centre-Forward",33,"Italy",38,38,11,2902,2021
+"UC Sampdoria","Serie B","Italy","Riccardo Ciervo","https://www.transfermarkt.com/riccardo-ciervo/profil/spieler/628558","Left Winger",19,"Italy",23,12,0,294,2021
+"UC Sampdoria","Serie B","Italy","Vladyslav Supryaga","https://www.transfermarkt.com/vladyslav-supryaga/profil/spieler/419061","Centre-Forward",21,"Ukraine",11,1,0,24,2021
+"UC Sampdoria","Serie B","Italy","Daniele Montevago","https://www.transfermarkt.com/daniele-montevago/profil/spieler/678441","Centre-Forward",18,"Italy",2,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Fabio Quagliarella","https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328","Centre-Forward",38,"Italy",38,35,6,1795,2021
+"UC Sampdoria","Serie B","Italy","Lorenzo Di Stefano","https://www.transfermarkt.com/lorenzo-di-stefano/profil/spieler/650255","Centre-Forward",18,"Italy",2,0,0,0,2021
+"UC Sampdoria","Serie B","Italy","Sebastian Giovinco","https://www.transfermarkt.com/sebastian-giovinco/profil/spieler/52312","Second Striker",34,"Italy",5,2,0,37,2021
+"FC Empoli","Serie A","Italy","Guglielmo Vicario","https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047","Goalkeeper",24,"Italy",40,39,0,3510,2021
+"FC Empoli","Serie A","Italy","Alberto Brignoli","https://www.transfermarkt.com/alberto-brignoli/profil/spieler/146799","Goalkeeper",29,"Italy",3,0,0,0,2021
+"FC Empoli","Serie A","Italy","Jacopo Furlan","https://www.transfermarkt.com/jacopo-furlan/profil/spieler/163652","Goalkeeper",28,"Italy",26,1,0,120,2021
+"FC Empoli","Serie A","Italy","Samir Ujkani","https://www.transfermarkt.com/samir-ujkani/profil/spieler/42744","Goalkeeper",32,"Kosovo",37,1,0,90,2021
+"FC Empoli","Serie A","Italy","Klemen Hvalic","https://www.transfermarkt.com/klemen-hvalic/profil/spieler/603692","Goalkeeper",19,"Slovenia",1,0,0,0,2021
+"FC Empoli","Serie A","Italy","Valerio Biagini","https://www.transfermarkt.com/valerio-biagini/profil/spieler/691529","Goalkeeper",17,"Italy",1,0,0,0,2021
+"FC Empoli","Serie A","Italy","Fabiano Parisi","https://www.transfermarkt.com/fabiano-parisi/profil/spieler/547985","Left-Back",20,"Italy",33,25,0,1475,2021
+"FC Empoli","Serie A","Italy","Mattia Viti","https://www.transfermarkt.com/mattia-viti/profil/spieler/493702","Centre-Back",19,"Italy",37,22,0,1699,2021
+"FC Empoli","Serie A","Italy","Ardian Ismajli","https://www.transfermarkt.com/ardian-ismajli/profil/spieler/435228","Centre-Back",24,"Albania",36,22,0,1391,2021
+"FC Empoli","Serie A","Italy","Sebastiano Luperto","https://www.transfermarkt.com/sebastiano-luperto/profil/spieler/278531","Centre-Back",24,"Italy",34,25,0,2002,2021
+"FC Empoli","Serie A","Italy","Petar Stojanovic","https://www.transfermarkt.com/petar-stojanovic/profil/spieler/183841","Right-Back",25,"Slovenia",37,35,1,2882,2021
+"FC Empoli","Serie A","Italy","Liberato Cacace","https://www.transfermarkt.com/liberato-cacace/profil/spieler/469211","Left-Back",20,"New Zealand",15,10,0,464,2021
+"FC Empoli","Serie A","Italy","Riccardo Marchizza","https://www.transfermarkt.com/riccardo-marchizza/profil/spieler/297645","Left-Back",23,"Italy",25,22,0,1616,2021
+"FC Empoli","Serie A","Italy","Simone Canestrelli","https://www.transfermarkt.com/simone-canestrelli/profil/spieler/358003","Centre-Back",20,"Italy",2,0,0,0,2021
+"FC Empoli","Serie A","Italy","Simone Romagnoli","https://www.transfermarkt.com/simone-romagnoli/profil/spieler/88706","Centre-Back",31,"Italy",36,22,2,1753,2021
+"FC Empoli","Serie A","Italy","Lorenzo Tonelli","https://www.transfermarkt.com/lorenzo-tonelli/profil/spieler/111347","Centre-Back",31,"Italy",27,14,0,865,2021
+"FC Empoli","Serie A","Italy","Riccardo Fiamozzi","https://www.transfermarkt.com/riccardo-fiamozzi/profil/spieler/197745","Right-Back",28,"Italy",35,12,0,781,2021
+"FC Empoli","Serie A","Italy","Alessio Rizza","https://www.transfermarkt.com/alessio-rizza/profil/spieler/641553","Left-Back",18,"Italy",4,0,0,0,2021
+"FC Empoli","Serie A","Italy","Leonardo Pezzola","https://www.transfermarkt.com/leonardo-pezzola/profil/spieler/603676","Centre-Back",19,"Italy",6,0,0,0,2021
+"FC Empoli","Serie A","Italy","Samuele Ricci","https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992","Defensive Midfield",19,"Italy",24,24,1,1708,2021
+"FC Empoli","Serie A","Italy","Tommaso Baldanzi","https://www.transfermarkt.com/tommaso-baldanzi/profil/spieler/641537","Attacking Midfield",18,"Italy",6,1,0,17,2021
+"FC Empoli","Serie A","Italy","Kristjan Asllani","https://www.transfermarkt.com/kristjan-asllani/profil/spieler/543771","Defensive Midfield",19,"Albania",36,26,1,1541,2021
+"FC Empoli","Serie A","Italy","Nedim Bajrami","https://www.transfermarkt.com/nedim-bajrami/profil/spieler/390177","Attacking Midfield",22,"Albania",41,38,9,2284,2021
+"FC Empoli","Serie A","Italy","Jacopo Fazzini","https://www.transfermarkt.com/jacopo-fazzini/profil/spieler/691482","Central Midfield",18,"Italy",9,1,0,23,2021
+"FC Empoli","Serie A","Italy","Filippo Bandinelli","https://www.transfermarkt.com/filippo-bandinelli/profil/spieler/240934","Central Midfield",26,"Italy",38,38,2,2166,2021
+"FC Empoli","Serie A","Italy","Szymon Zurkowski","https://www.transfermarkt.com/szymon-zurkowski/profil/spieler/387234","Central Midfield",23,"Poland",40,37,6,2394,2021
+"FC Empoli","Serie A","Italy","Liam Henderson","https://www.transfermarkt.com/liam-henderson/profil/spieler/193867","Central Midfield",25,"Scotland",40,40,2,2104,2021
+"FC Empoli","Serie A","Italy","Nicolas Haas","https://www.transfermarkt.com/nicolas-haas/profil/spieler/192638","Central Midfield",25,"Switzerland",19,18,1,1091,2021
+"FC Empoli","Serie A","Italy","Valerio Verre","https://www.transfermarkt.com/valerio-verre/profil/spieler/162961","Attacking Midfield",27,"Italy",12,8,0,310,2021
+"FC Empoli","Serie A","Italy","Marco Benassi","https://www.transfermarkt.com/marco-benassi/profil/spieler/201040","Central Midfield",26,"Italy",15,12,0,376,2021
+"FC Empoli","Serie A","Italy","Leo Stulac","https://www.transfermarkt.com/leo-stulac/profil/spieler/171159","Defensive Midfield",26,"Slovenia",40,26,2,1079,2021
+"FC Empoli","Serie A","Italy","Giovanni Crociata","https://www.transfermarkt.com/giovanni-crociata/profil/spieler/291400","Central Midfield",23,"Italy",2,2,1,29,2021
+"FC Empoli","Serie A","Italy","Duccio Degli Innocenti","https://www.transfermarkt.com/duccio-degli-innocenti/profil/spieler/616169","Defensive Midfield",18,"Italy",1,0,0,0,2021
+"FC Empoli","Serie A","Italy","Samuele Damiani","https://www.transfermarkt.com/samuele-damiani/profil/spieler/390117","Defensive Midfield",23,"Italy",3,0,0,0,2021
+"FC Empoli","Serie A","Italy","Andrea Pinamonti","https://www.transfermarkt.com/andrea-pinamonti/profil/spieler/315865","Centre-Forward",22,"Italy",38,37,13,2915,2021
+"FC Empoli","Serie A","Italy","Patrick Cutrone","https://www.transfermarkt.com/patrick-cutrone/profil/spieler/265078","Centre-Forward",23,"Italy",40,31,3,1551,2021
+"FC Empoli","Serie A","Italy","Federico Di Francesco","https://www.transfermarkt.com/federico-di-francesco/profil/spieler/38607","Left Winger",27,"Italy",30,26,5,1373,2021
+"FC Empoli","Serie A","Italy","Leonardo Mancuso","https://www.transfermarkt.com/leonardo-mancuso/profil/spieler/160344","Centre-Forward",29,"Italy",24,10,4,606,2021
+"FC Empoli","Serie A","Italy","Andrea La Mantia","https://www.transfermarkt.com/andrea-la-mantia/profil/spieler/134983","Centre-Forward",30,"Italy",40,19,3,561,2021
+"FC Empoli","Serie A","Italy","Emmanuel Ekong","https://www.transfermarkt.com/emmanuel-ekong/profil/spieler/603891","Centre-Forward",19,"Sweden",3,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Adrian Semper","https://www.transfermarkt.com/adrian-semper/profil/spieler/317057","Goalkeeper",23,"Croatia",37,3,0,300,2021
+"Genoa CFC","Serie A","Italy","Salvatore Sirigu","https://www.transfermarkt.com/salvatore-sirigu/profil/spieler/25508","Goalkeeper",34,"Italy",40,37,0,3330,2021
+"Genoa CFC","Serie A","Italy","Lorenzo Andrenacci","https://www.transfermarkt.com/lorenzo-andrenacci/profil/spieler/234880","Goalkeeper",26,"Italy",8,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Federico Marchetti","https://www.transfermarkt.com/federico-marchetti/profil/spieler/22318","Goalkeeper",38,"Italy",27,1,0,90,2021
+"Genoa CFC","Serie A","Italy","Rok Vodisek","https://www.transfermarkt.com/rok-vodisek/profil/spieler/320871","Goalkeeper",22,"Slovenia",5,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Andrea Cambiaso","https://www.transfermarkt.com/andrea-cambiaso/profil/spieler/459658","Left-Back",21,"Italy",31,28,1,1930,2021
+"Genoa CFC","Serie A","Italy","Leo Østigård","https://www.transfermarkt.com/leo-ostigard/profil/spieler/367284","Centre-Back",21,"Norway",17,15,1,1238,2021
+"Genoa CFC","Serie A","Italy","Zinho Vanheusden","https://www.transfermarkt.com/zinho-vanheusden/profil/spieler/338672","Centre-Back",21,"Belgium",21,16,0,1197,2021
+"Genoa CFC","Serie A","Italy","Riccardo Calafiori","https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821","Left-Back",19,"Italy",11,3,0,81,2021
+"Genoa CFC","Serie A","Italy","Johan Vásquez","https://www.transfermarkt.com/johan-vasquez/profil/spieler/532937","Centre-Back",22,"Mexico",37,30,1,2537,2021
+"Genoa CFC","Serie A","Italy","Silvan Hefti","https://www.transfermarkt.com/silvan-hefti/profil/spieler/237666","Right-Back",23,"Switzerland",19,17,0,1408,2021
+"Genoa CFC","Serie A","Italy","Mohamed Fares","https://www.transfermarkt.com/mohamed-fares/profil/spieler/287700","Left-Back",25,"Algeria",9,9,2,586,2021
+"Genoa CFC","Serie A","Italy","Mattia Bani","https://www.transfermarkt.com/mattia-bani/profil/spieler/176139","Centre-Back",27,"Italy",26,19,0,1309,2021
+"Genoa CFC","Serie A","Italy","Nikola Maksimovic","https://www.transfermarkt.com/nikola-maksimovic/profil/spieler/124715","Centre-Back",29,"Serbia",16,14,0,1116,2021
+"Genoa CFC","Serie A","Italy","Lennart Czyborra","https://www.transfermarkt.com/lennart-czyborra/profil/spieler/309393","Left-Back",22,"Germany",2,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Davide Biraschi","https://www.transfermarkt.com/davide-biraschi/profil/spieler/199927","Centre-Back",26,"Italy",20,16,0,1114,2021
+"Genoa CFC","Serie A","Italy","Paolo Ghiglione","https://www.transfermarkt.com/paolo-ghiglione/profil/spieler/313477","Right-Back",24,"Italy",33,15,0,657,2021
+"Genoa CFC","Serie A","Italy","Stefano Sabelli","https://www.transfermarkt.com/stefano-sabelli/profil/spieler/167491","Right-Back",28,"Italy",19,9,0,531,2021
+"Genoa CFC","Serie A","Italy","Andrea Masiello","https://www.transfermarkt.com/andrea-masiello/profil/spieler/34198","Centre-Back",35,"Italy",35,7,0,516,2021
+"Genoa CFC","Serie A","Italy","Laurens Serpe","https://www.transfermarkt.com/laurens-serpe/profil/spieler/500164","Centre-Back",20,"Italy",7,2,0,42,2021
+"Genoa CFC","Serie A","Italy","Domenico Criscito","https://www.transfermarkt.com/domenico-criscito/profil/spieler/44136","Left-Back",34,"Italy",25,21,7,1709,2021
+"Genoa CFC","Serie A","Italy","Nicolò Rovella","https://www.transfermarkt.com/nicolo-rovella/profil/spieler/525704","Defensive Midfield",19,"Italy",26,22,0,1502,2021
+"Genoa CFC","Serie A","Italy","Nadiem Amiri","https://www.transfermarkt.com/nadiem-amiri/profil/spieler/232454","Central Midfield",24,"Germany",13,13,0,685,2021
+"Genoa CFC","Serie A","Italy","Morten Frendrup","https://www.transfermarkt.com/morten-frendrup/profil/spieler/503871","Central Midfield",20,"Denmark",15,10,0,692,2021
+"Genoa CFC","Serie A","Italy","Kevin Agudelo","https://www.transfermarkt.com/kevin-agudelo/profil/spieler/587458","Attacking Midfield",22,"Colombia",2,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Pablo Galdames","https://www.transfermarkt.com/pablo-galdames/profil/spieler/313830","Central Midfield",24,"Chile",31,20,0,1117,2021
+"Genoa CFC","Serie A","Italy","Hernani","https://www.transfermarkt.com/hernani/profil/spieler/181768","Central Midfield",27,"Brazil",30,20,0,814,2021
+"Genoa CFC","Serie A","Italy","Filippo Melegoni","https://www.transfermarkt.com/filippo-melegoni/profil/spieler/315862","Central Midfield",22,"Italy",37,27,1,1121,2021
+"Genoa CFC","Serie A","Italy","Stefano Sturaro","https://www.transfermarkt.com/stefano-sturaro/profil/spieler/167859","Central Midfield",28,"Italy",28,26,0,1827,2021
+"Genoa CFC","Serie A","Italy","Abdoulaye Touré","https://www.transfermarkt.com/abdoulaye-toure/profil/spieler/181382","Defensive Midfield",27,"France",20,9,0,434,2021
+"Genoa CFC","Serie A","Italy","Milan Badelj","https://www.transfermarkt.com/milan-badelj/profil/spieler/40633","Defensive Midfield",32,"Croatia",37,36,1,3061,2021
+"Genoa CFC","Serie A","Italy","Francesco Cassata","https://www.transfermarkt.com/francesco-cassata/profil/spieler/301236","Central Midfield",23,"Italy",4,2,0,55,2021
+"Genoa CFC","Serie A","Italy","Steeve-Mike Eyango","https://www.transfermarkt.com/steeve-mike-eyango/profil/spieler/702372","Central Midfield",20,"France",1,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Valon Behrami","https://www.transfermarkt.com/valon-behrami/profil/spieler/21905","Defensive Midfield",36,"Switzerland",17,10,0,305,2021
+"Genoa CFC","Serie A","Italy","Manolo Portanova","https://www.transfermarkt.com/manolo-portanova/profil/spieler/394304","Central Midfield",21,"Italy",37,26,1,1496,2021
+"Genoa CFC","Serie A","Italy","Albert Gudmundsson","https://www.transfermarkt.com/albert-gudmundsson/profil/spieler/305947","Left Winger",24,"Iceland",14,12,1,605,2021
+"Genoa CFC","Serie A","Italy","Roberto Piccoli","https://www.transfermarkt.com/roberto-piccoli/profil/spieler/432092","Centre-Forward",20,"Italy",6,5,0,215,2021
+"Genoa CFC","Serie A","Italy","Kelvin Yeboah","https://www.transfermarkt.com/kelvin-yeboah/profil/spieler/589737","Centre-Forward",21,"Italy",18,18,0,936,2021
+"Genoa CFC","Serie A","Italy","Eddie Salcedo","https://www.transfermarkt.com/eddie-salcedo/profil/spieler/459661","Centre-Forward",19,"Italy",0,0,0,0,2021
+"Genoa CFC","Serie A","Italy","Yayah Kallon","https://www.transfermarkt.com/yayah-kallon/profil/spieler/623040","Right Winger",20,"Sierra Leone",23,17,1,703,2021
+"Genoa CFC","Serie A","Italy","Andrea Favilli","https://www.transfermarkt.com/andrea-favilli/profil/spieler/340151","Centre-Forward",24,"Italy",2,1,0,35,2021
+"Genoa CFC","Serie A","Italy","Caleb Ekuban","https://www.transfermarkt.com/caleb-ekuban/profil/spieler/199953","Centre-Forward",27,"Ghana",35,33,2,1923,2021
+"Genoa CFC","Serie A","Italy","Mattia Destro","https://www.transfermarkt.com/mattia-destro/profil/spieler/88683","Centre-Forward",30,"Italy",33,30,9,1914,2021
+"Genoa CFC","Serie A","Italy","Aleksander Buksa","https://www.transfermarkt.com/aleksander-buksa/profil/spieler/553757","Centre-Forward",18,"Poland",12,4,0,59,2021
+"Genoa CFC","Serie A","Italy","Felipe Caicedo","https://www.transfermarkt.com/felipe-caicedo/profil/spieler/37834","Centre-Forward",32,"Ecuador",10,10,1,339,2021
+"Genoa CFC","Serie A","Italy","Flavio Bianchi","https://www.transfermarkt.com/flavio-bianchi/profil/spieler/364132","Centre-Forward",21,"Italy",13,8,1,361,2021
+"Genoa CFC","Serie A","Italy","Goran Pandev","https://www.transfermarkt.com/goran-pandev/profil/spieler/12563","Second Striker",37,"North Macedonia",26,22,0,912,2021
+"Venezia FC","Serie B","Italy","Sergio Romero","https://www.transfermarkt.com/sergio-romero/profil/spieler/30690","Goalkeeper",34,"Argentina",17,16,0,1440,2021
+"Venezia FC","Serie B","Italy","Luca Lezzerini","https://www.transfermarkt.com/luca-lezzerini/profil/spieler/135747","Goalkeeper",26,"Italy",16,8,0,676,2021
+"Venezia FC","Serie B","Italy","Filippo Neri","https://www.transfermarkt.com/filippo-neri/profil/spieler/616228","Goalkeeper",18,"Italy",8,0,0,0,2021
+"Venezia FC","Serie B","Italy","Bruno Bertinato","https://www.transfermarkt.com/bruno-bertinato/profil/spieler/323929","Goalkeeper",23,"Brazil",14,1,0,120,2021
+"Venezia FC","Serie B","Italy","Niki Mäenpää","https://www.transfermarkt.com/niki-maenpaa/profil/spieler/12359","Goalkeeper",36,"Finland",32,17,0,1484,2021
+"Venezia FC","Serie B","Italy","Riccardo Pigozzo","https://www.transfermarkt.com/riccardo-pigozzo/profil/spieler/529833","Goalkeeper",21,"Italy",1,0,0,0,2021
+"Venezia FC","Serie B","Italy","Roman Lazar","https://www.transfermarkt.com/roman-lazar/profil/spieler/721481","Goalkeeper",17,"Moldova",4,0,0,0,2021
+"Venezia FC","Serie B","Italy","Pasquale Mazzocchi","https://www.transfermarkt.com/pasquale-mazzocchi/profil/spieler/250153","Right-Back",25,"Italy",21,20,0,1371,2021
+"Venezia FC","Serie B","Italy","Tyronne Ebuehi","https://www.transfermarkt.com/tyronne-ebuehi/profil/spieler/309944","Right-Back",25,"Nigeria",24,20,0,1254,2021
+"Venezia FC","Serie B","Italy","Mattia Caldara","https://www.transfermarkt.com/mattia-caldara/profil/spieler/197470","Centre-Back",27,"Italy",38,33,1,2913,2021
+"Venezia FC","Serie B","Italy","David Schnegg","https://www.transfermarkt.com/david-schnegg/profil/spieler/378260","Left-Back",22,"Austria",17,7,0,358,2021
+"Venezia FC","Serie B","Italy","Pietro Ceccaroni","https://www.transfermarkt.com/pietro-ceccaroni/profil/spieler/239099","Centre-Back",25,"Italy",38,36,2,3243,2021
+"Venezia FC","Serie B","Italy","Ridgeciano Haps","https://www.transfermarkt.com/ridgeciano-haps/profil/spieler/228444","Left-Back",28,"Suriname",29,25,1,2061,2021
+"Venezia FC","Serie B","Italy","Michael Svoboda","https://www.transfermarkt.com/michael-svoboda/profil/spieler/438961","Centre-Back",22,"Austria",38,21,0,1452,2021
+"Venezia FC","Serie B","Italy","Ales Mateju","https://www.transfermarkt.com/ales-mateju/profil/spieler/242078","Right-Back",25,"Czech Republic",13,9,0,731,2021
+"Venezia FC","Serie B","Italy","Maximilian Ullmann","https://www.transfermarkt.com/maximilian-ullmann/profil/spieler/239934","Left-Back",25,"Austria",15,5,0,243,2021
+"Venezia FC","Serie B","Italy","Marco Modolo","https://www.transfermarkt.com/marco-modolo/profil/spieler/198873","Centre-Back",32,"Italy",28,7,0,480,2021
+"Venezia FC","Serie B","Italy","Jakob Pálsson","https://www.transfermarkt.com/jakob-palsson/profil/spieler/654543","Right-Back",18,"Iceland",2,0,0,0,2021
+"Venezia FC","Serie B","Italy","Morré Makadji","https://www.transfermarkt.com/morre-makadji/profil/spieler/894579","Centre-Back",17,"France",5,0,0,0,2021
+"Venezia FC","Serie B","Italy","Cristian Molinaro","https://www.transfermarkt.com/cristian-molinaro/profil/spieler/21972","Left-Back",37,"Italy",27,9,0,594,2021
+"Venezia FC","Serie B","Italy","Ethan Ampadu","https://www.transfermarkt.com/ethan-ampadu/profil/spieler/392771","Defensive Midfield",20,"Wales",31,30,0,2378,2021
+"Venezia FC","Serie B","Italy","Arnór Sigurdsson","https://www.transfermarkt.com/arnor-sigurdsson/profil/spieler/377665","Attacking Midfield",22,"Iceland",24,11,0,315,2021
+"Venezia FC","Serie B","Italy","Gianluca Busio","https://www.transfermarkt.com/gianluca-busio/profil/spieler/504209","Central Midfield",19,"United States",36,29,1,1957,2021
+"Venezia FC","Serie B","Italy","Michaël Cuisance","https://www.transfermarkt.com/michael-cuisance/profil/spieler/344600","Central Midfield",21,"France",16,13,0,929,2021
+"Venezia FC","Serie B","Italy","Tanner Tessmann","https://www.transfermarkt.com/tanner-tessmann/profil/spieler/670096","Central Midfield",19,"United States",40,23,0,842,2021
+"Venezia FC","Serie B","Italy","Mattia Aramu","https://www.transfermarkt.com/mattia-aramu/profil/spieler/200188","Attacking Midfield",26,"Italy",34,33,7,2166,2021
+"Venezia FC","Serie B","Italy","Daan Heymans","https://www.transfermarkt.com/daan-heymans/profil/spieler/446491","Attacking Midfield",22,"Belgium",22,10,1,462,2021
+"Venezia FC","Serie B","Italy","Domen Crnigoj","https://www.transfermarkt.com/domen-crnigoj/profil/spieler/216599","Central Midfield",25,"Slovenia",38,37,4,1977,2021
+"Venezia FC","Serie B","Italy","Dor Peretz","https://www.transfermarkt.com/dor-peretz/profil/spieler/204987","Central Midfield",26,"Israel",37,21,0,730,2021
+"Venezia FC","Serie B","Italy","Luca Fiordilino","https://www.transfermarkt.com/luca-fiordilino/profil/spieler/287875","Defensive Midfield",24,"Italy",27,18,0,862,2021
+"Venezia FC","Serie B","Italy","Sofian Kiyine","https://www.transfermarkt.com/sofian-kiyine/profil/spieler/393804","Left Midfield",23,"Morocco",32,28,1,1329,2021
+"Venezia FC","Serie B","Italy","Nicolas Galazzi","https://www.transfermarkt.com/nicolas-galazzi/profil/spieler/524428","Attacking Midfield",20,"Italy",1,1,0,15,2021
+"Venezia FC","Serie B","Italy","Antonio Junior Vacca","https://www.transfermarkt.com/antonio-junior-vacca/profil/spieler/102984","Defensive Midfield",31,"Italy",24,22,0,1103,2021
+"Venezia FC","Serie B","Italy","Jacopo Dezi","https://www.transfermarkt.com/jacopo-dezi/profil/spieler/165531","Central Midfield",29,"Italy",2,1,0,15,2021
+"Venezia FC","Serie B","Italy","Lauri Ala-Myllymäki","https://www.transfermarkt.com/lauri-ala-myllymaki/profil/spieler/270515","Attacking Midfield",24,"Finland",1,0,0,0,2021
+"Venezia FC","Serie B","Italy","Damiano Pecile","https://www.transfermarkt.com/damiano-pecile/profil/spieler/718088","Defensive Midfield",19,"Canada",2,0,0,0,2021
+"Venezia FC","Serie B","Italy","Patrick Leal","https://www.transfermarkt.com/patrick-leal/profil/spieler/623872","Attacking Midfield",18,"United States",1,1,0,1,2021
+"Venezia FC","Serie B","Italy","Filippo Mozzo","https://www.transfermarkt.com/filippo-mozzo/profil/spieler/817275","Defensive Midfield",17,"Italy",1,0,0,0,2021
+"Venezia FC","Serie B","Italy","Thomas Henry","https://www.transfermarkt.com/thomas-henry/profil/spieler/412513","Centre-Forward",26,"France",35,34,9,2164,2021
+"Venezia FC","Serie B","Italy","David Okereke","https://www.transfermarkt.com/david-okereke/profil/spieler/413605","Centre-Forward",23,"Nigeria",33,33,7,2100,2021
+"Venezia FC","Serie B","Italy","Jean-Pierre Nsame","https://www.transfermarkt.com/jean-pierre-nsame/profil/spieler/225055","Centre-Forward",28,"Cameroon",15,11,0,235,2021
+"Venezia FC","Serie B","Italy","Francesco Di Mariano","https://www.transfermarkt.com/francesco-di-mariano/profil/spieler/238950","Left Winger",25,"Italy",2,2,1,128,2021
+"Venezia FC","Serie B","Italy","Francesco Forte","https://www.transfermarkt.com/francesco-forte/profil/spieler/164534","Centre-Forward",28,"Italy",22,14,2,561,2021
+"Venezia FC","Serie B","Italy","Dennis Johnsen","https://www.transfermarkt.com/dennis-johnsen/profil/spieler/406042","Left Winger",23,"Norway",32,29,1,1688,2021
+"Venezia FC","Serie B","Italy","Nani","https://www.transfermarkt.com/nani/profil/spieler/33706","Left Winger",34,"Portugal",17,10,0,283,2021
+"Venezia FC","Serie B","Italy","Hilmir Rafn Mikaelsson","https://www.transfermarkt.com/hilmir-rafn-mikaelsson/profil/spieler/806524","Centre-Forward",17,"Iceland",1,1,0,17,2021
+"Venezia FC","Serie B","Italy","Óttar Magnús Karlsson","https://www.transfermarkt.com/ottar-magnus-karlsson/profil/spieler/271622","Centre-Forward",24,"Iceland",1,0,0,0,2021
+"Venezia FC","Serie B","Italy","Jack de Vries","https://www.transfermarkt.com/jack-de-vries/profil/spieler/659781","Right Winger",19,"United States",1,1,0,14,2021
+"Venezia FC","Serie B","Italy","Bjarki Bjarkason","https://www.transfermarkt.com/bjarki-bjarkason/profil/spieler/566613","Left Winger",21,"Iceland",16,2,0,62,2021
+"Venezia FC","Serie B","Italy","Issa Bah","https://www.transfermarkt.com/issa-bah/profil/spieler/566861","Left Winger",18,"Portugal",2,1,0,8,2021
+"Spezia Calcio","Serie B","Italy","Ivan Provedel","https://www.transfermarkt.com/ivan-provedel/profil/spieler/197929","Goalkeeper",27,"Italy",40,31,0,2762,2021
+"Spezia Calcio","Serie B","Italy","Jeroen Zoet","https://www.transfermarkt.com/jeroen-zoet/profil/spieler/79045","Goalkeeper",30,"Netherlands",38,9,0,810,2021
+"Spezia Calcio","Serie B","Italy","Petar Zovko","https://www.transfermarkt.com/petar-zovko/profil/spieler/602299","Goalkeeper",19,"Bosnia-Herzegovina",40,1,0,28,2021
+"Spezia Calcio","Serie B","Italy","Jakub Kiwior","https://www.transfermarkt.com/jakub-kiwior/profil/spieler/425918","Centre-Back",21,"Poland",31,23,0,2009,2021
+"Spezia Calcio","Serie B","Italy","Martin Erlic","https://www.transfermarkt.com/martin-erlic/profil/spieler/357003","Centre-Back",23,"Croatia",32,32,3,2715,2021
+"Spezia Calcio","Serie B","Italy","Kelvin Amian","https://www.transfermarkt.com/kelvin-amian/profil/spieler/344072","Right-Back",23,"France",34,33,1,2740,2021
+"Spezia Calcio","Serie B","Italy","Dimitrios Nikolaou","https://www.transfermarkt.com/dimitrios-nikolaou/profil/spieler/292772","Centre-Back",22,"Greece",39,37,1,3330,2021
+"Spezia Calcio","Serie B","Italy","Arkadiusz Reca","https://www.transfermarkt.com/arkadiusz-reca/profil/spieler/268178","Left-Back",26,"Poland",27,26,0,1803,2021
+"Spezia Calcio","Serie B","Italy","Luca Vignali","https://www.transfermarkt.com/luca-vignali/profil/spieler/287367","Right-Back",25,"Italy",3,2,0,85,2021
+"Spezia Calcio","Serie B","Italy","Petko Hristov","https://www.transfermarkt.com/petko-hristov/profil/spieler/372809","Centre-Back",22,"Bulgaria",36,19,1,1425,2021
+"Spezia Calcio","Serie B","Italy","Salva Ferrer","https://www.transfermarkt.com/salva-ferrer/profil/spieler/624548","Right-Back",23,"Spain",40,29,0,1662,2021
+"Spezia Calcio","Serie B","Italy","Nicolò Bertola","https://www.transfermarkt.com/nicolo-bertola/profil/spieler/632831","Centre-Back",18,"Italy",31,3,0,123,2021
+"Spezia Calcio","Serie B","Italy","Simone Bastoni","https://www.transfermarkt.com/simone-bastoni/profil/spieler/257751","Central Midfield",24,"Italy",34,32,3,2357,2021
+"Spezia Calcio","Serie B","Italy","Giulio Maggiore","https://www.transfermarkt.com/giulio-maggiore/profil/spieler/353796","Central Midfield",23,"Italy",36,36,2,2923,2021
+"Spezia Calcio","Serie B","Italy","Kevin Agudelo","https://www.transfermarkt.com/kevin-agudelo/profil/spieler/587458","Attacking Midfield",22,"Colombia",24,24,3,1296,2021
+"Spezia Calcio","Serie B","Italy","Viktor Kovalenko","https://www.transfermarkt.com/viktor-kovalenko/profil/spieler/203842","Attacking Midfield",25,"Ukraine",34,27,1,1409,2021
+"Spezia Calcio","Serie B","Italy","Mehdi Bourabia","https://www.transfermarkt.com/mehdi-bourabia/profil/spieler/131731","Defensive Midfield",29,"Morocco",20,9,1,321,2021
+"Spezia Calcio","Serie B","Italy","Léo Sena","https://www.transfermarkt.com/leo-sena/profil/spieler/435213","Defensive Midfield",25,"Brazil",0,0,0,0,2021
+"Spezia Calcio","Serie B","Italy","Aimar Sher","https://www.transfermarkt.com/aimar-sher/profil/spieler/579294","Central Midfield",18,"Sweden",18,2,0,134,2021
+"Spezia Calcio","Serie B","Italy","Jacopo Sala","https://www.transfermarkt.com/jacopo-sala/profil/spieler/96806","Central Midfield",29,"Italy",27,19,1,892,2021
+"Spezia Calcio","Serie B","Italy","Aurélien Nguiamba","https://www.transfermarkt.com/aurelien-nguiamba/profil/spieler/344595","Defensive Midfield",22,"France",21,4,0,73,2021
+"Spezia Calcio","Serie B","Italy","Niccolò Pietra","https://www.transfermarkt.com/niccolo-pietra/profil/spieler/632829","Central Midfield",17,"Italy",1,0,0,0,2021
+"Spezia Calcio","Serie B","Italy","M'Bala Nzola","https://www.transfermarkt.com/mbala-nzola/profil/spieler/354814","Centre-Forward",24,"Angola",27,22,2,1131,2021
+"Spezia Calcio","Serie B","Italy","Daniele Verde","https://www.transfermarkt.com/daniele-verde/profil/spieler/256361","Right Winger",25,"Italy",36,34,8,2037,2021
+"Spezia Calcio","Serie B","Italy","Ebrima Colley","https://www.transfermarkt.com/ebrima-colley/profil/spieler/567217","Right Winger",21,"The Gambia",19,13,1,494,2021
+"Spezia Calcio","Serie B","Italy","Janis Antiste","https://www.transfermarkt.com/janis-antiste/profil/spieler/538974","Centre-Forward",18,"France",36,19,1,838,2021
+"Spezia Calcio","Serie B","Italy","Eddie Salcedo","https://www.transfermarkt.com/eddie-salcedo/profil/spieler/459661","Centre-Forward",19,"Italy",19,12,0,427,2021
+"Spezia Calcio","Serie B","Italy","Emmanuel Gyasi","https://www.transfermarkt.com/emmanuel-gyasi/profil/spieler/241076","Left Winger",27,"Ghana",37,37,6,3054,2021
+"Spezia Calcio","Serie B","Italy","Rey Manaj","https://www.transfermarkt.com/rey-manaj/profil/spieler/308278","Centre-Forward",24,"Albania",34,30,5,1769,2021
+"Spezia Calcio","Serie B","Italy","David Strelec","https://www.transfermarkt.com/david-strelec/profil/spieler/482836","Centre-Forward",20,"Slovakia",26,11,1,595,2021
+"Spezia Calcio","Serie B","Italy","Samuel Mraz","https://www.transfermarkt.com/samuel-mraz/profil/spieler/243225","Centre-Forward",24,"Slovakia",3,3,0,142,2021
+"Spezia Calcio","Serie B","Italy","Suf Podgoreanu","https://www.transfermarkt.com/suf-podgoreanu/profil/spieler/540827","Left Winger",19,"Israel",19,5,0,110,2021
+"Spezia Calcio","Serie B","Italy","Diego Zuppel","https://www.transfermarkt.com/diego-zuppel/profil/spieler/581912","Centre-Forward",18,"Italy",0,0,0,0,2021
+"Spezia Calcio","Serie B","Italy","Dennis Deloriè","https://www.transfermarkt.com/dennis-delorie/profil/spieler/883048","Second Striker",16,"Italy",2,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Luigi Sepe","https://www.transfermarkt.com/luigi-sepe/profil/spieler/99254","Goalkeeper",30,"Italy",16,16,0,1394,2021
+"US Salernitana 1919","Serie A","Italy","Vid Belec","https://www.transfermarkt.com/vid-belec/profil/spieler/73090","Goalkeeper",31,"Slovenia",40,24,0,2026,2021
+"US Salernitana 1919","Serie A","Italy","Vincenzo Fiorillo","https://www.transfermarkt.com/vincenzo-fiorillo/profil/spieler/55000","Goalkeeper",31,"Italy",22,2,0,180,2021
+"US Salernitana 1919","Serie A","Italy","Guido Guerrieri","https://www.transfermarkt.com/guido-guerrieri/profil/spieler/256996","Goalkeeper",25,"Italy",8,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Jacopo De Matteis","https://www.transfermarkt.com/jacopo-de-matteis/profil/spieler/606614","Goalkeeper",18,"Italy",3,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Antonio Russo","https://www.transfermarkt.com/antonio-russo/profil/spieler/541282","Goalkeeper",21,"Italy",14,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Radu Dragusin","https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559","Centre-Back",19,"Romania",17,7,0,486,2021
+"US Salernitana 1919","Serie A","Italy","Pasquale Mazzocchi","https://www.transfermarkt.com/pasquale-mazzocchi/profil/spieler/250153","Right-Back",25,"Italy",15,15,0,1275,2021
+"US Salernitana 1919","Serie A","Italy","Matteo Ruggeri","https://www.transfermarkt.com/matteo-ruggeri/profil/spieler/616631","Left-Back",18,"Italy",15,15,0,766,2021
+"US Salernitana 1919","Serie A","Italy","Luca Ranieri","https://www.transfermarkt.com/luca-ranieri/profil/spieler/346561","Centre-Back",22,"Italy",30,27,1,2114,2021
+"US Salernitana 1919","Serie A","Italy","Nadir Zortea","https://www.transfermarkt.com/nadir-zortea/profil/spieler/392966","Right-Back",22,"Italy",36,29,1,1401,2021
+"US Salernitana 1919","Serie A","Italy","Norbert Gyomber","https://www.transfermarkt.com/norbert-gyomber/profil/spieler/205054","Centre-Back",28,"Slovakia",36,33,0,2665,2021
+"US Salernitana 1919","Serie A","Italy","Wajdi Kechrida","https://www.transfermarkt.com/wajdi-kechrida/profil/spieler/407885","Right-Back",25,"Tunisia",26,19,0,1129,2021
+"US Salernitana 1919","Serie A","Italy","Riccardo Gagliolo","https://www.transfermarkt.com/riccardo-gagliolo/profil/spieler/240786","Centre-Back",31,"Sweden",33,18,0,1224,2021
+"US Salernitana 1919","Serie A","Italy","Luka Bogdan","https://www.transfermarkt.com/luka-bogdan/profil/spieler/226058","Centre-Back",25,"Croatia",16,8,0,545,2021
+"US Salernitana 1919","Serie A","Italy","Stefan Strandberg","https://www.transfermarkt.com/stefan-strandberg/profil/spieler/50617","Centre-Back",30,"Norway",12,12,0,1024,2021
+"US Salernitana 1919","Serie A","Italy","Federico Fazio","https://www.transfermarkt.com/federico-fazio/profil/spieler/45314","Centre-Back",34,"Argentina",16,16,1,1435,2021
+"US Salernitana 1919","Serie A","Italy","Frédéric Veseli","https://www.transfermarkt.com/frederic-veseli/profil/spieler/111433","Right-Back",28,"Albania",19,9,0,599,2021
+"US Salernitana 1919","Serie A","Italy","Filippo Delli Carri","https://www.transfermarkt.com/filippo-delli-carri/profil/spieler/393904","Centre-Back",22,"Italy",20,6,0,422,2021
+"US Salernitana 1919","Serie A","Italy","Ramzi Aya","https://www.transfermarkt.com/ramzi-aya/profil/spieler/57633","Centre-Back",31,"Italy",7,3,0,161,2021
+"US Salernitana 1919","Serie A","Italy","Mario Perrone","https://www.transfermarkt.com/mario-perrone/profil/spieler/709579","Centre-Back",18,"Italy",3,1,0,14,2021
+"US Salernitana 1919","Serie A","Italy","Tommaso De Lorenzo","https://www.transfermarkt.com/tommaso-de-lorenzo/profil/spieler/815941","Left-Back",17,"Italy",1,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Éderson","https://www.transfermarkt.com/ederson/profil/spieler/607854","Central Midfield",21,"Brazil",16,15,2,1151,2021
+"US Salernitana 1919","Serie A","Italy","Lassana Coulibaly","https://www.transfermarkt.com/lassana-coulibaly/profil/spieler/386552","Central Midfield",25,"Mali",33,33,0,2412,2021
+"US Salernitana 1919","Serie A","Italy","Simone Verdi","https://www.transfermarkt.com/simone-verdi/profil/spieler/130360","Attacking Midfield",28,"Italy",16,15,5,836,2021
+"US Salernitana 1919","Serie A","Italy","Emil Bohinen","https://www.transfermarkt.com/emil-bohinen/profil/spieler/406806","Central Midfield",22,"Norway",16,11,0,699,2021
+"US Salernitana 1919","Serie A","Italy","Grigoris Kastanos","https://www.transfermarkt.com/grigoris-kastanos/profil/spieler/298635","Central Midfield",23,"Cyprus",35,29,1,1432,2021
+"US Salernitana 1919","Serie A","Italy","Mamadou Coulibaly","https://www.transfermarkt.com/mamadou-coulibaly/profil/spieler/472161","Central Midfield",22,"Senegal",14,12,2,886,2021
+"US Salernitana 1919","Serie A","Italy","Pawel Jaroszynski","https://www.transfermarkt.com/pawel-jaroszynski/profil/spieler/287600","Left Midfield",26,"Poland",27,14,0,598,2021
+"US Salernitana 1919","Serie A","Italy","Ivan Radovanovic","https://www.transfermarkt.com/ivan-radovanovic/profil/spieler/46105","Defensive Midfield",32,"Serbia",14,14,1,1067,2021
+"US Salernitana 1919","Serie A","Italy","Francesco Di Tacchio","https://www.transfermarkt.com/francesco-di-tacchio/profil/spieler/84766","Defensive Midfield",31,"Italy",34,20,0,1378,2021
+"US Salernitana 1919","Serie A","Italy","Leonardo Capezzi","https://www.transfermarkt.com/leonardo-capezzi/profil/spieler/84442","Central Midfield",26,"Italy",14,6,0,207,2021
+"US Salernitana 1919","Serie A","Italy","Andrea Schiavone","https://www.transfermarkt.com/andrea-schiavone/profil/spieler/136133","Defensive Midfield",28,"Italy",22,15,1,630,2021
+"US Salernitana 1919","Serie A","Italy","Joel Obi","https://www.transfermarkt.com/joel-obi/profil/spieler/45581","Central Midfield",30,"Nigeria",34,23,0,1226,2021
+"US Salernitana 1919","Serie A","Italy","Antonio Pio Iervolino","https://www.transfermarkt.com/antonio-pio-iervolino/profil/spieler/704347","Central Midfield",18,"Italy",1,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Alessandro Russo","https://www.transfermarkt.com/alessandro-russo/profil/spieler/708084","Central Midfield",17,"Italy",4,1,0,28,2021
+"US Salernitana 1919","Serie A","Italy","Sedrick Kalombo","https://www.transfermarkt.com/sedrick-kalombo/profil/spieler/260777","Right Midfield",26,"Italy",1,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Federico Bonazzoli","https://www.transfermarkt.com/federico-bonazzoli/profil/spieler/241527","Centre-Forward",24,"Italy",34,33,12,1946,2021
+"US Salernitana 1919","Serie A","Italy","Milan Djuric","https://www.transfermarkt.com/milan-djuric/profil/spieler/67556","Centre-Forward",31,"Bosnia-Herzegovina",35,35,5,2335,2021
+"US Salernitana 1919","Serie A","Italy","Mikael","https://www.transfermarkt.com/mikael/profil/spieler/642689","Centre-Forward",22,"Brazil",16,7,0,80,2021
+"US Salernitana 1919","Serie A","Italy","Lys Mousset","https://www.transfermarkt.com/lys-mousset/profil/spieler/291422","Centre-Forward",25,"France",7,6,0,158,2021
+"US Salernitana 1919","Serie A","Italy","Cedric Gondo","https://www.transfermarkt.com/cedric-gondo/profil/spieler/213854","Centre-Forward",24,"Cote d'Ivoire",15,15,1,712,2021
+"US Salernitana 1919","Serie A","Italy","Simy","https://www.transfermarkt.com/simy/profil/spieler/194549","Centre-Forward",29,"Nigeria",20,20,1,866,2021
+"US Salernitana 1919","Serie A","Italy","Edoardo Vergani","https://www.transfermarkt.com/edoardo-vergani/profil/spieler/421780","Centre-Forward",20,"Italy",20,7,0,163,2021
+"US Salernitana 1919","Serie A","Italy","Julian Kristoffersen","https://www.transfermarkt.com/julian-kristoffersen/profil/spieler/267614","Centre-Forward",24,"Norway",3,2,0,14,2021
+"US Salernitana 1919","Serie A","Italy","Angelo Guida","https://www.transfermarkt.com/angelo-guida/profil/spieler/651206","Centre-Forward",18,"Italy",1,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Carmine Iannone","https://www.transfermarkt.com/carmine-iannone/profil/spieler/542394","Centre-Forward",19,"Italy",3,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Lorenzo Cannavale","https://www.transfermarkt.com/lorenzo-cannavale/profil/spieler/622029","Centre-Forward",19,"Italy",4,0,0,0,2021
+"US Salernitana 1919","Serie A","Italy","Franck Ribéry","https://www.transfermarkt.com/franck-ribery/profil/spieler/22068","Left Winger",38,"France",24,23,0,1403,2021
+"US Salernitana 1919","Serie A","Italy","Diego Perotti","https://www.transfermarkt.com/diego-perotti/profil/spieler/54984","Left Winger",32,"Argentina",15,11,0,278,2021

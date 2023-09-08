@@ -1,0 +1,624 @@
+"team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played","season"
+"Parma Calcio 1913","Serie B","Italy","Sébastien Frey","https://www.transfermarkt.com/sebastien-frey/profil/spieler/5854","Goalkeeper",23,"France",43,40,0,3401,2003
+"Parma Calcio 1913","Serie B","Italy","Vincenzo Sicignano","https://www.transfermarkt.com/vincenzo-sicignano/profil/spieler/16978","Goalkeeper",28,"Italy",22,5,0,357,2003
+"Parma Calcio 1913","Serie B","Italy","Fabio Virgili","https://www.transfermarkt.com/fabio-virgili/profil/spieler/42978","Goalkeeper",17,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Alfonso De Lucia","https://www.transfermarkt.com/alfonso-de-lucia/profil/spieler/5853","Goalkeeper",19,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Marco Amelia","https://www.transfermarkt.com/marco-amelia/profil/spieler/16810","Goalkeeper",21,"Italy",21,2,0,144,2003
+"Parma Calcio 1913","Serie B","Italy","Giordano Vanin","https://www.transfermarkt.com/giordano-vanin/profil/spieler/16813","Goalkeeper",17,"Italy",2,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Davide Tarcisio Favaro","https://www.transfermarkt.com/davide-tarcisio-favaro/profil/spieler/203610","Defender",9,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Sebastiano Girelli","https://www.transfermarkt.com/sebastiano-girelli/profil/spieler/16827","Centre-Back",19,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Anthony Seric","https://www.transfermarkt.com/anthony-seric/profil/spieler/5967","Left-Back",24,"Croatia",34,24,0,1584,2003
+"Parma Calcio 1913","Serie B","Italy","Daniele Bonera","https://www.transfermarkt.com/daniele-bonera/profil/spieler/5856","Centre-Back",22,"Italy",31,29,0,2335,2003
+"Parma Calcio 1913","Serie B","Italy","Giuseppe Cardone","https://www.transfermarkt.com/giuseppe-cardone/profil/spieler/16811","Right-Back",29,"Italy",5,4,0,243,2003
+"Parma Calcio 1913","Serie B","Italy","Gabriel Oyola","https://www.transfermarkt.com/gabriel-oyola/profil/spieler/5863","Centre-Back",20,"Argentina",15,5,0,249,2003
+"Parma Calcio 1913","Serie B","Italy","Marcello Castellini","https://www.transfermarkt.com/marcello-castellini/profil/spieler/5988","Centre-Back",30,"Italy",37,36,0,3186,2003
+"Parma Calcio 1913","Serie B","Italy","Júnior","https://www.transfermarkt.com/junior/profil/spieler/5861","Left-Back",30,"Brazil",19,16,0,1262,2003
+"Parma Calcio 1913","Serie B","Italy","Mirko Stefani","https://www.transfermarkt.com/mirko-stefani/profil/spieler/16905","Centre-Back",19,"Italy",4,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Emiliano Moretti","https://www.transfermarkt.com/emiliano-moretti/profil/spieler/5755","Centre-Back",22,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",19,"Italy",15,13,0,682,2003
+"Parma Calcio 1913","Serie B","Italy","Matteo Ferrari","https://www.transfermarkt.com/matteo-ferrari/profil/spieler/5860","Centre-Back",23,"Italy",42,41,1,3637,2003
+"Parma Calcio 1913","Serie B","Italy","Ibrahima Camara","https://www.transfermarkt.com/ibrahima-camara/profil/spieler/25315","Left-Back",18,"Guinea",11,7,0,142,2003
+"Parma Calcio 1913","Serie B","Italy","Paolo Cannavaro","https://www.transfermarkt.com/paolo-cannavaro/profil/spieler/5858","Centre-Back",22,"Italy",36,26,0,2179,2003
+"Parma Calcio 1913","Serie B","Italy","Antonio Benarrivo","https://www.transfermarkt.com/antonio-benarrivo/profil/spieler/5857","Left-Back",34,"Italy",24,10,0,514,2003
+"Parma Calcio 1913","Serie B","Italy","Hidetoshi Nakata","https://www.transfermarkt.com/hidetoshi-nakata/profil/spieler/5875","Attacking Midfield",26,"Japan",20,17,1,993,2003
+"Parma Calcio 1913","Serie B","Italy","Ianis Zicu","https://www.transfermarkt.com/ianis-zicu/profil/spieler/16909","Attacking Midfield",19,"Romania",12,7,0,202,2003
+"Parma Calcio 1913","Serie B","Italy","Simone Barone","https://www.transfermarkt.com/simone-barone/profil/spieler/5866","Central Midfield",25,"Italy",42,39,3,3352,2003
+"Parma Calcio 1913","Serie B","Italy","Domenico Morfeo","https://www.transfermarkt.com/domenico-morfeo/profil/spieler/5786","Attacking Midfield",27,"Italy",25,24,4,1546,2003
+"Parma Calcio 1913","Serie B","Italy","Marco Donadel","https://www.transfermarkt.com/marco-donadel/profil/spieler/6427","Defensive Midfield",20,"Italy",37,31,0,2294,2003
+"Parma Calcio 1913","Serie B","Italy","Emanuele Filippini","https://www.transfermarkt.com/emanuele-filippini/profil/spieler/5871","Central Midfield",29,"Italy",23,20,3,1249,2003
+"Parma Calcio 1913","Serie B","Italy","Mark Bresciano","https://www.transfermarkt.com/mark-bresciano/profil/spieler/5867","Central Midfield",23,"Australia",41,37,9,2699,2003
+"Parma Calcio 1913","Serie B","Italy","Matteo Brighi","https://www.transfermarkt.com/matteo-brighi/profil/spieler/5868","Central Midfield",22,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Jorge Bolaño","https://www.transfermarkt.com/jorge-bolano/profil/spieler/16974","Central Midfield",26,"Colombia",13,7,0,301,2003
+"Parma Calcio 1913","Serie B","Italy","Manuele Blasi","https://www.transfermarkt.com/manuele-blasi/profil/spieler/6090","Central Midfield",22,"Italy",13,13,0,1149,2003
+"Parma Calcio 1913","Serie B","Italy","Paolo Ruffini","https://www.transfermarkt.com/paolo-ruffini/profil/spieler/16903","Central Midfield",19,"Italy",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Marco Marchionni","https://www.transfermarkt.com/marco-marchionni/profil/spieler/5873","Right Midfield",22,"Italy",37,35,6,2714,2003
+"Parma Calcio 1913","Serie B","Italy","Lorenzo Carotti","https://www.transfermarkt.com/lorenzo-carotti/profil/spieler/39521","Defensive Midfield",18,"Italy",1,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Manuele Sorti","https://www.transfermarkt.com/manuele-sorti/profil/spieler/32109","Attacking Midfield",17,"Italy",3,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Adriano","https://www.transfermarkt.com/adriano/profil/spieler/5876","Centre-Forward",21,"Brazil",13,13,9,992,2003
+"Parma Calcio 1913","Serie B","Italy","Adrian Mutu","https://www.transfermarkt.com/adrian-mutu/profil/spieler/5879","Centre-Forward",24,"Romania",0,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Alberto Gilardino","https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878","Centre-Forward",20,"Italy",42,40,26,2887,2003
+"Parma Calcio 1913","Serie B","Italy","Benny Carbone","https://www.transfermarkt.com/benny-carbone/profil/spieler/3389","Second Striker",31,"Italy",37,26,6,1633,2003
+"Parma Calcio 1913","Serie B","Italy","Gaetano Grieco","https://www.transfermarkt.com/gaetano-grieco/profil/spieler/6032","Centre-Forward",20,"Italy",11,4,1,191,2003
+"Parma Calcio 1913","Serie B","Italy","Alessandro Rosina","https://www.transfermarkt.com/alessandro-rosina/profil/spieler/16902","Right Winger",19,"Italy",25,15,2,713,2003
+"Parma Calcio 1913","Serie B","Italy","Alex Gibbs","https://www.transfermarkt.com/alex-gibbs/profil/spieler/16894","Centre-Forward",19,"Italy",3,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Tonino Sorrentino","https://www.transfermarkt.com/tonino-sorrentino/profil/spieler/16904","Centre-Forward",18,"Italy",4,1,2,90,2003
+"Parma Calcio 1913","Serie B","Italy","Isah Eliakwu","https://www.transfermarkt.com/isah-eliakwu/profil/spieler/18245","Centre-Forward",17,"Nigeria",1,0,0,0,2003
+"Parma Calcio 1913","Serie B","Italy","Daniele Degano","https://www.transfermarkt.com/daniele-degano/profil/spieler/16892","Second Striker",20,"Italy",10,6,0,204,2003
+"Parma Calcio 1913","Serie B","Italy","Fabrizio Cammarata","https://www.transfermarkt.com/fabrizio-cammarata/profil/spieler/16890","Centre-Forward",27,"Italy",18,8,0,285,2003
+"Juventus FC","Serie A","Italy","Antonio Mirante","https://www.transfermarkt.com/antonio-mirante/profil/spieler/22141","Goalkeeper",19,"Italy",9,0,0,0,2003
+"Juventus FC","Serie A","Italy","Gianluigi Buffon","https://www.transfermarkt.com/gianluigi-buffon/profil/spieler/5023","Goalkeeper",25,"Italy",47,39,0,3540,2003
+"Juventus FC","Serie A","Italy","Antonio Chimenti","https://www.transfermarkt.com/antonio-chimenti/profil/spieler/5745","Goalkeeper",33,"Italy",46,12,0,1110,2003
+"Juventus FC","Serie A","Italy","Nicola Avitabile","https://www.transfermarkt.com/nicola-avitabile/profil/spieler/423974","Goalkeeper",18,"Italy",0,0,0,0,2003
+"Juventus FC","Serie A","Italy","Andrea Masiello","https://www.transfermarkt.com/andrea-masiello/profil/spieler/34198","Centre-Back",17,"Italy",2,0,0,0,2003
+"Juventus FC","Serie A","Italy","Ciro Ferrara","https://www.transfermarkt.com/ciro-ferrara/profil/spieler/5749","Centre-Back",36,"Italy",39,26,1,2064,2003
+"Juventus FC","Serie A","Italy","Paolo Montero","https://www.transfermarkt.com/paolo-montero/profil/spieler/5747","Centre-Back",31,"Uruguay",33,26,1,2000,2003
+"Juventus FC","Serie A","Italy","Igor Tudor","https://www.transfermarkt.com/igor-tudor/profil/spieler/5752","Centre-Back",25,"Croatia",36,26,3,1764,2003
+"Juventus FC","Serie A","Italy","Salvatore Fresi","https://www.transfermarkt.com/salvatore-fresi/profil/spieler/5754","Centre-Back",30,"Italy",2,1,0,46,2003
+"Juventus FC","Serie A","Italy","Gianluca Pessotto","https://www.transfermarkt.com/gianluca-pessotto/profil/spieler/5751","Left-Back",32,"Italy",39,31,0,1813,2003
+"Juventus FC","Serie A","Italy","Mark Iuliano","https://www.transfermarkt.com/mark-iuliano/profil/spieler/5750","Centre-Back",29,"Italy",36,26,2,1837,2003
+"Juventus FC","Serie A","Italy","Alessandro Birindelli","https://www.transfermarkt.com/alessandro-birindelli/profil/spieler/5753","Right-Back",28,"Italy",34,28,0,1923,2003
+"Juventus FC","Serie A","Italy","Gianluca Zambrotta","https://www.transfermarkt.com/gianluca-zambrotta/profil/spieler/5757","Right-Back",26,"Italy",42,42,1,3380,2003
+"Juventus FC","Serie A","Italy","Lilian Thuram","https://www.transfermarkt.com/lilian-thuram/profil/spieler/3521","Centre-Back",31,"France",35,32,0,2804,2003
+"Juventus FC","Serie A","Italy","Nicola Legrottaglie","https://www.transfermarkt.com/nicola-legrottaglie/profil/spieler/5925","Centre-Back",26,"Italy",37,31,2,2664,2003
+"Juventus FC","Serie A","Italy","Orlando Urbano","https://www.transfermarkt.com/orlando-urbano/profil/spieler/39687","Centre-Back",19,"Italy",1,0,0,0,2003
+"Juventus FC","Serie A","Italy","Giovanni Bartolucci","https://www.transfermarkt.com/giovanni-bartolucci/profil/spieler/22132","Right-Back",19,"Italy",5,1,0,6,2003
+"Juventus FC","Serie A","Italy","Abdoulay Konko","https://www.transfermarkt.com/abdoulay-konko/profil/spieler/22139","Right-Back",19,"France",2,0,0,0,2003
+"Juventus FC","Serie A","Italy","Salvatore Masiello","https://www.transfermarkt.com/salvatore-masiello/profil/spieler/21769","Left-Back",21,"Italy",0,0,0,0,2003
+"Juventus FC","Serie A","Italy","Alessio Tacchinardi","https://www.transfermarkt.com/alessio-tacchinardi/profil/spieler/5748","Defensive Midfield",27,"Italy",37,34,0,2720,2003
+"Juventus FC","Serie A","Italy","Antonio Conte","https://www.transfermarkt.com/antonio-conte/profil/spieler/5759","Central Midfield",33,"Italy",31,24,1,1564,2003
+"Juventus FC","Serie A","Italy","Pavel Nedved","https://www.transfermarkt.com/pavel-nedved/profil/spieler/3603","Left Midfield",30,"Czech Republic",42,41,8,3349,2003
+"Juventus FC","Serie A","Italy","Enzo Maresca","https://www.transfermarkt.com/enzo-maresca/profil/spieler/16651","Central Midfield",23,"Italy",40,29,4,1839,2003
+"Juventus FC","Serie A","Italy","Mauro Camoranesi","https://www.transfermarkt.com/mauro-camoranesi/profil/spieler/5762","Right Midfield",26,"Italy",40,36,4,2291,2003
+"Juventus FC","Serie A","Italy","Stephen Appiah","https://www.transfermarkt.com/stephen-appiah/profil/spieler/5975","Defensive Midfield",22,"Ghana",48,46,1,3383,2003
+"Juventus FC","Serie A","Italy","Rubén Olivera","https://www.transfermarkt.com/ruben-olivera/profil/spieler/5768","Central Midfield",20,"Uruguay",4,1,0,58,2003
+"Juventus FC","Serie A","Italy","Edgar Davids","https://www.transfermarkt.com/edgar-davids/profil/spieler/5758","Central Midfield",30,"Netherlands",19,12,0,851,2003
+"Juventus FC","Serie A","Italy","Davide Baiocco","https://www.transfermarkt.com/davide-baiocco/profil/spieler/5761","Defensive Midfield",28,"Italy",0,0,0,0,2003
+"Juventus FC","Serie A","Italy","Viktor Budyanskiy","https://www.transfermarkt.com/viktor-budyanskiy/profil/spieler/34194","Central Midfield",19,"Russia",12,2,0,90,2003
+"Juventus FC","Serie A","Italy","Davide Chiumiento","https://www.transfermarkt.com/davide-chiumiento/profil/spieler/17332","Attacking Midfield",18,"Switzerland",8,2,0,50,2003
+"Juventus FC","Serie A","Italy","Luca Scicchitano","https://www.transfermarkt.com/luca-scicchitano/profil/spieler/29597","Central Midfield",18,"Italy",1,0,0,0,2003
+"Juventus FC","Serie A","Italy","Sergiy Kovalenko","https://www.transfermarkt.com/sergiy-kovalenko/profil/spieler/27115","Centre-Forward",19,"Ukraine",0,0,0,0,2003
+"Juventus FC","Serie A","Italy","Ilyas Zeytullaev","https://www.transfermarkt.com/ilyas-zeytullaev/profil/spieler/34345","Left Winger",20,"Uzbekistan",0,0,0,0,2003
+"Juventus FC","Serie A","Italy","Fabrizio Miccoli","https://www.transfermarkt.com/fabrizio-miccoli/profil/spieler/6097","Centre-Forward",24,"Italy",45,38,10,2058,2003
+"Juventus FC","Serie A","Italy","Alessandro Del Piero","https://www.transfermarkt.com/alessandro-del-piero/profil/spieler/4289","Second Striker",28,"Italy",33,31,14,1974,2003
+"Juventus FC","Serie A","Italy","David Trézéguet","https://www.transfermarkt.com/david-trezeguet/profil/spieler/4146","Centre-Forward",25,"France",37,34,22,2705,2003
+"Juventus FC","Serie A","Italy","Marco Di Vaio","https://www.transfermarkt.com/marco-di-vaio/profil/spieler/4170","Centre-Forward",26,"Italy",50,44,17,2473,2003
+"Juventus FC","Serie A","Italy","Marcelo Zalayeta","https://www.transfermarkt.com/marcelo-zalayeta/profil/spieler/5767","Centre-Forward",24,"Uruguay",15,9,3,572,2003
+"Juventus FC","Serie A","Italy","Benjamin Onwuachi","https://www.transfermarkt.com/benjamin-onwuachi/profil/spieler/28850","Centre-Forward",19,"Nigeria",2,1,1,32,2003
+"Juventus FC","Serie A","Italy","Raffaele Palladino","https://www.transfermarkt.com/raffaele-palladino/profil/spieler/28855","Left Winger",19,"Italy",9,1,0,14,2003
+"Inter Milan","Serie A","Italy","Alex Cordaz","https://www.transfermarkt.com/alex-cordaz/profil/spieler/16633","Goalkeeper",20,"Italy",10,1,0,27,2003
+"Inter Milan","Serie A","Italy","Francesco Toldo","https://www.transfermarkt.com/francesco-toldo/profil/spieler/5769","Goalkeeper",31,"Italy",47,45,0,4023,2003
+"Inter Milan","Serie A","Italy","Alberto Fontana","https://www.transfermarkt.com/alberto-fontana/profil/spieler/5770","Goalkeeper",36,"Italy",47,7,0,660,2003
+"Inter Milan","Serie A","Italy","Mathieu Moreau","https://www.transfermarkt.com/mathieu-moreau/profil/spieler/5771","Goalkeeper",20,"France",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Simone Villanova","https://www.transfermarkt.com/simone-villanova/profil/spieler/82675","Goalkeeper",18,"Italy",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Giacomo Bindi","https://www.transfermarkt.com/giacomo-bindi/profil/spieler/45568","Goalkeeper",16,"Italy",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Devis Nossa","https://www.transfermarkt.com/devis-nossa/profil/spieler/22205","Centre-Back",18,"Italy",2,0,0,0,2003
+"Inter Milan","Serie A","Italy","Iván Córdoba","https://www.transfermarkt.com/ivan-cordoba/profil/spieler/5772","Centre-Back",26,"Colombia",49,47,1,4053,2003
+"Inter Milan","Serie A","Italy","Javier Zanetti","https://www.transfermarkt.com/javier-zanetti/profil/spieler/1161","Right-Back",29,"Argentina",51,51,0,4570,2003
+"Inter Milan","Serie A","Italy","Thomas Helveg","https://www.transfermarkt.com/thomas-helveg/profil/spieler/5802","Right-Back",32,"Denmark",39,32,0,1987,2003
+"Inter Milan","Serie A","Italy","Daniele Adani","https://www.transfermarkt.com/daniele-adani/profil/spieler/5774","Centre-Back",28,"Italy",45,34,4,2804,2003
+"Inter Milan","Serie A","Italy","Gonzalo Sorondo","https://www.transfermarkt.com/gonzalo-sorondo/profil/spieler/13488","Centre-Back",23,"Uruguay",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Fabio Cannavaro","https://www.transfermarkt.com/fabio-cannavaro/profil/spieler/5775","Centre-Back",29,"Italy",37,34,2,2896,2003
+"Inter Milan","Serie A","Italy","Marco Materazzi","https://www.transfermarkt.com/marco-materazzi/profil/spieler/5778","Centre-Back",29,"Italy",18,18,3,1545,2003
+"Inter Milan","Serie A","Italy","Carlos Gamarra","https://www.transfermarkt.com/carlos-gamarra/profil/spieler/5779","Centre-Back",32,"Paraguay",30,18,0,1488,2003
+"Inter Milan","Serie A","Italy","Giovanni Pasquale","https://www.transfermarkt.com/giovanni-pasquale/profil/spieler/5793","Left-Back",21,"Italy",34,21,0,1417,2003
+"Inter Milan","Serie A","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",19,"Italy",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Fabrizio Biava","https://www.transfermarkt.com/fabrizio-biava/profil/spieler/16632","Centre-Back",19,"Italy",3,0,0,0,2003
+"Inter Milan","Serie A","Italy","Jérémie Bréchet","https://www.transfermarkt.com/jeremie-brechet/profil/spieler/5339","Centre-Back",23,"France",19,14,0,710,2003
+"Inter Milan","Serie A","Italy","Francesco Coco","https://www.transfermarkt.com/francesco-coco/profil/spieler/3508","Left-Back",26,"Italy",4,4,0,265,2003
+"Inter Milan","Serie A","Italy","Emre Belözoglu","https://www.transfermarkt.com/emre-belozoglu/profil/spieler/5782","Central Midfield",22,"Turkey",30,30,0,1891,2003
+"Inter Milan","Serie A","Italy","Cristiano Zanetti","https://www.transfermarkt.com/cristiano-zanetti/profil/spieler/5783","Defensive Midfield",26,"Italy",30,29,1,2434,2003
+"Inter Milan","Serie A","Italy","Sabri Lamouchi","https://www.transfermarkt.com/sabri-lamouchi/profil/spieler/5872","Central Midfield",31,"France",37,26,0,1152,2003
+"Inter Milan","Serie A","Italy","Stéphane Dalmat","https://www.transfermarkt.com/stephane-dalmat/profil/spieler/7259","Attacking Midfield",24,"France",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Luciano","https://www.transfermarkt.com/luciano/profil/spieler/6233","Right Midfield",27,"Brazil",16,7,0,358,2003
+"Inter Milan","Serie A","Italy","Dejan Stanković","https://www.transfermarkt.com/dejan-stankovi%C4%87/profil/spieler/3428","Central Midfield",24,"Serbia",16,16,4,1389,2003
+"Inter Milan","Serie A","Italy","Javier Farinós","https://www.transfermarkt.com/javier-farinos/profil/spieler/5785","Defensive Midfield",25,"Spain",31,24,1,1616,2003
+"Inter Milan","Serie A","Italy","Kily González","https://www.transfermarkt.com/kily-gonzalez/profil/spieler/7438","Left Midfield",28,"Argentina",42,32,0,2418,2003
+"Inter Milan","Serie A","Italy","Georgios Karagounis","https://www.transfermarkt.com/georgios-karagounis/profil/spieler/6106","Central Midfield",26,"Greece",27,16,0,685,2003
+"Inter Milan","Serie A","Italy","Nicola Beati","https://www.transfermarkt.com/nicola-beati/profil/spieler/5790","Defensive Midfield",20,"Italy",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Okan Buruk","https://www.transfermarkt.com/okan-buruk/profil/spieler/5791","Right Midfield",29,"Turkey",21,9,0,338,2003
+"Inter Milan","Serie A","Italy","Matías Almeyda","https://www.transfermarkt.com/matias-almeyda/profil/spieler/5792","Defensive Midfield",29,"Argentina",27,21,0,1324,2003
+"Inter Milan","Serie A","Italy","Mario Rebecchi","https://www.transfermarkt.com/mario-rebecchi/profil/spieler/7331","Central Midfield",19,"Italy",1,1,0,57,2003
+"Inter Milan","Serie A","Italy","Mohamed Kallon","https://www.transfermarkt.com/mohamed-kallon/profil/spieler/3509","Centre-Forward",23,"Sierra Leone",9,7,0,270,2003
+"Inter Milan","Serie A","Italy","Andy van der Meyde","https://www.transfermarkt.com/andy-van-der-meyde/profil/spieler/3772","Right Winger",23,"Netherlands",35,25,3,1455,2003
+"Inter Milan","Serie A","Italy","Julio Cruz","https://www.transfermarkt.com/julio-cruz/profil/spieler/6006","Centre-Forward",28,"Argentina",44,35,11,2115,2003
+"Inter Milan","Serie A","Italy","Hernán Crespo","https://www.transfermarkt.com/hernan-crespo/profil/spieler/3410","Centre-Forward",27,"Argentina",0,0,0,0,2003
+"Inter Milan","Serie A","Italy","Adriano","https://www.transfermarkt.com/adriano/profil/spieler/5876","Centre-Forward",21,"Brazil",19,18,12,1397,2003
+"Inter Milan","Serie A","Italy","Álvaro Recoba","https://www.transfermarkt.com/alvaro-recoba/profil/spieler/5796","Second Striker",27,"Uruguay",33,29,11,1465,2003
+"Inter Milan","Serie A","Italy","Obafemi Martins","https://www.transfermarkt.com/obafemi-martins/profil/spieler/5794","Centre-Forward",18,"Nigeria",43,37,11,2250,2003
+"Inter Milan","Serie A","Italy","Christian Vieri","https://www.transfermarkt.com/christian-vieri/profil/spieler/5797","Centre-Forward",29,"Italy",34,32,17,2520,2003
+"Inter Milan","Serie A","Italy","Isah Eliakwu","https://www.transfermarkt.com/isah-eliakwu/profil/spieler/18245","Centre-Forward",17,"Nigeria",5,1,0,11,2003
+"Inter Milan","Serie A","Italy","Nicola Ventola","https://www.transfermarkt.com/nicola-ventola/profil/spieler/5798","Centre-Forward",25,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Cristiano Lupatelli","https://www.transfermarkt.com/cristiano-lupatelli/profil/spieler/5908","Goalkeeper",25,"Italy",11,0,0,0,2003
+"AS Roma","Serie A","Italy","Carlo Zotti","https://www.transfermarkt.com/carlo-zotti/profil/spieler/16865","Goalkeeper",20,"Italy",35,12,0,1080,2003
+"AS Roma","Serie A","Italy","Ivan Pelizzoli","https://www.transfermarkt.com/ivan-pelizzoli/profil/spieler/5936","Goalkeeper",22,"Italy",41,34,0,3060,2003
+"AS Roma","Serie A","Italy","Marco Paoloni","https://www.transfermarkt.com/marco-paoloni/profil/spieler/38650","Goalkeeper",19,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Gianluca Curci","https://www.transfermarkt.com/gianluca-curci/profil/spieler/24001","Goalkeeper",17,"Italy",5,0,0,0,2003
+"AS Roma","Serie A","Italy","Mauro Rasera","https://www.transfermarkt.com/mauro-rasera/profil/spieler/492574","Goalkeeper",19,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Christian Panucci","https://www.transfermarkt.com/christian-panucci/profil/spieler/5940","Right-Back",30,"Italy",37,29,2,2536,2003
+"AS Roma","Serie A","Italy","Cristian Chivu","https://www.transfermarkt.com/cristian-chivu/profil/spieler/4314","Centre-Back",22,"Romania",31,29,2,2460,2003
+"AS Roma","Serie A","Italy","Jonathan Zebina","https://www.transfermarkt.com/jonathan-zebina/profil/spieler/5942","Centre-Back",24,"France",36,32,1,2575,2003
+"AS Roma","Serie A","Italy","Luigi Sartor","https://www.transfermarkt.com/luigi-sartor/profil/spieler/5941","Right-Back",28,"Italy",7,1,0,63,2003
+"AS Roma","Serie A","Italy","Leandro Cufré","https://www.transfermarkt.com/leandro-cufre/profil/spieler/5945","Left-Back",25,"Argentina",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Saliou Lassissi","https://www.transfermarkt.com/saliou-lassissi/profil/spieler/4152","Centre-Back",24,"Cote d'Ivoire",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Walter Samuel","https://www.transfermarkt.com/walter-samuel/profil/spieler/5938","Centre-Back",25,"Argentina",40,40,1,3524,2003
+"AS Roma","Serie A","Italy","Gianluca Galasso","https://www.transfermarkt.com/gianluca-galasso/profil/spieler/38648","Right-Back",19,"Italy",2,1,0,90,2003
+"AS Roma","Serie A","Italy","Giuseppe Scurto","https://www.transfermarkt.com/giuseppe-scurto/profil/spieler/24052","Centre-Back",19,"Italy",8,0,0,0,2003
+"AS Roma","Serie A","Italy","Traianos Dellas","https://www.transfermarkt.com/traianos-dellas/profil/spieler/5944","Centre-Back",27,"Greece",44,23,1,1621,2003
+"AS Roma","Serie A","Italy","Vincent Candela","https://www.transfermarkt.com/vincent-candela/profil/spieler/5939","Left-Back",29,"France",30,20,0,1400,2003
+"AS Roma","Serie A","Italy","Andrea Briotti","https://www.transfermarkt.com/andrea-briotti/profil/spieler/26804","Left-Back",17,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Valerio Virga","https://www.transfermarkt.com/valerio-virga/profil/spieler/24062","Right-Back",17,"Italy",3,0,0,0,2003
+"AS Roma","Serie A","Italy","Andrea Servi","https://www.transfermarkt.com/andrea-servi/profil/spieler/164351","Centre-Back",19,"Italy",3,0,0,0,2003
+"AS Roma","Serie A","Italy","Simone Piva","https://www.transfermarkt.com/simone-piva/profil/spieler/22601","Left-Back",19,"Italy",1,0,0,0,2003
+"AS Roma","Serie A","Italy","Francisco Lima","https://www.transfermarkt.com/francisco-lima/profil/spieler/5953","Defensive Midfield",32,"Brazil",45,44,0,3706,2003
+"AS Roma","Serie A","Italy","Émerson","https://www.transfermarkt.com/emerson/profil/spieler/70","Defensive Midfield",27,"Brazil",42,42,5,3595,2003
+"AS Roma","Serie A","Italy","Olivier Dacourt","https://www.transfermarkt.com/olivier-dacourt/profil/spieler/3572","Defensive Midfield",28,"France",35,33,1,2599,2003
+"AS Roma","Serie A","Italy","Damiano Tommasi","https://www.transfermarkt.com/damiano-tommasi/profil/spieler/5951","Central Midfield",29,"Italy",42,29,1,1363,2003
+"AS Roma","Serie A","Italy","Daniele Galloppa","https://www.transfermarkt.com/daniele-galloppa/profil/spieler/22594","Central Midfield",18,"Italy",1,0,0,0,2003
+"AS Roma","Serie A","Italy","Davide Bombardini","https://www.transfermarkt.com/davide-bombardini/profil/spieler/5956","Left Midfield",29,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Gaetano D'Agostino","https://www.transfermarkt.com/gaetano-dagostino/profil/spieler/6157","Central Midfield",21,"Italy",42,26,1,1306,2003
+"AS Roma","Serie A","Italy","Gianni Guigou","https://www.transfermarkt.com/gianni-guigou/profil/spieler/5954","Defensive Midfield",28,"Uruguay",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Daniele De Rossi","https://www.transfermarkt.com/daniele-de-rossi/profil/spieler/5947","Defensive Midfield",19,"Italy",36,27,1,1246,2003
+"AS Roma","Serie A","Italy","Adewale Dauda Wahab","https://www.transfermarkt.com/adewale-dauda-wahab/profil/spieler/16864","Central Midfield",18,"Nigeria",20,4,0,114,2003
+"AS Roma","Serie A","Italy","Alberto Aquilani","https://www.transfermarkt.com/alberto-aquilani/profil/spieler/5957","Central Midfield",18,"Italy",0,0,0,0,2003
+"AS Roma","Serie A","Italy","Raffaele De Martino","https://www.transfermarkt.com/raffaele-de-martino/profil/spieler/17222","Defensive Midfield",17,"Italy",2,1,0,1,2003
+"AS Roma","Serie A","Italy","Vincenzo Montella","https://www.transfermarkt.com/vincenzo-montella/profil/spieler/5960","Centre-Forward",29,"Italy",15,14,5,654,2003
+"AS Roma","Serie A","Italy","Francesco Totti","https://www.transfermarkt.com/francesco-totti/profil/spieler/5958","Second Striker",26,"Italy",35,32,20,2861,2003
+"AS Roma","Serie A","Italy","Antonio Cassano","https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962","Second Striker",20,"Italy",40,39,18,3059,2003
+"AS Roma","Serie A","Italy","John Carew","https://www.transfermarkt.com/john-carew/profil/spieler/3570","Centre-Forward",23,"Norway",40,29,8,1539,2003
+"AS Roma","Serie A","Italy","Marco Delvecchio","https://www.transfermarkt.com/marco-delvecchio/profil/spieler/5961","Centre-Forward",30,"Italy",32,24,6,1001,2003
+"AS Roma","Serie A","Italy","Alessio Cerci","https://www.transfermarkt.com/alessio-cerci/profil/spieler/21748","Right Winger",15,"Italy",5,1,0,13,2003
+"AS Roma","Serie A","Italy","Mancini","https://www.transfermarkt.com/mancini/profil/spieler/15291","Left Winger",22,"Brazil",45,45,10,3852,2003
+"AS Roma","Serie A","Italy","Olasunkanmi Akande Ajide","https://www.transfermarkt.com/olasunkanmi-akande-ajide/profil/spieler/25484","Centre-Forward",17,"Nigeria",5,1,0,2,2003
+"AS Roma","Serie A","Italy","Daniele Corvia","https://www.transfermarkt.com/daniele-corvia/profil/spieler/16863","Centre-Forward",18,"Italy",8,5,0,120,2003
+"AS Roma","Serie A","Italy","Denis Boshnjaku","https://www.transfermarkt.com/denis-boshnjaku/profil/spieler/14216","Centre-Forward",19,"Albania",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Valerio Fiori","https://www.transfermarkt.com/valerio-fiori/profil/spieler/5799","Goalkeeper",34,"Italy",18,1,0,55,2003
+"AC Milan","Serie A","Italy","Dida","https://www.transfermarkt.com/dida/profil/spieler/5800","Goalkeeper",29,"Brazil",46,45,0,4080,2003
+"AC Milan","Serie A","Italy","Christian Abbiati","https://www.transfermarkt.com/christian-abbiati/profil/spieler/3507","Goalkeeper",25,"Italy",42,8,0,695,2003
+"AC Milan","Serie A","Italy","Marco Taddonio","https://www.transfermarkt.com/marco-taddonio/profil/spieler/610010","Goalkeeper",18,"Italy",0,0,0,0,2003
+"AC Milan","Serie A","Italy","Davide Gobbato","https://www.transfermarkt.com/davide-gobbato/profil/spieler/561952","Goalkeeper",17,"Italy",0,0,0,0,2003
+"AC Milan","Serie A","Italy","Cafu","https://www.transfermarkt.com/cafu/profil/spieler/5937","Right-Back",33,"Brazil",49,41,1,3323,2003
+"AC Milan","Serie A","Italy","Paolo Maldini","https://www.transfermarkt.com/paolo-maldini/profil/spieler/5803","Left-Back",35,"Italy",42,42,0,3725,2003
+"AC Milan","Serie A","Italy","Kakhaber Kaladze","https://www.transfermarkt.com/kakhaber-kaladze/profil/spieler/3430","Centre-Back",25,"Georgia",17,11,0,900,2003
+"AC Milan","Serie A","Italy","Alessandro Nesta","https://www.transfermarkt.com/alessandro-nesta/profil/spieler/4171","Centre-Back",27,"Italy",39,38,1,3165,2003
+"AC Milan","Serie A","Italy","Dario Simic","https://www.transfermarkt.com/dario-simic/profil/spieler/2540","Right-Back",27,"Croatia",32,19,0,1311,2003
+"AC Milan","Serie A","Italy","Alessandro Costacurta","https://www.transfermarkt.com/alessandro-costacurta/profil/spieler/10055","Centre-Back",37,"Italy",44,36,0,2749,2003
+"AC Milan","Serie A","Italy","Martin Laursen","https://www.transfermarkt.com/martin-laursen/profil/spieler/3503","Centre-Back",25,"Denmark",38,19,0,1149,2003
+"AC Milan","Serie A","Italy","Roque Júnior","https://www.transfermarkt.com/roque-junior/profil/spieler/5807","Centre-Back",26,"Brazil",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Giuseppe Pancaro","https://www.transfermarkt.com/giuseppe-pancaro/profil/spieler/5833","Right-Back",31,"Italy",37,33,1,2522,2003
+"AC Milan","Serie A","Italy","Ignazio Abate","https://www.transfermarkt.com/ignazio-abate/profil/spieler/16631","Right-Back",16,"Italy",5,2,0,43,2003
+"AC Milan","Serie A","Italy","Elia Legati","https://www.transfermarkt.com/elia-legati/profil/spieler/77970","Centre-Back",17,"Italy",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Claiton","https://www.transfermarkt.com/claiton/profil/spieler/139169","Centre-Back",18,"Brazil",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Davide Canini","https://www.transfermarkt.com/davide-canini/profil/spieler/537644","Defender",18,"Italy",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Fernando Redondo","https://www.transfermarkt.com/fernando-redondo/profil/spieler/5811","Defensive Midfield",34,"Argentina",25,14,0,803,2003
+"AC Milan","Serie A","Italy","Gennaro Gattuso","https://www.transfermarkt.com/gennaro-gattuso/profil/spieler/5813","Central Midfield",25,"Italy",47,45,2,3497,2003
+"AC Milan","Serie A","Italy","Rui Costa","https://www.transfermarkt.com/rui-costa/profil/spieler/3624","Attacking Midfield",31,"Portugal",50,41,3,2207,2003
+"AC Milan","Serie A","Italy","Clarence Seedorf","https://www.transfermarkt.com/clarence-seedorf/profil/spieler/4168","Central Midfield",27,"Netherlands",46,45,3,3377,2003
+"AC Milan","Serie A","Italy","Andrea Pirlo","https://www.transfermarkt.com/andrea-pirlo/profil/spieler/5817","Defensive Midfield",24,"Italy",46,44,8,3810,2003
+"AC Milan","Serie A","Italy","Kaká","https://www.transfermarkt.com/kaka/profil/spieler/3366","Attacking Midfield",21,"Brazil",49,45,14,3227,2003
+"AC Milan","Serie A","Italy","Massimo Ambrosini","https://www.transfermarkt.com/massimo-ambrosini/profil/spieler/5818","Central Midfield",26,"Italy",37,32,2,1556,2003
+"AC Milan","Serie A","Italy","Serginho","https://www.transfermarkt.com/serginho/profil/spieler/5819","Left Midfield",32,"Brazil",45,33,0,1416,2003
+"AC Milan","Serie A","Italy","Cristian Brocchi","https://www.transfermarkt.com/cristian-brocchi/profil/spieler/5812","Central Midfield",27,"Italy",35,21,0,955,2003
+"AC Milan","Serie A","Italy","Patrick Kalambay","https://www.transfermarkt.com/patrick-kalambay/profil/spieler/45113","Right Midfield",19,"Italy",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Mattia Dal Bello","https://www.transfermarkt.com/mattia-dal-bello/profil/spieler/148589","midfield",19,"Italy",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Andriy Shevchenko","https://www.transfermarkt.com/andriy-shevchenko/profil/spieler/3522","Centre-Forward",26,"Ukraine",46,45,29,3818,2003
+"AC Milan","Serie A","Italy","Filippo Inzaghi","https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821","Centre-Forward",29,"Italy",32,28,7,1934,2003
+"AC Milan","Serie A","Italy","Rivaldo","https://www.transfermarkt.com/rivaldo/profil/spieler/3372","Second Striker",31,"Brazil",7,2,0,40,2003
+"AC Milan","Serie A","Italy","Jon Dahl Tomasson","https://www.transfermarkt.com/jon-dahl-tomasson/profil/spieler/4169","Centre-Forward",26,"Denmark",47,37,15,2144,2003
+"AC Milan","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",21,"Italy",24,11,0,466,2003
+"AC Milan","Serie A","Italy","Roberto Bortolotto","https://www.transfermarkt.com/roberto-bortolotto/profil/spieler/110826","Centre-Forward",18,"Italy",0,0,0,0,2003
+"AC Milan","Serie A","Italy","Alessandro Matri","https://www.transfermarkt.com/alessandro-matri/profil/spieler/40660","Centre-Forward",18,"Italy",2,0,0,0,2003
+"AC Milan","Serie A","Italy","Michele Piccolo","https://www.transfermarkt.com/michele-piccolo/profil/spieler/151314","Centre-Forward",17,"Italy",1,0,0,0,2003
+"AC Milan","Serie A","Italy","Nicola Pozzi","https://www.transfermarkt.com/nicola-pozzi/profil/spieler/16117","Centre-Forward",17,"Italy",0,0,0,0,2003
+"UC Sampdoria","Serie B","Italy","Luigi Turci","https://www.transfermarkt.com/luigi-turci/profil/spieler/6745","Goalkeeper",33,"Italy",38,7,0,584,2003
+"UC Sampdoria","Serie B","Italy","Francesco Antonioli","https://www.transfermarkt.com/francesco-antonioli/profil/spieler/5935","Goalkeeper",33,"Italy",38,32,0,2835,2003
+"UC Sampdoria","Serie B","Italy","Emanuele Bianchi","https://www.transfermarkt.com/emanuele-bianchi/profil/spieler/6743","Goalkeeper",18,"Italy",0,0,0,0,2003
+"UC Sampdoria","Serie B","Italy","Stefano Bettarini","https://www.transfermarkt.com/stefano-bettarini/profil/spieler/6746","Left-Back",31,"Italy",35,30,0,2565,2003
+"UC Sampdoria","Serie B","Italy","Moris Carrozzieri","https://www.transfermarkt.com/moris-carrozzieri/profil/spieler/6747","Centre-Back",22,"Italy",31,26,0,1744,2003
+"UC Sampdoria","Serie B","Italy","Maurizio Domizzi","https://www.transfermarkt.com/maurizio-domizzi/profil/spieler/6750","Centre-Back",23,"Italy",11,8,0,462,2003
+"UC Sampdoria","Serie B","Italy","Mirko Conte","https://www.transfermarkt.com/mirko-conte/profil/spieler/6748","Centre-Back",28,"Italy",28,24,0,1984,2003
+"UC Sampdoria","Serie B","Italy","Giulio Falcone","https://www.transfermarkt.com/giulio-falcone/profil/spieler/5989","Centre-Back",29,"Italy",29,28,0,2379,2003
+"UC Sampdoria","Serie B","Italy","Alessandro Grandoni","https://www.transfermarkt.com/alessandro-grandoni/profil/spieler/6751","Centre-Back",25,"Italy",7,6,0,540,2003
+"UC Sampdoria","Serie B","Italy","Stefano Sacchetti","https://www.transfermarkt.com/stefano-sacchetti/profil/spieler/6753","Centre-Back",30,"Italy",32,20,0,1702,2003
+"UC Sampdoria","Serie B","Italy","Cristian Zenoni","https://www.transfermarkt.com/cristian-zenoni/profil/spieler/6794","Right-Back",26,"Italy",34,27,1,2007,2003
+"UC Sampdoria","Serie B","Italy","Luca Antonini","https://www.transfermarkt.com/luca-antonini/profil/spieler/6792","Left-Back",20,"Italy",12,7,1,391,2003
+"UC Sampdoria","Serie B","Italy","Nenad Sakic","https://www.transfermarkt.com/nenad-sakic/profil/spieler/6754","Centre-Back",32,"Serbia",7,1,0,31,2003
+"UC Sampdoria","Serie B","Italy","Sergio Volpi","https://www.transfermarkt.com/sergio-volpi/profil/spieler/16908","Central Midfield",29,"Italy",33,33,1,2903,2003
+"UC Sampdoria","Serie B","Italy","Angelo Palombo","https://www.transfermarkt.com/angelo-palombo/profil/spieler/6793","Defensive Midfield",21,"Italy",38,32,0,2150,2003
+"UC Sampdoria","Serie B","Italy","Bratislav Zivkovic","https://www.transfermarkt.com/bratislav-zivkovic/profil/spieler/6780","Left Midfield",32,"Serbia",27,12,0,529,2003
+"UC Sampdoria","Serie B","Italy","Aimo Diana","https://www.transfermarkt.com/aimo-diana/profil/spieler/6749","Right Midfield",25,"Italy",35,34,5,2859,2003
+"UC Sampdoria","Serie B","Italy","Cristiano Doni","https://www.transfermarkt.com/cristiano-doni/profil/spieler/6195","Attacking Midfield",30,"Italy",24,24,6,1824,2003
+"UC Sampdoria","Serie B","Italy","Massimo Donati","https://www.transfermarkt.com/massimo-donati/profil/spieler/5870","Defensive Midfield",22,"Italy",30,23,0,1626,2003
+"UC Sampdoria","Serie B","Italy","Claudio Costanzo","https://www.transfermarkt.com/claudio-costanzo/profil/spieler/28820","Defensive Midfield",17,"Italy",1,0,0,0,2003
+"UC Sampdoria","Serie B","Italy","Giampaolo Calzi","https://www.transfermarkt.com/giampaolo-calzi/profil/spieler/57784","Defensive Midfield",17,"Italy",0,0,0,0,2003
+"UC Sampdoria","Serie B","Italy","Francesco Pedone","https://www.transfermarkt.com/francesco-pedone/profil/spieler/16900","Right Midfield",35,"Italy",25,12,0,422,2003
+"UC Sampdoria","Serie B","Italy","Giacomo Cipriani","https://www.transfermarkt.com/giacomo-cipriani/profil/spieler/6007","Centre-Forward",22,"Italy",18,18,2,924,2003
+"UC Sampdoria","Serie B","Italy","Corrado Colombo","https://www.transfermarkt.com/corrado-colombo/profil/spieler/21231","Centre-Forward",23,"Italy",7,4,0,217,2003
+"UC Sampdoria","Serie B","Italy","Fabio Bazzani","https://www.transfermarkt.com/fabio-bazzani/profil/spieler/9089","Centre-Forward",26,"Italy",33,33,13,2925,2003
+"UC Sampdoria","Serie B","Italy","Francesco Flachi","https://www.transfermarkt.com/francesco-flachi/profil/spieler/6781","Centre-Forward",28,"Italy",30,30,11,1818,2003
+"UC Sampdoria","Serie B","Italy","Massimo Marazzina","https://www.transfermarkt.com/massimo-marazzina/profil/spieler/5930","Centre-Forward",28,"Italy",14,13,1,604,2003
+"UC Sampdoria","Serie B","Italy","Atsushi Yanagisawa","https://www.transfermarkt.com/atsushi-yanagisawa/profil/spieler/6755","Centre-Forward",26,"Japan",26,18,0,573,2003
+"UC Sampdoria","Serie B","Italy","Francis Zé","https://www.transfermarkt.com/francis-ze/profil/spieler/22949","Right Winger",21,"Cameroon",0,0,0,0,2003
+"UC Sampdoria","Serie B","Italy","Biagio Pagano","https://www.transfermarkt.com/biagio-pagano/profil/spieler/16899","Right Winger",20,"Italy",7,5,0,334,2003
+"UC Sampdoria","Serie B","Italy","Antonio Floro Flores","https://www.transfermarkt.com/antonio-floro-flores/profil/spieler/16893","Centre-Forward",20,"Italy",13,4,1,100,2003
+"UC Sampdoria","Serie B","Italy","Thomas Job","https://www.transfermarkt.com/thomas-job/profil/spieler/16897","Right Winger",18,"Cameroon",8,6,0,346,2003
+"UC Sampdoria","Serie B","Italy","Francesco Virdis","https://www.transfermarkt.com/francesco-virdis/profil/spieler/42814","Centre-Forward",18,"Italy",1,1,0,17,2003
+"UC Sampdoria","Serie B","Italy","Fabian Natale Valtolina","https://www.transfermarkt.com/fabian-natale-valtolina/profil/spieler/16907","Left Winger",32,"Italy",12,7,0,215,2003
+"Udinese Calcio","Serie A","Italy","Morgan De Sanctis","https://www.transfermarkt.com/morgan-de-sanctis/profil/spieler/5880","Goalkeeper",26,"Italy",40,36,0,3240,2003
+"Udinese Calcio","Serie A","Italy","Adriano Bonaiuti","https://www.transfermarkt.com/adriano-bonaiuti/profil/spieler/16983","Goalkeeper",36,"Italy",1,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Olivier Renard","https://www.transfermarkt.com/olivier-renard/profil/spieler/5881","Goalkeeper",24,"Belgium",39,4,0,360,2003
+"Udinese Calcio","Serie A","Italy","Felipe","https://www.transfermarkt.com/felipe/profil/spieler/17127","Centre-Back",18,"Brazil",31,19,0,1140,2003
+"Udinese Calcio","Serie A","Italy","Emanuele Politti","https://www.transfermarkt.com/emanuele-politti/profil/spieler/44665","Centre-Back",15,"Italy",5,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Per Kröldrup","https://www.transfermarkt.com/per-kroldrup/profil/spieler/12112","Centre-Back",23,"Denmark",36,35,2,3081,2003
+"Udinese Calcio","Serie A","Italy","Thomas Manfredini","https://www.transfermarkt.com/thomas-manfredini/profil/spieler/5889","Centre-Back",23,"Italy",11,8,0,553,2003
+"Udinese Calcio","Serie A","Italy","Valerio Bertotto","https://www.transfermarkt.com/valerio-bertotto/profil/spieler/5884","Right-Back",30,"Italy",35,35,1,3095,2003
+"Udinese Calcio","Serie A","Italy","Mohammed Gargo","https://www.transfermarkt.com/mohammed-gargo/profil/spieler/5887","Centre-Back",28,"Ghana",5,4,0,169,2003
+"Udinese Calcio","Serie A","Italy","Marek Jankulovski","https://www.transfermarkt.com/marek-jankulovski/profil/spieler/3532","Left-Back",26,"Czech Republic",38,38,8,3246,2003
+"Udinese Calcio","Serie A","Italy","Giuseppe Gemiti","https://www.transfermarkt.com/giuseppe-gemiti/profil/spieler/735","Left-Back",22,"Germany",9,4,0,118,2003
+"Udinese Calcio","Serie A","Italy","Néstor Sensini","https://www.transfermarkt.com/nestor-sensini/profil/spieler/5882","Centre-Back",36,"Argentina",28,26,2,2212,2003
+"Udinese Calcio","Serie A","Italy","Alessandro Pierini","https://www.transfermarkt.com/alessandro-pierini/profil/spieler/6067","Centre-Back",30,"Italy",35,22,1,1283,2003
+"Udinese Calcio","Serie A","Italy","Mirko Pieri","https://www.transfermarkt.com/mirko-pieri/profil/spieler/5894","Left-Back",24,"Italy",20,18,0,1204,2003
+"Udinese Calcio","Serie A","Italy","Samuel Caballero","https://www.transfermarkt.com/samuel-caballero/profil/spieler/5888","Centre-Back",28,"Honduras",0,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Ivan Buonocunto","https://www.transfermarkt.com/ivan-buonocunto/profil/spieler/138392","Attacking Midfield",17,"Italy",2,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Lucas Castromán","https://www.transfermarkt.com/lucas-castroman/profil/spieler/5847","Attacking Midfield",22,"Argentina",29,23,1,1029,2003
+"Udinese Calcio","Serie A","Italy","David Pizarro","https://www.transfermarkt.com/david-pizarro/profil/spieler/5896","Central Midfield",23,"Chile",22,22,3,1824,2003
+"Udinese Calcio","Serie A","Italy","Martin Jörgensen","https://www.transfermarkt.com/martin-jorgensen/profil/spieler/5892","Central Midfield",27,"Denmark",39,39,3,3372,2003
+"Udinese Calcio","Serie A","Italy","Giampiero Pinzi","https://www.transfermarkt.com/giampiero-pinzi/profil/spieler/5893","Central Midfield",22,"Italy",31,31,2,2609,2003
+"Udinese Calcio","Serie A","Italy","Sergio Almirón","https://www.transfermarkt.com/sergio-almiron/profil/spieler/5890","Central Midfield",22,"Argentina",0,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Maurizio Bedin","https://www.transfermarkt.com/maurizio-bedin/profil/spieler/5898","Central Midfield",24,"Italy",0,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Michele Pazienza","https://www.transfermarkt.com/michele-pazienza/profil/spieler/17130","Defensive Midfield",20,"Italy",37,30,0,1685,2003
+"Udinese Calcio","Serie A","Italy","Alberto Valentim","https://www.transfermarkt.com/alberto-valentim/profil/spieler/5883","midfield",28,"Brazil",30,25,0,1607,2003
+"Udinese Calcio","Serie A","Italy","Diego Gavilán","https://www.transfermarkt.com/diego-gavilan/profil/spieler/4087","Central Midfield",23,"Paraguay",1,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Fabio Rossitto","https://www.transfermarkt.com/fabio-rossitto/profil/spieler/6296","Right Midfield",31,"Italy",22,8,0,249,2003
+"Udinese Calcio","Serie A","Italy","Sulley Muntari","https://www.transfermarkt.com/sulley-muntari/profil/spieler/17129","Central Midfield",18,"Ghana",35,28,0,1752,2003
+"Udinese Calcio","Serie A","Italy","Michele Lestani","https://www.transfermarkt.com/michele-lestani/profil/spieler/344374","Central Midfield",17,"Italy",5,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Asamoah Gyan","https://www.transfermarkt.com/asamoah-gyan/profil/spieler/26802","Centre-Forward",17,"Ghana",7,1,0,6,2003
+"Udinese Calcio","Serie A","Italy","Carsten Jancker","https://www.transfermarkt.com/carsten-jancker/profil/spieler/202","Centre-Forward",28,"Germany",27,20,2,596,2003
+"Udinese Calcio","Serie A","Italy","Dino Fava","https://www.transfermarkt.com/dino-fava/profil/spieler/15418","Centre-Forward",26,"Italy",38,35,14,2608,2003
+"Udinese Calcio","Serie A","Italy","Roberto Muzzi","https://www.transfermarkt.com/roberto-muzzi/profil/spieler/5900","Centre-Forward",31,"Italy",0,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Siyabonga Nomvethe","https://www.transfermarkt.com/siyabonga-nomvethe/profil/spieler/5902","Centre-Forward",25,"South Africa",15,7,0,182,2003
+"Udinese Calcio","Serie A","Italy","Julio Gutiérrez","https://www.transfermarkt.com/julio-gutierrez/profil/spieler/22275","Centre-Forward",23,"Chile",8,5,0,109,2003
+"Udinese Calcio","Serie A","Italy","Henok Goitom","https://www.transfermarkt.com/henok-goitom/profil/spieler/6838","Centre-Forward",18,"Eritrea",1,0,0,0,2003
+"Udinese Calcio","Serie A","Italy","Vincenzo Iaquinta","https://www.transfermarkt.com/vincenzo-iaquinta/profil/spieler/5904","Centre-Forward",23,"Italy",32,32,11,2089,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Zeljko Kalac","https://www.transfermarkt.com/zeljko-kalac/profil/spieler/6079","Goalkeeper",30,"Australia",46,42,0,3630,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Michele Tardioli","https://www.transfermarkt.com/michele-tardioli/profil/spieler/6080","Goalkeeper",32,"Italy",30,9,0,806,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Stefano Pardini","https://www.transfermarkt.com/stefano-pardini/profil/spieler/57833","Goalkeeper",27,"Italy",31,5,0,424,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Domenico Di Dio","https://www.transfermarkt.com/domenico-di-dio/profil/spieler/100134","Goalkeeper",21,"Italy",1,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Giacomo Pencelli","https://www.transfermarkt.com/giacomo-pencelli/profil/spieler/102395","Right-Back",17,"Italy",1,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Zé Maria","https://www.transfermarkt.com/ze-maria/profil/spieler/6081","Right-Back",29,"Brazil",47,47,9,3998,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Konstantinos Louboutis","https://www.transfermarkt.com/konstantinos-louboutis/profil/spieler/22808","Left-Back",24,"Greece",24,18,0,957,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Giovanni Ignoffo","https://www.transfermarkt.com/giovanni-ignoffo/profil/spieler/22795","Centre-Back",26,"Italy",48,24,1,1898,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabio Grosso","https://www.transfermarkt.com/fabio-grosso/profil/spieler/6091","Left-Back",25,"Italy",26,26,2,2135,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Souleymane Diamoutene","https://www.transfermarkt.com/souleymane-diamoutene/profil/spieler/8189","Centre-Back",20,"Mali",39,37,1,3225,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Luca Bisello Ragno","https://www.transfermarkt.com/luca-bisello-ragno/profil/spieler/6085","Centre-Back",20,"Italy",2,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Jamal Alioui","https://www.transfermarkt.com/jamal-alioui/profil/spieler/8190","Right-Back",21,"Morocco",20,15,0,1291,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Carlos Arano","https://www.transfermarkt.com/carlos-arano/profil/spieler/15331","Left-Back",23,"Argentina",3,1,0,15,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Salvatore Fresi","https://www.transfermarkt.com/salvatore-fresi/profil/spieler/5754","Centre-Back",30,"Italy",16,15,2,1327,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Marco Di Loreto","https://www.transfermarkt.com/marco-di-loreto/profil/spieler/6083","Centre-Back",28,"Italy",49,48,6,4320,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Massimo Ciarlora","https://www.transfermarkt.com/massimo-ciarlora/profil/spieler/22797","Defender",19,"Italy",7,2,0,180,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabiano","https://www.transfermarkt.com/fabiano/profil/spieler/38590","Left-Back",24,"Brazil",15,14,0,1260,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Ferdinand Coly","https://www.transfermarkt.com/ferdinand-coly/profil/spieler/3794","Right-Back",29,"Senegal",22,17,2,1339,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Vangelis Nastos","https://www.transfermarkt.com/vangelis-nastos/profil/spieler/22810","Right-Back",22,"Greece",26,14,0,1076,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Félix Benito","https://www.transfermarkt.com/felix-benito/profil/spieler/16023","Right-Back",25,"Argentina",1,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Domenico Maietta","https://www.transfermarkt.com/domenico-maietta/profil/spieler/22140","Centre-Back",20,"Italy",1,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Roberto Cardinale","https://www.transfermarkt.com/roberto-cardinale/profil/spieler/22796","Centre-Back",22,"Italy",2,1,0,28,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabio Pessia","https://www.transfermarkt.com/fabio-pessia/profil/spieler/399977","Defender",19,"Italy",2,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Luca Gentili","https://www.transfermarkt.com/luca-gentili/profil/spieler/140429","Centre-Back",16,"Italy",0,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Gaël Genevier","https://www.transfermarkt.com/gael-genevier/profil/spieler/22805","Defensive Midfield",21,"France",12,7,0,280,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Antonio Maschio","https://www.transfermarkt.com/antonio-maschio/profil/spieler/84581","Central Midfield",25,"Italy",2,1,0,18,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Eusebio Di Francesco","https://www.transfermarkt.com/eusebio-di-francesco/profil/spieler/22800","Central Midfield",33,"Italy",17,16,1,1227,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Giovanni Tedesco","https://www.transfermarkt.com/giovanni-tedesco/profil/spieler/6092","Central Midfield",31,"Italy",30,28,3,2400,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Christian Obodo","https://www.transfermarkt.com/christian-obodo/profil/spieler/6087","Central Midfield",19,"Nigeria",50,48,1,3919,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Guly","https://www.transfermarkt.com/guly/profil/spieler/22801","Attacking Midfield",21,"Brazil",36,29,4,1300,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Franco Brienza","https://www.transfermarkt.com/franco-brienza/profil/spieler/16137","Attacking Midfield",24,"Italy",15,14,2,796,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Paul Codrea","https://www.transfermarkt.com/paul-codrea/profil/spieler/16138","Central Midfield",22,"Romania",14,13,1,911,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Al-Saadi Al Gaddafi","https://www.transfermarkt.com/al-saadi-al-gaddafi/profil/spieler/6193","Attacking Midfield",30,"Libya",6,1,0,15,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Massimiliano Fusani","https://www.transfermarkt.com/massimiliano-fusani/profil/spieler/6093","Central Midfield",23,"Italy",49,36,2,2421,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Luigi Giandomenico","https://www.transfermarkt.com/luigi-giandomenico/profil/spieler/15642","Attacking Midfield",24,"Italy",10,7,0,417,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Gabriele Goretti","https://www.transfermarkt.com/gabriele-goretti/profil/spieler/104518","Central Midfield",17,"Italy",2,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabio Gatti","https://www.transfermarkt.com/fabio-gatti/profil/spieler/22804","Defensive Midfield",21,"Italy",52,37,1,1906,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabio Filippi","https://www.transfermarkt.com/fabio-filippi/profil/spieler/287701","midfield",30,"Italy",4,2,0,41,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Luigi Pagliuca","https://www.transfermarkt.com/luigi-pagliuca/profil/spieler/21998","Right Winger",23,"Italy",4,2,0,4,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Sasa Bjelanovic","https://www.transfermarkt.com/sasa-bjelanovic/profil/spieler/22187","Centre-Forward",24,"Croatia",4,1,0,2,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Jay Bothroyd","https://www.transfermarkt.com/jay-bothroyd/profil/spieler/8188","Centre-Forward",21,"England",47,39,7,2402,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Emanuele Berrettoni","https://www.transfermarkt.com/emanuele-berrettoni/profil/spieler/6094","Second Striker",22,"Italy",25,20,1,556,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Zisis Vryzas","https://www.transfermarkt.com/zisis-vryzas/profil/spieler/6095","Centre-Forward",29,"Greece",21,21,3,1686,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Fabrizio Ravanelli","https://www.transfermarkt.com/fabrizio-ravanelli/profil/spieler/4226","Centre-Forward",34,"Italy",18,18,6,1361,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Christian Manfredini","https://www.transfermarkt.com/christian-manfredini/profil/spieler/5850","Left Winger",28,"Cote d'Ivoire",19,16,1,1006,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Juan Martín Turchi","https://www.transfermarkt.com/juan-martin-turchi/profil/spieler/102399","Centre-Forward",27,"Argentina",9,4,0,53,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Francesco Zerbini","https://www.transfermarkt.com/francesco-zerbini/profil/spieler/21899","Centre-Forward",23,"Italy",5,4,0,179,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Marcelo Zalayeta","https://www.transfermarkt.com/marcelo-zalayeta/profil/spieler/5767","Centre-Forward",24,"Uruguay",7,7,0,383,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Dario Hübner","https://www.transfermarkt.com/dario-hubner/profil/spieler/6397","Centre-Forward",36,"Italy",13,13,3,680,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Massimo Margiotta","https://www.transfermarkt.com/massimo-margiotta/profil/spieler/22201","Second Striker",25,"Venezuela",24,22,9,1365,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Michele Boldrini","https://www.transfermarkt.com/michele-boldrini/profil/spieler/102749","Left Winger",18,"Italy",4,1,0,23,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Matteo Pero Nullo","https://www.transfermarkt.com/matteo-pero-nullo/profil/spieler/399944","Left Winger",17,"Italy",5,0,0,0,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Gabriele Scandurra","https://www.transfermarkt.com/gabriele-scandurra/profil/spieler/22812","Centre-Forward",24,"Italy",4,3,0,87,2003
+"AC Perugia Calcio","Serie C - Girone B","Italy","Maurizio Baciocchi","https://www.transfermarkt.com/maurizio-baciocchi/profil/spieler/270253","Attack",26,"Italy",2,1,0,29,2003
+"SS Lazio","Serie A","Italy","Angelo Peruzzi","https://www.transfermarkt.com/angelo-peruzzi/profil/spieler/5826","Goalkeeper",33,"Italy",43,34,0,2980,2003
+"SS Lazio","Serie A","Italy","Fabrizio Casazza","https://www.transfermarkt.com/fabrizio-casazza/profil/spieler/16855","Goalkeeper",32,"Italy",12,0,0,0,2003
+"SS Lazio","Serie A","Italy","Matteo Sereni","https://www.transfermarkt.com/matteo-sereni/profil/spieler/5964","Goalkeeper",28,"Italy",45,18,0,1519,2003
+"SS Lazio","Serie A","Italy","Alessio De Angelis","https://www.transfermarkt.com/alessio-de-angelis/profil/spieler/144351","Goalkeeper",18,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Francesco Colonnese","https://www.transfermarkt.com/francesco-colonnese/profil/spieler/5836","Centre-Back",31,"Italy",11,0,0,0,2003
+"SS Lazio","Serie A","Italy","Luciano Zauri","https://www.transfermarkt.com/luciano-zauri/profil/spieler/6832","Right-Back",25,"Italy",48,30,3,1987,2003
+"SS Lazio","Serie A","Italy","Siniša Mihajlović","https://www.transfermarkt.com/sini-scaron-a-mihajlovi%C4%87/profil/spieler/5834","Centre-Back",34,"Serbia",40,36,2,3034,2003
+"SS Lazio","Serie A","Italy","Giuseppe Favalli","https://www.transfermarkt.com/giuseppe-favalli/profil/spieler/5832","Left-Back",31,"Italy",45,43,0,3460,2003
+"SS Lazio","Serie A","Italy","Massimo Oddo","https://www.transfermarkt.com/massimo-oddo/profil/spieler/5837","Right-Back",27,"Italy",48,44,1,3478,2003
+"SS Lazio","Serie A","Italy","Paolo Negro","https://www.transfermarkt.com/paolo-negro/profil/spieler/5835","Centre-Back",31,"Italy",28,18,0,1109,2003
+"SS Lazio","Serie A","Italy","Fernando Couto","https://www.transfermarkt.com/fernando-couto/profil/spieler/5831","Centre-Back",33,"Portugal",47,32,4,2283,2003
+"SS Lazio","Serie A","Italy","Jaap Stam","https://www.transfermarkt.com/jaap-stam/profil/spieler/3557","Centre-Back",30,"Netherlands",44,42,3,3594,2003
+"SS Lazio","Serie A","Italy","Luca D'Amato","https://www.transfermarkt.com/luca-damato/profil/spieler/66021","Centre-Back",20,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Marco Angeletti","https://www.transfermarkt.com/marco-angeletti/profil/spieler/22616","Left-Back",17,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Fabio Zaccardi","https://www.transfermarkt.com/fabio-zaccardi/profil/spieler/22624","Defender",16,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Demetrio Albertini","https://www.transfermarkt.com/demetrio-albertini/profil/spieler/3390","Defensive Midfield",31,"Italy",43,35,2,2131,2003
+"SS Lazio","Serie A","Italy","Ousmane Dabo","https://www.transfermarkt.com/ousmane-dabo/profil/spieler/3904","Defensive Midfield",26,"France",43,23,0,1516,2003
+"SS Lazio","Serie A","Italy","César","https://www.transfermarkt.com/cesar/profil/spieler/5839","Left Midfield",28,"Brazil",24,20,8,1473,2003
+"SS Lazio","Serie A","Italy","Dejan Stanković","https://www.transfermarkt.com/dejan-stankovi%C4%87/profil/spieler/3428","Central Midfield",24,"Serbia",27,27,4,2376,2003
+"SS Lazio","Serie A","Italy","Dino Baggio","https://www.transfermarkt.com/dino-baggio/profil/spieler/5843","Defensive Midfield",31,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Stefano Fiore","https://www.transfermarkt.com/stefano-fiore/profil/spieler/5842","Attacking Midfield",28,"Italy",48,47,16,3808,2003
+"SS Lazio","Serie A","Italy","Giuliano Giannichedda","https://www.transfermarkt.com/giuliano-giannichedda/profil/spieler/5844","Defensive Midfield",28,"Italy",39,32,1,2023,2003
+"SS Lazio","Serie A","Italy","Fabio Liverani","https://www.transfermarkt.com/fabio-liverani/profil/spieler/5846","Defensive Midfield",27,"Italy",46,39,4,2593,2003
+"SS Lazio","Serie A","Italy","Fabrizio Melara","https://www.transfermarkt.com/fabrizio-melara/profil/spieler/22622","Right Midfield",17,"Italy",3,0,0,0,2003
+"SS Lazio","Serie A","Italy","Lucas Castromán","https://www.transfermarkt.com/lucas-castroman/profil/spieler/5847","Attacking Midfield",22,"Argentina",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Gaizka Mendieta","https://www.transfermarkt.com/gaizka-mendieta/profil/spieler/7603","Right Midfield",29,"Spain",1,0,0,0,2003
+"SS Lazio","Serie A","Italy","Emiliano Corsi","https://www.transfermarkt.com/emiliano-corsi/profil/spieler/198362","Central Midfield",18,"Italy",1,1,0,44,2003
+"SS Lazio","Serie A","Italy","Guerino Gottardi","https://www.transfermarkt.com/guerino-gottardi/profil/spieler/5838","Defensive Midfield",32,"Italy",12,2,0,142,2003
+"SS Lazio","Serie A","Italy","Claudio López","https://www.transfermarkt.com/claudio-lopez/profil/spieler/3418","Centre-Forward",28,"Argentina",39,36,4,2233,2003
+"SS Lazio","Serie A","Italy","Bernardo Corradi","https://www.transfermarkt.com/bernardo-corradi/profil/spieler/5851","Centre-Forward",27,"Italy",48,46,12,3778,2003
+"SS Lazio","Serie A","Italy","Roberto Muzzi","https://www.transfermarkt.com/roberto-muzzi/profil/spieler/5900","Centre-Forward",31,"Italy",41,34,4,1461,2003
+"SS Lazio","Serie A","Italy","Simone Inzaghi","https://www.transfermarkt.com/simone-inzaghi/profil/spieler/5849","Centre-Forward",27,"Italy",39,33,10,1472,2003
+"SS Lazio","Serie A","Italy","Claudio De Sousa","https://www.transfermarkt.com/claudio-de-sousa/profil/spieler/22620","Centre-Forward",17,"Italy",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Christian Manfredini","https://www.transfermarkt.com/christian-manfredini/profil/spieler/5850","Left Winger",28,"Cote d'Ivoire",0,0,0,0,2003
+"SS Lazio","Serie A","Italy","Roberto Delgado","https://www.transfermarkt.com/roberto-delgado/profil/spieler/16856","Second Striker",17,"Italy",12,7,0,200,2003
+"SS Lazio","Serie A","Italy","Sérgio Conceição","https://www.transfermarkt.com/sergio-conceicao/profil/spieler/7912","Right Winger",28,"Portugal",19,16,0,653,2003
+"Brescia Calcio","Serie B","Italy","Emiliano Viviano","https://www.transfermarkt.com/emiliano-viviano/profil/spieler/24316","Goalkeeper",17,"Italy",2,0,0,0,2003
+"Brescia Calcio","Serie B","Italy","Luca Castellazzi","https://www.transfermarkt.com/luca-castellazzi/profil/spieler/6058","Goalkeeper",27,"Italy",30,15,0,1311,2003
+"Brescia Calcio","Serie B","Italy","Sebastián Saja","https://www.transfermarkt.com/sebastian-saja/profil/spieler/3777","Goalkeeper",24,"Argentina",11,5,0,450,2003
+"Brescia Calcio","Serie B","Italy","Federico Agliardi","https://www.transfermarkt.com/federico-agliardi/profil/spieler/16888","Goalkeeper",20,"Italy",30,18,0,1569,2003
+"Brescia Calcio","Serie B","Italy","Tiziano Ramon","https://www.transfermarkt.com/tiziano-ramon/profil/spieler/6196","Goalkeeper",32,"Italy",3,3,0,270,2003
+"Brescia Calcio","Serie B","Italy","Alessandro Lucarelli","https://www.transfermarkt.com/alessandro-lucarelli/profil/spieler/28022","Centre-Back",25,"Italy",2,2,0,180,2003
+"Brescia Calcio","Serie B","Italy","Marius Stankevicius","https://www.transfermarkt.com/marius-stankevicius/profil/spieler/5966","Centre-Back",21,"Lithuania",35,20,0,984,2003
+"Brescia Calcio","Serie B","Italy","Dario Dainelli","https://www.transfermarkt.com/dario-dainelli/profil/spieler/5970","Centre-Back",24,"Italy",34,34,0,3060,2003
+"Brescia Calcio","Serie B","Italy","Fabio Petruzzi","https://www.transfermarkt.com/fabio-petruzzi/profil/spieler/5968","Centre-Back",32,"Italy",26,22,2,1696,2003
+"Brescia Calcio","Serie B","Italy","Gilberto Martínez","https://www.transfermarkt.com/gilberto-martinez/profil/spieler/5969","Centre-Back",23,"Costa Rica",31,31,0,2643,2003
+"Brescia Calcio","Serie B","Italy","Marco Zambelli","https://www.transfermarkt.com/marco-zambelli/profil/spieler/28031","Right-Back",17,"Italy",1,1,0,5,2003
+"Brescia Calcio","Serie B","Italy","Víctor Mareco","https://www.transfermarkt.com/victor-mareco/profil/spieler/16898","Centre-Back",19,"Paraguay",24,15,0,1142,2003
+"Brescia Calcio","Serie B","Italy","Paolo Castellini","https://www.transfermarkt.com/paolo-castellini/profil/spieler/16891","Left-Back",24,"Italy",16,16,0,1440,2003
+"Brescia Calcio","Serie B","Italy","Simone Dallamano","https://www.transfermarkt.com/simone-dallamano/profil/spieler/21684","Left-Back",19,"Italy",0,0,0,0,2003
+"Brescia Calcio","Serie B","Italy","Marco Pisano","https://www.transfermarkt.com/marco-pisano/profil/spieler/16901","Left-Back",21,"Italy",13,12,0,1046,2003
+"Brescia Calcio","Serie B","Italy","Flavio Leoni","https://www.transfermarkt.com/flavio-leoni/profil/spieler/599584","Defender",NA,"Italy",1,1,0,53,2003
+"Brescia Calcio","Serie B","Italy","Giordano Paganotto","https://www.transfermarkt.com/giordano-paganotto/profil/spieler/277803","Defender",18,"Italy",3,0,0,0,2003
+"Brescia Calcio","Serie B","Italy","Roberto Cortellini","https://www.transfermarkt.com/roberto-cortellini/profil/spieler/23350","Left Midfield",21,"Italy",4,4,1,311,2003
+"Brescia Calcio","Serie B","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/6043","Attacking Midfield",23,"Italy",32,31,7,2465,2003
+"Brescia Calcio","Serie B","Italy","Matteo Brighi","https://www.transfermarkt.com/matteo-brighi/profil/spieler/5868","Central Midfield",22,"Italy",32,31,1,2425,2003
+"Brescia Calcio","Serie B","Italy","Matuzalém","https://www.transfermarkt.com/matuzalem/profil/spieler/5974","Defensive Midfield",23,"Brazil",32,31,3,2719,2003
+"Brescia Calcio","Serie B","Italy","Alejandro Correa","https://www.transfermarkt.com/alejandro-correa/profil/spieler/5977","Defensive Midfield",23,"Uruguay",25,10,1,492,2003
+"Brescia Calcio","Serie B","Italy","Roberto Guana","https://www.transfermarkt.com/roberto-guana/profil/spieler/5976","Central Midfield",22,"Italy",29,10,0,552,2003
+"Brescia Calcio","Serie B","Italy","Antonio Filippini","https://www.transfermarkt.com/antonio-filippini/profil/spieler/5973","Right Midfield",29,"Italy",17,17,3,1406,2003
+"Brescia Calcio","Serie B","Italy","Markus Schopp","https://www.transfermarkt.com/markus-schopp/profil/spieler/5971","Right Midfield",29,"Austria",31,23,1,898,2003
+"Brescia Calcio","Serie B","Italy","Giuseppe Colucci","https://www.transfermarkt.com/giuseppe-colucci/profil/spieler/6717","Central Midfield",22,"Italy",21,18,1,769,2003
+"Brescia Calcio","Serie B","Italy","Abderrazzak Jadid","https://www.transfermarkt.com/abderrazzak-jadid/profil/spieler/16896","Central Midfield",20,"Morocco",3,2,0,85,2003
+"Brescia Calcio","Serie B","Italy","Cyril Gona","https://www.transfermarkt.com/cyril-gona/profil/spieler/16895","midfield",18,"Nigeria",2,1,0,0,2003
+"Brescia Calcio","Serie B","Italy","Jonathan Bachini","https://www.transfermarkt.com/jonathan-bachini/profil/spieler/5972","Left Midfield",28,"Italy",31,26,2,1534,2003
+"Brescia Calcio","Serie B","Italy","Francesco Marfia","https://www.transfermarkt.com/francesco-marfia/profil/spieler/408443","Central Midfield",18,"Italy",1,0,0,0,2003
+"Brescia Calcio","Serie B","Italy","Diego Pedrocca","https://www.transfermarkt.com/diego-pedrocca/profil/spieler/400703","Defensive Midfield",19,"Italy",1,0,0,0,2003
+"Brescia Calcio","Serie B","Italy","Luigi Di Biagio","https://www.transfermarkt.com/luigi-di-biagio/profil/spieler/7927","Defensive Midfield",32,"Italy",31,31,7,2663,2003
+"Brescia Calcio","Serie B","Italy","Marc Nygaard","https://www.transfermarkt.com/marc-nygaard/profil/spieler/3491","Centre-Forward",26,"Denmark",3,3,0,119,2003
+"Brescia Calcio","Serie B","Italy","Filippo Maniero","https://www.transfermarkt.com/filippo-maniero/profil/spieler/7275","Centre-Forward",30,"Italy",28,19,1,734,2003
+"Brescia Calcio","Serie B","Italy","Simone Del Nero","https://www.transfermarkt.com/simone-del-nero/profil/spieler/5982","Left Winger",21,"Italy",31,26,2,852,2003
+"Brescia Calcio","Serie B","Italy","Igli Tare","https://www.transfermarkt.com/igli-tare/profil/spieler/101","Centre-Forward",29,"Albania",2,2,0,180,2003
+"Brescia Calcio","Serie B","Italy","Mattia Turetta","https://www.transfermarkt.com/mattia-turetta/profil/spieler/16906","Left Winger",19,"Italy",4,1,0,70,2003
+"Brescia Calcio","Serie B","Italy","Andrea Caracciolo","https://www.transfermarkt.com/andrea-caracciolo/profil/spieler/6098","Centre-Forward",21,"Italy",34,34,12,2746,2003
+"Brescia Calcio","Serie B","Italy","Mario Salgado","https://www.transfermarkt.com/mario-salgado/profil/spieler/5984","Centre-Forward",22,"Chile",4,4,0,181,2003
+"Brescia Calcio","Serie B","Italy","Raúl González","https://www.transfermarkt.com/raul-gonzalez/profil/spieler/30922","Attack",27,"Argentina",11,8,2,248,2003
+"Brescia Calcio","Serie B","Italy","Andrea Alberti","https://www.transfermarkt.com/andrea-alberti/profil/spieler/16889","Centre-Forward",18,"Italy",6,2,0,51,2003
+"Brescia Calcio","Serie B","Italy","Roberto Baggio","https://www.transfermarkt.com/roberto-baggio/profil/spieler/4153","Second Striker",36,"Italy",26,26,12,2142,2003
+"US Lecce","Serie A","Italy","Marco Amelia","https://www.transfermarkt.com/marco-amelia/profil/spieler/16810","Goalkeeper",21,"Italy",17,14,0,1228,2003
+"US Lecce","Serie A","Italy","Vincenzo Sicignano","https://www.transfermarkt.com/vincenzo-sicignano/profil/spieler/16978","Goalkeeper",28,"Italy",18,18,0,1603,2003
+"US Lecce","Serie A","Italy","Andrea Panico","https://www.transfermarkt.com/andrea-panico/profil/spieler/6720","Goalkeeper",24,"Italy",1,0,0,0,2003
+"US Lecce","Serie A","Italy","Antonio Rosati","https://www.transfermarkt.com/antonio-rosati/profil/spieler/6442","Goalkeeper",20,"Italy",0,0,0,0,2003
+"US Lecce","Serie A","Italy","Vukasin Poleksic","https://www.transfermarkt.com/vukasin-poleksic/profil/spieler/6441","Goalkeeper",20,"Montenegro",33,6,0,318,2003
+"US Lecce","Serie A","Italy","Björn Zimmermann","https://www.transfermarkt.com/bjorn-zimmermann/profil/spieler/40774","Centre-Back",17,"Germany",0,0,0,0,2003
+"US Lecce","Serie A","Italy","Philippe Billy","https://www.transfermarkt.com/philippe-billy/profil/spieler/16977","Right-Back",21,"France",18,4,0,130,2003
+"US Lecce","Serie A","Italy","Gianluca Colonnello","https://www.transfermarkt.com/gianluca-colonnello/profil/spieler/6423","Left-Back",30,"Italy",0,0,0,0,2003
+"US Lecce","Serie A","Italy","Alberto Savino","https://www.transfermarkt.com/alberto-savino/profil/spieler/21757","Centre-Back",30,"Italy",7,0,0,0,2003
+"US Lecce","Serie A","Italy","Mariano Stendardo","https://www.transfermarkt.com/mariano-stendardo/profil/spieler/24331","Centre-Back",20,"Italy",2,0,0,0,2003
+"US Lecce","Serie A","Italy","Cesare Bovo","https://www.transfermarkt.com/cesare-bovo/profil/spieler/5946","Centre-Back",20,"Italy",31,19,2,1710,2003
+"US Lecce","Serie A","Italy","Cristian Silvestri","https://www.transfermarkt.com/cristian-silvestri/profil/spieler/6445","Centre-Back",28,"Italy",35,17,0,1445,2003
+"US Lecce","Serie A","Italy","Max Tonetto","https://www.transfermarkt.com/max-tonetto/profil/spieler/6447","Left-Back",28,"Italy",34,34,1,3035,2003
+"US Lecce","Serie A","Italy","Andrea Esposito","https://www.transfermarkt.com/andrea-esposito/profil/spieler/35849","Centre-Back",17,"Italy",1,1,0,39,2003
+"US Lecce","Serie A","Italy","Sebastiano Siviglia","https://www.transfermarkt.com/sebastiano-siviglia/profil/spieler/5864","Centre-Back",30,"Italy",31,31,0,2736,2003
+"US Lecce","Serie A","Italy","Lorenzo Stovini","https://www.transfermarkt.com/lorenzo-stovini/profil/spieler/6446","Centre-Back",26,"Italy",35,35,0,3121,2003
+"US Lecce","Serie A","Italy","Erminio Rullo","https://www.transfermarkt.com/erminio-rullo/profil/spieler/6444","Left-Back",19,"Italy",17,12,0,479,2003
+"US Lecce","Serie A","Italy","Arnaud Kouyo","https://www.transfermarkt.com/arnaud-kouyo/profil/spieler/6430","Centre-Back",19,"Cote d'Ivoire",11,1,0,0,2003
+"US Lecce","Serie A","Italy","Alessandro Camisa","https://www.transfermarkt.com/alessandro-camisa/profil/spieler/32961","Centre-Back",18,"Italy",0,0,0,0,2003
+"US Lecce","Serie A","Italy","Marco Cassetti","https://www.transfermarkt.com/marco-cassetti/profil/spieler/16975","Right-Back",26,"Italy",30,30,5,2411,2003
+"US Lecce","Serie A","Italy","Giuseppe Abruzzese","https://www.transfermarkt.com/giuseppe-abruzzese/profil/spieler/6417","Centre-Back",22,"Italy",34,27,0,1998,2003
+"US Lecce","Serie A","Italy","Luigi Piangerelli","https://www.transfermarkt.com/luigi-piangerelli/profil/spieler/6440","Defensive Midfield",29,"Italy",12,12,0,1059,2003
+"US Lecce","Serie A","Italy","Nicola Mariniello","https://www.transfermarkt.com/nicola-mariniello/profil/spieler/16976","Right Midfield",26,"Italy",10,6,0,276,2003
+"US Lecce","Serie A","Italy","Alessandro Budel","https://www.transfermarkt.com/alessandro-budel/profil/spieler/25314","Defensive Midfield",22,"Italy",14,7,0,317,2003
+"US Lecce","Serie A","Italy","Jorge Bolaño","https://www.transfermarkt.com/jorge-bolano/profil/spieler/16974","Central Midfield",26,"Colombia",16,16,0,1128,2003
+"US Lecce","Serie A","Italy","Daniele Franceschini","https://www.transfermarkt.com/daniele-franceschini/profil/spieler/5927","Left Midfield",27,"Italy",15,15,2,1172,2003
+"US Lecce","Serie A","Italy","Guillermo Giacomazzi","https://www.transfermarkt.com/guillermo-giacomazzi/profil/spieler/6428","Defensive Midfield",25,"Uruguay",32,24,0,1067,2003
+"US Lecce","Serie A","Italy","Cristian Ledesma","https://www.transfermarkt.com/cristian-ledesma/profil/spieler/6438","Defensive Midfield",20,"Italy",32,31,1,2703,2003
+"US Lecce","Serie A","Italy","Drissa Diarra","https://www.transfermarkt.com/drissa-diarra/profil/spieler/6425","Defensive Midfield",17,"Mali",4,3,0,36,2003
+"US Lecce","Serie A","Italy","Djuric Winklaar","https://www.transfermarkt.com/djuric-winklaar/profil/spieler/23369","Left Midfield",21,"Curacao",1,0,0,0,2003
+"US Lecce","Serie A","Italy","Marco Testa","https://www.transfermarkt.com/marco-testa/profil/spieler/50139","Central Midfield",20,"Italy",3,1,0,9,2003
+"US Lecce","Serie A","Italy","Valeri Bozhinov","https://www.transfermarkt.com/valeri-bozhinov/profil/spieler/4176","Centre-Forward",17,"Bulgaria",33,28,3,1384,2003
+"US Lecce","Serie A","Italy","Sebastjan Cimirotic","https://www.transfermarkt.com/sebastjan-cimirotic/profil/spieler/6421","Centre-Forward",28,"Slovenia",3,1,0,5,2003
+"US Lecce","Serie A","Italy","Mirko Vucinic","https://www.transfermarkt.com/mirko-vucinic/profil/spieler/6448","Centre-Forward",19,"Montenegro",14,13,1,448,2003
+"US Lecce","Serie A","Italy","Italo Mattioli","https://www.transfermarkt.com/italo-mattioli/profil/spieler/32987","Centre-Forward",18,"Italy",0,0,0,0,2003
+"US Lecce","Serie A","Italy","Wilfried Dalmat","https://www.transfermarkt.com/wilfried-dalmat/profil/spieler/5516","Right Winger",20,"Saint-Martin",14,7,1,132,2003
+"US Lecce","Serie A","Italy","Graziano Pellè","https://www.transfermarkt.com/graziano-pelle/profil/spieler/29594","Centre-Forward",17,"Italy",3,2,0,34,2003
+"US Lecce","Serie A","Italy","Javier Chevantón","https://www.transfermarkt.com/javier-chevanton/profil/spieler/6420","Centre-Forward",22,"Uruguay",32,32,20,2696,2003
+"US Lecce","Serie A","Italy","Axel Konan","https://www.transfermarkt.com/axel-konan/profil/spieler/6429","Left Winger",20,"Cote d'Ivoire",33,33,6,1785,2003
+"FC Empoli","Serie A","Italy","Riccardo Mengoni","https://www.transfermarkt.com/riccardo-mengoni/profil/spieler/138127","Goalkeeper",17,"Italy",1,0,0,0,2003
+"FC Empoli","Serie A","Italy","Luca Bucci","https://www.transfermarkt.com/luca-bucci/profil/spieler/6407","Goalkeeper",34,"Italy",21,19,0,1665,2003
+"FC Empoli","Serie A","Italy","Mario Cassano","https://www.transfermarkt.com/mario-cassano/profil/spieler/16748","Goalkeeper",19,"Italy",31,5,0,320,2003
+"FC Empoli","Serie A","Italy","Daniele Balli","https://www.transfermarkt.com/daniele-balli/profil/spieler/16747","Goalkeeper",35,"Italy",17,14,0,1255,2003
+"FC Empoli","Serie A","Italy","Christian Paoletti","https://www.transfermarkt.com/christian-paoletti/profil/spieler/164227","Goalkeeper",18,"Italy",2,0,0,0,2003
+"FC Empoli","Serie A","Italy","Vincenzo Melillo","https://www.transfermarkt.com/vincenzo-melillo/profil/spieler/119359","Goalkeeper",16,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Andrea Coda","https://www.transfermarkt.com/andrea-coda/profil/spieler/28833","Centre-Back",18,"Italy",3,0,0,0,2003
+"FC Empoli","Serie A","Italy","Andrea Cupi","https://www.transfermarkt.com/andrea-cupi/profil/spieler/6016","Centre-Back",27,"Italy",29,26,0,1988,2003
+"FC Empoli","Serie A","Italy","Cribari","https://www.transfermarkt.com/cribari/profil/spieler/6017","Centre-Back",23,"Brazil",31,31,1,2736,2003
+"FC Empoli","Serie A","Italy","Francesco Pratali","https://www.transfermarkt.com/francesco-pratali/profil/spieler/6028","Centre-Back",24,"Italy",33,21,0,1433,2003
+"FC Empoli","Serie A","Italy","Alessandro Agostini","https://www.transfermarkt.com/alessandro-agostini/profil/spieler/17171","Left-Back",23,"Italy",18,10,0,568,2003
+"FC Empoli","Serie A","Italy","Manuel Belleri","https://www.transfermarkt.com/manuel-belleri/profil/spieler/6018","Right-Back",25,"Italy",31,30,1,2511,2003
+"FC Empoli","Serie A","Italy","Riccardo Bonetto","https://www.transfermarkt.com/riccardo-bonetto/profil/spieler/17173","Left-Back",24,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Stefano Lucchini","https://www.transfermarkt.com/stefano-lucchini/profil/spieler/6012","Centre-Back",22,"Italy",30,21,1,1432,2003
+"FC Empoli","Serie A","Italy","Maurizio Lanzaro","https://www.transfermarkt.com/maurizio-lanzaro/profil/spieler/6852","Centre-Back",21,"Italy",20,10,0,567,2003
+"FC Empoli","Serie A","Italy","Jorge Vargas","https://www.transfermarkt.com/jorge-vargas/profil/spieler/6061","Centre-Back",27,"Chile",17,17,0,1482,2003
+"FC Empoli","Serie A","Italy","Roberto Mirri","https://www.transfermarkt.com/roberto-mirri/profil/spieler/6013","Centre-Back",24,"Italy",3,1,0,90,2003
+"FC Empoli","Serie A","Italy","Federico Vettori","https://www.transfermarkt.com/federico-vettori/profil/spieler/17177","Centre-Back",20,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Paolo Zanetti","https://www.transfermarkt.com/paolo-zanetti/profil/spieler/6405","Defensive Midfield",20,"Italy",27,13,0,726,2003
+"FC Empoli","Serie A","Italy","Ibrahim Abdul Razak","https://www.transfermarkt.com/ibrahim-abdul-razak/profil/spieler/12519","Attacking Midfield",20,"Ghana",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Vince Grella","https://www.transfermarkt.com/vince-grella/profil/spieler/6021","Central Midfield",23,"Australia",26,25,0,2035,2003
+"FC Empoli","Serie A","Italy","Frank Lagana","https://www.transfermarkt.com/frank-lagana/profil/spieler/119902","Central Midfield",18,"Australia",1,0,0,0,2003
+"FC Empoli","Serie A","Italy","Davide Moro","https://www.transfermarkt.com/davide-moro/profil/spieler/28841","Central Midfield",21,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Pasquale Foggia","https://www.transfermarkt.com/pasquale-foggia/profil/spieler/17175","Attacking Midfield",20,"Italy",29,21,1,686,2003
+"FC Empoli","Serie A","Italy","Francesco Lodi","https://www.transfermarkt.com/francesco-lodi/profil/spieler/6033","Defensive Midfield",19,"Italy",7,3,0,167,2003
+"FC Empoli","Serie A","Italy","Flavio Giampieretti","https://www.transfermarkt.com/flavio-giampieretti/profil/spieler/6025","Defensive Midfield",29,"Italy",26,15,0,1139,2003
+"FC Empoli","Serie A","Italy","Damiano Mitra","https://www.transfermarkt.com/damiano-mitra/profil/spieler/289331","Central Midfield",18,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Fabrizio Ficini","https://www.transfermarkt.com/fabrizio-ficini/profil/spieler/6023","Defensive Midfield",29,"Italy",35,30,0,2242,2003
+"FC Empoli","Serie A","Italy","Antonio Buscè","https://www.transfermarkt.com/antonio-busce/profil/spieler/17174","Right Midfield",27,"Italy",31,31,1,2747,2003
+"FC Empoli","Serie A","Italy","Ighli Vannucchi","https://www.transfermarkt.com/ighli-vannucchi/profil/spieler/6022","Attacking Midfield",25,"Italy",20,20,3,1689,2003
+"FC Empoli","Serie A","Italy","Francesco D'Aniello","https://www.transfermarkt.com/francesco-daniello/profil/spieler/6019","Central Midfield",23,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Antonio Di Natale","https://www.transfermarkt.com/antonio-di-natale/profil/spieler/6031","Centre-Forward",25,"Italy",35,35,6,2935,2003
+"FC Empoli","Serie A","Italy","Francesco Tavano","https://www.transfermarkt.com/francesco-tavano/profil/spieler/6020","Centre-Forward",24,"Italy",27,20,1,724,2003
+"FC Empoli","Serie A","Italy","Mirco Gasparetto","https://www.transfermarkt.com/mirco-gasparetto/profil/spieler/22111","Centre-Forward",23,"Italy",22,14,1,451,2003
+"FC Empoli","Serie A","Italy","Vincenzo Pellecchia","https://www.transfermarkt.com/vincenzo-pellecchia/profil/spieler/29618","Right Winger",17,"Italy",0,0,0,0,2003
+"FC Empoli","Serie A","Italy","Tommaso Rocchi","https://www.transfermarkt.com/tommaso-rocchi/profil/spieler/6026","Centre-Forward",25,"Italy",35,35,11,2933,2003
+"FC Empoli","Serie A","Italy","Marco Carparelli","https://www.transfermarkt.com/marco-carparelli/profil/spieler/29603","Second Striker",27,"Italy",11,9,0,391,2003
+"FC Empoli","Serie A","Italy","Massimiliano Cappellini","https://www.transfermarkt.com/massimiliano-cappellini/profil/spieler/6030","Centre-Forward",32,"Italy",29,19,0,561,2003
+"Bologna FC 1909","Serie A","Italy","Gianluca Pagliuca","https://www.transfermarkt.com/gianluca-pagliuca/profil/spieler/5985","Goalkeeper",36,"Italy",34,34,0,3060,2003
+"Bologna FC 1909","Serie A","Italy","Alexander Manninger","https://www.transfermarkt.com/alexander-manninger/profil/spieler/5278","Goalkeeper",26,"Austria",31,4,0,360,2003
+"Bologna FC 1909","Serie A","Italy","Andrea Pansera","https://www.transfermarkt.com/andrea-pansera/profil/spieler/5987","Goalkeeper",23,"Italy",11,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Cristian Zaccardo","https://www.transfermarkt.com/cristian-zaccardo/profil/spieler/5993","Centre-Back",21,"Italy",30,30,0,2351,2003
+"Bologna FC 1909","Serie A","Italy","Juarez","https://www.transfermarkt.com/juarez/profil/spieler/28012","Right-Back",29,"Brazil",19,15,0,1216,2003
+"Bologna FC 1909","Serie A","Italy","Emanuele Troise","https://www.transfermarkt.com/emanuele-troise/profil/spieler/16874","Centre-Back",24,"Italy",23,14,0,730,2003
+"Bologna FC 1909","Serie A","Italy","Emiliano Moretti","https://www.transfermarkt.com/emiliano-moretti/profil/spieler/5755","Centre-Back",22,"Italy",34,34,0,2931,2003
+"Bologna FC 1909","Serie A","Italy","Marcello Castellini","https://www.transfermarkt.com/marcello-castellini/profil/spieler/5988","Centre-Back",30,"Italy",0,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Marco Zanchi","https://www.transfermarkt.com/marco-zanchi/profil/spieler/5991","Centre-Back",26,"Italy",10,7,0,475,2003
+"Bologna FC 1909","Serie A","Italy","Cesare Natali","https://www.transfermarkt.com/cesare-natali/profil/spieler/16870","Centre-Back",24,"Italy",32,31,0,2774,2003
+"Bologna FC 1909","Serie A","Italy","Vlado Smit","https://www.transfermarkt.com/vlado-smit/profil/spieler/5994","Left-Back",23,"Serbia",0,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Claudio Terzi","https://www.transfermarkt.com/claudio-terzi/profil/spieler/16873","Centre-Back",19,"Italy",14,9,0,323,2003
+"Bologna FC 1909","Serie A","Italy","Andrea Sussi","https://www.transfermarkt.com/andrea-sussi/profil/spieler/12565","Left-Back",29,"Italy",16,15,0,1265,2003
+"Bologna FC 1909","Serie A","Italy","Alessandro Gamberini","https://www.transfermarkt.com/alessandro-gamberini/profil/spieler/16868","Centre-Back",21,"Italy",28,19,0,1316,2003
+"Bologna FC 1909","Serie A","Italy","Nicolò Consolini","https://www.transfermarkt.com/nicolo-consolini/profil/spieler/16867","Right-Back",18,"Italy",7,1,0,2,2003
+"Bologna FC 1909","Serie A","Italy","Ivan Pedrelli","https://www.transfermarkt.com/ivan-pedrelli/profil/spieler/38601","Right-Back",17,"Italy",1,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Mahamet Diagouraga","https://www.transfermarkt.com/mahamet-diagouraga/profil/spieler/78501","Centre-Back",19,"Mali",0,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Pasquale D'Aniello","https://www.transfermarkt.com/pasquale-daniello/profil/spieler/203230","Defender",17,"Italy",2,1,0,23,2003
+"Bologna FC 1909","Serie A","Italy","Carlo Nervo","https://www.transfermarkt.com/carlo-nervo/profil/spieler/5997","Right Midfield",31,"Italy",28,28,6,2238,2003
+"Bologna FC 1909","Serie A","Italy","Samuele Dalla Bona","https://www.transfermarkt.com/samuele-dalla-bona/profil/spieler/4291","Central Midfield",22,"Italy",23,22,3,1605,2003
+"Bologna FC 1909","Serie A","Italy","Hidetoshi Nakata","https://www.transfermarkt.com/hidetoshi-nakata/profil/spieler/5875","Attacking Midfield",26,"Japan",17,17,2,1527,2003
+"Bologna FC 1909","Serie A","Italy","Andrés Guglielminpietro","https://www.transfermarkt.com/andres-guglielminpietro/profil/spieler/5787","Left Midfield",29,"Argentina",26,21,2,1267,2003
+"Bologna FC 1909","Serie A","Italy","Tomas Locatelli","https://www.transfermarkt.com/tomas-locatelli/profil/spieler/5996","Attacking Midfield",27,"Italy",22,22,5,1126,2003
+"Bologna FC 1909","Serie A","Italy","Leonardo Colucci","https://www.transfermarkt.com/leonardo-colucci/profil/spieler/6000","Central Midfield",30,"Italy",34,29,1,1761,2003
+"Bologna FC 1909","Serie A","Italy","Christian Amoroso","https://www.transfermarkt.com/christian-amoroso/profil/spieler/5995","Central Midfield",26,"Italy",24,15,1,889,2003
+"Bologna FC 1909","Serie A","Italy","Luca Ferrari","https://www.transfermarkt.com/luca-ferrari/profil/spieler/56866","Central Midfield",17,"Italy",2,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Mourad Meghni","https://www.transfermarkt.com/mourad-meghni/profil/spieler/6003","Attacking Midfield",19,"Algeria",25,14,0,651,2003
+"Bologna FC 1909","Serie A","Italy","Massimo Loviso","https://www.transfermarkt.com/massimo-loviso/profil/spieler/16869","Defensive Midfield",19,"Italy",30,16,0,800,2003
+"Bologna FC 1909","Serie A","Italy","Fabio Pecchia","https://www.transfermarkt.com/fabio-pecchia/profil/spieler/16871","Right Midfield",29,"Italy",33,30,4,1807,2003
+"Bologna FC 1909","Serie A","Italy","Luigi Monaco","https://www.transfermarkt.com/luigi-monaco/profil/spieler/778332","midfield",18,"Italy",1,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Jonatan Binotto","https://www.transfermarkt.com/jonatan-binotto/profil/spieler/28009","Right Winger",28,"Italy",1,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Fausto Rossini","https://www.transfermarkt.com/fausto-rossini/profil/spieler/16872","Centre-Forward",25,"Italy",22,16,2,1059,2003
+"Bologna FC 1909","Serie A","Italy","Julio Cruz","https://www.transfermarkt.com/julio-cruz/profil/spieler/6006","Centre-Forward",28,"Argentina",0,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Giuseppe Signori","https://www.transfermarkt.com/giuseppe-signori/profil/spieler/3526","Centre-Forward",35,"Italy",27,24,6,1847,2003
+"Bologna FC 1909","Serie A","Italy","Claudio Bellucci","https://www.transfermarkt.com/claudio-bellucci/profil/spieler/6008","Centre-Forward",28,"Italy",34,28,9,1841,2003
+"Bologna FC 1909","Serie A","Italy","Gennaro Fragiello","https://www.transfermarkt.com/gennaro-fragiello/profil/spieler/28017","Centre-Forward",19,"Italy",2,1,0,13,2003
+"Bologna FC 1909","Serie A","Italy","Igli Tare","https://www.transfermarkt.com/igli-tare/profil/spieler/101","Centre-Forward",29,"Albania",37,32,7,2262,2003
+"Bologna FC 1909","Serie A","Italy","Luigi Della Rocca","https://www.transfermarkt.com/luigi-della-rocca/profil/spieler/6009","Centre-Forward",18,"Italy",0,0,0,0,2003
+"Bologna FC 1909","Serie A","Italy","Francesco Cataldi","https://www.transfermarkt.com/francesco-cataldi/profil/spieler/72209","Centre-Forward",18,"Italy",3,0,0,0,2003
+"Modena FC","Serie B","Italy","Andrea Sentimenti","https://www.transfermarkt.com/andrea-sentimenti/profil/spieler/17151","Goalkeeper",18,"Italy",4,0,0,0,2003
+"Modena FC","Serie B","Italy","Marco Ballotta","https://www.transfermarkt.com/marco-ballotta/profil/spieler/6034","Goalkeeper",39,"Italy",35,20,0,1663,2003
+"Modena FC","Serie B","Italy","Adriano Zancopè","https://www.transfermarkt.com/adriano-zancope/profil/spieler/6035","Goalkeeper",31,"Italy",37,20,0,1756,2003
+"Modena FC","Serie B","Italy","Mathias Altamirano","https://www.transfermarkt.com/mathias-altamirano/profil/spieler/17144","Goalkeeper",18,"Italy",0,0,0,0,2003
+"Modena FC","Serie B","Italy","Vincenzo Vado","https://www.transfermarkt.com/vincenzo-vado/profil/spieler/17152","Left-Back",19,"Italy",4,0,0,0,2003
+"Modena FC","Serie B","Italy","Jacopo Balestri","https://www.transfermarkt.com/jacopo-balestri/profil/spieler/6037","Left-Back",28,"Italy",36,35,0,2998,2003
+"Modena FC","Serie B","Italy","Mauro Mayer","https://www.transfermarkt.com/mauro-mayer/profil/spieler/6038","Centre-Back",32,"Italy",21,19,0,1634,2003
+"Modena FC","Serie B","Italy","Luca Ungari","https://www.transfermarkt.com/luca-ungari/profil/spieler/6041","Centre-Back",28,"Italy",21,18,1,1544,2003
+"Modena FC","Serie B","Italy","David Limbersky","https://www.transfermarkt.com/david-limbersky/profil/spieler/16090","Left-Back",19,"Czech Republic",7,4,0,62,2003
+"Modena FC","Serie B","Italy","Maurizio Domizzi","https://www.transfermarkt.com/maurizio-domizzi/profil/spieler/6750","Centre-Back",23,"Italy",17,17,1,1382,2003
+"Modena FC","Serie B","Italy","Vedin Music","https://www.transfermarkt.com/vedin-music/profil/spieler/17148","Left-Back",30,"Bosnia-Herzegovina",20,9,0,376,2003
+"Modena FC","Serie B","Italy","Cristian Stellini","https://www.transfermarkt.com/cristian-stellini/profil/spieler/22213","Centre-Back",29,"Italy",9,4,0,222,2003
+"Modena FC","Serie B","Italy","Simone Pavan","https://www.transfermarkt.com/simone-pavan/profil/spieler/17149","Centre-Back",29,"Italy",23,17,0,1189,2003
+"Modena FC","Serie B","Italy","Matteo Pivotto","https://www.transfermarkt.com/matteo-pivotto/profil/spieler/17150","Right-Back",28,"Italy",20,15,1,1215,2003
+"Modena FC","Serie B","Italy","Roberto Cevoli","https://www.transfermarkt.com/roberto-cevoli/profil/spieler/6040","Centre-Back",34,"Italy",32,29,1,2470,2003
+"Modena FC","Serie B","Italy","John Mensah","https://www.transfermarkt.com/john-mensah/profil/spieler/5917","Centre-Back",20,"Ghana",10,6,0,370,2003
+"Modena FC","Serie B","Italy","Alessandro Grandoni","https://www.transfermarkt.com/alessandro-grandoni/profil/spieler/6751","Centre-Back",25,"Italy",17,16,0,1418,2003
+"Modena FC","Serie B","Italy","Marco Bernardi","https://www.transfermarkt.com/marco-bernardi/profil/spieler/342746","Defender",16,"Italy",10,1,0,66,2003
+"Modena FC","Serie B","Italy","Andrea Camatti","https://www.transfermarkt.com/andrea-camatti/profil/spieler/343041","Defender",18,"Italy",1,1,0,24,2003
+"Modena FC","Serie B","Italy","Paolo Ponzo","https://www.transfermarkt.com/paolo-ponzo/profil/spieler/6047","Defensive Midfield",31,"Italy",30,18,0,920,2003
+"Modena FC","Serie B","Italy","Omar Milanetto","https://www.transfermarkt.com/omar-milanetto/profil/spieler/7430","Defensive Midfield",27,"Italy",26,26,2,2147,2003
+"Modena FC","Serie B","Italy","Antonio Marasco","https://www.transfermarkt.com/antonio-marasco/profil/spieler/17147","Defensive Midfield",33,"Italy",34,33,0,2706,2003
+"Modena FC","Serie B","Italy","Nicola Corrent","https://www.transfermarkt.com/nicola-corrent/profil/spieler/21813","Central Midfield",23,"Italy",17,7,0,350,2003
+"Modena FC","Serie B","Italy","Riccardo Allegretti","https://www.transfermarkt.com/riccardo-allegretti/profil/spieler/17143","Central Midfield",25,"Italy",24,22,1,1281,2003
+"Modena FC","Serie B","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/6043","Attacking Midfield",23,"Italy",0,0,0,0,2003
+"Modena FC","Serie B","Italy","Sofiane Zaaboub","https://www.transfermarkt.com/sofiane-zaaboub/profil/spieler/32062","Left Midfield",20,"Algeria",0,0,0,0,2003
+"Modena FC","Serie B","Italy","Nicola Campedelli","https://www.transfermarkt.com/nicola-campedelli/profil/spieler/6044","Right Midfield",24,"Italy",34,30,3,2114,2003
+"Modena FC","Serie B","Italy","Marco Nicoletti","https://www.transfermarkt.com/marco-nicoletti/profil/spieler/29615","Central Midfield",17,"Italy",2,0,0,0,2003
+"Modena FC","Serie B","Italy","Massimo Scoponi","https://www.transfermarkt.com/massimo-scoponi/profil/spieler/6049","midfield",29,"Italy",35,20,1,891,2003
+"Modena FC","Serie B","Italy","Lorenzo Del Sole","https://www.transfermarkt.com/lorenzo-del-sole/profil/spieler/339242","midfield",18,"Italy",3,1,0,0,2003
+"Modena FC","Serie B","Italy","Antonio Scrò","https://www.transfermarkt.com/antonio-scro/profil/spieler/104715","Left Midfield",17,"Italy",2,1,0,77,2003
+"Modena FC","Serie B","Italy","Carlo Taldo","https://www.transfermarkt.com/carlo-taldo/profil/spieler/6051","Centre-Forward",31,"Italy",18,13,1,452,2003
+"Modena FC","Serie B","Italy","Diomansy Kamara","https://www.transfermarkt.com/diomansy-kamara/profil/spieler/6053","Right Winger",22,"Senegal",33,31,6,2198,2003
+"Modena FC","Serie B","Italy","Manuel De Luca","https://www.transfermarkt.com/manuel-de-luca/profil/spieler/19901","Attack",19,"Italy",3,0,0,0,2003
+"Modena FC","Serie B","Italy","Stephen Makinwa","https://www.transfermarkt.com/stephen-makinwa/profil/spieler/17146","Centre-Forward",19,"Nigeria",18,17,1,1131,2003
+"Modena FC","Serie B","Italy","Fabio Vignaroli","https://www.transfermarkt.com/fabio-vignaroli/profil/spieler/17153","Centre-Forward",27,"Italy",36,35,3,2232,2003
+"Modena FC","Serie B","Italy","Nicola Amoruso","https://www.transfermarkt.com/nicola-amoruso/profil/spieler/4150","Centre-Forward",28,"Italy",29,26,5,1966,2003
+"Modena FC","Serie B","Italy","Massimo Marazzina","https://www.transfermarkt.com/massimo-marazzina/profil/spieler/5930","Centre-Forward",28,"Italy",16,13,3,595,2003
+"Modena FC","Serie B","Italy","Marcello Albino","https://www.transfermarkt.com/marcello-albino/profil/spieler/6045","Left Winger",31,"Italy",0,0,0,0,2003
+"Modena FC","Serie B","Italy","Andrea Fabbrini","https://www.transfermarkt.com/andrea-fabbrini/profil/spieler/6050","Centre-Forward",28,"Italy",0,0,0,0,2003
+"Modena FC","Serie B","Italy","Daniele Tazzioli","https://www.transfermarkt.com/daniele-tazzioli/profil/spieler/610459","Attack",18,"Italy",0,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Gabriele Sollitto","https://www.transfermarkt.com/gabriele-sollitto/profil/spieler/43269","Goalkeeper",17,"Italy",1,1,0,37,2003
+"US Ancona","Serie C - Girone B","Italy","Alessio Scarpi","https://www.transfermarkt.com/alessio-scarpi/profil/spieler/6809","Goalkeeper",30,"Italy",15,14,0,1222,2003
+"US Ancona","Serie C - Girone B","Italy","Magnus Hedman","https://www.transfermarkt.com/magnus-hedman/profil/spieler/3438","Goalkeeper",30,"Sweden",10,3,0,270,2003
+"US Ancona","Serie C - Girone B","Italy","Sergio Marcon","https://www.transfermarkt.com/sergio-marcon/profil/spieler/16852","Goalkeeper",32,"Italy",33,18,0,1620,2003
+"US Ancona","Serie C - Girone B","Italy","Marco Cerioni","https://www.transfermarkt.com/marco-cerioni/profil/spieler/16847","Goalkeeper",33,"Italy",11,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Drazen Bolic","https://www.transfermarkt.com/drazen-bolic/profil/spieler/6810","Right-Back",31,"Serbia",21,17,0,1402,2003
+"US Ancona","Serie C - Girone B","Italy","Fábio Bilica","https://www.transfermarkt.com/fabio-bilica/profil/spieler/15454","Centre-Back",24,"Brazil",21,17,1,1356,2003
+"US Ancona","Serie C - Girone B","Italy","Stefano Lombardi","https://www.transfermarkt.com/stefano-lombardi/profil/spieler/15462","Centre-Back",26,"Italy",6,4,0,314,2003
+"US Ancona","Serie C - Girone B","Italy","Mauro Milanese","https://www.transfermarkt.com/mauro-milanese/profil/spieler/6086","Left-Back",31,"Italy",29,28,1,2333,2003
+"US Ancona","Serie C - Girone B","Italy","Salvatore Russo","https://www.transfermarkt.com/salvatore-russo/profil/spieler/6815","Left-Back",31,"Italy",14,10,0,777,2003
+"US Ancona","Serie C - Girone B","Italy","Dario Baccin","https://www.transfermarkt.com/dario-baccin/profil/spieler/15453","Right-Back",26,"Italy",8,5,0,324,2003
+"US Ancona","Serie C - Girone B","Italy","Marco Esposito","https://www.transfermarkt.com/marco-esposito/profil/spieler/16849","Centre-Back",23,"Italy",22,12,0,990,2003
+"US Ancona","Serie C - Girone B","Italy","Andrea Sussi","https://www.transfermarkt.com/andrea-sussi/profil/spieler/12565","Left-Back",29,"Italy",13,5,0,384,2003
+"US Ancona","Serie C - Girone B","Italy","William Viali","https://www.transfermarkt.com/william-viali/profil/spieler/6082","Centre-Back",28,"Italy",13,13,2,1170,2003
+"US Ancona","Serie C - Girone B","Italy","Luigi Sartor","https://www.transfermarkt.com/luigi-sartor/profil/spieler/5941","Right-Back",28,"Italy",10,9,0,651,2003
+"US Ancona","Serie C - Girone B","Italy","Roberto Maltagliati","https://www.transfermarkt.com/roberto-maltagliati/profil/spieler/20742","Centre-Back",34,"Italy",6,5,0,328,2003
+"US Ancona","Serie C - Girone B","Italy","Luciano Zavagno","https://www.transfermarkt.com/luciano-zavagno/profil/spieler/13502","Left-Back",25,"Argentina",14,8,0,484,2003
+"US Ancona","Serie C - Girone B","Italy","Sean Sogliano","https://www.transfermarkt.com/sean-sogliano/profil/spieler/16853","Centre-Back",32,"Italy",14,11,0,749,2003
+"US Ancona","Serie C - Girone B","Italy","Daniele Daino","https://www.transfermarkt.com/daniele-daino/profil/spieler/15458","Right-Back",23,"Italy",9,8,0,582,2003
+"US Ancona","Serie C - Girone B","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",19,"Italy",3,1,0,90,2003
+"US Ancona","Serie C - Girone B","Italy","Matteo Rossi","https://www.transfermarkt.com/matteo-rossi/profil/spieler/216715","Defender",18,"Italy",5,1,0,16,2003
+"US Ancona","Serie C - Girone B","Italy","Daniel Andersson","https://www.transfermarkt.com/daniel-andersson/profil/spieler/3456","Defensive Midfield",25,"Sweden",33,25,1,1976,2003
+"US Ancona","Serie C - Girone B","Italy","Daniele Berretta","https://www.transfermarkt.com/daniele-berretta/profil/spieler/6716","Defensive Midfield",31,"Italy",25,23,1,1794,2003
+"US Ancona","Serie C - Girone B","Italy","Dino Baggio","https://www.transfermarkt.com/dino-baggio/profil/spieler/5843","Defensive Midfield",31,"Italy",13,13,0,1017,2003
+"US Ancona","Serie C - Girone B","Italy","Mads Jørgensen","https://www.transfermarkt.com/mads-jorgensen/profil/spieler/12562","Right Midfield",24,"Denmark",0,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Luis Helguera","https://www.transfermarkt.com/luis-helguera/profil/spieler/16845","Defensive Midfield",27,"Spain",14,13,0,910,2003
+"US Ancona","Serie C - Girone B","Italy","Giampiero Maini","https://www.transfermarkt.com/giampiero-maini/profil/spieler/16851","midfield",31,"Italy",20,18,1,1109,2003
+"US Ancona","Serie C - Girone B","Italy","Milan Rapaic","https://www.transfermarkt.com/milan-rapaic/profil/spieler/12567","Left Midfield",29,"Croatia",14,14,4,1102,2003
+"US Ancona","Serie C - Girone B","Italy","Davide Carrus","https://www.transfermarkt.com/davide-carrus/profil/spieler/21145","Defensive Midfield",24,"Italy",16,16,0,1313,2003
+"US Ancona","Serie C - Girone B","Italy","Eusebio Di Francesco","https://www.transfermarkt.com/eusebio-di-francesco/profil/spieler/22800","Central Midfield",33,"Italy",13,11,0,612,2003
+"US Ancona","Serie C - Girone B","Italy","Roberto Goretti","https://www.transfermarkt.com/roberto-goretti/profil/spieler/6002","Defensive Midfield",27,"Italy",13,13,0,790,2003
+"US Ancona","Serie C - Girone B","Italy","Marko Perovic","https://www.transfermarkt.com/marko-perovic/profil/spieler/12564","Attacking Midfield",31,"Serbia",7,4,0,173,2003
+"US Ancona","Serie C - Girone B","Italy","Massimiliano Giacobbo","https://www.transfermarkt.com/massimiliano-giacobbo/profil/spieler/16850","Central Midfield",28,"Italy",8,4,0,305,2003
+"US Ancona","Serie C - Girone B","Italy","Pietro Parente","https://www.transfermarkt.com/pietro-parente/profil/spieler/44887","midfield",31,"Italy",7,5,0,298,2003
+"US Ancona","Serie C - Girone B","Italy","Andrea De Falco","https://www.transfermarkt.com/andrea-de-falco/profil/spieler/16848","Central Midfield",17,"Italy",8,7,0,382,2003
+"US Ancona","Serie C - Girone B","Italy","Matteo Rossi","https://www.transfermarkt.com/matteo-rossi/profil/spieler/155992","midfield",16,"San Marino",0,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Bruce Dombolo","https://www.transfermarkt.com/bruce-dombolo/profil/spieler/344482","Defensive Midfield",18,"France",4,2,0,46,2003
+"US Ancona","Serie C - Girone B","Italy","Giovanni Goracci","https://www.transfermarkt.com/giovanni-goracci/profil/spieler/165540","midfield",18,"Italy",2,2,0,77,2003
+"US Ancona","Serie C - Girone B","Italy","Daniele Fortunato","https://www.transfermarkt.com/daniele-fortunato/profil/spieler/102556","Defensive Midfield",19,"Italy",2,2,0,47,2003
+"US Ancona","Serie C - Girone B","Italy","Andrea Di Tora","https://www.transfermarkt.com/andrea-di-tora/profil/spieler/401056","midfield",18,"Italy",1,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Fabricio Lenci","https://www.transfermarkt.com/fabricio-lenci/profil/spieler/234496","Centre-Forward",19,"Argentina",3,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Jardel","https://www.transfermarkt.com/jardel/profil/spieler/3625","Centre-Forward",29,"Brazil",3,3,0,203,2003
+"US Ancona","Serie C - Girone B","Italy","Paolo Poggi","https://www.transfermarkt.com/paolo-poggi/profil/spieler/7432","Centre-Forward",32,"Italy",14,9,0,444,2003
+"US Ancona","Serie C - Girone B","Italy","Daniele Degano","https://www.transfermarkt.com/daniele-degano/profil/spieler/16892","Second Striker",20,"Italy",2,2,0,70,2003
+"US Ancona","Serie C - Girone B","Italy","Goran Pandev","https://www.transfermarkt.com/goran-pandev/profil/spieler/12563","Second Striker",19,"North Macedonia",23,21,1,1180,2003
+"US Ancona","Serie C - Girone B","Italy","Corrado Grabbi","https://www.transfermarkt.com/corrado-grabbi/profil/spieler/3704","Centre-Forward",27,"Italy",8,7,0,451,2003
+"US Ancona","Serie C - Girone B","Italy","Pasquale Luiso","https://www.transfermarkt.com/pasquale-luiso/profil/spieler/24326","Centre-Forward",33,"Italy",3,3,0,143,2003
+"US Ancona","Serie C - Girone B","Italy","Maurizio Ganz","https://www.transfermarkt.com/maurizio-ganz/profil/spieler/15272","Centre-Forward",34,"Italy",31,25,3,1355,2003
+"US Ancona","Serie C - Girone B","Italy","Salvatore Bruno","https://www.transfermarkt.com/salvatore-bruno/profil/spieler/7108","Centre-Forward",23,"Italy",12,7,0,355,2003
+"US Ancona","Serie C - Girone B","Italy","Dario Hübner","https://www.transfermarkt.com/dario-hubner/profil/spieler/6397","Centre-Forward",36,"Italy",9,9,0,516,2003
+"US Ancona","Serie C - Girone B","Italy","Cristian Bucchi","https://www.transfermarkt.com/cristian-bucchi/profil/spieler/16846","Centre-Forward",26,"Italy",15,12,5,765,2003
+"US Ancona","Serie C - Girone B","Italy","Vincenzo Sommese","https://www.transfermarkt.com/vincenzo-sommese/profil/spieler/16854","Right Winger",27,"Italy",26,26,1,1760,2003
+"US Ancona","Serie C - Girone B","Italy","Elia Donzelli","https://www.transfermarkt.com/elia-donzelli/profil/spieler/400949","Centre-Forward",17,"Italy",2,0,0,0,2003
+"US Ancona","Serie C - Girone B","Italy","Andrea Cennini","https://www.transfermarkt.com/andrea-cennini/profil/spieler/401057","Attack",19,"Italy",1,0,0,0,2003

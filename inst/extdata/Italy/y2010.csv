@@ -1,0 +1,800 @@
+"team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played","season"
+"Inter Milan","Serie A","Italy","Raffaele Di Gennaro","https://www.transfermarkt.com/raffaele-di-gennaro/profil/spieler/70580","Goalkeeper",16,"Italy",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Júlio César","https://www.transfermarkt.com/julio-cesar/profil/spieler/22412","Goalkeeper",30,"Brazil",40,39,0,3372,2010
+"Inter Milan","Serie A","Italy","Luca Castellazzi","https://www.transfermarkt.com/luca-castellazzi/profil/spieler/6058","Goalkeeper",34,"Italy",55,20,0,1697,2010
+"Inter Milan","Serie A","Italy","Paolo Orlandoni","https://www.transfermarkt.com/paolo-orlandoni/profil/spieler/21797","Goalkeeper",37,"Italy",21,1,0,90,2010
+"Inter Milan","Serie A","Italy","Alberto Gallinetta","https://www.transfermarkt.com/alberto-gallinetta/profil/spieler/150552","Goalkeeper",18,"Italy",1,0,0,0,2010
+"Inter Milan","Serie A","Italy","Cristiano Biraghi","https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555","Left-Back",17,"Italy",3,2,0,88,2010
+"Inter Milan","Serie A","Italy","Davide Faraoni","https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926","Right-Back",18,"Italy",1,0,0,0,2010
+"Inter Milan","Serie A","Italy","Yuto Nagatomo","https://www.transfermarkt.com/yuto-nagatomo/profil/spieler/79522","Left-Back",23,"Japan",23,19,2,1289,2010
+"Inter Milan","Serie A","Italy","Simone Benedetti","https://www.transfermarkt.com/simone-benedetti/profil/spieler/99923","Centre-Back",18,"Italy",4,0,0,0,2010
+"Inter Milan","Serie A","Italy","Iván Córdoba","https://www.transfermarkt.com/ivan-cordoba/profil/spieler/5772","Centre-Back",33,"Colombia",39,30,0,2106,2010
+"Inter Milan","Serie A","Italy","Javier Zanetti","https://www.transfermarkt.com/javier-zanetti/profil/spieler/1161","Right-Back",36,"Argentina",52,52,2,4626,2010
+"Inter Milan","Serie A","Italy","Lúcio","https://www.transfermarkt.com/lucio/profil/spieler/77","Centre-Back",32,"Brazil",48,47,1,4047,2010
+"Inter Milan","Serie A","Italy","Maicon","https://www.transfermarkt.com/maicon/profil/spieler/18301","Right-Back",28,"Brazil",44,43,1,3835,2010
+"Inter Milan","Serie A","Italy","Andrea Ranocchia","https://www.transfermarkt.com/andrea-ranocchia/profil/spieler/44327","Centre-Back",22,"Italy",29,26,1,2218,2010
+"Inter Milan","Serie A","Italy","Marco Materazzi","https://www.transfermarkt.com/marco-materazzi/profil/spieler/5778","Centre-Back",36,"Italy",54,11,0,734,2010
+"Inter Milan","Serie A","Italy","Nelson Rivas","https://www.transfermarkt.com/nelson-rivas/profil/spieler/52580","Centre-Back",27,"Colombia",2,1,0,2,2010
+"Inter Milan","Serie A","Italy","Walter Samuel","https://www.transfermarkt.com/walter-samuel/profil/spieler/5938","Centre-Back",32,"Argentina",17,15,0,1105,2010
+"Inter Milan","Serie A","Italy","Cristian Chivu","https://www.transfermarkt.com/cristian-chivu/profil/spieler/4314","Centre-Back",29,"Romania",41,37,1,3084,2010
+"Inter Milan","Serie A","Italy","Davide Santon","https://www.transfermarkt.com/davide-santon/profil/spieler/84344","Left-Back",19,"Italy",29,18,0,710,2010
+"Inter Milan","Serie A","Italy","Felice Natalino","https://www.transfermarkt.com/felice-natalino/profil/spieler/110933","Centre-Back",18,"Italy",9,3,0,163,2010
+"Inter Milan","Serie A","Italy","Marek Kysela","https://www.transfermarkt.com/marek-kysela/profil/spieler/124557","Centre-Back",17,"Czech Republic",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Daniel Bessa","https://www.transfermarkt.com/daniel-bessa/profil/spieler/140757","Central Midfield",17,"Italy",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Lorenzo Crisetig","https://www.transfermarkt.com/lorenzo-crisetig/profil/spieler/110928","Defensive Midfield",17,"Italy",2,0,0,0,2010
+"Inter Milan","Serie A","Italy","Joel Obi","https://www.transfermarkt.com/joel-obi/profil/spieler/45581","Central Midfield",19,"Nigeria",26,13,0,284,2010
+"Inter Milan","Serie A","Italy","Nwankwo Obiora","https://www.transfermarkt.com/nwankwo-obiora/profil/spieler/127769","Defensive Midfield",18,"Nigeria",14,5,0,177,2010
+"Inter Milan","Serie A","Italy","Dejan Stanković","https://www.transfermarkt.com/dejan-stankovi%C4%87/profil/spieler/3428","Central Midfield",31,"Serbia",41,40,9,2716,2010
+"Inter Milan","Serie A","Italy","Thiago Motta","https://www.transfermarkt.com/thiago-motta/profil/spieler/7602","Defensive Midfield",27,"Italy",31,29,5,2178,2010
+"Inter Milan","Serie A","Italy","Wesley Sneijder","https://www.transfermarkt.com/wesley-sneijder/profil/spieler/4673","Attacking Midfield",26,"Netherlands",40,39,7,3142,2010
+"Inter Milan","Serie A","Italy","Sulley Muntari","https://www.transfermarkt.com/sulley-muntari/profil/spieler/17129","Central Midfield",25,"Ghana",19,13,1,419,2010
+"Inter Milan","Serie A","Italy","Houssine Kharja","https://www.transfermarkt.com/houssine-kharja/profil/spieler/21822","Central Midfield",27,"Morocco",24,19,1,1056,2010
+"Inter Milan","Serie A","Italy","McDonald Mariga","https://www.transfermarkt.com/mcdonald-mariga/profil/spieler/37124","Defensive Midfield",23,"Kenya",37,21,1,681,2010
+"Inter Milan","Serie A","Italy","Esteban Cambiasso","https://www.transfermarkt.com/esteban-cambiasso/profil/spieler/7520","Defensive Midfield",29,"Argentina",48,45,8,3753,2010
+"Inter Milan","Serie A","Italy","Andrea Romanò","https://www.transfermarkt.com/andrea-romano/profil/spieler/136130","Central Midfield",16,"Italy",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Sebastian Carlsén","https://www.transfermarkt.com/sebastian-carlsen/profil/spieler/112996","Defensive Midfield",19,"Sweden",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Philippe Coutinho","https://www.transfermarkt.com/philippe-coutinho/profil/spieler/80444","Left Winger",18,"Brazil",36,20,1,1073,2010
+"Inter Milan","Serie A","Italy","Denis Alibec","https://www.transfermarkt.com/denis-alibec/profil/spieler/81396","Centre-Forward",19,"Romania",6,2,0,58,2010
+"Inter Milan","Serie A","Italy","Jonathan Biabiany","https://www.transfermarkt.com/jonathan-biabiany/profil/spieler/45567","Right Winger",22,"France",30,21,1,1105,2010
+"Inter Milan","Serie A","Italy","Simone Dell'Agnello","https://www.transfermarkt.com/simone-dellagnello/profil/spieler/110929","Centre-Forward",18,"Italy",1,0,0,0,2010
+"Inter Milan","Serie A","Italy","Giampaolo Pazzini","https://www.transfermarkt.com/giampaolo-pazzini/profil/spieler/19447","Centre-Forward",25,"Italy",21,20,11,1362,2010
+"Inter Milan","Serie A","Italy","Samuel Eto'o","https://www.transfermarkt.com/samuel-etoo/profil/spieler/4257","Centre-Forward",29,"Cameroon",53,53,37,4592,2010
+"Inter Milan","Serie A","Italy","David Suazo","https://www.transfermarkt.com/david-suazo/profil/spieler/20749","Centre-Forward",30,"Honduras",0,0,0,0,2010
+"Inter Milan","Serie A","Italy","Diego Milito","https://www.transfermarkt.com/diego-milito/profil/spieler/22202","Centre-Forward",31,"Argentina",37,34,8,2141,2010
+"Inter Milan","Serie A","Italy","Goran Pandev","https://www.transfermarkt.com/goran-pandev/profil/spieler/12563","Second Striker",26,"North Macedonia",54,42,5,2703,2010
+"Inter Milan","Serie A","Italy","Mancini","https://www.transfermarkt.com/mancini/profil/spieler/15291","Left Winger",29,"Brazil",4,2,0,11,2010
+"AC Milan","Serie A","Italy","Alberto Paleari","https://www.transfermarkt.com/alberto-paleari/profil/spieler/163048","Goalkeeper",17,"Italy",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Marco Amelia","https://www.transfermarkt.com/marco-amelia/profil/spieler/16810","Goalkeeper",28,"Italy",44,8,0,680,2010
+"AC Milan","Serie A","Italy","Flavio Roma","https://www.transfermarkt.com/flavio-roma/profil/spieler/5281","Goalkeeper",36,"Italy",13,3,0,183,2010
+"AC Milan","Serie A","Italy","Christian Abbiati","https://www.transfermarkt.com/christian-abbiati/profil/spieler/3507","Goalkeeper",32,"Italy",44,42,0,3637,2010
+"AC Milan","Serie A","Italy","Davide Di Fabio","https://www.transfermarkt.com/davide-di-fabio/profil/spieler/163045","Goalkeeper",18,"Italy",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Rodrigo Ely","https://www.transfermarkt.com/rodrigo-ely/profil/spieler/176140","Centre-Back",16,"Brazil",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Thiago Silva","https://www.transfermarkt.com/thiago-silva/profil/spieler/29241","Centre-Back",25,"Brazil",42,42,1,3708,2010
+"AC Milan","Serie A","Italy","Sokratis Papastathopoulos","https://www.transfermarkt.com/sokratis-papastathopoulos/profil/spieler/34322","Centre-Back",22,"Greece",28,7,0,522,2010
+"AC Milan","Serie A","Italy","Andrea De Vito","https://www.transfermarkt.com/andrea-de-vito/profil/spieler/130349","Centre-Back",18,"Italy",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Kakhaber Kaladze","https://www.transfermarkt.com/kakhaber-kaladze/profil/spieler/3430","Centre-Back",32,"Georgia",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Oguchi Onyewu","https://www.transfermarkt.com/oguchi-onyewu/profil/spieler/12517","Centre-Back",28,"United States",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Alessandro Nesta","https://www.transfermarkt.com/alessandro-nesta/profil/spieler/4171","Centre-Back",34,"Italy",36,35,0,3029,2010
+"AC Milan","Serie A","Italy","Massimo Oddo","https://www.transfermarkt.com/massimo-oddo/profil/spieler/5837","Right-Back",34,"Italy",17,10,0,702,2010
+"AC Milan","Serie A","Italy","Marek Jankulovski","https://www.transfermarkt.com/marek-jankulovski/profil/spieler/3532","Left-Back",33,"Czech Republic",17,7,0,275,2010
+"AC Milan","Serie A","Italy","Gianluca Zambrotta","https://www.transfermarkt.com/gianluca-zambrotta/profil/spieler/5757","Right-Back",33,"Italy",25,20,0,1768,2010
+"AC Milan","Serie A","Italy","Ignazio Abate","https://www.transfermarkt.com/ignazio-abate/profil/spieler/16631","Right-Back",23,"Italy",44,37,0,2930,2010
+"AC Milan","Serie A","Italy","Daniele Bonera","https://www.transfermarkt.com/daniele-bonera/profil/spieler/5856","Centre-Back",29,"Italy",32,20,0,1594,2010
+"AC Milan","Serie A","Italy","Michelangelo Albertazzi","https://www.transfermarkt.com/michelangelo-albertazzi/profil/spieler/56841","Left-Back",19,"Italy",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Dídac Vilà","https://www.transfermarkt.com/didac-vila/profil/spieler/67090","Left-Back",21,"Spain",3,1,0,90,2010
+"AC Milan","Serie A","Italy","Nicola Legrottaglie","https://www.transfermarkt.com/nicola-legrottaglie/profil/spieler/5925","Centre-Back",33,"Italy",4,1,0,39,2010
+"AC Milan","Serie A","Italy","Mario Yepes","https://www.transfermarkt.com/mario-yepes/profil/spieler/5507","Centre-Back",34,"Colombia",44,17,0,1394,2010
+"AC Milan","Serie A","Italy","Luca Antonini","https://www.transfermarkt.com/luca-antonini/profil/spieler/6792","Left-Back",27,"Italy",40,32,0,2373,2010
+"AC Milan","Serie A","Italy","Simone Verdi","https://www.transfermarkt.com/simone-verdi/profil/spieler/130360","Attacking Midfield",17,"Italy",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Alexander Merkel","https://www.transfermarkt.com/alexander-merkel/profil/spieler/86926","Central Midfield",18,"Kazakhstan",17,10,1,609,2010
+"AC Milan","Serie A","Italy","Simone Calvano","https://www.transfermarkt.com/simone-calvano/profil/spieler/136091","Central Midfield",16,"Italy",3,0,0,0,2010
+"AC Milan","Serie A","Italy","Bruno Montelongo","https://www.transfermarkt.com/bruno-montelongo/profil/spieler/74257","Right Midfield",22,"Uruguay",3,0,0,0,2010
+"AC Milan","Serie A","Italy","Mark van Bommel","https://www.transfermarkt.com/mark-van-bommel/profil/spieler/3515","Defensive Midfield",33,"Netherlands",17,16,0,1288,2010
+"AC Milan","Serie A","Italy","Gennaro Gattuso","https://www.transfermarkt.com/gennaro-gattuso/profil/spieler/5813","Central Midfield",32,"Italy",39,38,2,2669,2010
+"AC Milan","Serie A","Italy","Clarence Seedorf","https://www.transfermarkt.com/clarence-seedorf/profil/spieler/4168","Central Midfield",34,"Netherlands",44,40,4,2833,2010
+"AC Milan","Serie A","Italy","Rodney Strasser","https://www.transfermarkt.com/rodney-strasser/profil/spieler/88712","Defensive Midfield",20,"Sierra Leone",12,5,1,161,2010
+"AC Milan","Serie A","Italy","Mathieu Flamini","https://www.transfermarkt.com/mathieu-flamini/profil/spieler/17396","Defensive Midfield",26,"France",36,29,2,1938,2010
+"AC Milan","Serie A","Italy","Andrea Pirlo","https://www.transfermarkt.com/andrea-pirlo/profil/spieler/5817","Defensive Midfield",31,"Italy",27,25,1,1791,2010
+"AC Milan","Serie A","Italy","Massimo Ambrosini","https://www.transfermarkt.com/massimo-ambrosini/profil/spieler/5818","Central Midfield",33,"Italy",24,23,1,1660,2010
+"AC Milan","Serie A","Italy","Kevin-Prince Boateng","https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922","Attacking Midfield",23,"Ghana",36,34,3,2111,2010
+"AC Milan","Serie A","Italy","Urby Emanuelson","https://www.transfermarkt.com/urby-emanuelson/profil/spieler/20586","Central Midfield",24,"Netherlands",16,11,1,494,2010
+"AC Milan","Serie A","Italy","Alexandre Pato","https://www.transfermarkt.com/alexandre-pato/profil/spieler/37579","Centre-Forward",20,"Brazil",34,33,16,2132,2010
+"AC Milan","Serie A","Italy","Giacomo Beretta","https://www.transfermarkt.com/giacomo-beretta/profil/spieler/91241","Centre-Forward",18,"Italy",4,1,0,4,2010
+"AC Milan","Serie A","Italy","Filippo Inzaghi","https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821","Centre-Forward",36,"Italy",17,9,4,224,2010
+"AC Milan","Serie A","Italy","Zlatan Ibrahimović","https://www.transfermarkt.com/zlatan-ibrahimovi%C4%87/profil/spieler/3455","Centre-Forward",28,"Sweden",41,41,21,3394,2010
+"AC Milan","Serie A","Italy","Klaas-Jan Huntelaar","https://www.transfermarkt.com/klaas-jan-huntelaar/profil/spieler/4357","Centre-Forward",26,"Netherlands",0,0,0,0,2010
+"AC Milan","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",28,"Italy",1,1,0,61,2010
+"AC Milan","Serie A","Italy","Robinho","https://www.transfermarkt.com/robinho/profil/spieler/15511","Left Winger",26,"Brazil",47,45,15,3096,2010
+"AC Milan","Serie A","Italy","Ronaldinho","https://www.transfermarkt.com/ronaldinho/profil/spieler/3373","Left Winger",30,"Brazil",21,16,1,922,2010
+"AC Milan","Serie A","Italy","Nnamdi Oduamadi","https://www.transfermarkt.com/nnamdi-oduamadi/profil/spieler/130354","Left Winger",19,"Nigeria",4,1,0,5,2010
+"AC Milan","Serie A","Italy","Antonio Cassano","https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962","Second Striker",27,"Italy",24,21,4,1074,2010
+"Juventus FC","Serie A","Italy","Mario Kirev","https://www.transfermarkt.com/mario-kirev/profil/spieler/87255","Goalkeeper",20,"Bulgaria",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Gianluigi Buffon","https://www.transfermarkt.com/gianluigi-buffon/profil/spieler/5023","Goalkeeper",32,"Italy",17,17,0,1452,2010
+"Juventus FC","Serie A","Italy","Alexander Manninger","https://www.transfermarkt.com/alexander-manninger/profil/spieler/5278","Goalkeeper",33,"Austria",29,5,0,450,2010
+"Juventus FC","Serie A","Italy","Marco Storari","https://www.transfermarkt.com/marco-storari/profil/spieler/19136","Goalkeeper",33,"Italy",49,29,0,2598,2010
+"Juventus FC","Serie A","Italy","Marco Costantino","https://www.transfermarkt.com/marco-costantino/profil/spieler/119240","Goalkeeper",19,"Italy",5,0,0,0,2010
+"Juventus FC","Serie A","Italy","Gianluca Di Salvia","https://www.transfermarkt.com/gianluca-di-salvia/profil/spieler/165881","Goalkeeper",17,"Italy",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Manfredi Sclopis","https://www.transfermarkt.com/manfredi-sclopis/profil/spieler/165899","Goalkeeper",17,"Italy",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Leonardo Spinazzola","https://www.transfermarkt.com/leonardo-spinazzola/profil/spieler/118689","Left-Back",17,"Italy",1,0,0,0,2010
+"Juventus FC","Serie A","Italy","Leonardo Bonucci","https://www.transfermarkt.com/leonardo-bonucci/profil/spieler/39983","Centre-Back",23,"Italy",48,44,3,3783,2010
+"Juventus FC","Serie A","Italy","Giorgio Chiellini","https://www.transfermarkt.com/giorgio-chiellini/profil/spieler/29260","Centre-Back",25,"Italy",43,43,4,3870,2010
+"Juventus FC","Serie A","Italy","Frederik Sörensen","https://www.transfermarkt.com/frederik-sorensen/profil/spieler/91716","Centre-Back",18,"Denmark",28,18,0,1227,2010
+"Juventus FC","Serie A","Italy","Felipe Melo","https://www.transfermarkt.com/felipe-melo/profil/spieler/35537","Centre-Back",27,"Brazil",38,38,1,2871,2010
+"Juventus FC","Serie A","Italy","Matteo Liviero","https://www.transfermarkt.com/matteo-liviero/profil/spieler/136113","Left-Back",17,"Italy",3,1,0,39,2010
+"Juventus FC","Serie A","Italy","Marco Motta","https://www.transfermarkt.com/marco-motta/profil/spieler/30333","Right-Back",24,"Italy",39,32,0,2114,2010
+"Juventus FC","Serie A","Italy","Vincenzo Camilleri","https://www.transfermarkt.com/vincenzo-camilleri/profil/spieler/69212","Centre-Back",18,"Italy",6,2,0,123,2010
+"Juventus FC","Serie A","Italy","Fabio Grosso","https://www.transfermarkt.com/fabio-grosso/profil/spieler/6091","Left-Back",32,"Italy",23,21,0,1662,2010
+"Juventus FC","Serie A","Italy","Andrea Barzagli","https://www.transfermarkt.com/andrea-barzagli/profil/spieler/7109","Centre-Back",29,"Italy",16,15,0,1283,2010
+"Juventus FC","Serie A","Italy","Jonathan Zebina","https://www.transfermarkt.com/jonathan-zebina/profil/spieler/5942","Centre-Back",31,"France",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Armand Traoré","https://www.transfermarkt.com/armand-traore/profil/spieler/33783","Left-Back",20,"Senegal",22,12,0,684,2010
+"Juventus FC","Serie A","Italy","Zdenek Grygera","https://www.transfermarkt.com/zdenek-grygera/profil/spieler/6833","Right-Back",30,"Czech Republic",33,19,0,1389,2010
+"Juventus FC","Serie A","Italy","Leandro Rinaudo","https://www.transfermarkt.com/leandro-rinaudo/profil/spieler/21988","Centre-Back",27,"Italy",4,1,0,75,2010
+"Juventus FC","Serie A","Italy","Paolo De Ceglie","https://www.transfermarkt.com/paolo-de-ceglie/profil/spieler/44709","Left-Back",23,"Italy",15,14,0,1028,2010
+"Juventus FC","Serie A","Italy","Nicola Legrottaglie","https://www.transfermarkt.com/nicola-legrottaglie/profil/spieler/5925","Centre-Back",33,"Italy",25,8,1,481,2010
+"Juventus FC","Serie A","Italy","Vittorio Ferrero","https://www.transfermarkt.com/vittorio-ferrero/profil/spieler/130350","Centre-Back",19,"Italy",3,0,0,0,2010
+"Juventus FC","Serie A","Italy","Andrea De Paola","https://www.transfermarkt.com/andrea-de-paola/profil/spieler/75406","Centre-Back",19,"Italy",1,0,0,0,2010
+"Juventus FC","Serie A","Italy","Albin Ekdal","https://www.transfermarkt.com/albin-ekdal/profil/spieler/49275","Defensive Midfield",20,"Sweden",2,1,0,1,2010
+"Juventus FC","Serie A","Italy","Marcel Büchel","https://www.transfermarkt.com/marcel-buchel/profil/spieler/74956","Central Midfield",19,"Liechtenstein",7,2,0,38,2010
+"Juventus FC","Serie A","Italy","Manuel Giandonato","https://www.transfermarkt.com/manuel-giandonato/profil/spieler/107873","Defensive Midfield",18,"Italy",16,4,0,162,2010
+"Juventus FC","Serie A","Italy","Mohamed Sissoko","https://www.transfermarkt.com/mohamed-sissoko/profil/spieler/6119","Defensive Midfield",25,"Mali",33,29,0,1599,2010
+"Juventus FC","Serie A","Italy","Hasan Salihamidzic","https://www.transfermarkt.com/hasan-salihamidzic/profil/spieler/214","Right Midfield",33,"Bosnia-Herzegovina",23,10,0,215,2010
+"Juventus FC","Serie A","Italy","Claudio Marchisio","https://www.transfermarkt.com/claudio-marchisio/profil/spieler/44716","Central Midfield",24,"Italy",43,41,4,3517,2010
+"Juventus FC","Serie A","Italy","Alberto Aquilani","https://www.transfermarkt.com/alberto-aquilani/profil/spieler/5957","Central Midfield",25,"Italy",36,34,2,2743,2010
+"Juventus FC","Serie A","Italy","Diego","https://www.transfermarkt.com/diego/profil/spieler/4248","Attacking Midfield",25,"Brazil",3,3,0,200,2010
+"Juventus FC","Serie A","Italy","Niccolò Corticchia","https://www.transfermarkt.com/niccolo-corticchia/profil/spieler/165878","Central Midfield",17,"Italy",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Fabio Quagliarella","https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328","Centre-Forward",27,"Italy",18,17,9,1312,2010
+"Juventus FC","Serie A","Italy","Cristian Pasquato","https://www.transfermarkt.com/cristian-pasquato/profil/spieler/62379","Second Striker",20,"Italy",1,0,0,0,2010
+"Juventus FC","Serie A","Italy","Niccolò Giannetti","https://www.transfermarkt.com/niccolo-giannetti/profil/spieler/99235","Centre-Forward",19,"Italy",11,3,1,144,2010
+"Juventus FC","Serie A","Italy","Elio De Silvestro","https://www.transfermarkt.com/elio-de-silvestro/profil/spieler/136100","Right Winger",17,"Italy",0,0,0,0,2010
+"Juventus FC","Serie A","Italy","Alberto Libertazzi","https://www.transfermarkt.com/alberto-libertazzi/profil/spieler/110932","Centre-Forward",18,"Italy",5,2,0,11,2010
+"Juventus FC","Serie A","Italy","Vincenzo Iaquinta","https://www.transfermarkt.com/vincenzo-iaquinta/profil/spieler/5904","Centre-Forward",30,"Italy",24,23,6,1246,2010
+"Juventus FC","Serie A","Italy","Alessandro Del Piero","https://www.transfermarkt.com/alessandro-del-piero/profil/spieler/4289","Second Striker",35,"Italy",47,45,11,2698,2010
+"Juventus FC","Serie A","Italy","Amauri","https://www.transfermarkt.com/amauri/profil/spieler/6234","Centre-Forward",30,"Italy",17,16,3,1020,2010
+"Juventus FC","Serie A","Italy","David Trézéguet","https://www.transfermarkt.com/david-trezeguet/profil/spieler/4146","Centre-Forward",32,"France",3,1,0,9,2010
+"Juventus FC","Serie A","Italy","Luca Toni","https://www.transfermarkt.com/luca-toni/profil/spieler/5980","Centre-Forward",33,"Italy",16,15,2,544,2010
+"Juventus FC","Serie A","Italy","Davide Lanzafame","https://www.transfermarkt.com/davide-lanzafame/profil/spieler/61539","Centre-Forward",23,"Italy",15,9,0,376,2010
+"Juventus FC","Serie A","Italy","Simone Pepe","https://www.transfermarkt.com/simone-pepe/profil/spieler/17249","Right Winger",26,"Italy",44,42,6,2866,2010
+"Juventus FC","Serie A","Italy","Jorge Martínez","https://www.transfermarkt.com/jorge-martinez/profil/spieler/55800","Right Winger",27,"Uruguay",27,20,0,935,2010
+"Juventus FC","Serie A","Italy","Milos Krasic","https://www.transfermarkt.com/milos-krasic/profil/spieler/18828","Right Winger",25,"Serbia",41,41,9,3167,2010
+"Juventus FC","Serie A","Italy","Alessandro Matri","https://www.transfermarkt.com/alessandro-matri/profil/spieler/40660","Centre-Forward",25,"Italy",16,16,9,1255,2010
+"Juventus FC","Serie A","Italy","Filippo Boniperti","https://www.transfermarkt.com/filippo-boniperti/profil/spieler/130347","Right Winger",18,"Italy",6,2,0,67,2010
+"ACF Fiorentina","Serie A","Italy","Neto","https://www.transfermarkt.com/neto/profil/spieler/111819","Goalkeeper",20,"Brazil",14,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Luca Lezzerini","https://www.transfermarkt.com/luca-lezzerini/profil/spieler/135747","Goalkeeper",15,"Italy",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Andrea Seculin","https://www.transfermarkt.com/andrea-seculin/profil/spieler/85380","Goalkeeper",19,"Italy",5,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Tommaso Scuffia","https://www.transfermarkt.com/tommaso-scuffia/profil/spieler/96851","Goalkeeper",18,"Italy",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Sébastien Frey","https://www.transfermarkt.com/sebastien-frey/profil/spieler/5854","Goalkeeper",30,"France",16,11,0,990,2010
+"ACF Fiorentina","Serie A","Italy","Marcão","https://www.transfermarkt.com/marcao/profil/spieler/160188","Goalkeeper",18,"Brazil",1,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Vlada Avramov","https://www.transfermarkt.com/vlada-avramov/profil/spieler/22185","Goalkeeper",31,"Serbia",9,3,0,300,2010
+"ACF Fiorentina","Serie A","Italy","Artur Boruc","https://www.transfermarkt.com/artur-boruc/profil/spieler/15220","Goalkeeper",30,"Poland",36,27,0,2460,2010
+"ACF Fiorentina","Serie A","Italy","Cristiano Piccini","https://www.transfermarkt.com/cristiano-piccini/profil/spieler/163086","Centre-Back",17,"Italy",1,1,0,11,2010
+"ACF Fiorentina","Serie A","Italy","Michele Camporese","https://www.transfermarkt.com/michele-camporese/profil/spieler/62716","Centre-Back",18,"Italy",21,11,1,823,2010
+"ACF Fiorentina","Serie A","Italy","Lorenzo De Silvestri","https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571","Right-Back",22,"Italy",40,28,1,2225,2010
+"ACF Fiorentina","Serie A","Italy","Felipe","https://www.transfermarkt.com/felipe/profil/spieler/17127","Centre-Back",25,"Brazil",12,6,0,302,2010
+"ACF Fiorentina","Serie A","Italy","Per Kröldrup","https://www.transfermarkt.com/per-kroldrup/profil/spieler/12112","Centre-Back",30,"Denmark",28,22,0,1868,2010
+"ACF Fiorentina","Serie A","Italy","Alessandro Gamberini","https://www.transfermarkt.com/alessandro-gamberini/profil/spieler/16868","Centre-Back",28,"Italy",36,36,1,3225,2010
+"ACF Fiorentina","Serie A","Italy","Juan Manuel Vargas","https://www.transfermarkt.com/juan-manuel-vargas/profil/spieler/30584","Left-Back",26,"Peru",24,24,4,1651,2010
+"ACF Fiorentina","Serie A","Italy","Cesare Natali","https://www.transfermarkt.com/cesare-natali/profil/spieler/16870","Centre-Back",31,"Italy",22,20,0,1403,2010
+"ACF Fiorentina","Serie A","Italy","Manuel Pasqual","https://www.transfermarkt.com/manuel-pasqual/profil/spieler/23284","Left-Back",28,"Italy",34,34,1,2995,2010
+"ACF Fiorentina","Serie A","Italy","Gianluca Comotto","https://www.transfermarkt.com/gianluca-comotto/profil/spieler/16685","Right-Back",31,"Italy",40,22,0,1684,2010
+"ACF Fiorentina","Serie A","Italy","Federico Masi","https://www.transfermarkt.com/federico-masi/profil/spieler/57651","Centre-Back",19,"Italy",1,1,0,8,2010
+"ACF Fiorentina","Serie A","Italy","Adem Ljajić","https://www.transfermarkt.com/adem-ljaji%C4%87/profil/spieler/69374","Attacking Midfield",18,"Serbia",38,28,3,1599,2010
+"ACF Fiorentina","Serie A","Italy","Federico Carraro","https://www.transfermarkt.com/federico-carraro/profil/spieler/62718","Defensive Midfield",18,"Italy",1,1,0,90,2010
+"ACF Fiorentina","Serie A","Italy","Amidu Salifu","https://www.transfermarkt.com/amidu-salifu/profil/spieler/146596","Central Midfield",17,"Ghana",1,1,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Daniel Kofi Agyei","https://www.transfermarkt.com/daniel-kofi-agyei/profil/spieler/132801","Defensive Midfield",18,"Ghana",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Nikola Gulan","https://www.transfermarkt.com/nikola-gulan/profil/spieler/46553","Defensive Midfield",21,"Serbia",10,9,0,533,2010
+"ACF Fiorentina","Serie A","Italy","Marco Donadel","https://www.transfermarkt.com/marco-donadel/profil/spieler/6427","Defensive Midfield",27,"Italy",36,31,1,2345,2010
+"ACF Fiorentina","Serie A","Italy","Cristiano Zanetti","https://www.transfermarkt.com/cristiano-zanetti/profil/spieler/5783","Defensive Midfield",33,"Italy",11,7,0,455,2010
+"ACF Fiorentina","Serie A","Italy","Riccardo Montolivo","https://www.transfermarkt.com/riccardo-montolivo/profil/spieler/19446","Defensive Midfield",25,"Italy",30,29,2,2528,2010
+"ACF Fiorentina","Serie A","Italy","Gaetano D'Agostino","https://www.transfermarkt.com/gaetano-dagostino/profil/spieler/6157","Central Midfield",28,"Italy",30,21,5,1339,2010
+"ACF Fiorentina","Serie A","Italy","Mario Bolatti","https://www.transfermarkt.com/mario-bolatti/profil/spieler/52343","Defensive Midfield",25,"Argentina",20,13,0,426,2010
+"ACF Fiorentina","Serie A","Italy","Marco Marchionni","https://www.transfermarkt.com/marco-marchionni/profil/spieler/5873","Right Midfield",29,"Italy",35,26,2,1430,2010
+"ACF Fiorentina","Serie A","Italy","Max Taddei","https://www.transfermarkt.com/max-taddei/profil/spieler/62757","Central Midfield",19,"Italy",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Valon Behrami","https://www.transfermarkt.com/valon-behrami/profil/spieler/21905","Defensive Midfield",25,"Switzerland",17,17,0,1326,2010
+"ACF Fiorentina","Serie A","Italy","Haris Seferovic","https://www.transfermarkt.com/haris-seferovic/profil/spieler/109256","Centre-Forward",18,"Switzerland",4,3,0,86,2010
+"ACF Fiorentina","Serie A","Italy","Stevan Jovetic","https://www.transfermarkt.com/stevan-jovetic/profil/spieler/46104","Centre-Forward",20,"Montenegro",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Maxwell Acosty","https://www.transfermarkt.com/maxwell-acosty/profil/spieler/102249","Right Winger",18,"Ghana",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Khouma Babacar","https://www.transfermarkt.com/khouma-babacar/profil/spieler/124902","Centre-Forward",17,"Senegal",35,21,2,715,2010
+"ACF Fiorentina","Serie A","Italy","Ryder Matos","https://www.transfermarkt.com/ryder-matos/profil/spieler/62713","Second Striker",17,"Brazil",0,0,0,0,2010
+"ACF Fiorentina","Serie A","Italy","Mario Santana","https://www.transfermarkt.com/mario-santana/profil/spieler/6721","Second Striker",28,"Argentina",33,30,5,2003,2010
+"ACF Fiorentina","Serie A","Italy","Adrian Mutu","https://www.transfermarkt.com/adrian-mutu/profil/spieler/5879","Centre-Forward",31,"Romania",20,20,4,1523,2010
+"ACF Fiorentina","Serie A","Italy","Alberto Gilardino","https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878","Centre-Forward",27,"Italy",36,36,12,3049,2010
+"ACF Fiorentina","Serie A","Italy","N'Diaye Papa Waigo","https://www.transfermarkt.com/ndiaye-papa-waigo/profil/spieler/21871","Right Winger",26,"Senegal",5,2,0,87,2010
+"ACF Fiorentina","Serie A","Italy","Alessio Cerci","https://www.transfermarkt.com/alessio-cerci/profil/spieler/21748","Right Winger",22,"Italy",34,27,8,1690,2010
+"AS Roma","Serie A","Italy","Mirko Pigliacelli","https://www.transfermarkt.com/mirko-pigliacelli/profil/spieler/165893","Goalkeeper",17,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Bogdan Lobont","https://www.transfermarkt.com/bogdan-lobont/profil/spieler/4310","Goalkeeper",32,"Romania",38,10,0,856,2010
+"AS Roma","Serie A","Italy","Júlio Sérgio","https://www.transfermarkt.com/julio-sergio/profil/spieler/20052","Goalkeeper",31,"Brazil",30,23,0,2036,2010
+"AS Roma","Serie A","Italy","Doni","https://www.transfermarkt.com/doni/profil/spieler/20392","Goalkeeper",30,"Brazil",35,20,0,1698,2010
+"AS Roma","Serie A","Italy","Alexandru Pena","https://www.transfermarkt.com/alexandru-pena/profil/spieler/82423","Goalkeeper",20,"Romania",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Alessandro Florenzi","https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365","Right-Back",19,"Italy",2,1,0,4,2010
+"AS Roma","Serie A","Italy","Stefano Sabelli","https://www.transfermarkt.com/stefano-sabelli/profil/spieler/167491","Right-Back",17,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Sebastian Mladen","https://www.transfermarkt.com/sebastian-mladen/profil/spieler/96790","Centre-Back",18,"Romania",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Guillermo Burdisso","https://www.transfermarkt.com/guillermo-burdisso/profil/spieler/104233","Centre-Back",21,"Argentina",13,3,0,131,2010
+"AS Roma","Serie A","Italy","Paolo Frascatore","https://www.transfermarkt.com/paolo-frascatore/profil/spieler/165885","Left-Back",18,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Aleandro Rosi","https://www.transfermarkt.com/aleandro-rosi/profil/spieler/34239","Right-Back",23,"Italy",33,19,1,932,2010
+"AS Roma","Serie A","Italy","Antunes","https://www.transfermarkt.com/antunes/profil/spieler/44699","Left-Back",23,"Portugal",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Valerio Virga","https://www.transfermarkt.com/valerio-virga/profil/spieler/24062","Right-Back",24,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Cicinho","https://www.transfermarkt.com/cicinho/profil/spieler/26101","Right-Back",30,"Brazil",20,8,0,441,2010
+"AS Roma","Serie A","Italy","Paolo Castellini","https://www.transfermarkt.com/paolo-castellini/profil/spieler/16891","Left-Back",31,"Italy",36,11,0,638,2010
+"AS Roma","Serie A","Italy","Juan","https://www.transfermarkt.com/juan/profil/spieler/1599","Centre-Back",31,"Brazil",45,37,2,3165,2010
+"AS Roma","Serie A","Italy","Philippe Mexès","https://www.transfermarkt.com/philippe-mexes/profil/spieler/5422","Centre-Back",28,"France",32,31,2,2549,2010
+"AS Roma","Serie A","Italy","Simone Loria","https://www.transfermarkt.com/simone-loria/profil/spieler/20741","Centre-Back",33,"Italy",13,6,2,313,2010
+"AS Roma","Serie A","Italy","John Arne Riise","https://www.transfermarkt.com/john-arne-riise/profil/spieler/3220","Left-Back",29,"Norway",42,42,1,3706,2010
+"AS Roma","Serie A","Italy","Nicolás Burdisso","https://www.transfermarkt.com/nicolas-burdisso/profil/spieler/3417","Centre-Back",29,"Argentina",44,40,2,3487,2010
+"AS Roma","Serie A","Italy","Luca Antei","https://www.transfermarkt.com/luca-antei/profil/spieler/146743","Centre-Back",18,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Marco Cassetti","https://www.transfermarkt.com/marco-cassetti/profil/spieler/16975","Right-Back",33,"Italy",44,43,0,3489,2010
+"AS Roma","Serie A","Italy","Federico Viviani","https://www.transfermarkt.com/federico-viviani/profil/spieler/165900","Defensive Midfield",18,"Italy",1,0,0,0,2010
+"AS Roma","Serie A","Italy","David Pizarro","https://www.transfermarkt.com/david-pizarro/profil/spieler/5896","Central Midfield",30,"Chile",36,30,1,2396,2010
+"AS Roma","Serie A","Italy","Ricardo Faty","https://www.transfermarkt.com/ricardo-faty/profil/spieler/33953","Defensive Midfield",23,"Senegal",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Daniele De Rossi","https://www.transfermarkt.com/daniele-de-rossi/profil/spieler/5947","Defensive Midfield",26,"Italy",41,40,3,3458,2010
+"AS Roma","Serie A","Italy","Júlio Baptista","https://www.transfermarkt.com/julio-baptista/profil/spieler/15952","Attacking Midfield",28,"Brazil",13,8,0,171,2010
+"AS Roma","Serie A","Italy","Simone Perrotta","https://www.transfermarkt.com/simone-perrotta/profil/spieler/5922","Attacking Midfield",32,"Italy",37,35,4,2692,2010
+"AS Roma","Serie A","Italy","Leandro Greco","https://www.transfermarkt.com/leandro-greco/profil/spieler/39831","Central Midfield",23,"Italy",32,19,1,985,2010
+"AS Roma","Serie A","Italy","Adrian Pit","https://www.transfermarkt.com/adrian-pit/profil/spieler/19924","Left Midfield",26,"Romania",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Ahmed Barusso","https://www.transfermarkt.com/ahmed-barusso/profil/spieler/40979","Defensive Midfield",25,"Ghana",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Fábio Simplício","https://www.transfermarkt.com/fabio-simplicio/profil/spieler/24716","Central Midfield",30,"Brazil",44,31,5,2091,2010
+"AS Roma","Serie A","Italy","Matteo Brighi","https://www.transfermarkt.com/matteo-brighi/profil/spieler/5868","Central Midfield",29,"Italy",45,32,1,1769,2010
+"AS Roma","Serie A","Italy","Gianluca Caprari","https://www.transfermarkt.com/gianluca-caprari/profil/spieler/146752","Second Striker",16,"Italy",8,4,0,44,2010
+"AS Roma","Serie A","Italy","Stefano Okaka","https://www.transfermarkt.com/stefano-okaka/profil/spieler/35249","Centre-Forward",20,"Italy",9,5,0,56,2010
+"AS Roma","Serie A","Italy","Jérémy Ménez","https://www.transfermarkt.com/jeremy-menez/profil/spieler/16993","Centre-Forward",23,"France",46,43,4,2422,2010
+"AS Roma","Serie A","Italy","Stefano Pettinari","https://www.transfermarkt.com/stefano-pettinari/profil/spieler/130369","Centre-Forward",18,"Italy",1,0,0,0,2010
+"AS Roma","Serie A","Italy","Mattia Montini","https://www.transfermarkt.com/mattia-montini/profil/spieler/130368","Centre-Forward",18,"Italy",0,0,0,0,2010
+"AS Roma","Serie A","Italy","Adriano","https://www.transfermarkt.com/adriano/profil/spieler/5876","Centre-Forward",28,"Brazil",15,8,0,352,2010
+"AS Roma","Serie A","Italy","Mirko Vucinic","https://www.transfermarkt.com/mirko-vucinic/profil/spieler/6448","Centre-Forward",26,"Montenegro",42,38,11,2539,2010
+"AS Roma","Serie A","Italy","Francesco Totti","https://www.transfermarkt.com/francesco-totti/profil/spieler/5958","Second Striker",33,"Italy",43,40,17,3069,2010
+"AS Roma","Serie A","Italy","Rodrigo Taddei","https://www.transfermarkt.com/rodrigo-taddei/profil/spieler/15342","Right Winger",30,"Brazil",33,29,1,1633,2010
+"AS Roma","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",28,"Italy",49,46,17,3092,2010
+"SSC Napoli","Serie A","Italy","Luigi Sepe","https://www.transfermarkt.com/luigi-sepe/profil/spieler/99254","Goalkeeper",19,"Italy",0,0,0,0,2010
+"SSC Napoli","Serie A","Italy","Gennaro Iezzo","https://www.transfermarkt.com/gennaro-iezzo/profil/spieler/20738","Goalkeeper",37,"Italy",47,1,0,90,2010
+"SSC Napoli","Serie A","Italy","Morgan De Sanctis","https://www.transfermarkt.com/morgan-de-sanctis/profil/spieler/5880","Goalkeeper",33,"Italy",49,49,0,4440,2010
+"SSC Napoli","Serie A","Italy","Matteo Gianello","https://www.transfermarkt.com/matteo-gianello/profil/spieler/21686","Goalkeeper",34,"Italy",3,0,0,0,2010
+"SSC Napoli","Serie A","Italy","Víctor Ruiz","https://www.transfermarkt.com/victor-ruiz/profil/spieler/62920","Centre-Back",21,"Spain",15,7,0,630,2010
+"SSC Napoli","Serie A","Italy","Gianluca Grava","https://www.transfermarkt.com/gianluca-grava/profil/spieler/8207","Right-Back",33,"Italy",27,17,0,1268,2010
+"SSC Napoli","Serie A","Italy","Luigi Vitale","https://www.transfermarkt.com/luigi-vitale/profil/spieler/80158","Left-Back",22,"Italy",17,10,1,554,2010
+"SSC Napoli","Serie A","Italy","Salvatore Aronica","https://www.transfermarkt.com/salvatore-aronica/profil/spieler/19182","Centre-Back",32,"Italy",42,35,0,2714,2010
+"SSC Napoli","Serie A","Italy","Christian Maggio","https://www.transfermarkt.com/christian-maggio/profil/spieler/21151","Right-Back",28,"Italy",49,44,4,3568,2010
+"SSC Napoli","Serie A","Italy","Fabiano Santacroce","https://www.transfermarkt.com/fabiano-santacroce/profil/spieler/56817","Centre-Back",23,"Italy",42,14,0,1051,2010
+"SSC Napoli","Serie A","Italy","Hugo Campagnaro","https://www.transfermarkt.com/hugo-campagnaro/profil/spieler/21782","Centre-Back",30,"Argentina",42,39,0,3363,2010
+"SSC Napoli","Serie A","Italy","Camilo Zúñiga","https://www.transfermarkt.com/camilo-zuniga/profil/spieler/37941","Right-Back",24,"Colombia",45,37,2,2152,2010
+"SSC Napoli","Serie A","Italy","Cribari","https://www.transfermarkt.com/cribari/profil/spieler/6017","Centre-Back",30,"Brazil",33,14,0,1058,2010
+"SSC Napoli","Serie A","Italy","Paolo Cannavaro","https://www.transfermarkt.com/paolo-cannavaro/profil/spieler/5858","Centre-Back",29,"Italy",44,40,2,3386,2010
+"SSC Napoli","Serie A","Italy","Erminio Rullo","https://www.transfermarkt.com/erminio-rullo/profil/spieler/6444","Left-Back",26,"Italy",1,0,0,0,2010
+"SSC Napoli","Serie A","Italy","Raffaele Maiello","https://www.transfermarkt.com/raffaele-maiello/profil/spieler/140559","Defensive Midfield",18,"Italy",8,3,0,105,2010
+"SSC Napoli","Serie A","Italy","José Sosa","https://www.transfermarkt.com/jose-sosa/profil/spieler/20137","Central Midfield",25,"Argentina",42,31,1,1006,2010
+"SSC Napoli","Serie A","Italy","Walter Gargano","https://www.transfermarkt.com/walter-gargano/profil/spieler/52266","Defensive Midfield",25,"Uruguay",46,46,0,3527,2010
+"SSC Napoli","Serie A","Italy","Michele Pazienza","https://www.transfermarkt.com/michele-pazienza/profil/spieler/17130","Defensive Midfield",27,"Italy",40,39,1,3000,2010
+"SSC Napoli","Serie A","Italy","Andrea Dossena","https://www.transfermarkt.com/andrea-dossena/profil/spieler/21863","Left Midfield",28,"Italy",45,42,1,3148,2010
+"SSC Napoli","Serie A","Italy","Marek Hamsik","https://www.transfermarkt.com/marek-hamsik/profil/spieler/38593","Central Midfield",22,"Slovakia",49,49,13,3868,2010
+"SSC Napoli","Serie A","Italy","Hassan Yebda","https://www.transfermarkt.com/hassan-yebda/profil/spieler/12351","Central Midfield",26,"Algeria",42,39,1,2173,2010
+"SSC Napoli","Serie A","Italy","Manuele Blasi","https://www.transfermarkt.com/manuele-blasi/profil/spieler/6090","Central Midfield",29,"Italy",14,5,0,205,2010
+"SSC Napoli","Serie A","Italy","Edinson Cavani","https://www.transfermarkt.com/edinson-cavani/profil/spieler/48280","Centre-Forward",23,"Uruguay",47,47,33,3833,2010
+"SSC Napoli","Serie A","Italy","Fabio Quagliarella","https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328","Centre-Forward",27,"Italy",2,1,0,90,2010
+"SSC Napoli","Serie A","Italy","Camillo Ciano","https://www.transfermarkt.com/camillo-ciano/profil/spieler/61511","Right Winger",20,"Italy",1,0,0,0,2010
+"SSC Napoli","Serie A","Italy","Nicolao Cardoso","https://www.transfermarkt.com/nicolao-cardoso/profil/spieler/87052","Left Winger",18,"Italy",26,12,0,122,2010
+"SSC Napoli","Serie A","Italy","Giuseppe Mascara","https://www.transfermarkt.com/giuseppe-mascara/profil/spieler/22085","Second Striker",30,"Italy",16,16,3,550,2010
+"SSC Napoli","Serie A","Italy","Ezequiel Lavezzi","https://www.transfermarkt.com/ezequiel-lavezzi/profil/spieler/50570","Left Winger",25,"Argentina",42,42,9,3603,2010
+"SSC Napoli","Serie A","Italy","Cristian Bucchi","https://www.transfermarkt.com/cristian-bucchi/profil/spieler/16846","Centre-Forward",33,"Italy",0,0,0,0,2010
+"SSC Napoli","Serie A","Italy","Cristiano Lucarelli","https://www.transfermarkt.com/cristiano-lucarelli/profil/spieler/21408","Centre-Forward",34,"Italy",19,11,1,242,2010
+"Genoa CFC","Serie A","Italy","Mattia Perin","https://www.transfermarkt.com/mattia-perin/profil/spieler/110923","Goalkeeper",17,"Italy",5,1,0,90,2010
+"Genoa CFC","Serie A","Italy","Eduardo","https://www.transfermarkt.com/eduardo/profil/spieler/34159","Goalkeeper",27,"Portugal",38,37,0,3330,2010
+"Genoa CFC","Serie A","Italy","Alessio Scarpi","https://www.transfermarkt.com/alessio-scarpi/profil/spieler/6809","Goalkeeper",37,"Italy",39,3,0,330,2010
+"Genoa CFC","Serie A","Italy","Robert Stillo","https://www.transfermarkt.com/robert-stillo/profil/spieler/56760","Goalkeeper",19,"Canada",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Ettore Oddo","https://www.transfermarkt.com/ettore-oddo/profil/spieler/295668","Goalkeeper",16,"Italy",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Diego Polenta","https://www.transfermarkt.com/diego-polenta/profil/spieler/78506","Centre-Back",18,"Uruguay",4,1,0,17,2010
+"Genoa CFC","Serie A","Italy","Nenad Tomović","https://www.transfermarkt.com/nenad-tomovi%C4%87/profil/spieler/47085","Centre-Back",22,"Serbia",8,2,0,240,2010
+"Genoa CFC","Serie A","Italy","Rafinha","https://www.transfermarkt.com/rafinha/profil/spieler/33947","Right-Back",24,"Brazil",38,37,2,2940,2010
+"Genoa CFC","Serie A","Italy","Davide Bertoncini","https://www.transfermarkt.com/davide-bertoncini/profil/spieler/91914","Centre-Back",19,"Italy",1,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Chico Flores","https://www.transfermarkt.com/chico-flores/profil/spieler/51681","Centre-Back",23,"Spain",24,16,0,744,2010
+"Genoa CFC","Serie A","Italy","Dario Dainelli","https://www.transfermarkt.com/dario-dainelli/profil/spieler/5970","Centre-Back",31,"Italy",37,35,1,2925,2010
+"Genoa CFC","Serie A","Italy","Domenico Criscito","https://www.transfermarkt.com/domenico-criscito/profil/spieler/44136","Left-Back",23,"Italy",37,37,0,3290,2010
+"Genoa CFC","Serie A","Italy","Abdoulay Konko","https://www.transfermarkt.com/abdoulay-konko/profil/spieler/22139","Right-Back",26,"France",13,13,0,800,2010
+"Genoa CFC","Serie A","Italy","Kakhaber Kaladze","https://www.transfermarkt.com/kakhaber-kaladze/profil/spieler/3430","Centre-Back",32,"Georgia",33,28,1,2377,2010
+"Genoa CFC","Serie A","Italy","Ivan Fatic","https://www.transfermarkt.com/ivan-fatic/profil/spieler/68078","Centre-Back",21,"Montenegro",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Salvatore Bocchetti","https://www.transfermarkt.com/salvatore-bocchetti/profil/spieler/42678","Centre-Back",23,"Italy",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Andrea Ranocchia","https://www.transfermarkt.com/andrea-ranocchia/profil/spieler/44327","Centre-Back",22,"Italy",17,17,2,1437,2010
+"Genoa CFC","Serie A","Italy","Giandomenico Mesto","https://www.transfermarkt.com/giandomenico-mesto/profil/spieler/16744","Right-Back",28,"Italy",40,38,2,2880,2010
+"Genoa CFC","Serie A","Italy","Luca Antonelli","https://www.transfermarkt.com/luca-antonelli/profil/spieler/45565","Left-Back",23,"Italy",13,11,1,607,2010
+"Genoa CFC","Serie A","Italy","Francesco Modesto","https://www.transfermarkt.com/francesco-modesto/profil/spieler/22320","Left-Back",28,"Italy",9,2,0,77,2010
+"Genoa CFC","Serie A","Italy","Emiliano Moretti","https://www.transfermarkt.com/emiliano-moretti/profil/spieler/5755","Centre-Back",29,"Italy",38,21,0,1156,2010
+"Genoa CFC","Serie A","Italy","Anthony Vanden Borre","https://www.transfermarkt.com/anthony-vanden-borre/profil/spieler/15844","Right-Back",22,"Belgium",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Stefano Sturaro","https://www.transfermarkt.com/stefano-sturaro/profil/spieler/167859","Central Midfield",17,"Italy",1,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Juraj Kucka","https://www.transfermarkt.com/juraj-kucka/profil/spieler/74943","Central Midfield",23,"Slovakia",18,18,0,1391,2010
+"Genoa CFC","Serie A","Italy","Miguel Veloso","https://www.transfermarkt.com/miguel-veloso/profil/spieler/43848","Defensive Midfield",24,"Portugal",31,22,0,1390,2010
+"Genoa CFC","Serie A","Italy","Enej Jelenic","https://www.transfermarkt.com/enej-jelenic/profil/spieler/148538","Left Midfield",17,"Slovenia",6,3,0,67,2010
+"Genoa CFC","Serie A","Italy","Franco Zuculini","https://www.transfermarkt.com/franco-zuculini/profil/spieler/73083","Central Midfield",19,"Argentina",16,6,0,254,2010
+"Genoa CFC","Serie A","Italy","Marco Rossi","https://www.transfermarkt.com/marco-rossi/profil/spieler/21955","Right Midfield",32,"Italy",36,32,2,2809,2010
+"Genoa CFC","Serie A","Italy","Houssine Kharja","https://www.transfermarkt.com/houssine-kharja/profil/spieler/21822","Central Midfield",27,"Morocco",16,15,1,939,2010
+"Genoa CFC","Serie A","Italy","Riccardo Carlini","https://www.transfermarkt.com/riccardo-carlini/profil/spieler/167848","Right Midfield",19,"Italy",1,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Andrea Doninelli","https://www.transfermarkt.com/andrea-doninelli/profil/spieler/130375","Central Midfield",19,"Italy",3,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Candia","https://www.transfermarkt.com/candia/profil/spieler/164092","Right Midfield",16,"Paraguay",1,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Omar Milanetto","https://www.transfermarkt.com/omar-milanetto/profil/spieler/7430","Defensive Midfield",34,"Italy",36,32,2,2503,2010
+"Genoa CFC","Serie A","Italy","Mattia Destro","https://www.transfermarkt.com/mattia-destro/profil/spieler/88683","Centre-Forward",19,"Italy",23,18,3,777,2010
+"Genoa CFC","Serie A","Italy","Alberto Paloschi","https://www.transfermarkt.com/alberto-paloschi/profil/spieler/68306","Centre-Forward",20,"Italy",18,12,2,410,2010
+"Genoa CFC","Serie A","Italy","Richmond Boakye","https://www.transfermarkt.com/richmond-boakye/profil/spieler/119213","Centre-Forward",17,"Ghana",6,5,0,133,2010
+"Genoa CFC","Serie A","Italy","Mauro Boselli","https://www.transfermarkt.com/mauro-boselli/profil/spieler/40822","Centre-Forward",25,"Argentina",13,7,2,182,2010
+"Genoa CFC","Serie A","Italy","Federico Rodríguez","https://www.transfermarkt.com/federico-rodriguez/profil/spieler/159778","Centre-Forward",19,"Uruguay",0,0,0,0,2010
+"Genoa CFC","Serie A","Italy","Rodrigo Palacio","https://www.transfermarkt.com/rodrigo-palacio/profil/spieler/39099","Centre-Forward",28,"Argentina",29,29,9,2215,2010
+"Genoa CFC","Serie A","Italy","Luca Toni","https://www.transfermarkt.com/luca-toni/profil/spieler/5980","Centre-Forward",33,"Italy",18,18,7,1558,2010
+"Genoa CFC","Serie A","Italy","Raffaele Palladino","https://www.transfermarkt.com/raffaele-palladino/profil/spieler/28855","Left Winger",26,"Italy",7,6,0,351,2010
+"Genoa CFC","Serie A","Italy","Giuseppe Sculli","https://www.transfermarkt.com/giuseppe-sculli/profil/spieler/6046","Left Winger",29,"Italy",9,9,1,494,2010
+"Genoa CFC","Serie A","Italy","Gergely Rudolf","https://www.transfermarkt.com/gergely-rudolf/profil/spieler/34374","Centre-Forward",25,"Hungary",18,15,1,686,2010
+"Genoa CFC","Serie A","Italy","Boško Janković","https://www.transfermarkt.com/bo-scaron-ko-jankovi%C4%87/profil/spieler/19708","Right Winger",26,"Serbia",19,7,0,349,2010
+"Genoa CFC","Serie A","Italy","Antonio Floro Flores","https://www.transfermarkt.com/antonio-floro-flores/profil/spieler/16893","Centre-Forward",27,"Italy",18,18,10,1414,2010
+"Udinese Calcio","Serie A","Italy","Samir Handanovic","https://www.transfermarkt.com/samir-handanovic/profil/spieler/28021","Goalkeeper",25,"Slovenia",35,35,0,3150,2010
+"Udinese Calcio","Serie A","Italy","Rafael Romo","https://www.transfermarkt.com/rafael-romo/profil/spieler/101031","Goalkeeper",20,"Venezuela",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Jan Koprivec","https://www.transfermarkt.com/jan-koprivec/profil/spieler/50286","Goalkeeper",21,"Slovenia",6,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Emanuele Belardi","https://www.transfermarkt.com/emanuele-belardi/profil/spieler/6060","Goalkeeper",32,"Italy",40,6,0,600,2010
+"Udinese Calcio","Serie A","Italy","Alin Bucuroiu","https://www.transfermarkt.com/alin-bucuroiu/profil/spieler/119187","Goalkeeper",18,"Romania",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Mauricio Isla","https://www.transfermarkt.com/mauricio-isla/profil/spieler/43722","Right-Back",22,"Chile",37,35,3,2909,2010
+"Udinese Calcio","Serie A","Italy","Cristián Zapata","https://www.transfermarkt.com/cristian-zapata/profil/spieler/34344","Centre-Back",23,"Colombia",38,38,2,3389,2010
+"Udinese Calcio","Serie A","Italy","Gabriele Angella","https://www.transfermarkt.com/gabriele-angella/profil/spieler/86793","Centre-Back",21,"Italy",21,11,1,473,2010
+"Udinese Calcio","Serie A","Italy","Nikola Vujadinovic","https://www.transfermarkt.com/nikola-vujadinovic/profil/spieler/58474","Centre-Back",23,"Montenegro",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Andrea Coda","https://www.transfermarkt.com/andrea-coda/profil/spieler/28833","Centre-Back",25,"Italy",36,25,0,1754,2010
+"Udinese Calcio","Serie A","Italy","Dusan Basta","https://www.transfermarkt.com/dusan-basta/profil/spieler/19694","Right-Back",25,"Serbia",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Maurizio Domizzi","https://www.transfermarkt.com/maurizio-domizzi/profil/spieler/6750","Centre-Back",30,"Italy",32,31,2,2452,2010
+"Udinese Calcio","Serie A","Italy","Medhi Benatia","https://www.transfermarkt.com/medhi-benatia/profil/spieler/45124","Centre-Back",23,"Morocco",37,34,3,3043,2010
+"Udinese Calcio","Serie A","Italy","Joel Ekstrand","https://www.transfermarkt.com/joel-ekstrand/profil/spieler/69912","Centre-Back",21,"Sweden",3,1,0,21,2010
+"Udinese Calcio","Serie A","Italy","Giovanni Pasquale","https://www.transfermarkt.com/giovanni-pasquale/profil/spieler/5793","Left-Back",28,"Italy",38,19,0,1093,2010
+"Udinese Calcio","Serie A","Italy","Damiano Ferronetti","https://www.transfermarkt.com/damiano-ferronetti/profil/spieler/5948","Centre-Back",25,"Italy",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Daniele Cotrufo","https://www.transfermarkt.com/daniele-cotrufo/profil/spieler/163065","Centre-Back",17,"Italy",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Alex Ortobelli","https://www.transfermarkt.com/alex-ortobelli/profil/spieler/133954","Centre-Back",18,"Italy",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Juan Cuadrado","https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970","Right Midfield",22,"Colombia",25,12,0,652,2010
+"Udinese Calcio","Serie A","Italy","Antonio Candreva","https://www.transfermarkt.com/antonio-candreva/profil/spieler/25488","Right Midfield",23,"Italy",1,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Cristian Battocchio","https://www.transfermarkt.com/cristian-battocchio/profil/spieler/129868","Central Midfield",18,"Italy",2,1,0,4,2010
+"Udinese Calcio","Serie A","Italy","Gökhan Inler","https://www.transfermarkt.com/gokhan-inler/profil/spieler/19041","Defensive Midfield",26,"Switzerland",37,36,3,3096,2010
+"Udinese Calcio","Serie A","Italy","Emmanuel Badu","https://www.transfermarkt.com/emmanuel-badu/profil/spieler/108484","Central Midfield",19,"Ghana",31,11,0,432,2010
+"Udinese Calcio","Serie A","Italy","Viktor Budyanskiy","https://www.transfermarkt.com/viktor-budyanskiy/profil/spieler/34194","Central Midfield",26,"Russia",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Kwadwo Asamoah","https://www.transfermarkt.com/kwadwo-asamoah/profil/spieler/63531","Left Midfield",21,"Ghana",40,39,2,3306,2010
+"Udinese Calcio","Serie A","Italy","Almen Abdi","https://www.transfermarkt.com/almen-abdi/profil/spieler/9966","Central Midfield",23,"Switzerland",28,21,0,869,2010
+"Udinese Calcio","Serie A","Italy","Piermario Morosini","https://www.transfermarkt.com/piermario-morosini/profil/spieler/35864","Central Midfield",23,"Italy",2,2,0,210,2010
+"Udinese Calcio","Serie A","Italy","Pablo Armero","https://www.transfermarkt.com/pablo-armero/profil/spieler/73786","Left Midfield",23,"Colombia",37,33,2,2748,2010
+"Udinese Calcio","Serie A","Italy","Giampiero Pinzi","https://www.transfermarkt.com/giampiero-pinzi/profil/spieler/5893","Central Midfield",29,"Italy",36,35,1,2757,2010
+"Udinese Calcio","Serie A","Italy","Luis Muriel","https://www.transfermarkt.com/luis-muriel/profil/spieler/119228","Centre-Forward",19,"Colombia",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Alexis Sánchez","https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433","Centre-Forward",21,"Chile",36,33,12,2517,2010
+"Udinese Calcio","Serie A","Italy","Matej Vydra","https://www.transfermarkt.com/matej-vydra/profil/spieler/101500","Centre-Forward",18,"Czech Republic",5,3,0,19,2010
+"Udinese Calcio","Serie A","Italy","Fernando Forestieri","https://www.transfermarkt.com/fernando-forestieri/profil/spieler/44948","Second Striker",20,"Italy",1,1,0,68,2010
+"Udinese Calcio","Serie A","Italy","Steve Beleck","https://www.transfermarkt.com/steve-beleck/profil/spieler/136746","Centre-Forward",17,"Cameroon",1,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Germán Denis","https://www.transfermarkt.com/german-denis/profil/spieler/30873","Centre-Forward",28,"Argentina",34,27,5,1130,2010
+"Udinese Calcio","Serie A","Italy","Bernardo Corradi","https://www.transfermarkt.com/bernardo-corradi/profil/spieler/5851","Centre-Forward",34,"Italy",41,20,4,469,2010
+"Udinese Calcio","Serie A","Italy","Antonio Di Natale","https://www.transfermarkt.com/antonio-di-natale/profil/spieler/6031","Centre-Forward",32,"Italy",37,37,28,2986,2010
+"Udinese Calcio","Serie A","Italy","Federico Laurito","https://www.transfermarkt.com/federico-laurito/profil/spieler/44371","Centre-Forward",20,"Argentina",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Daniel Manca","https://www.transfermarkt.com/daniel-manca/profil/spieler/163077","Attack",18,"Italy",0,0,0,0,2010
+"Udinese Calcio","Serie A","Italy","Antonio Floro Flores","https://www.transfermarkt.com/antonio-floro-flores/profil/spieler/16893","Centre-Forward",27,"Italy",19,14,5,917,2010
+"UC Sampdoria","Serie B","Italy","Vincenzo Fiorillo","https://www.transfermarkt.com/vincenzo-fiorillo/profil/spieler/55000","Goalkeeper",20,"Italy",2,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Andrea Tozzo","https://www.transfermarkt.com/andrea-tozzo/profil/spieler/57657","Goalkeeper",17,"Italy",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Angelo da Costa","https://www.transfermarkt.com/angelo-da-costa/profil/spieler/82693","Goalkeeper",26,"Brazil",48,8,0,672,2010
+"UC Sampdoria","Serie B","Italy","Davide Negretti","https://www.transfermarkt.com/davide-negretti/profil/spieler/133875","Goalkeeper",18,"Italy",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Gianluca Curci","https://www.transfermarkt.com/gianluca-curci/profil/spieler/24001","Goalkeeper",24,"Italy",46,41,0,3708,2010
+"UC Sampdoria","Serie B","Italy","Vedran Celjak","https://www.transfermarkt.com/vedran-celjak/profil/spieler/86640","Right-Back",18,"Croatia",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Edoardo Blondett","https://www.transfermarkt.com/edoardo-blondett/profil/spieler/167877","Centre-Back",18,"Italy",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Reto Ziegler","https://www.transfermarkt.com/reto-ziegler/profil/spieler/9915","Centre-Back",24,"Switzerland",44,42,1,3676,2010
+"UC Sampdoria","Serie B","Italy","Romano Perticone","https://www.transfermarkt.com/romano-perticone/profil/spieler/44294","Centre-Back",23,"Italy",2,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Pietro Accardi","https://www.transfermarkt.com/pietro-accardi/profil/spieler/17155","Left-Back",27,"Italy",23,11,0,707,2010
+"UC Sampdoria","Serie B","Italy","Stefano Lucchini","https://www.transfermarkt.com/stefano-lucchini/profil/spieler/6012","Centre-Back",29,"Italy",34,30,0,2360,2010
+"UC Sampdoria","Serie B","Italy","Zsolt Laczkó","https://www.transfermarkt.com/zsolt-laczko/profil/spieler/43333","Left-Back",23,"Hungary",18,9,0,584,2010
+"UC Sampdoria","Serie B","Italy","Fabrizio Cacciatore","https://www.transfermarkt.com/fabrizio-cacciatore/profil/spieler/85605","Right-Back",23,"Italy",17,10,1,823,2010
+"UC Sampdoria","Serie B","Italy","Marco Padalino","https://www.transfermarkt.com/marco-padalino/profil/spieler/22088","Right-Back",26,"Switzerland",11,2,0,48,2010
+"UC Sampdoria","Serie B","Italy","Marius Stankevicius","https://www.transfermarkt.com/marius-stankevicius/profil/spieler/5966","Centre-Back",28,"Lithuania",2,2,0,142,2010
+"UC Sampdoria","Serie B","Italy","Jonathan Rossini","https://www.transfermarkt.com/jonathan-rossini/profil/spieler/54916","Centre-Back",21,"Switzerland",6,1,0,90,2010
+"UC Sampdoria","Serie B","Italy","Gilberto Martínez","https://www.transfermarkt.com/gilberto-martinez/profil/spieler/5969","Centre-Back",30,"Costa Rica",13,9,0,701,2010
+"UC Sampdoria","Serie B","Italy","Massimo Volta","https://www.transfermarkt.com/massimo-volta/profil/spieler/54921","Centre-Back",23,"Italy",45,35,1,2837,2010
+"UC Sampdoria","Serie B","Italy","Daniele Gastaldello","https://www.transfermarkt.com/daniele-gastaldello/profil/spieler/7096","Centre-Back",27,"Italy",37,36,1,3138,2010
+"UC Sampdoria","Serie B","Italy","Andrea Grieco","https://www.transfermarkt.com/andrea-grieco/profil/spieler/96772","Right-Back",18,"Italy",1,1,0,90,2010
+"UC Sampdoria","Serie B","Italy","Fabio Lamorte","https://www.transfermarkt.com/fabio-lamorte/profil/spieler/167887","Centre-Back",19,"Italy",2,1,0,2,2010
+"UC Sampdoria","Serie B","Italy","Daniele Messina","https://www.transfermarkt.com/daniele-messina/profil/spieler/146811","Centre-Back",18,"Italy",1,1,0,90,2010
+"UC Sampdoria","Serie B","Italy","Luciano Zauri","https://www.transfermarkt.com/luciano-zauri/profil/spieler/6832","Right-Back",32,"Italy",36,29,0,2384,2010
+"UC Sampdoria","Serie B","Italy","Pedro Obiang","https://www.transfermarkt.com/pedro-obiang/profil/spieler/101213","Central Midfield",18,"Equatorial Guinea",7,5,0,176,2010
+"UC Sampdoria","Serie B","Italy","Andrea Poli","https://www.transfermarkt.com/andrea-poli/profil/spieler/44834","Central Midfield",20,"Italy",37,28,0,1754,2010
+"UC Sampdoria","Serie B","Italy","Daniele Dessena","https://www.transfermarkt.com/daniele-dessena/profil/spieler/29962","Central Midfield",23,"Italy",45,30,0,2255,2010
+"UC Sampdoria","Serie B","Italy","Vladimir Koman","https://www.transfermarkt.com/vladimir-koman/profil/spieler/49719","Attacking Midfield",21,"Hungary",42,33,1,1804,2010
+"UC Sampdoria","Serie B","Italy","Nenad Krsticic","https://www.transfermarkt.com/nenad-krsticic/profil/spieler/56790","Central Midfield",19,"Serbia",3,1,0,88,2010
+"UC Sampdoria","Serie B","Italy","Daniele Mannini","https://www.transfermarkt.com/daniele-mannini/profil/spieler/21690","Right Midfield",26,"Italy",43,40,2,2226,2010
+"UC Sampdoria","Serie B","Italy","Fernando Tissone","https://www.transfermarkt.com/fernando-tissone/profil/spieler/35871","Defensive Midfield",23,"Argentina",37,27,1,1705,2010
+"UC Sampdoria","Serie B","Italy","Angelo Palombo","https://www.transfermarkt.com/angelo-palombo/profil/spieler/6793","Defensive Midfield",28,"Italy",42,42,1,3760,2010
+"UC Sampdoria","Serie B","Italy","Paolo Sammarco","https://www.transfermarkt.com/paolo-sammarco/profil/spieler/7101","Central Midfield",27,"Italy",5,1,0,90,2010
+"UC Sampdoria","Serie B","Italy","Federico Macheda","https://www.transfermarkt.com/federico-macheda/profil/spieler/61887","Second Striker",18,"Italy",18,16,1,634,2010
+"UC Sampdoria","Serie B","Italy","Simone Zaza","https://www.transfermarkt.com/simone-zaza/profil/spieler/96828","Centre-Forward",19,"Italy",5,2,0,12,2010
+"UC Sampdoria","Serie B","Italy","Bruno Fornaroli","https://www.transfermarkt.com/bruno-fornaroli/profil/spieler/72651","Centre-Forward",22,"Australia",3,1,0,4,2010
+"UC Sampdoria","Serie B","Italy","Jonathan Biabiany","https://www.transfermarkt.com/jonathan-biabiany/profil/spieler/45567","Right Winger",22,"France",17,16,1,857,2010
+"UC Sampdoria","Serie B","Italy","Guido Marilungo","https://www.transfermarkt.com/guido-marilungo/profil/spieler/61786","Centre-Forward",20,"Italy",23,20,0,1062,2010
+"UC Sampdoria","Serie B","Italy","Stefano Guberti","https://www.transfermarkt.com/stefano-guberti/profil/spieler/41310","Left Winger",25,"Italy",47,46,6,2829,2010
+"UC Sampdoria","Serie B","Italy","Nicola Pozzi","https://www.transfermarkt.com/nicola-pozzi/profil/spieler/16117","Centre-Forward",24,"Italy",34,26,6,1489,2010
+"UC Sampdoria","Serie B","Italy","Giampaolo Pazzini","https://www.transfermarkt.com/giampaolo-pazzini/profil/spieler/19447","Centre-Forward",25,"Italy",25,25,12,2136,2010
+"UC Sampdoria","Serie B","Italy","Massimo Maccarone","https://www.transfermarkt.com/massimo-maccarone/profil/spieler/3713","Centre-Forward",30,"Italy",19,18,3,1355,2010
+"UC Sampdoria","Serie B","Italy","Fabio Oliviero","https://www.transfermarkt.com/fabio-oliviero/profil/spieler/167892","Left Winger",19,"Italy",1,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Franco Semioli","https://www.transfermarkt.com/franco-semioli/profil/spieler/6154","Right Winger",30,"Italy",10,10,0,692,2010
+"UC Sampdoria","Serie B","Italy","Salvatore Foti","https://www.transfermarkt.com/salvatore-foti/profil/spieler/38559","Centre-Forward",21,"Italy",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Emanuele Testardi","https://www.transfermarkt.com/emanuele-testardi/profil/spieler/102563","Centre-Forward",19,"Italy",0,0,0,0,2010
+"UC Sampdoria","Serie B","Italy","Antonio Cassano","https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962","Second Striker",27,"Italy",12,12,5,1059,2010
+"Palermo FC","Serie B","Italy","Salvatore Sirigu","https://www.transfermarkt.com/salvatore-sirigu/profil/spieler/25508","Goalkeeper",23,"Italy",49,45,0,4080,2010
+"Palermo FC","Serie B","Italy","Giacomo Brichetto","https://www.transfermarkt.com/giacomo-brichetto/profil/spieler/100693","Goalkeeper",27,"Italy",4,0,0,0,2010
+"Palermo FC","Serie B","Italy","Francesco Di Gregorio","https://www.transfermarkt.com/francesco-di-gregorio/profil/spieler/62726","Goalkeeper",17,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Francesco Benussi","https://www.transfermarkt.com/francesco-benussi/profil/spieler/21829","Goalkeeper",28,"Italy",48,6,0,540,2010
+"Palermo FC","Serie B","Italy","Matteo Darmian","https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906","Right-Back",20,"Italy",39,16,0,868,2010
+"Palermo FC","Serie B","Italy","Kamil Glik","https://www.transfermarkt.com/kamil-glik/profil/spieler/46552","Centre-Back",22,"Poland",13,4,0,325,2010
+"Palermo FC","Serie B","Italy","Giuseppe Prestia","https://www.transfermarkt.com/giuseppe-prestia/profil/spieler/163187","Centre-Back",16,"Italy",3,1,0,90,2010
+"Palermo FC","Serie B","Italy","Santiago García","https://www.transfermarkt.com/santiago-garcia/profil/spieler/90489","Centre-Back",21,"Argentina",29,7,0,469,2010
+"Palermo FC","Serie B","Italy","Sinisa Andjelkovic","https://www.transfermarkt.com/sinisa-andjelkovic/profil/spieler/84622","Centre-Back",24,"Slovenia",18,8,0,632,2010
+"Palermo FC","Serie B","Italy","Daniel Cappelletti","https://www.transfermarkt.com/daniel-cappelletti/profil/spieler/130380","Centre-Back",18,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Ezequiel Muñoz","https://www.transfermarkt.com/ezequiel-munoz/profil/spieler/75127","Centre-Back",19,"Argentina",49,42,2,3409,2010
+"Palermo FC","Serie B","Italy","Paolo Dellafiore","https://www.transfermarkt.com/paolo-dellafiore/profil/spieler/28935","Centre-Back",25,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Cristian Melinte","https://www.transfermarkt.com/cristian-melinte/profil/spieler/63461","Centre-Back",22,"Romania",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Dorin Goian","https://www.transfermarkt.com/dorin-goian/profil/spieler/34756","Centre-Back",29,"Romania",24,22,1,1585,2010
+"Palermo FC","Serie B","Italy","Cesare Bovo","https://www.transfermarkt.com/cesare-bovo/profil/spieler/5946","Centre-Back",27,"Italy",45,43,5,3755,2010
+"Palermo FC","Serie B","Italy","Mattia Cassani","https://www.transfermarkt.com/mattia-cassani/profil/spieler/21859","Right-Back",26,"Italy",45,45,0,3845,2010
+"Palermo FC","Serie B","Italy","Federico Balzaretti","https://www.transfermarkt.com/federico-balzaretti/profil/spieler/21876","Left-Back",28,"Italy",45,44,2,3785,2010
+"Palermo FC","Serie B","Italy","Moris Carrozzieri","https://www.transfermarkt.com/moris-carrozzieri/profil/spieler/6747","Centre-Back",29,"Italy",4,2,0,84,2010
+"Palermo FC","Serie B","Italy","Jasmin Kurtic","https://www.transfermarkt.com/jasmin-kurtic/profil/spieler/85825","Central Midfield",21,"Slovenia",21,5,1,280,2010
+"Palermo FC","Serie B","Italy","Pajtim Kasami","https://www.transfermarkt.com/pajtim-kasami/profil/spieler/130108","Central Midfield",18,"Switzerland",43,23,0,867,2010
+"Palermo FC","Serie B","Italy","Javier Pastore","https://www.transfermarkt.com/javier-pastore/profil/spieler/55215","Attacking Midfield",21,"Argentina",46,45,13,3805,2010
+"Palermo FC","Serie B","Italy","Josip Ilicic","https://www.transfermarkt.com/josip-ilicic/profil/spieler/80351","Attacking Midfield",22,"Slovenia",39,39,8,3011,2010
+"Palermo FC","Serie B","Italy","Nicola Rigoni","https://www.transfermarkt.com/nicola-rigoni/profil/spieler/61757","Defensive Midfield",19,"Italy",19,9,1,497,2010
+"Palermo FC","Serie B","Italy","Francesco Ardizzone","https://www.transfermarkt.com/francesco-ardizzone/profil/spieler/62710","Central Midfield",18,"Italy",3,1,0,25,2010
+"Palermo FC","Serie B","Italy","Dario Maltese","https://www.transfermarkt.com/dario-maltese/profil/spieler/163168","Defensive Midfield",17,"Italy",1,0,0,0,2010
+"Palermo FC","Serie B","Italy","Maurizio Ciaramitaro","https://www.transfermarkt.com/maurizio-ciaramitaro/profil/spieler/24303","Central Midfield",28,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Giulio Migliaccio","https://www.transfermarkt.com/giulio-migliaccio/profil/spieler/21756","Central Midfield",29,"Italy",46,45,4,3925,2010
+"Palermo FC","Serie B","Italy","Fabio Liverani","https://www.transfermarkt.com/fabio-liverani/profil/spieler/5846","Defensive Midfield",34,"Italy",32,18,0,942,2010
+"Palermo FC","Serie B","Italy","Armin Bacinovic","https://www.transfermarkt.com/armin-bacinovic/profil/spieler/60074","Defensive Midfield",20,"Slovenia",37,35,2,2613,2010
+"Palermo FC","Serie B","Italy","Antonio Nocerino","https://www.transfermarkt.com/antonio-nocerino/profil/spieler/22203","Central Midfield",25,"Italy",49,49,4,4329,2010
+"Palermo FC","Serie B","Italy","Walter Mineo","https://www.transfermarkt.com/walter-mineo/profil/spieler/62744","Central Midfield",17,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Giovanni Cristofari","https://www.transfermarkt.com/giovanni-cristofari/profil/spieler/136098","Central Midfield",17,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Afriyie Acquah","https://www.transfermarkt.com/afriyie-acquah/profil/spieler/145581","Central Midfield",18,"Ghana",20,14,0,606,2010
+"Palermo FC","Serie B","Italy","João Pedro","https://www.transfermarkt.com/joao-pedro/profil/spieler/129129","Centre-Forward",18,"Italy",7,4,0,135,2010
+"Palermo FC","Serie B","Italy","Abel Hernández","https://www.transfermarkt.com/abel-hernandez/profil/spieler/76608","Centre-Forward",19,"Uruguay",29,29,8,1804,2010
+"Palermo FC","Serie B","Italy","Umberto Nappello","https://www.transfermarkt.com/umberto-nappello/profil/spieler/163177","Second Striker",19,"Italy",3,0,0,0,2010
+"Palermo FC","Serie B","Italy","Gabriele Zerbo","https://www.transfermarkt.com/gabriele-zerbo/profil/spieler/168452","Second Striker",16,"Italy",1,1,0,0,2010
+"Palermo FC","Serie B","Italy","Fabrizio Miccoli","https://www.transfermarkt.com/fabrizio-miccoli/profil/spieler/6097","Centre-Forward",31,"Italy",34,28,10,1522,2010
+"Palermo FC","Serie B","Italy","Davide Succi","https://www.transfermarkt.com/davide-succi/profil/spieler/29208","Centre-Forward",28,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Igor Budan","https://www.transfermarkt.com/igor-budan/profil/spieler/19437","Centre-Forward",30,"Croatia",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Michele Paolucci","https://www.transfermarkt.com/michele-paolucci/profil/spieler/41311","Centre-Forward",24,"Italy",4,2,0,25,2010
+"Palermo FC","Serie B","Italy","Massimo Maccarone","https://www.transfermarkt.com/massimo-maccarone/profil/spieler/3713","Centre-Forward",30,"Italy",29,27,5,1186,2010
+"Palermo FC","Serie B","Italy","Mauricio Pinilla","https://www.transfermarkt.com/mauricio-pinilla/profil/spieler/6160","Centre-Forward",26,"Chile",32,31,9,1496,2010
+"Palermo FC","Serie B","Italy","Ignazio Gattuso","https://www.transfermarkt.com/ignazio-gattuso/profil/spieler/62731","Attack",18,"Italy",0,0,0,0,2010
+"Palermo FC","Serie B","Italy","Daniel Jara","https://www.transfermarkt.com/daniel-jara/profil/spieler/159153","Centre-Forward",16,"Paraguay",3,1,0,49,2010
+"SS Lazio","Serie A","Italy","Fernando Muslera","https://www.transfermarkt.com/fernando-muslera/profil/spieler/58088","Goalkeeper",24,"Uruguay",36,36,0,3240,2010
+"SS Lazio","Serie A","Italy","Alessandro Berardi","https://www.transfermarkt.com/alessandro-berardi/profil/spieler/127217","Goalkeeper",19,"Italy",1,0,0,0,2010
+"SS Lazio","Serie A","Italy","Albano Bizzarri","https://www.transfermarkt.com/albano-bizzarri/profil/spieler/7797","Goalkeeper",32,"Argentina",4,0,0,0,2010
+"SS Lazio","Serie A","Italy","Tommaso Berni","https://www.transfermarkt.com/tommaso-berni/profil/spieler/21752","Goalkeeper",27,"Italy",41,5,0,450,2010
+"SS Lazio","Serie A","Italy","Luca Crescenzi","https://www.transfermarkt.com/luca-crescenzi/profil/spieler/127224","Centre-Back",18,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Luis Pedro Cavanda","https://www.transfermarkt.com/luis-pedro-cavanda/profil/spieler/102192","Right-Back",19,"Belgium",14,5,0,224,2010
+"SS Lazio","Serie A","Italy","Modibo Diakité","https://www.transfermarkt.com/modibo-diakite/profil/spieler/41749","Centre-Back",23,"France",17,10,0,513,2010
+"SS Lazio","Serie A","Italy","Ivan Artipoli","https://www.transfermarkt.com/ivan-artipoli/profil/spieler/21682","Centre-Back",24,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Federico Chirico","https://www.transfermarkt.com/federico-chirico/profil/spieler/73919","Centre-Back",21,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Stephan Lichtsteiner","https://www.transfermarkt.com/stephan-lichtsteiner/profil/spieler/2865","Right-Back",26,"Switzerland",36,35,0,3008,2010
+"SS Lazio","Serie A","Italy","André Dias","https://www.transfermarkt.com/andre-dias/profil/spieler/52918","Centre-Back",31,"Brazil",36,34,2,3056,2010
+"SS Lazio","Serie A","Italy","Lionel Scaloni","https://www.transfermarkt.com/lionel-scaloni/profil/spieler/7499","Right-Back",32,"Argentina",26,14,0,768,2010
+"SS Lazio","Serie A","Italy","Guglielmo Stendardo","https://www.transfermarkt.com/guglielmo-stendardo/profil/spieler/22093","Centre-Back",29,"Italy",27,16,1,853,2010
+"SS Lazio","Serie A","Italy","Javier Garrido","https://www.transfermarkt.com/javier-garrido/profil/spieler/23218","Left-Back",25,"Spain",22,12,1,851,2010
+"SS Lazio","Serie A","Italy","Aurimas Vilkaitis","https://www.transfermarkt.com/aurimas-vilkaitis/profil/spieler/167378","Centre-Back",17,"Lithuania",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Giuseppe Biava","https://www.transfermarkt.com/giuseppe-biava/profil/spieler/20913","Centre-Back",33,"Italy",36,36,3,3131,2010
+"SS Lazio","Serie A","Italy","Cribari","https://www.transfermarkt.com/cribari/profil/spieler/6017","Centre-Back",30,"Brazil",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Stefan Radu","https://www.transfermarkt.com/stefan-radu/profil/spieler/44420","Left-Back",23,"Romania",27,27,0,2356,2010
+"SS Lazio","Serie A","Italy","Riccardo Bonetto","https://www.transfermarkt.com/riccardo-bonetto/profil/spieler/17173","Left-Back",31,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Enrico Zampa","https://www.transfermarkt.com/enrico-zampa/profil/spieler/127230","Defensive Midfield",18,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Ogenyi Onazi","https://www.transfermarkt.com/ogenyi-onazi/profil/spieler/131709","Defensive Midfield",17,"Nigeria",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Álvaro González","https://www.transfermarkt.com/alvaro-gonzalez/profil/spieler/55957","Central Midfield",25,"Uruguay",30,22,2,1128,2010
+"SS Lazio","Serie A","Italy","Fabio Firmani","https://www.transfermarkt.com/fabio-firmani/profil/spieler/22083","Central Midfield",32,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/6043","Attacking Midfield",30,"Italy",32,30,6,2279,2010
+"SS Lazio","Serie A","Italy","Hernanes","https://www.transfermarkt.com/hernanes/profil/spieler/52897","Attacking Midfield",25,"Brazil",39,37,12,2953,2010
+"SS Lazio","Serie A","Italy","Matuzalém","https://www.transfermarkt.com/matuzalem/profil/spieler/5974","Defensive Midfield",30,"Brazil",27,23,0,1795,2010
+"SS Lazio","Serie A","Italy","Riccardo Perpetuini","https://www.transfermarkt.com/riccardo-perpetuini/profil/spieler/109550","Central Midfield",19,"Italy",1,1,0,6,2010
+"SS Lazio","Serie A","Italy","Pasquale Foggia","https://www.transfermarkt.com/pasquale-foggia/profil/spieler/17175","Attacking Midfield",27,"Italy",23,11,0,412,2010
+"SS Lazio","Serie A","Italy","Mark Bresciano","https://www.transfermarkt.com/mark-bresciano/profil/spieler/5867","Central Midfield",30,"Australia",33,23,1,806,2010
+"SS Lazio","Serie A","Italy","Cristian Ledesma","https://www.transfermarkt.com/cristian-ledesma/profil/spieler/6438","Defensive Midfield",27,"Italy",38,36,1,2825,2010
+"SS Lazio","Serie A","Italy","Mourad Meghni","https://www.transfermarkt.com/mourad-meghni/profil/spieler/6003","Attacking Midfield",26,"Algeria",1,0,0,0,2010
+"SS Lazio","Serie A","Italy","Cristian Brocchi","https://www.transfermarkt.com/cristian-brocchi/profil/spieler/5812","Central Midfield",34,"Italy",34,33,0,2402,2010
+"SS Lazio","Serie A","Italy","Lucas Correa","https://www.transfermarkt.com/lucas-correa/profil/spieler/56901","Defensive Midfield",26,"Argentina",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Alberto Quadri","https://www.transfermarkt.com/alberto-quadri/profil/spieler/40482","Defensive Midfield",27,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Libor Kozak","https://www.transfermarkt.com/libor-kozak/profil/spieler/63824","Centre-Forward",21,"Czech Republic",32,22,7,1000,2010
+"SS Lazio","Serie A","Italy","Tommaso Ceccarelli","https://www.transfermarkt.com/tommaso-ceccarelli/profil/spieler/127222","Right Winger",18,"Italy",1,0,0,0,2010
+"SS Lazio","Serie A","Italy","Mauro Zárate","https://www.transfermarkt.com/mauro-zarate/profil/spieler/26456","Centre-Forward",23,"Argentina",38,36,9,2584,2010
+"SS Lazio","Serie A","Italy","Gonzalo Barreto","https://www.transfermarkt.com/gonzalo-barreto/profil/spieler/125505","Centre-Forward",18,"Uruguay",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Tommaso Rocchi","https://www.transfermarkt.com/tommaso-rocchi/profil/spieler/6026","Centre-Forward",32,"Italy",25,19,3,728,2010
+"SS Lazio","Serie A","Italy","Sergio Floccari","https://www.transfermarkt.com/sergio-floccari/profil/spieler/30638","Centre-Forward",28,"Italy",34,31,8,2204,2010
+"SS Lazio","Serie A","Italy","Lorenzo Cinque","https://www.transfermarkt.com/lorenzo-cinque/profil/spieler/127223","Centre-Forward",18,"Italy",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Christian Manfredini","https://www.transfermarkt.com/christian-manfredini/profil/spieler/5850","Left Winger",35,"Cote d'Ivoire",0,0,0,0,2010
+"SS Lazio","Serie A","Italy","Giuseppe Sculli","https://www.transfermarkt.com/giuseppe-sculli/profil/spieler/6046","Left Winger",29,"Italy",17,13,2,851,2010
+"SS Lazio","Serie A","Italy","Simone Del Nero","https://www.transfermarkt.com/simone-del-nero/profil/spieler/5982","Left Winger",28,"Italy",10,4,1,105,2010
+"Parma Calcio 1913","Serie B","Italy","Antonio Mirante","https://www.transfermarkt.com/antonio-mirante/profil/spieler/22141","Goalkeeper",26,"Italy",38,36,0,3180,2010
+"Parma Calcio 1913","Serie B","Italy","Antonio Santurro","https://www.transfermarkt.com/antonio-santurro/profil/spieler/130388","Goalkeeper",18,"Dominican Republic",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Nicola Pavarini","https://www.transfermarkt.com/nicola-pavarini/profil/spieler/28027","Goalkeeper",36,"Italy",39,5,0,480,2010
+"Parma Calcio 1913","Serie B","Italy","Stefano Russo","https://www.transfermarkt.com/stefano-russo/profil/spieler/121047","Goalkeeper",21,"Italy",2,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Davide Adorni","https://www.transfermarkt.com/davide-adorni/profil/spieler/163212","Centre-Back",17,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Andrea Rispoli","https://www.transfermarkt.com/andrea-rispoli/profil/spieler/74448","Right-Back",21,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Rolf Feltscher","https://www.transfermarkt.com/rolf-feltscher/profil/spieler/52590","Right-Back",19,"Venezuela",13,3,0,193,2010
+"Parma Calcio 1913","Serie B","Italy","Paolo Dellafiore","https://www.transfermarkt.com/paolo-dellafiore/profil/spieler/28935","Centre-Back",25,"Italy",19,2,0,122,2010
+"Parma Calcio 1913","Serie B","Italy","Luca Antonelli","https://www.transfermarkt.com/luca-antonelli/profil/spieler/45565","Left-Back",23,"Italy",12,12,0,1080,2010
+"Parma Calcio 1913","Serie B","Italy","Cristian Zaccardo","https://www.transfermarkt.com/cristian-zaccardo/profil/spieler/5993","Centre-Back",28,"Italy",38,36,3,3283,2010
+"Parma Calcio 1913","Serie B","Italy","Alessandro Lucarelli","https://www.transfermarkt.com/alessandro-lucarelli/profil/spieler/28022","Centre-Back",32,"Italy",35,34,1,3015,2010
+"Parma Calcio 1913","Serie B","Italy","Angelo","https://www.transfermarkt.com/angelo/profil/spieler/32966","Right-Back",29,"Brazil",27,21,0,1007,2010
+"Parma Calcio 1913","Serie B","Italy","Massimo Gobbi","https://www.transfermarkt.com/massimo-gobbi/profil/spieler/28020","Left-Back",29,"Italy",37,34,0,2572,2010
+"Parma Calcio 1913","Serie B","Italy","Francesco Modesto","https://www.transfermarkt.com/francesco-modesto/profil/spieler/22320","Left-Back",28,"Italy",22,16,1,1271,2010
+"Parma Calcio 1913","Serie B","Italy","Massimo Paci","https://www.transfermarkt.com/massimo-paci/profil/spieler/28026","Centre-Back",32,"Italy",33,21,0,1799,2010
+"Parma Calcio 1913","Serie B","Italy","Marco Pisano","https://www.transfermarkt.com/marco-pisano/profil/spieler/16901","Left-Back",28,"Italy",30,6,0,302,2010
+"Parma Calcio 1913","Serie B","Italy","Gabriel Paletta","https://www.transfermarkt.com/gabriel-paletta/profil/spieler/30767","Centre-Back",24,"Italy",37,28,0,2369,2010
+"Parma Calcio 1913","Serie B","Italy","Makris Petrozzi","https://www.transfermarkt.com/makris-petrozzi/profil/spieler/163228","Centre-Back",17,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Danilo Pereira","https://www.transfermarkt.com/danilo-pereira/profil/spieler/141050","Defensive Midfield",18,"Portugal",2,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Antonio Candreva","https://www.transfermarkt.com/antonio-candreva/profil/spieler/25488","Right Midfield",23,"Italy",37,33,3,2410,2010
+"Parma Calcio 1913","Serie B","Italy","Zé Eduardo","https://www.transfermarkt.com/ze-eduardo/profil/spieler/70203","Defensive Midfield",18,"Brazil",6,2,0,56,2010
+"Parma Calcio 1913","Serie B","Italy","Nwankwo Obiora","https://www.transfermarkt.com/nwankwo-obiora/profil/spieler/127769","Defensive Midfield",18,"Nigeria",4,1,0,4,2010
+"Parma Calcio 1913","Serie B","Italy","Alessandro De Vitis","https://www.transfermarkt.com/alessandro-de-vitis/profil/spieler/62725","Defensive Midfield",18,"Italy",1,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Matteo Mandorlini","https://www.transfermarkt.com/matteo-mandorlini/profil/spieler/37410","Central Midfield",21,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Stefano Morrone","https://www.transfermarkt.com/stefano-morrone/profil/spieler/6722","Central Midfield",31,"Italy",37,36,1,2728,2010
+"Parma Calcio 1913","Serie B","Italy","Blerim Dzemaili","https://www.transfermarkt.com/blerim-dzemaili/profil/spieler/9967","Central Midfield",24,"Switzerland",33,31,1,2339,2010
+"Parma Calcio 1913","Serie B","Italy","Daniele Galloppa","https://www.transfermarkt.com/daniele-galloppa/profil/spieler/22594","Central Midfield",25,"Italy",19,12,0,488,2010
+"Parma Calcio 1913","Serie B","Italy","Gabriele Paonessa","https://www.transfermarkt.com/gabriele-paonessa/profil/spieler/56875","Attacking Midfield",23,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Manuel Coppola","https://www.transfermarkt.com/manuel-coppola/profil/spieler/28851","Central Midfield",28,"Italy",1,1,0,5,2010
+"Parma Calcio 1913","Serie B","Italy","Filippo Savi","https://www.transfermarkt.com/filippo-savi/profil/spieler/25326","Central Midfield",23,"Italy",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Francesco Finocchio","https://www.transfermarkt.com/francesco-finocchio/profil/spieler/110930","Right Midfield",18,"Italy",1,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Francesco Valiani","https://www.transfermarkt.com/francesco-valiani/profil/spieler/41989","Central Midfield",29,"Italy",37,37,0,2939,2010
+"Parma Calcio 1913","Serie B","Italy","Grégoire Defrel","https://www.transfermarkt.com/gregoire-defrel/profil/spieler/163222","Centre-Forward",19,"France",1,1,0,9,2010
+"Parma Calcio 1913","Serie B","Italy","Nemanja Covic","https://www.transfermarkt.com/nemanja-covic/profil/spieler/128315","Centre-Forward",19,"Serbia",0,0,0,0,2010
+"Parma Calcio 1913","Serie B","Italy","Alberto Paloschi","https://www.transfermarkt.com/alberto-paloschi/profil/spieler/68306","Centre-Forward",20,"Italy",1,1,0,22,2010
+"Parma Calcio 1913","Serie B","Italy","Fernando Marqués","https://www.transfermarkt.com/fernando-marques/profil/spieler/25414","Right Winger",25,"Spain",15,14,0,1166,2010
+"Parma Calcio 1913","Serie B","Italy","Hernán Crespo","https://www.transfermarkt.com/hernan-crespo/profil/spieler/3410","Centre-Forward",34,"Argentina",34,31,11,1703,2010
+"Parma Calcio 1913","Serie B","Italy","Amauri","https://www.transfermarkt.com/amauri/profil/spieler/6234","Centre-Forward",30,"Italy",12,11,7,918,2010
+"Parma Calcio 1913","Serie B","Italy","Toni Calvo","https://www.transfermarkt.com/toni-calvo/profil/spieler/52063","Right Winger",23,"Spain",6,3,0,24,2010
+"Parma Calcio 1913","Serie B","Italy","Sebastian Giovinco","https://www.transfermarkt.com/sebastian-giovinco/profil/spieler/52312","Second Striker",23,"Italy",33,32,7,2455,2010
+"Parma Calcio 1913","Serie B","Italy","Filipe Oliveira","https://www.transfermarkt.com/filipe-oliveira/profil/spieler/3178","Right Winger",26,"Portugal",6,1,0,23,2010
+"Parma Calcio 1913","Serie B","Italy","Raffaele Palladino","https://www.transfermarkt.com/raffaele-palladino/profil/spieler/28855","Left Winger",26,"Italy",14,12,3,673,2010
+"Parma Calcio 1913","Serie B","Italy","Valeri Bozhinov","https://www.transfermarkt.com/valeri-bozhinov/profil/spieler/4176","Centre-Forward",24,"Bulgaria",35,33,3,1462,2010
+"Cagliari Calcio","Serie A","Italy","Federico Marchetti","https://www.transfermarkt.com/federico-marchetti/profil/spieler/22318","Goalkeeper",27,"Italy",1,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Marco Ruzittu","https://www.transfermarkt.com/marco-ruzittu/profil/spieler/119376","Goalkeeper",19,"Italy",1,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Michael Agazzi","https://www.transfermarkt.com/michael-agazzi/profil/spieler/28862","Goalkeeper",25,"Italy",40,38,0,3383,2010
+"Cagliari Calcio","Serie A","Italy","Ivan Pelizzoli","https://www.transfermarkt.com/ivan-pelizzoli/profil/spieler/5936","Goalkeeper",29,"Italy",38,3,0,217,2010
+"Cagliari Calcio","Serie A","Italy","Mikhail Sivakov","https://www.transfermarkt.com/mikhail-sivakov/profil/spieler/36364","Centre-Back",22,"Belarus",9,3,0,122,2010
+"Cagliari Calcio","Serie A","Italy","Paolo Dametto","https://www.transfermarkt.com/paolo-dametto/profil/spieler/136099","Centre-Back",17,"Italy",4,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Dario Biasi","https://www.transfermarkt.com/dario-biasi/profil/spieler/21856","Centre-Back",30,"Italy",8,1,0,90,2010
+"Cagliari Calcio","Serie A","Italy","Lorenzo Ariaudo","https://www.transfermarkt.com/lorenzo-ariaudo/profil/spieler/84921","Centre-Back",21,"Italy",39,17,0,1157,2010
+"Cagliari Calcio","Serie A","Italy","Davide Astori","https://www.transfermarkt.com/davide-astori/profil/spieler/87210","Centre-Back",23,"Italy",38,36,0,3240,2010
+"Cagliari Calcio","Serie A","Italy","Francesco Pisano","https://www.transfermarkt.com/francesco-pisano/profil/spieler/35733","Right-Back",24,"Italy",22,18,0,1338,2010
+"Cagliari Calcio","Serie A","Italy","Michele Canini","https://www.transfermarkt.com/michele-canini/profil/spieler/19438","Centre-Back",25,"Italy",39,36,2,3240,2010
+"Cagliari Calcio","Serie A","Italy","Gabriele Perico","https://www.transfermarkt.com/gabriele-perico/profil/spieler/28817","Right-Back",26,"Italy",38,28,0,1968,2010
+"Cagliari Calcio","Serie A","Italy","Daniele Magliocchetti","https://www.transfermarkt.com/daniele-magliocchetti/profil/spieler/44290","Centre-Back",24,"Italy",28,2,0,180,2010
+"Cagliari Calcio","Serie A","Italy","Bruno Martignoni","https://www.transfermarkt.com/bruno-martignoni/profil/spieler/109715","Centre-Back",17,"Switzerland",2,1,0,90,2010
+"Cagliari Calcio","Serie A","Italy","Alessandro Agostini","https://www.transfermarkt.com/alessandro-agostini/profil/spieler/17171","Left-Back",30,"Italy",37,35,0,3040,2010
+"Cagliari Calcio","Serie A","Italy","Nicolò Napoli","https://www.transfermarkt.com/nicolo-napoli/profil/spieler/223352","Right-Back",48,"Italy",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Vittorio Pusceddu","https://www.transfermarkt.com/vittorio-pusceddu/profil/spieler/223354","Left-Back",46,"Italy",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Francesco Bellucci","https://www.transfermarkt.com/francesco-bellucci/profil/spieler/223334","Centre-Back",37,"Italy",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Simone Veronese","https://www.transfermarkt.com/simone-veronese/profil/spieler/223363","Right-Back",35,"Italy",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Radja Nainggolan","https://www.transfermarkt.com/radja-nainggolan/profil/spieler/41982","Central Midfield",22,"Belgium",38,38,2,2981,2010
+"Cagliari Calcio","Serie A","Italy","Pablo Ceppelini","https://www.transfermarkt.com/pablo-ceppelini/profil/spieler/159773","Attacking Midfield",18,"Uruguay",9,3,0,16,2010
+"Cagliari Calcio","Serie A","Italy","Daniele Giorico","https://www.transfermarkt.com/daniele-giorico/profil/spieler/158043","Defensive Midfield",18,"Italy",2,1,0,73,2010
+"Cagliari Calcio","Serie A","Italy","Andrea Lazzari","https://www.transfermarkt.com/andrea-lazzari/profil/spieler/19442","Central Midfield",25,"Italy",32,32,1,1923,2010
+"Cagliari Calcio","Serie A","Italy","Ignazio Carta","https://www.transfermarkt.com/ignazio-carta/profil/spieler/125009","Central Midfield",19,"Italy",1,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Daniele Conti","https://www.transfermarkt.com/daniele-conti/profil/spieler/20730","Defensive Midfield",31,"Italy",31,29,5,2350,2010
+"Cagliari Calcio","Serie A","Italy","Andrea Cossu","https://www.transfermarkt.com/andrea-cossu/profil/spieler/21861","Attacking Midfield",30,"Italy",37,36,4,2970,2010
+"Cagliari Calcio","Serie A","Italy","Davide Biondini","https://www.transfermarkt.com/davide-biondini/profil/spieler/22186","Central Midfield",27,"Italy",39,39,1,3259,2010
+"Cagliari Calcio","Serie A","Italy","Simon Laner","https://www.transfermarkt.com/simon-laner/profil/spieler/44336","Central Midfield",26,"Italy",32,20,0,484,2010
+"Cagliari Calcio","Serie A","Italy","Simone Missiroli","https://www.transfermarkt.com/simone-missiroli/profil/spieler/35747","Central Midfield",24,"Italy",17,16,0,691,2010
+"Cagliari Calcio","Serie A","Italy","Alex Pinardi","https://www.transfermarkt.com/alex-pinardi/profil/spieler/19448","Defensive Midfield",29,"Italy",11,8,0,278,2010
+"Cagliari Calcio","Serie A","Italy","Nicola Ancis","https://www.transfermarkt.com/nicola-ancis/profil/spieler/223332","midfield",36,"Italy",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Daniele Ragatzu","https://www.transfermarkt.com/daniele-ragatzu/profil/spieler/66360","Second Striker",18,"Italy",32,19,1,555,2010
+"Cagliari Calcio","Serie A","Italy","Nenê","https://www.transfermarkt.com/nene/profil/spieler/45717","Centre-Forward",26,"Brazil",29,29,8,1780,2010
+"Cagliari Calcio","Serie A","Italy","Robert Acquafresca","https://www.transfermarkt.com/robert-acquafresca/profil/spieler/35703","Centre-Forward",22,"Italy",40,39,9,2451,2010
+"Cagliari Calcio","Serie A","Italy","Mattia Gallon","https://www.transfermarkt.com/mattia-gallon/profil/spieler/119374","Left Winger",18,"Italy",3,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Jeda","https://www.transfermarkt.com/jeda/profil/spieler/21773","Second Striker",31,"Brazil",0,0,0,0,2010
+"Cagliari Calcio","Serie A","Italy","Alessandro Matri","https://www.transfermarkt.com/alessandro-matri/profil/spieler/40660","Centre-Forward",25,"Italy",23,23,11,1718,2010
+"Cesena FC","Serie C - Girone B","Italy","Matteo Grandi","https://www.transfermarkt.com/matteo-grandi/profil/spieler/155038","Goalkeeper",17,"Italy",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Aldo Simoncini","https://www.transfermarkt.com/aldo-simoncini/profil/spieler/41146","Goalkeeper",23,"San Marino",1,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Francesco Antonioli","https://www.transfermarkt.com/francesco-antonioli/profil/spieler/5935","Goalkeeper",40,"Italy",38,37,0,3330,2010
+"Cesena FC","Serie C - Girone B","Italy","Diego Cavalieri","https://www.transfermarkt.com/diego-cavalieri/profil/spieler/53231","Goalkeeper",27,"Brazil",16,1,0,90,2010
+"Cesena FC","Serie C - Girone B","Italy","Alex Calderoni","https://www.transfermarkt.com/alex-calderoni/profil/spieler/19452","Goalkeeper",34,"Italy",19,1,0,82,2010
+"Cesena FC","Serie C - Girone B","Italy","Alex Teodorani","https://www.transfermarkt.com/alex-teodorani/profil/spieler/84828","Goalkeeper",18,"Italy",4,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Yuto Nagatomo","https://www.transfermarkt.com/yuto-nagatomo/profil/spieler/79522","Left-Back",23,"Japan",16,16,0,1440,2010
+"Cesena FC","Serie C - Girone B","Italy","Yohan Benalouane","https://www.transfermarkt.com/yohan-benalouane/profil/spieler/50477","Centre-Back",23,"Tunisia",29,16,0,1093,2010
+"Cesena FC","Serie C - Girone B","Italy","Ezequiel Schelotto","https://www.transfermarkt.com/ezequiel-schelotto/profil/spieler/119164","Right-Back",21,"Italy",19,18,1,1003,2010
+"Cesena FC","Serie C - Girone B","Italy","Felipe","https://www.transfermarkt.com/felipe/profil/spieler/17127","Centre-Back",25,"Brazil",9,7,0,471,2010
+"Cesena FC","Serie C - Girone B","Italy","Paolo Dellafiore","https://www.transfermarkt.com/paolo-dellafiore/profil/spieler/28935","Centre-Back",25,"Italy",14,7,0,342,2010
+"Cesena FC","Serie C - Girone B","Italy","Fabio Cusaro","https://www.transfermarkt.com/fabio-cusaro/profil/spieler/74037","Centre-Back",25,"Italy",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Maximiliano Pellegrino","https://www.transfermarkt.com/maximiliano-pellegrino/profil/spieler/26447","Centre-Back",30,"Argentina",37,31,0,2412,2010
+"Cesena FC","Serie C - Girone B","Italy","Maurizio Lauro","https://www.transfermarkt.com/maurizio-lauro/profil/spieler/28823","Centre-Back",29,"Italy",34,31,0,2059,2010
+"Cesena FC","Serie C - Girone B","Italy","Ivan Fatic","https://www.transfermarkt.com/ivan-fatic/profil/spieler/68078","Centre-Back",21,"Montenegro",7,2,0,34,2010
+"Cesena FC","Serie C - Girone B","Italy","Steve von Bergen","https://www.transfermarkt.com/steve-von-bergen/profil/spieler/4793","Centre-Back",27,"Switzerland",35,35,0,3043,2010
+"Cesena FC","Serie C - Girone B","Italy","Martin Petras","https://www.transfermarkt.com/martin-petras/profil/spieler/9764","Right-Back",30,"Slovakia",1,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Emanuele Fonte","https://www.transfermarkt.com/emanuele-fonte/profil/spieler/149234","Centre-Back",17,"Italy",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Davide Santon","https://www.transfermarkt.com/davide-santon/profil/spieler/84344","Left-Back",19,"Italy",13,11,0,851,2010
+"Cesena FC","Serie C - Girone B","Italy","Luca Ceccarelli","https://www.transfermarkt.com/luca-ceccarelli/profil/spieler/41994","Right-Back",27,"Italy",36,32,1,2361,2010
+"Cesena FC","Serie C - Girone B","Italy","Alberto Galuppo","https://www.transfermarkt.com/alberto-galuppo/profil/spieler/25320","Centre-Back",24,"Italy",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Panagiotis Tachtsidis","https://www.transfermarkt.com/panagiotis-tachtsidis/profil/spieler/62415","Defensive Midfield",19,"Greece",6,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Nicolás Gorobsov","https://www.transfermarkt.com/nicolas-gorobsov/profil/spieler/75611","Defensive Midfield",20,"Argentina",10,2,0,180,2010
+"Cesena FC","Serie C - Girone B","Italy","David Meza Colli","https://www.transfermarkt.com/david-meza-colli/profil/spieler/54328","Defensive Midfield",21,"Paraguay",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Stephen Appiah","https://www.transfermarkt.com/stephen-appiah/profil/spieler/5975","Defensive Midfield",29,"Ghana",30,15,0,1109,2010
+"Cesena FC","Serie C - Girone B","Italy","Fabio Caserta","https://www.transfermarkt.com/fabio-caserta/profil/spieler/28832","Central Midfield",31,"Italy",28,26,1,1645,2010
+"Cesena FC","Serie C - Girone B","Italy","Gabriele Paonessa","https://www.transfermarkt.com/gabriele-paonessa/profil/spieler/56875","Attacking Midfield",23,"Italy",2,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Luis Jiménez","https://www.transfermarkt.com/luis-jimenez/profil/spieler/21821","Attacking Midfield",26,"Chile",35,32,9,2574,2010
+"Cesena FC","Serie C - Girone B","Italy","Giuseppe Colucci","https://www.transfermarkt.com/giuseppe-colucci/profil/spieler/6717","Central Midfield",29,"Italy",34,33,1,2757,2010
+"Cesena FC","Serie C - Girone B","Italy","Marco Parolo","https://www.transfermarkt.com/marco-parolo/profil/spieler/84545","Central Midfield",25,"Italy",38,38,5,3254,2010
+"Cesena FC","Serie C - Girone B","Italy","Giuseppe De Feudis","https://www.transfermarkt.com/giuseppe-de-feudis/profil/spieler/24305","Defensive Midfield",26,"Italy",1,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Jusu Karvonen","https://www.transfermarkt.com/jusu-karvonen/profil/spieler/103392","Central Midfield",17,"Finland",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Emanuele Giaccherini","https://www.transfermarkt.com/emanuele-giaccherini/profil/spieler/84835","Left Midfield",25,"Italy",36,36,7,2908,2010
+"Cesena FC","Serie C - Girone B","Italy","Paolo Sammarco","https://www.transfermarkt.com/paolo-sammarco/profil/spieler/7101","Central Midfield",27,"Italy",17,15,1,841,2010
+"Cesena FC","Serie C - Girone B","Italy","Luigi Piangerelli","https://www.transfermarkt.com/luigi-piangerelli/profil/spieler/6440","Defensive Midfield",36,"Italy",22,6,0,123,2010
+"Cesena FC","Serie C - Girone B","Italy","Odion Ighalo","https://www.transfermarkt.com/odion-ighalo/profil/spieler/62121","Centre-Forward",21,"Nigeria",7,4,0,115,2010
+"Cesena FC","Serie C - Girone B","Italy","Roope Riski","https://www.transfermarkt.com/roope-riski/profil/spieler/107577","Centre-Forward",18,"Finland",2,1,0,21,2010
+"Cesena FC","Serie C - Girone B","Italy","Alejandro Rodríguez","https://www.transfermarkt.com/alejandro-rodriguez/profil/spieler/169533","Centre-Forward",18,"Spain",2,1,0,12,2010
+"Cesena FC","Serie C - Girone B","Italy","Igor Budan","https://www.transfermarkt.com/igor-budan/profil/spieler/19437","Centre-Forward",30,"Croatia",20,17,1,718,2010
+"Cesena FC","Serie C - Girone B","Italy","Dominique Malonga","https://www.transfermarkt.com/dominique-malonga/profil/spieler/45532","Centre-Forward",21,"Congo",35,23,2,777,2010
+"Cesena FC","Serie C - Girone B","Italy","Franco Chiavarini","https://www.transfermarkt.com/franco-chiavarini/profil/spieler/84834","Centre-Forward",30,"Argentina",0,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Daniele Ferri","https://www.transfermarkt.com/daniele-ferri/profil/spieler/157298","Centre-Forward",18,"Italy",1,0,0,0,2010
+"Cesena FC","Serie C - Girone B","Italy","Erjon Bogdani","https://www.transfermarkt.com/erjon-bogdani/profil/spieler/6075","Centre-Forward",33,"Albania",37,35,8,2461,2010
+"Cesena FC","Serie C - Girone B","Italy","Alessandro Rosina","https://www.transfermarkt.com/alessandro-rosina/profil/spieler/16902","Right Winger",26,"Italy",11,10,1,345,2010
+"Cesena FC","Serie C - Girone B","Italy","Davide Sinigaglia","https://www.transfermarkt.com/davide-sinigaglia/profil/spieler/28825","Centre-Forward",28,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Giacomo Venturi","https://www.transfermarkt.com/giacomo-venturi/profil/spieler/120236","Goalkeeper",18,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Emiliano Viviano","https://www.transfermarkt.com/emiliano-viviano/profil/spieler/24316","Goalkeeper",24,"Italy",38,38,0,3406,2010
+"Bologna FC 1909","Serie A","Italy","Cristiano Lupatelli","https://www.transfermarkt.com/cristiano-lupatelli/profil/spieler/5908","Goalkeeper",32,"Italy",40,4,0,284,2010
+"Bologna FC 1909","Serie A","Italy","Filippo Lombardi","https://www.transfermarkt.com/filippo-lombardi/profil/spieler/134382","Goalkeeper",20,"Italy",3,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Juan Cruz","https://www.transfermarkt.com/juan-cruz/profil/spieler/169497","Left-Back",17,"Spain",2,1,0,90,2010
+"Bologna FC 1909","Serie A","Italy","Nemanja Mitrovic","https://www.transfermarkt.com/nemanja-mitrovic/profil/spieler/98844","Centre-Back",17,"Slovenia",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Andrea Ingegneri","https://www.transfermarkt.com/andrea-ingegneri/profil/spieler/163298","Centre-Back",18,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Archimede Morleo","https://www.transfermarkt.com/archimede-morleo/profil/spieler/85066","Left-Back",26,"Italy",18,10,0,700,2010
+"Bologna FC 1909","Serie A","Italy","Miguel Britos","https://www.transfermarkt.com/miguel-britos/profil/spieler/76799","Centre-Back",24,"Uruguay",37,33,3,2915,2010
+"Bologna FC 1909","Serie A","Italy","György Garics","https://www.transfermarkt.com/gyorgy-garics/profil/spieler/2926","Right-Back",26,"Austria",23,16,0,1317,2010
+"Bologna FC 1909","Serie A","Italy","Daniele Portanova","https://www.transfermarkt.com/daniele-portanova/profil/spieler/21696","Centre-Back",31,"Italy",34,34,1,3035,2010
+"Bologna FC 1909","Serie A","Italy","Andrea Esposito","https://www.transfermarkt.com/andrea-esposito/profil/spieler/35849","Centre-Back",24,"Italy",22,13,0,976,2010
+"Bologna FC 1909","Serie A","Italy","Vangelis Moras","https://www.transfermarkt.com/vangelis-moras/profil/spieler/9850","Centre-Back",28,"Greece",36,21,0,1468,2010
+"Bologna FC 1909","Serie A","Italy","Matteo Rubin","https://www.transfermarkt.com/matteo-rubin/profil/spieler/55001","Left-Back",22,"Italy",34,30,0,2541,2010
+"Bologna FC 1909","Serie A","Italy","Nicolò Cherubin","https://www.transfermarkt.com/nicolo-cherubin/profil/spieler/56854","Centre-Back",23,"Italy",28,15,0,1147,2010
+"Bologna FC 1909","Serie A","Italy","Riccardo Regno","https://www.transfermarkt.com/riccardo-regno/profil/spieler/130503","Centre-Back",17,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Albin Ekdal","https://www.transfermarkt.com/albin-ekdal/profil/spieler/49275","Defensive Midfield",20,"Sweden",24,23,1,1555,2010
+"Bologna FC 1909","Serie A","Italy","Ivan Radovanovic","https://www.transfermarkt.com/ivan-radovanovic/profil/spieler/46105","Defensive Midfield",21,"Serbia",21,12,1,544,2010
+"Bologna FC 1909","Serie A","Italy","Federico Casarini","https://www.transfermarkt.com/federico-casarini/profil/spieler/56853","Central Midfield",20,"Italy",39,35,0,2120,2010
+"Bologna FC 1909","Serie A","Italy","Gastón Ramírez","https://www.transfermarkt.com/gaston-ramirez/profil/spieler/123742","Attacking Midfield",19,"Uruguay",31,27,7,1715,2010
+"Bologna FC 1909","Serie A","Italy","Bruno Montelongo","https://www.transfermarkt.com/bruno-montelongo/profil/spieler/74257","Right Midfield",22,"Uruguay",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Rene Krhin","https://www.transfermarkt.com/rene-krhin/profil/spieler/73092","Defensive Midfield",20,"Slovenia",11,5,0,304,2010
+"Bologna FC 1909","Serie A","Italy","Massimo Mutarelli","https://www.transfermarkt.com/massimo-mutarelli/profil/spieler/20982","Central Midfield",32,"Italy",25,18,0,837,2010
+"Bologna FC 1909","Serie A","Italy","Francesco Della Rocca","https://www.transfermarkt.com/francesco-della-rocca/profil/spieler/56889","Central Midfield",22,"Italy",29,27,0,2012,2010
+"Bologna FC 1909","Serie A","Italy","Andrea Pisanu","https://www.transfermarkt.com/andrea-pisanu/profil/spieler/25323","Right Midfield",28,"Italy",1,1,0,19,2010
+"Bologna FC 1909","Serie A","Italy","Diego Pérez","https://www.transfermarkt.com/diego-perez/profil/spieler/20378","Defensive Midfield",30,"Uruguay",28,28,0,2364,2010
+"Bologna FC 1909","Serie A","Italy","Antonio Buscè","https://www.transfermarkt.com/antonio-busce/profil/spieler/17174","Right Midfield",34,"Italy",26,17,0,998,2010
+"Bologna FC 1909","Serie A","Italy","Gaby Mudingayi","https://www.transfermarkt.com/gaby-mudingayi/profil/spieler/13749","Defensive Midfield",28,"Belgium",33,32,1,2685,2010
+"Bologna FC 1909","Serie A","Italy","Jacopo Mantovani","https://www.transfermarkt.com/jacopo-mantovani/profil/spieler/163306","Left Midfield",19,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Nicola Capellini","https://www.transfermarkt.com/nicola-capellini/profil/spieler/163281","Attacking Midfield",19,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Manuel Gavilán","https://www.transfermarkt.com/manuel-gavilan/profil/spieler/67537","Centre-Forward",18,"Spain",2,1,0,13,2010
+"Bologna FC 1909","Serie A","Italy","Luca Siligardi","https://www.transfermarkt.com/luca-siligardi/profil/spieler/86079","Right Winger",22,"Italy",19,14,0,580,2010
+"Bologna FC 1909","Serie A","Italy","Daniele Paponi","https://www.transfermarkt.com/daniele-paponi/profil/spieler/35853","Centre-Forward",22,"Italy",24,16,2,658,2010
+"Bologna FC 1909","Serie A","Italy","Marco Di Vaio","https://www.transfermarkt.com/marco-di-vaio/profil/spieler/4170","Centre-Forward",33,"Italy",39,39,19,3452,2010
+"Bologna FC 1909","Serie A","Italy","Henry Giménez","https://www.transfermarkt.com/henry-gimenez/profil/spieler/74253","Centre-Forward",24,"Uruguay",32,29,4,1107,2010
+"Bologna FC 1909","Serie A","Italy","Riccardo Meggiorini","https://www.transfermarkt.com/riccardo-meggiorini/profil/spieler/28936","Centre-Forward",24,"Italy",35,32,3,1712,2010
+"Bologna FC 1909","Serie A","Italy","Marco Bernacci","https://www.transfermarkt.com/marco-bernacci/profil/spieler/24292","Centre-Forward",26,"Italy",0,0,0,0,2010
+"Bologna FC 1909","Serie A","Italy","Alessandro Elia","https://www.transfermarkt.com/alessandro-elia/profil/spieler/56863","Centre-Forward",20,"Italy",0,0,0,0,2010
+"Catania FC","Serie C - Girone C","Italy","Mariano Andújar","https://www.transfermarkt.com/mariano-andujar/profil/spieler/35491","Goalkeeper",26,"Argentina",37,37,0,3330,2010
+"Catania FC","Serie C - Girone C","Italy","Tomas Kosicky","https://www.transfermarkt.com/tomas-kosicky/profil/spieler/78496","Goalkeeper",24,"Slovakia",12,0,0,0,2010
+"Catania FC","Serie C - Girone C","Italy","Andrea Campagnolo","https://www.transfermarkt.com/andrea-campagnolo/profil/spieler/21913","Goalkeeper",32,"Italy",32,4,0,390,2010
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Bellusci","https://www.transfermarkt.com/giuseppe-bellusci/profil/spieler/57354","Centre-Back",20,"Italy",9,9,0,526,2010
+"Catania FC","Serie C - Girone C","Italy","Ezequiel Schelotto","https://www.transfermarkt.com/ezequiel-schelotto/profil/spieler/119164","Right-Back",21,"Italy",15,14,1,823,2010
+"Catania FC","Serie C - Girone C","Italy","Gerardo Strumbo","https://www.transfermarkt.com/gerardo-strumbo/profil/spieler/110316","Centre-Back",19,"Italy",1,1,0,1,2010
+"Catania FC","Serie C - Girone C","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",26,"Italy",22,21,0,1759,2010
+"Catania FC","Serie C - Girone C","Italy","Nicolás Spolli","https://www.transfermarkt.com/nicolas-spolli/profil/spieler/51186","Centre-Back",27,"Argentina",28,27,1,2235,2010
+"Catania FC","Serie C - Girone C","Italy","Matías Silvestre","https://www.transfermarkt.com/matias-silvestre/profil/spieler/20003","Centre-Back",25,"Argentina",39,38,6,3325,2010
+"Catania FC","Serie C - Girone C","Italy","Giovanni Marchese","https://www.transfermarkt.com/giovanni-marchese/profil/spieler/21887","Left-Back",25,"Italy",26,15,0,1300,2010
+"Catania FC","Serie C - Girone C","Italy","Blazej Augustyn","https://www.transfermarkt.com/blazej-augustyn/profil/spieler/42029","Centre-Back",22,"Poland",14,7,0,491,2010
+"Catania FC","Serie C - Girone C","Italy","Pablo Álvarez","https://www.transfermarkt.com/pablo-alvarez/profil/spieler/55993","Right-Back",26,"Argentina",33,25,0,1905,2010
+"Catania FC","Serie C - Girone C","Italy","Christian Terlizzi","https://www.transfermarkt.com/christian-terlizzi/profil/spieler/20941","Centre-Back",30,"Italy",27,14,2,1097,2010
+"Catania FC","Serie C - Girone C","Italy","Ciro Capuano","https://www.transfermarkt.com/ciro-capuano/profil/spieler/38584","Centre-Back",28,"Italy",26,23,1,1859,2010
+"Catania FC","Serie C - Girone C","Italy","Marco Cuomo","https://www.transfermarkt.com/marco-cuomo/profil/spieler/130484","Defensive Midfield",19,"Italy",3,0,0,0,2010
+"Catania FC","Serie C - Girone C","Italy","Cristian Llama","https://www.transfermarkt.com/cristian-llama/profil/spieler/30882","Attacking Midfield",24,"Argentina",19,16,1,599,2010
+"Catania FC","Serie C - Girone C","Italy","Simone Pesce","https://www.transfermarkt.com/simone-pesce/profil/spieler/41312","Central Midfield",27,"Italy",21,11,3,615,2010
+"Catania FC","Serie C - Girone C","Italy","Gennaro Delvecchio","https://www.transfermarkt.com/gennaro-delvecchio/profil/spieler/22080","Central Midfield",32,"Italy",17,10,0,385,2010
+"Catania FC","Serie C - Girone C","Italy","Ezequiel Carboni","https://www.transfermarkt.com/ezequiel-carboni/profil/spieler/31126","Defensive Midfield",31,"Argentina",33,29,0,2082,2010
+"Catania FC","Serie C - Girone C","Italy","Pablo Ledesma","https://www.transfermarkt.com/pablo-ledesma/profil/spieler/19976","Central Midfield",26,"Argentina",34,32,2,2253,2010
+"Catania FC","Serie C - Girone C","Italy","Francesco Lodi","https://www.transfermarkt.com/francesco-lodi/profil/spieler/6033","Defensive Midfield",26,"Italy",16,16,3,947,2010
+"Catania FC","Serie C - Girone C","Italy","Mariano Izco","https://www.transfermarkt.com/mariano-izco/profil/spieler/30853","Central Midfield",27,"Argentina",22,19,0,1067,2010
+"Catania FC","Serie C - Girone C","Italy","Raphael Martinho","https://www.transfermarkt.com/raphael-martinho/profil/spieler/149946","Left Midfield",22,"Brazil",22,14,1,707,2010
+"Catania FC","Serie C - Girone C","Italy","Fabio Sciacca","https://www.transfermarkt.com/fabio-sciacca/profil/spieler/105625","Central Midfield",21,"Italy",12,6,0,438,2010
+"Catania FC","Serie C - Girone C","Italy","Marco Biagianti","https://www.transfermarkt.com/marco-biagianti/profil/spieler/47646","Defensive Midfield",26,"Italy",17,15,0,1286,2010
+"Catania FC","Serie C - Girone C","Italy","Papu Gómez","https://www.transfermarkt.com/papu-gomez/profil/spieler/20005","Left Winger",22,"Argentina",39,37,4,2580,2010
+"Catania FC","Serie C - Girone C","Italy","Mirco Antenucci","https://www.transfermarkt.com/mirco-antenucci/profil/spieler/83458","Centre-Forward",25,"Italy",21,17,3,648,2010
+"Catania FC","Serie C - Girone C","Italy","Gonzalo Bergessio","https://www.transfermarkt.com/gonzalo-bergessio/profil/spieler/52328","Centre-Forward",25,"Argentina",13,13,5,1057,2010
+"Catania FC","Serie C - Girone C","Italy","Takayuki Morimoto","https://www.transfermarkt.com/takayuki-morimoto/profil/spieler/42417","Centre-Forward",22,"Japan",26,13,2,572,2010
+"Catania FC","Serie C - Girone C","Italy","Gianvito Plasmati","https://www.transfermarkt.com/gianvito-plasmati/profil/spieler/44116","Centre-Forward",27,"Italy",0,0,0,0,2010
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Mascara","https://www.transfermarkt.com/giuseppe-mascara/profil/spieler/22085","Second Striker",30,"Italy",21,19,1,1451,2010
+"Catania FC","Serie C - Girone C","Italy","Pablo Barrientos","https://www.transfermarkt.com/pablo-barrientos/profil/spieler/19946","Right Winger",25,"Argentina",2,2,0,210,2010
+"Catania FC","Serie C - Girone C","Italy","Maxi López","https://www.transfermarkt.com/maxi-lopez/profil/spieler/26263","Centre-Forward",26,"Argentina",38,37,10,2934,2010
+"Catania FC","Serie C - Girone C","Italy","Adrián Ricchiuti","https://www.transfermarkt.com/adrian-ricchiuti/profil/spieler/30654","Second Striker",32,"Argentina",36,31,1,1868,2010
+"Catania FC","Serie C - Girone C","Italy","Alessandro Malafronte","https://www.transfermarkt.com/alessandro-malafronte/profil/spieler/130494","Centre-Forward",19,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Pietro Perina","https://www.transfermarkt.com/pietro-perina/profil/spieler/163315","Goalkeeper",18,"Italy",1,0,0,0,2010
+"SSC Bari","Serie B","Italy","Daniele Padelli","https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807","Goalkeeper",24,"Italy",41,5,0,450,2010
+"SSC Bari","Serie B","Italy","Jean-François Gillet","https://www.transfermarkt.com/jean-francois-gillet/profil/spieler/22149","Goalkeeper",31,"Belgium",38,36,0,3240,2010
+"SSC Bari","Serie B","Italy","Mauro Boerchio","https://www.transfermarkt.com/mauro-boerchio/profil/spieler/104128","Goalkeeper",20,"Italy",2,0,0,0,2010
+"SSC Bari","Serie B","Italy","Kamil Glik","https://www.transfermarkt.com/kamil-glik/profil/spieler/46552","Centre-Back",22,"Poland",18,17,0,1426,2010
+"SSC Bari","Serie B","Italy","Andrea Masiello","https://www.transfermarkt.com/andrea-masiello/profil/spieler/34198","Centre-Back",24,"Italy",39,39,2,3355,2010
+"SSC Bari","Serie B","Italy","Michele Rinaldi","https://www.transfermarkt.com/michele-rinaldi/profil/spieler/44666","Centre-Back",23,"Italy",21,6,0,363,2010
+"SSC Bari","Serie B","Italy","Marco Rossi","https://www.transfermarkt.com/marco-rossi/profil/spieler/33605","Centre-Back",22,"Italy",38,33,0,2683,2010
+"SSC Bari","Serie B","Italy","Nicola Belmonte","https://www.transfermarkt.com/nicola-belmonte/profil/spieler/43082","Centre-Back",23,"Italy",31,28,0,2263,2010
+"SSC Bari","Serie B","Italy","Salvatore Masiello","https://www.transfermarkt.com/salvatore-masiello/profil/spieler/21769","Left-Back",28,"Italy",8,7,0,478,2010
+"SSC Bari","Serie B","Italy","Alessandro Parisi","https://www.transfermarkt.com/alessandro-parisi/profil/spieler/19132","Left-Back",33,"Italy",32,29,3,2424,2010
+"SSC Bari","Serie B","Italy","Gianluca Galasso","https://www.transfermarkt.com/gianluca-galasso/profil/spieler/38648","Right-Back",26,"Italy",11,5,0,343,2010
+"SSC Bari","Serie B","Italy","Dario Cascione","https://www.transfermarkt.com/dario-cascione/profil/spieler/136092","Left-Back",17,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Vincenzo De Sario","https://www.transfermarkt.com/vincenzo-de-sario/profil/spieler/163262","Centre-Back",17,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Ernesto Dispoto","https://www.transfermarkt.com/ernesto-dispoto/profil/spieler/163265","Right-Back",17,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Luigi Monopoli","https://www.transfermarkt.com/luigi-monopoli/profil/spieler/146489","Centre-Back",18,"Italy",1,0,0,0,2010
+"SSC Bari","Serie B","Italy","Andrea Raggi","https://www.transfermarkt.com/andrea-raggi/profil/spieler/28845","Centre-Back",26,"Italy",25,18,0,1411,2010
+"SSC Bari","Serie B","Italy","Marco Crimi","https://www.transfermarkt.com/marco-crimi/profil/spieler/149526","Central Midfield",20,"Italy",15,5,0,123,2010
+"SSC Bari","Serie B","Italy","Paul Codrea","https://www.transfermarkt.com/paul-codrea/profil/spieler/16138","Central Midfield",29,"Romania",14,6,0,379,2010
+"SSC Bari","Serie B","Italy","Sergio Almirón","https://www.transfermarkt.com/sergio-almiron/profil/spieler/5890","Central Midfield",29,"Argentina",27,25,0,1842,2010
+"SSC Bari","Serie B","Italy","Massimo Donati","https://www.transfermarkt.com/massimo-donati/profil/spieler/5870","Defensive Midfield",29,"Italy",38,32,1,2300,2010
+"SSC Bari","Serie B","Italy","Nico Pulzetti","https://www.transfermarkt.com/nico-pulzetti/profil/spieler/38602","Central Midfield",26,"Italy",23,18,1,1104,2010
+"SSC Bari","Serie B","Italy","Alessandro Gazzi","https://www.transfermarkt.com/alessandro-gazzi/profil/spieler/28827","Defensive Midfield",27,"Italy",39,33,1,2741,2010
+"SSC Bari","Serie B","Italy","Kamil Kopunek","https://www.transfermarkt.com/kamil-kopunek/profil/spieler/40058","Defensive Midfield",26,"Slovakia",11,5,0,346,2010
+"SSC Bari","Serie B","Italy","Ivan Rajcic","https://www.transfermarkt.com/ivan-rajcic/profil/spieler/29566","Central Midfield",29,"Croatia",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Simone Bentivoglio","https://www.transfermarkt.com/simone-bentivoglio/profil/spieler/34909","Central Midfield",25,"Italy",16,16,2,1361,2010
+"SSC Bari","Serie B","Italy","Antonio Cilfone","https://www.transfermarkt.com/antonio-cilfone/profil/spieler/170645","Central Midfield",18,"Italy",2,0,0,0,2010
+"SSC Bari","Serie B","Italy","Antonino Di Leva","https://www.transfermarkt.com/antonino-di-leva/profil/spieler/163263","Attacking Midfield",19,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Édgar Álvarez","https://www.transfermarkt.com/edgar-alvarez/profil/spieler/28006","Right Midfield",30,"Honduras",36,32,1,2120,2010
+"SSC Bari","Serie B","Italy","Francesco Caputo","https://www.transfermarkt.com/francesco-caputo/profil/spieler/84765","Centre-Forward",22,"Italy",18,15,2,777,2010
+"SSC Bari","Serie B","Italy","Stefano Okaka","https://www.transfermarkt.com/stefano-okaka/profil/spieler/35249","Centre-Forward",20,"Italy",12,10,2,673,2010
+"SSC Bari","Serie B","Italy","Marco D'Alessandro","https://www.transfermarkt.com/marco-dalessandro/profil/spieler/99232","Right Winger",19,"Italy",17,13,1,340,2010
+"SSC Bari","Serie B","Italy","Francesco Grandolfo","https://www.transfermarkt.com/francesco-grandolfo/profil/spieler/138295","Centre-Forward",17,"Italy",4,3,3,116,2010
+"SSC Bari","Serie B","Italy","Jaime Romero","https://www.transfermarkt.com/jaime-romero/profil/spieler/81998","Right Winger",19,"Spain",19,12,0,569,2010
+"SSC Bari","Serie B","Italy","Nicola Strambelli","https://www.transfermarkt.com/nicola-strambelli/profil/spieler/61541","Left Winger",21,"Italy",7,3,0,100,2010
+"SSC Bari","Serie B","Italy","Emanuel Rivas","https://www.transfermarkt.com/emanuel-rivas/profil/spieler/30891","Left Winger",27,"Argentina",30,24,2,1067,2010
+"SSC Bari","Serie B","Italy","José Castillo","https://www.transfermarkt.com/jose-castillo/profil/spieler/41561","Centre-Forward",34,"Argentina",19,15,1,613,2010
+"SSC Bari","Serie B","Italy","Barreto","https://www.transfermarkt.com/barreto/profil/spieler/23345","Second Striker",24,"Brazil",13,13,4,989,2010
+"SSC Bari","Serie B","Italy","Abdelkader Ghezzal","https://www.transfermarkt.com/abdelkader-ghezzal/profil/spieler/76406","Centre-Forward",25,"Algeria",20,20,2,1361,2010
+"SSC Bari","Serie B","Italy","Vitali Kutuzov","https://www.transfermarkt.com/vitali-kutuzov/profil/spieler/6506","Centre-Forward",30,"Belarus",17,16,1,1046,2010
+"SSC Bari","Serie B","Italy","Erik Huseklepp","https://www.transfermarkt.com/erik-huseklepp/profil/spieler/34599","Left Winger",25,"Norway",14,14,2,930,2010
+"SSC Bari","Serie B","Italy","Antonio Langella","https://www.transfermarkt.com/antonio-langella/profil/spieler/20739","Second Striker",33,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Filippo Antonelli Agomeri","https://www.transfermarkt.com/filippo-antonelli-agomeri/profil/spieler/22307","Right Winger",31,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Rey Volpato","https://www.transfermarkt.com/rey-volpato/profil/spieler/35847","Centre-Forward",23,"Italy",0,0,0,0,2010
+"SSC Bari","Serie B","Italy","Luigi Rana","https://www.transfermarkt.com/luigi-rana/profil/spieler/137114","Centre-Forward",23,"Italy",8,4,1,212,2010
+"SSC Bari","Serie B","Italy","Gergely Rudolf","https://www.transfermarkt.com/gergely-rudolf/profil/spieler/34374","Centre-Forward",25,"Hungary",14,13,2,873,2010
+"Brescia Calcio","Serie B","Italy","Alessio Cragno","https://www.transfermarkt.com/alessio-cragno/profil/spieler/12907","Goalkeeper",16,"Italy",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Nicola Leali","https://www.transfermarkt.com/nicola-leali/profil/spieler/136111","Goalkeeper",17,"Italy",19,1,0,90,2010
+"Brescia Calcio","Serie B","Italy","Michele Arcari","https://www.transfermarkt.com/michele-arcari/profil/spieler/38578","Goalkeeper",32,"Italy",39,24,0,2160,2010
+"Brescia Calcio","Serie B","Italy","Matteo Sereni","https://www.transfermarkt.com/matteo-sereni/profil/spieler/5964","Goalkeeper",35,"Italy",20,15,0,1350,2010
+"Brescia Calcio","Serie B","Italy","Michal Hrivnak","https://www.transfermarkt.com/michal-hrivnak/profil/spieler/104973","Goalkeeper",19,"Slovakia",1,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Fabio Daprelà","https://www.transfermarkt.com/fabio-daprela/profil/spieler/66109","Centre-Back",19,"Switzerland",18,11,0,721,2010
+"Brescia Calcio","Serie B","Italy","Sebastien De Maio","https://www.transfermarkt.com/sebastien-de-maio/profil/spieler/56830","Defender",23,"France",10,4,0,139,2010
+"Brescia Calcio","Serie B","Italy","Davide Zoboli","https://www.transfermarkt.com/davide-zoboli/profil/spieler/21702","Centre-Back",28,"Italy",19,19,2,1681,2010
+"Brescia Calcio","Serie B","Italy","Marco Gorzegno","https://www.transfermarkt.com/marco-gorzegno/profil/spieler/22243","Defender",29,"Italy",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Jonathan Zebina","https://www.transfermarkt.com/jonathan-zebina/profil/spieler/5942","Centre-Back",31,"France",30,28,0,2358,2010
+"Brescia Calcio","Serie B","Italy","Francesco Bega","https://www.transfermarkt.com/francesco-bega/profil/spieler/21904","Centre-Back",35,"Italy",33,26,1,2282,2010
+"Brescia Calcio","Serie B","Italy","Marco Zambelli","https://www.transfermarkt.com/marco-zambelli/profil/spieler/28031","Right-Back",24,"Italy",35,29,0,2119,2010
+"Brescia Calcio","Serie B","Italy","Víctor Mareco","https://www.transfermarkt.com/victor-mareco/profil/spieler/16898","Centre-Back",26,"Paraguay",20,9,0,592,2010
+"Brescia Calcio","Serie B","Italy","Pietro Accardi","https://www.transfermarkt.com/pietro-accardi/profil/spieler/17155","Left-Back",27,"Italy",13,8,1,586,2010
+"Brescia Calcio","Serie B","Italy","Simone Dallamano","https://www.transfermarkt.com/simone-dallamano/profil/spieler/21684","Left-Back",26,"Italy",20,16,1,1298,2010
+"Brescia Calcio","Serie B","Italy","Gilberto Martínez","https://www.transfermarkt.com/gilberto-martinez/profil/spieler/5969","Centre-Back",30,"Costa Rica",20,19,0,1652,2010
+"Brescia Calcio","Serie B","Italy","Frank Kamalu","https://www.transfermarkt.com/frank-kamalu/profil/spieler/115676","Defender",19,"Ghana",3,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Gaetano Berardi","https://www.transfermarkt.com/gaetano-berardi/profil/spieler/43084","Right-Back",21,"Switzerland",34,29,0,2256,2010
+"Brescia Calcio","Serie B","Italy","Davide Ferrari","https://www.transfermarkt.com/davide-ferrari/profil/spieler/128294","Left-Back",18,"Italy",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Omar El Kaddouri","https://www.transfermarkt.com/omar-el-kaddouri/profil/spieler/73097","Attacking Midfield",19,"Morocco",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Nana Welbeck","https://www.transfermarkt.com/nana-welbeck/profil/spieler/168346","Central Midfield",15,"Ghana",2,1,0,29,2010
+"Brescia Calcio","Serie B","Italy","Perparim Hetemaj","https://www.transfermarkt.com/perparim-hetemaj/profil/spieler/37295","Central Midfield",23,"Finland",31,31,2,2560,2010
+"Brescia Calcio","Serie B","Italy","Ádám Vass","https://www.transfermarkt.com/adam-vass/profil/spieler/49031","Defensive Midfield",21,"Hungary",30,22,0,1177,2010
+"Brescia Calcio","Serie B","Italy","Luigi Scaglia","https://www.transfermarkt.com/luigi-scaglia/profil/spieler/43364","Central Midfield",23,"Italy",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Antonio Filippini","https://www.transfermarkt.com/antonio-filippini/profil/spieler/5973","Right Midfield",36,"Italy",23,16,0,1042,2010
+"Brescia Calcio","Serie B","Italy","Nicolás Córdova","https://www.transfermarkt.com/nicolas-cordova/profil/spieler/21230","Central Midfield",31,"Chile",22,21,2,1464,2010
+"Brescia Calcio","Serie B","Italy","Cristiano Zanetti","https://www.transfermarkt.com/cristiano-zanetti/profil/spieler/5783","Defensive Midfield",33,"Italy",8,8,0,635,2010
+"Brescia Calcio","Serie B","Italy","Davide Baiocco","https://www.transfermarkt.com/davide-baiocco/profil/spieler/5761","Defensive Midfield",35,"Italy",35,23,0,1420,2010
+"Brescia Calcio","Serie B","Italy","Alessandro Budel","https://www.transfermarkt.com/alessandro-budel/profil/spieler/25314","Defensive Midfield",29,"Italy",19,14,0,612,2010
+"Brescia Calcio","Serie B","Italy","Richard Lasik","https://www.transfermarkt.com/richard-lasik/profil/spieler/91888","Defensive Midfield",17,"Slovakia",1,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Lorenzo Tassi","https://www.transfermarkt.com/lorenzo-tassi/profil/spieler/76763","Central Midfield",15,"Italy",1,1,0,14,2010
+"Brescia Calcio","Serie B","Italy","Harouna Bara","https://www.transfermarkt.com/harouna-bara/profil/spieler/184312","Attacking Midfield",16,"Ghana",1,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Alessandro Diamanti","https://www.transfermarkt.com/alessandro-diamanti/profil/spieler/23197","Attacking Midfield",27,"Italy",33,33,7,2489,2010
+"Brescia Calcio","Serie B","Italy","Panagiotis Kone","https://www.transfermarkt.com/panagiotis-kone/profil/spieler/19636","Central Midfield",22,"Greece",35,31,1,2050,2010
+"Brescia Calcio","Serie B","Italy","Jonathas","https://www.transfermarkt.com/jonathas/profil/spieler/58345","Centre-Forward",21,"Brazil",9,6,0,227,2010
+"Brescia Calcio","Serie B","Italy","Éder","https://www.transfermarkt.com/eder/profil/spieler/37418","Centre-Forward",23,"Italy",37,36,6,2361,2010
+"Brescia Calcio","Serie B","Italy","Róbert Feczesin","https://www.transfermarkt.com/robert-feczesin/profil/spieler/22662","Centre-Forward",24,"Hungary",7,4,1,223,2010
+"Brescia Calcio","Serie B","Italy","Edoardo Defendi","https://www.transfermarkt.com/edoardo-defendi/profil/spieler/163389","Centre-Forward",18,"Italy",0,0,0,0,2010
+"Brescia Calcio","Serie B","Italy","Andrea Caracciolo","https://www.transfermarkt.com/andrea-caracciolo/profil/spieler/6098","Centre-Forward",28,"Italy",34,33,12,2616,2010
+"Brescia Calcio","Serie B","Italy","Davide Possanzini","https://www.transfermarkt.com/davide-possanzini/profil/spieler/22248","Centre-Forward",34,"Italy",30,19,0,798,2010
+"Brescia Calcio","Serie B","Italy","Juan Antonio","https://www.transfermarkt.com/juan-antonio/profil/spieler/45644","Second Striker",22,"Argentina",1,1,0,29,2010
+"Brescia Calcio","Serie B","Italy","Riccardo Taddei","https://www.transfermarkt.com/riccardo-taddei/profil/spieler/30662","Left Winger",29,"Italy",6,5,0,90,2010
+"Brescia Calcio","Serie B","Italy","Davide Lanzafame","https://www.transfermarkt.com/davide-lanzafame/profil/spieler/61539","Centre-Forward",23,"Italy",17,13,0,429,2010
+"US Lecce","Serie A","Italy","Antonio Rosati","https://www.transfermarkt.com/antonio-rosati/profil/spieler/6442","Goalkeeper",27,"Italy",38,38,0,3367,2010
+"US Lecce","Serie A","Italy","Davide Petrachi","https://www.transfermarkt.com/davide-petrachi/profil/spieler/89181","Goalkeeper",23,"Italy",2,0,0,0,2010
+"US Lecce","Serie A","Italy","Aniello Ambrosio","https://www.transfermarkt.com/aniello-ambrosio/profil/spieler/160450","Goalkeeper",18,"Italy",0,0,0,0,2010
+"US Lecce","Serie A","Italy","Massimiliano Benassi","https://www.transfermarkt.com/massimiliano-benassi/profil/spieler/102742","Goalkeeper",28,"Italy",40,3,0,263,2010
+"US Lecce","Serie A","Italy","Giulio Donati","https://www.transfermarkt.com/giulio-donati/profil/spieler/88684","Right-Back",20,"Italy",27,16,0,1139,2010
+"US Lecce","Serie A","Italy","Andrea Rispoli","https://www.transfermarkt.com/andrea-rispoli/profil/spieler/74448","Right-Back",21,"Italy",23,14,0,924,2010
+"US Lecce","Serie A","Italy","Nenad Tomović","https://www.transfermarkt.com/nenad-tomovi%C4%87/profil/spieler/47085","Centre-Back",22,"Serbia",16,16,0,1440,2010
+"US Lecce","Serie A","Italy","Simone Sini","https://www.transfermarkt.com/simone-sini/profil/spieler/110934","Centre-Back",18,"Italy",13,2,0,115,2010
+"US Lecce","Serie A","Italy","Leonardo Nunzella","https://www.transfermarkt.com/leonardo-nunzella/profil/spieler/108989","Left-Back",18,"Italy",1,0,0,0,2010
+"US Lecce","Serie A","Italy","Alberto Giuliatto","https://www.transfermarkt.com/alberto-giuliatto/profil/spieler/35707","Left-Back",26,"Italy",14,13,0,913,2010
+"US Lecce","Serie A","Italy","Gustavo","https://www.transfermarkt.com/gustavo/profil/spieler/19695","Centre-Back",28,"Brazil",34,25,0,1919,2010
+"US Lecce","Serie A","Italy","Tore Reginiussen","https://www.transfermarkt.com/tore-reginiussen/profil/spieler/41328","Centre-Back",24,"Norway",1,0,0,0,2010
+"US Lecce","Serie A","Italy","Djamel Mesbah","https://www.transfermarkt.com/djamel-mesbah/profil/spieler/17735","Left-Back",25,"Algeria",37,34,2,2654,2010
+"US Lecce","Serie A","Italy","Stefano Ferrario","https://www.transfermarkt.com/stefano-ferrario/profil/spieler/38647","Centre-Back",25,"Italy",21,20,0,1399,2010
+"US Lecce","Serie A","Italy","Fabiano Medina","https://www.transfermarkt.com/fabiano-medina/profil/spieler/58452","Centre-Back",28,"Brazil",31,29,1,2507,2010
+"US Lecce","Serie A","Italy","Davide Brivio","https://www.transfermarkt.com/davide-brivio/profil/spieler/38824","Left-Back",22,"Italy",29,24,0,1723,2010
+"US Lecce","Serie A","Italy","Souleymane Diamoutene","https://www.transfermarkt.com/souleymane-diamoutene/profil/spieler/8189","Centre-Back",27,"Mali",3,3,1,253,2010
+"US Lecce","Serie A","Italy","Antonio Crescente","https://www.transfermarkt.com/antonio-crescente/profil/spieler/163385","Centre-Back",18,"Italy",1,0,0,0,2010
+"US Lecce","Serie A","Italy","Petar Kostadinovic","https://www.transfermarkt.com/petar-kostadinovic/profil/spieler/170093","Centre-Back",17,"Croatia",1,0,0,0,2010
+"US Lecce","Serie A","Italy","Luca Locci","https://www.transfermarkt.com/luca-locci/profil/spieler/171019","Centre-Back",18,"Italy",1,1,0,23,2010
+"US Lecce","Serie A","Italy","Andrea Bertolacci","https://www.transfermarkt.com/andrea-bertolacci/profil/spieler/99227","Central Midfield",19,"Italy",24,10,4,733,2010
+"US Lecce","Serie A","Italy","Bryan Bergougnoux","https://www.transfermarkt.com/bryan-bergougnoux/profil/spieler/12132","Attacking Midfield",27,"France",2,2,0,174,2010
+"US Lecce","Serie A","Italy","Gianni Munari","https://www.transfermarkt.com/gianni-munari/profil/spieler/22598","Central Midfield",27,"Italy",35,35,2,2664,2010
+"US Lecce","Serie A","Italy","Rubén Olivera","https://www.transfermarkt.com/ruben-olivera/profil/spieler/5768","Central Midfield",27,"Uruguay",32,32,4,2564,2010
+"US Lecce","Serie A","Italy","Guillermo Giacomazzi","https://www.transfermarkt.com/guillermo-giacomazzi/profil/spieler/6428","Defensive Midfield",32,"Uruguay",32,32,3,2588,2010
+"US Lecce","Serie A","Italy","Giuseppe Vives","https://www.transfermarkt.com/giuseppe-vives/profil/spieler/42345","Defensive Midfield",29,"Italy",35,33,0,2595,2010
+"US Lecce","Serie A","Italy","Carlos Grossmüller","https://www.transfermarkt.com/carlos-grossmuller/profil/spieler/50791","Central Midfield",27,"Uruguay",32,25,1,1527,2010
+"US Lecce","Serie A","Italy","Manuel Coppola","https://www.transfermarkt.com/manuel-coppola/profil/spieler/28851","Central Midfield",28,"Italy",25,15,1,428,2010
+"US Lecce","Serie A","Italy","Mauro Giaracuni","https://www.transfermarkt.com/mauro-giaracuni/profil/spieler/163408","Right Midfield",17,"Italy",0,0,0,0,2010
+"US Lecce","Serie A","Italy","Filippo Falco","https://www.transfermarkt.com/filippo-falco/profil/spieler/70689","Right Winger",18,"Italy",1,1,0,36,2010
+"US Lecce","Serie A","Italy","Luigi Falcone","https://www.transfermarkt.com/luigi-falcone/profil/spieler/134885","Left Winger",18,"Italy",1,1,0,50,2010
+"US Lecce","Serie A","Italy","Daniele Corvia","https://www.transfermarkt.com/daniele-corvia/profil/spieler/16863","Centre-Forward",25,"Italy",32,31,7,1527,2010
+"US Lecce","Serie A","Italy","Edward Ofere","https://www.transfermarkt.com/edward-ofere/profil/spieler/35761","Centre-Forward",24,"Nigeria",17,12,3,740,2010
+"US Lecce","Serie A","Italy","David Di Michele","https://www.transfermarkt.com/david-di-michele/profil/spieler/6076","Centre-Forward",34,"Italy",24,23,8,1886,2010
+"US Lecce","Serie A","Italy","Ignacio Piatti","https://www.transfermarkt.com/ignacio-piatti/profil/spieler/37433","Left Winger",25,"Argentina",38,26,3,1318,2010
+"US Lecce","Serie A","Italy","Javier Chevantón","https://www.transfermarkt.com/javier-chevanton/profil/spieler/6420","Centre-Forward",29,"Uruguay",22,16,4,564,2010
+"US Lecce","Serie A","Italy","Jeda","https://www.transfermarkt.com/jeda/profil/spieler/21773","Second Striker",31,"Brazil",35,26,4,1694,2010

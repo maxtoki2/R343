@@ -1,0 +1,781 @@
+"team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played","season"
+"Juventus FC","Serie A","Italy","Nicola Leali","https://www.transfermarkt.com/nicola-leali/profil/spieler/136111","Goalkeeper",19,"Italy",1,0,0,0,2012
+"Juventus FC","Serie A","Italy","Laurentiu Branescu","https://www.transfermarkt.com/laurentiu-branescu/profil/spieler/156521","Goalkeeper",18,"Romania",8,0,0,0,2012
+"Juventus FC","Serie A","Italy","Federico Gagliardini","https://www.transfermarkt.com/federico-gagliardini/profil/spieler/205676","Goalkeeper",18,"Italy",1,0,0,0,2012
+"Juventus FC","Serie A","Italy","Gianluigi Buffon","https://www.transfermarkt.com/gianluigi-buffon/profil/spieler/5023","Goalkeeper",34,"Italy",50,44,0,3990,2012
+"Juventus FC","Serie A","Italy","Marco Storari","https://www.transfermarkt.com/marco-storari/profil/spieler/19136","Goalkeeper",35,"Italy",52,9,0,830,2012
+"Juventus FC","Serie A","Italy","Rubinho","https://www.transfermarkt.com/rubinho/profil/spieler/37598","Goalkeeper",29,"Brazil",30,1,0,10,2012
+"Juventus FC","Serie A","Italy","Daniele Rugani","https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959","Centre-Back",17,"Italy",4,0,0,0,2012
+"Juventus FC","Serie A","Italy","Leonardo Bonucci","https://www.transfermarkt.com/leonardo-bonucci/profil/spieler/39983","Centre-Back",25,"Italy",49,48,1,4324,2012
+"Juventus FC","Serie A","Italy","Giorgio Chiellini","https://www.transfermarkt.com/giorgio-chiellini/profil/spieler/29260","Centre-Back",27,"Italy",37,32,1,2738,2012
+"Juventus FC","Serie A","Italy","Mauricio Isla","https://www.transfermarkt.com/mauricio-isla/profil/spieler/43722","Right-Back",24,"Chile",40,20,0,1213,2012
+"Juventus FC","Serie A","Italy","Martín Cáceres","https://www.transfermarkt.com/martin-caceres/profil/spieler/54935","Centre-Back",25,"Uruguay",41,22,1,1494,2012
+"Juventus FC","Serie A","Italy","Pol García","https://www.transfermarkt.com/pol-garcia/profil/spieler/178217","Centre-Back",17,"Spain",2,0,0,0,2012
+"Juventus FC","Serie A","Italy","Luca Marrone","https://www.transfermarkt.com/luca-marrone/profil/spieler/124769","Centre-Back",22,"Italy",47,15,0,1172,2012
+"Juventus FC","Serie A","Italy","Alberto Masi","https://www.transfermarkt.com/alberto-masi/profil/spieler/167890","Centre-Back",19,"Italy",1,0,0,0,2012
+"Juventus FC","Serie A","Italy","Reto Ziegler","https://www.transfermarkt.com/reto-ziegler/profil/spieler/9915","Centre-Back",26,"Switzerland",0,0,0,0,2012
+"Juventus FC","Serie A","Italy","Lúcio","https://www.transfermarkt.com/lucio/profil/spieler/77","Centre-Back",34,"Brazil",17,4,0,307,2012
+"Juventus FC","Serie A","Italy","Paolo De Ceglie","https://www.transfermarkt.com/paolo-de-ceglie/profil/spieler/44709","Left-Back",25,"Italy",40,18,0,1116,2012
+"Juventus FC","Serie A","Italy","Federico Peluso","https://www.transfermarkt.com/federico-peluso/profil/spieler/21763","Left-Back",28,"Italy",26,17,1,1058,2012
+"Juventus FC","Serie A","Italy","Andrea Barzagli","https://www.transfermarkt.com/andrea-barzagli/profil/spieler/7109","Centre-Back",31,"Italy",50,48,0,4277,2012
+"Juventus FC","Serie A","Italy","Stephan Lichtsteiner","https://www.transfermarkt.com/stephan-lichtsteiner/profil/spieler/2865","Right-Back",28,"Switzerland",48,36,4,2748,2012
+"Juventus FC","Serie A","Italy","Paul Pogba","https://www.transfermarkt.com/paul-pogba/profil/spieler/122153","Central Midfield",19,"France",46,37,5,2251,2012
+"Juventus FC","Serie A","Italy","Arturo Vidal","https://www.transfermarkt.com/arturo-vidal/profil/spieler/37666","Central Midfield",25,"Chile",50,45,15,3753,2012
+"Juventus FC","Serie A","Italy","Elvis Kabashi","https://www.transfermarkt.com/elvis-kabashi/profil/spieler/200057","Central Midfield",18,"Albania",2,0,0,0,2012
+"Juventus FC","Serie A","Italy","Andrea Schiavone","https://www.transfermarkt.com/andrea-schiavone/profil/spieler/136133","Defensive Midfield",19,"Italy",2,0,0,0,2012
+"Juventus FC","Serie A","Italy","Claudio Marchisio","https://www.transfermarkt.com/claudio-marchisio/profil/spieler/44716","Central Midfield",26,"Italy",44,40,8,3400,2012
+"Juventus FC","Serie A","Italy","Simone Padoin","https://www.transfermarkt.com/simone-padoin/profil/spieler/56703","Central Midfield",28,"Italy",44,26,0,1136,2012
+"Juventus FC","Serie A","Italy","Andrea Pirlo","https://www.transfermarkt.com/andrea-pirlo/profil/spieler/5817","Defensive Midfield",33,"Italy",48,45,5,3922,2012
+"Juventus FC","Serie A","Italy","Kwadwo Asamoah","https://www.transfermarkt.com/kwadwo-asamoah/profil/spieler/63531","Left Midfield",23,"Ghana",39,36,3,2736,2012
+"Juventus FC","Serie A","Italy","Emanuele Giaccherini","https://www.transfermarkt.com/emanuele-giaccherini/profil/spieler/84835","Left Midfield",27,"Italy",50,25,3,1272,2012
+"Juventus FC","Serie A","Italy","Fabio Quagliarella","https://www.transfermarkt.com/fabio-quagliarella/profil/spieler/22328","Centre-Forward",29,"Italy",48,35,13,1551,2012
+"Juventus FC","Serie A","Italy","Richmond Boakye","https://www.transfermarkt.com/richmond-boakye/profil/spieler/119213","Centre-Forward",19,"Ghana",1,0,0,0,2012
+"Juventus FC","Serie A","Italy","Stefano Beltrame","https://www.transfermarkt.com/stefano-beltrame/profil/spieler/167791","Second Striker",19,"Italy",5,1,0,8,2012
+"Juventus FC","Serie A","Italy","Vincenzo Iaquinta","https://www.transfermarkt.com/vincenzo-iaquinta/profil/spieler/5904","Centre-Forward",32,"Italy",0,0,0,0,2012
+"Juventus FC","Serie A","Italy","Jorge Martínez","https://www.transfermarkt.com/jorge-martinez/profil/spieler/55800","Right Winger",29,"Uruguay",0,0,0,0,2012
+"Juventus FC","Serie A","Italy","Simone Pepe","https://www.transfermarkt.com/simone-pepe/profil/spieler/17249","Right Winger",28,"Italy",6,1,0,21,2012
+"Juventus FC","Serie A","Italy","Mirko Vucinic","https://www.transfermarkt.com/mirko-vucinic/profil/spieler/6448","Centre-Forward",28,"Montenegro",48,43,14,2845,2012
+"Juventus FC","Serie A","Italy","Sebastian Giovinco","https://www.transfermarkt.com/sebastian-giovinco/profil/spieler/52312","Second Striker",25,"Italy",48,42,11,2701,2012
+"Juventus FC","Serie A","Italy","Nicklas Bendtner","https://www.transfermarkt.com/nicklas-bendtner/profil/spieler/34557","Centre-Forward",24,"Denmark",21,11,0,397,2012
+"Juventus FC","Serie A","Italy","Nicolas Anelka","https://www.transfermarkt.com/nicolas-anelka/profil/spieler/3226","Centre-Forward",33,"France",10,3,0,55,2012
+"Juventus FC","Serie A","Italy","Alessandro Matri","https://www.transfermarkt.com/alessandro-matri/profil/spieler/40660","Centre-Forward",27,"Italy",53,35,10,1786,2012
+"Inter Milan","Serie A","Italy","Samir Handanovic","https://www.transfermarkt.com/samir-handanovic/profil/spieler/28021","Goalkeeper",27,"Slovenia",48,48,0,4380,2012
+"Inter Milan","Serie A","Italy","Vid Belec","https://www.transfermarkt.com/vid-belec/profil/spieler/73090","Goalkeeper",22,"Slovenia",52,3,0,236,2012
+"Inter Milan","Serie A","Italy","Raffaele Di Gennaro","https://www.transfermarkt.com/raffaele-di-gennaro/profil/spieler/70580","Goalkeeper",18,"Italy",11,0,0,0,2012
+"Inter Milan","Serie A","Italy","Luca Castellazzi","https://www.transfermarkt.com/luca-castellazzi/profil/spieler/6058","Goalkeeper",36,"Italy",24,5,0,393,2012
+"Inter Milan","Serie A","Italy","Juan Pablo Carrizo","https://www.transfermarkt.com/juan-pablo-carrizo/profil/spieler/39118","Goalkeeper",28,"Argentina",16,1,0,90,2012
+"Inter Milan","Serie A","Italy","Matteo Cincilla","https://www.transfermarkt.com/matteo-cincilla/profil/spieler/206699","Goalkeeper",17,"Italy",3,0,0,0,2012
+"Inter Milan","Serie A","Italy","Juan Jesus","https://www.transfermarkt.com/juan-jesus/profil/spieler/121985","Centre-Back",21,"Brazil",49,44,1,3768,2012
+"Inter Milan","Serie A","Italy","Matteo Bianchetti","https://www.transfermarkt.com/matteo-bianchetti/profil/spieler/160986","Centre-Back",19,"Italy",8,0,0,0,2012
+"Inter Milan","Serie A","Italy","Isaac Donkor","https://www.transfermarkt.com/isaac-donkor/profil/spieler/240197","Centre-Back",16,"Ghana",2,1,0,17,2012
+"Inter Milan","Serie A","Italy","Ibrahima Mbaye","https://www.transfermarkt.com/ibrahima-mbaye/profil/spieler/207715","Right-Back",17,"Senegal",18,2,0,79,2012
+"Inter Milan","Serie A","Italy","Yuto Nagatomo","https://www.transfermarkt.com/yuto-nagatomo/profil/spieler/79522","Left-Back",25,"Japan",38,35,2,2611,2012
+"Inter Milan","Serie A","Italy","Lukas Spendlhofer","https://www.transfermarkt.com/lukas-spendlhofer/profil/spieler/126114","Centre-Back",19,"Austria",4,1,0,13,2012
+"Inter Milan","Serie A","Italy","Ezequiel Schelotto","https://www.transfermarkt.com/ezequiel-schelotto/profil/spieler/119164","Right-Back",23,"Italy",16,13,1,584,2012
+"Inter Milan","Serie A","Italy","Javier Zanetti","https://www.transfermarkt.com/javier-zanetti/profil/spieler/1161","Right-Back",38,"Argentina",50,48,0,4117,2012
+"Inter Milan","Serie A","Italy","Matías Silvestre","https://www.transfermarkt.com/matias-silvestre/profil/spieler/20003","Centre-Back",27,"Argentina",45,20,0,1502,2012
+"Inter Milan","Serie A","Italy","Maicon","https://www.transfermarkt.com/maicon/profil/spieler/18301","Right-Back",30,"Brazil",1,1,0,90,2012
+"Inter Milan","Serie A","Italy","Andrea Ranocchia","https://www.transfermarkt.com/andrea-ranocchia/profil/spieler/44327","Centre-Back",24,"Italy",48,45,3,3749,2012
+"Inter Milan","Serie A","Italy","Walter Samuel","https://www.transfermarkt.com/walter-samuel/profil/spieler/5938","Centre-Back",34,"Argentina",31,22,1,1771,2012
+"Inter Milan","Serie A","Italy","Cristian Chivu","https://www.transfermarkt.com/cristian-chivu/profil/spieler/4314","Centre-Back",31,"Romania",23,15,1,1033,2012
+"Inter Milan","Serie A","Italy","Álvaro Pereira","https://www.transfermarkt.com/alvaro-pereira/profil/spieler/54859","Left-Back",26,"Uruguay",47,40,1,3064,2012
+"Inter Milan","Serie A","Italy","Jonathan","https://www.transfermarkt.com/jonathan/profil/spieler/54149","Right-Back",26,"Brazil",49,23,1,1729,2012
+"Inter Milan","Serie A","Italy","Andrea Bandini","https://www.transfermarkt.com/andrea-bandini/profil/spieler/199902","Right-Back",18,"Italy",3,1,0,27,2012
+"Inter Milan","Serie A","Italy","Marco Ferrara","https://www.transfermarkt.com/marco-ferrara/profil/spieler/240289","Left-Back",18,"Italy",6,0,0,0,2012
+"Inter Milan","Serie A","Italy","Mateo Kovacic","https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471","Central Midfield",18,"Croatia",20,18,0,1427,2012
+"Inter Milan","Serie A","Italy","Alfred Duncan","https://www.transfermarkt.com/alfred-duncan/profil/spieler/184894","Central Midfield",19,"Ghana",20,4,0,115,2012
+"Inter Milan","Serie A","Italy","Daniel Bessa","https://www.transfermarkt.com/daniel-bessa/profil/spieler/140757","Central Midfield",19,"Italy",7,0,0,0,2012
+"Inter Milan","Serie A","Italy","Luca Garritano","https://www.transfermarkt.com/luca-garritano/profil/spieler/205677","Attacking Midfield",18,"Italy",9,5,0,112,2012
+"Inter Milan","Serie A","Italy","Marco Benassi","https://www.transfermarkt.com/marco-benassi/profil/spieler/201040","Central Midfield",17,"Italy",39,13,1,663,2012
+"Inter Milan","Serie A","Italy","Patrick Olsen","https://www.transfermarkt.com/patrick-olsen/profil/spieler/135217","Central Midfield",18,"Denmark",3,0,0,0,2012
+"Inter Milan","Serie A","Italy","Joel Obi","https://www.transfermarkt.com/joel-obi/profil/spieler/45581","Central Midfield",21,"Nigeria",8,4,1,204,2012
+"Inter Milan","Serie A","Italy","Simone Pasa","https://www.transfermarkt.com/simone-pasa/profil/spieler/76895","Defensive Midfield",18,"Italy",21,6,0,350,2012
+"Inter Milan","Serie A","Italy","Walter Gargano","https://www.transfermarkt.com/walter-gargano/profil/spieler/52266","Defensive Midfield",27,"Uruguay",42,36,0,2703,2012
+"Inter Milan","Serie A","Italy","Dejan Stanković","https://www.transfermarkt.com/dejan-stankovi%C4%87/profil/spieler/3428","Central Midfield",33,"Serbia",4,3,0,113,2012
+"Inter Milan","Serie A","Italy","Wesley Sneijder","https://www.transfermarkt.com/wesley-sneijder/profil/spieler/4673","Attacking Midfield",28,"Netherlands",10,8,2,593,2012
+"Inter Milan","Serie A","Italy","Ricardo Álvarez","https://www.transfermarkt.com/ricardo-alvarez/profil/spieler/76077","Central Midfield",24,"Argentina",35,30,7,1557,2012
+"Inter Milan","Serie A","Italy","Fredy Guarín","https://www.transfermarkt.com/fredy-guarin/profil/spieler/39090","Central Midfield",26,"Colombia",48,47,10,3520,2012
+"Inter Milan","Serie A","Italy","Gaby Mudingayi","https://www.transfermarkt.com/gaby-mudingayi/profil/spieler/13749","Defensive Midfield",30,"Belgium",18,14,0,551,2012
+"Inter Milan","Serie A","Italy","Zdravko Kuzmanovic","https://www.transfermarkt.com/zdravko-kuzmanovic/profil/spieler/25441","Central Midfield",24,"Serbia",17,14,0,968,2012
+"Inter Milan","Serie A","Italy","McDonald Mariga","https://www.transfermarkt.com/mcdonald-mariga/profil/spieler/37124","Defensive Midfield",25,"Kenya",13,2,0,55,2012
+"Inter Milan","Serie A","Italy","Esteban Cambiasso","https://www.transfermarkt.com/esteban-cambiasso/profil/spieler/7520","Defensive Midfield",31,"Argentina",49,48,4,3797,2012
+"Inter Milan","Serie A","Italy","Yago Del Piero","https://www.transfermarkt.com/yago-del-piero/profil/spieler/240195","Central Midfield",18,"Brazil",0,0,0,0,2012
+"Inter Milan","Serie A","Italy","Andrea Romanò","https://www.transfermarkt.com/andrea-romano/profil/spieler/136130","Central Midfield",18,"Italy",8,2,0,109,2012
+"Inter Milan","Serie A","Italy","Philippe Coutinho","https://www.transfermarkt.com/philippe-coutinho/profil/spieler/80444","Left Winger",20,"Brazil",23,19,3,906,2012
+"Inter Milan","Serie A","Italy","Marko Livaja","https://www.transfermarkt.com/marko-livaja/profil/spieler/95438","Centre-Forward",18,"Croatia",33,13,4,537,2012
+"Inter Milan","Serie A","Italy","Francesco Forte","https://www.transfermarkt.com/francesco-forte/profil/spieler/164534","Centre-Forward",19,"Italy",9,2,0,20,2012
+"Inter Milan","Serie A","Italy","Samuele Longo","https://www.transfermarkt.com/samuele-longo/profil/spieler/124560","Centre-Forward",20,"Italy",2,1,0,26,2012
+"Inter Milan","Serie A","Italy","Niccolò Belloni","https://www.transfermarkt.com/niccolo-belloni/profil/spieler/240190","Right Winger",17,"Italy",6,1,0,3,2012
+"Inter Milan","Serie A","Italy","Giovanni Terrani","https://www.transfermarkt.com/giovanni-terrani/profil/spieler/199924","Left Winger",17,"Italy",2,0,0,0,2012
+"Inter Milan","Serie A","Italy","Matteo Colombi","https://www.transfermarkt.com/matteo-colombi/profil/spieler/162939","Centre-Forward",18,"Italy",6,0,0,0,2012
+"Inter Milan","Serie A","Italy","Rodrigo Palacio","https://www.transfermarkt.com/rodrigo-palacio/profil/spieler/39099","Centre-Forward",30,"Argentina",40,39,22,2890,2012
+"Inter Milan","Serie A","Italy","Tommaso Rocchi","https://www.transfermarkt.com/tommaso-rocchi/profil/spieler/6026","Centre-Forward",34,"Italy",23,15,3,878,2012
+"Inter Milan","Serie A","Italy","Diego Milito","https://www.transfermarkt.com/diego-milito/profil/spieler/22202","Centre-Forward",33,"Argentina",29,26,9,1873,2012
+"Inter Milan","Serie A","Italy","Antonio Cassano","https://www.transfermarkt.com/antonio-cassano/profil/spieler/5962","Second Striker",29,"Italy",39,39,9,2713,2012
+"AC Milan","Serie A","Italy","Gabriel","https://www.transfermarkt.com/gabriel/profil/spieler/79242","Goalkeeper",19,"Brazil",37,0,0,0,2012
+"AC Milan","Serie A","Italy","Marco Amelia","https://www.transfermarkt.com/marco-amelia/profil/spieler/16810","Goalkeeper",30,"Italy",45,13,0,1185,2012
+"AC Milan","Serie A","Italy","Christian Abbiati","https://www.transfermarkt.com/christian-abbiati/profil/spieler/3507","Goalkeeper",34,"Italy",43,36,0,3165,2012
+"AC Milan","Serie A","Italy","Ferdinando Coppola","https://www.transfermarkt.com/ferdinando-coppola/profil/spieler/5986","Goalkeeper",34,"Italy",2,0,0,0,2012
+"AC Milan","Serie A","Italy","Davide Narduzzo","https://www.transfermarkt.com/davide-narduzzo/profil/spieler/199255","Goalkeeper",17,"Italy",3,0,0,0,2012
+"AC Milan","Serie A","Italy","Lazar Petkovic","https://www.transfermarkt.com/lazar-petkovic/profil/spieler/234887","Goalkeeper",17,"Serbia",5,0,0,0,2012
+"AC Milan","Serie A","Italy","Francesco Acerbi","https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075","Centre-Back",24,"Italy",22,10,0,766,2012
+"AC Milan","Serie A","Italy","Mattia De Sciglio","https://www.transfermarkt.com/mattia-de-sciglio/profil/spieler/88682","Right-Back",19,"Italy",44,33,0,2790,2012
+"AC Milan","Serie A","Italy","Bartosz Salamon","https://www.transfermarkt.com/bartosz-salamon/profil/spieler/71019","Centre-Back",21,"Poland",8,0,0,0,2012
+"AC Milan","Serie A","Italy","Cristián Zapata","https://www.transfermarkt.com/cristian-zapata/profil/spieler/34344","Centre-Back",25,"Colombia",39,29,0,2392,2012
+"AC Milan","Serie A","Italy","Philippe Mexès","https://www.transfermarkt.com/philippe-mexes/profil/spieler/5422","Centre-Back",30,"France",41,32,2,2837,2012
+"AC Milan","Serie A","Italy","Djamel Mesbah","https://www.transfermarkt.com/djamel-mesbah/profil/spieler/17735","Left-Back",27,"Algeria",7,2,0,155,2012
+"AC Milan","Serie A","Italy","Ignazio Abate","https://www.transfermarkt.com/ignazio-abate/profil/spieler/16631","Right-Back",25,"Italy",39,33,0,2777,2012
+"AC Milan","Serie A","Italy","Daniele Bonera","https://www.transfermarkt.com/daniele-bonera/profil/spieler/5856","Centre-Back",31,"Italy",28,17,0,1474,2012
+"AC Milan","Serie A","Italy","Dídac Vilà","https://www.transfermarkt.com/didac-vila/profil/spieler/67090","Left-Back",23,"Spain",0,0,0,0,2012
+"AC Milan","Serie A","Italy","Mario Yepes","https://www.transfermarkt.com/mario-yepes/profil/spieler/5507","Centre-Back",36,"Colombia",41,18,1,1378,2012
+"AC Milan","Serie A","Italy","Luca Antonini","https://www.transfermarkt.com/luca-antonini/profil/spieler/6792","Left-Back",29,"Italy",31,9,0,693,2012
+"AC Milan","Serie A","Italy","Cristian Zaccardo","https://www.transfermarkt.com/cristian-zaccardo/profil/spieler/5993","Centre-Back",30,"Italy",17,1,0,44,2012
+"AC Milan","Serie A","Italy","Bryan Cristante","https://www.transfermarkt.com/bryan-cristante/profil/spieler/199248","Defensive Midfield",17,"Italy",5,0,0,0,2012
+"AC Milan","Serie A","Italy","Mattia Valoti","https://www.transfermarkt.com/mattia-valoti/profil/spieler/167741","Central Midfield",18,"Italy",2,0,0,0,2012
+"AC Milan","Serie A","Italy","Sulley Muntari","https://www.transfermarkt.com/sulley-muntari/profil/spieler/17129","Central Midfield",27,"Ghana",24,18,2,1103,2012
+"AC Milan","Serie A","Italy","Antonio Nocerino","https://www.transfermarkt.com/antonio-nocerino/profil/spieler/22203","Central Midfield",27,"Italy",46,29,2,1908,2012
+"AC Milan","Serie A","Italy","Kevin-Prince Boateng","https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922","Attacking Midfield",25,"Ghana",37,37,3,2781,2012
+"AC Milan","Serie A","Italy","Bakaye Traoré","https://www.transfermarkt.com/bakaye-traore/profil/spieler/45168","Central Midfield",27,"Mali",24,9,0,143,2012
+"AC Milan","Serie A","Italy","Rodney Strasser","https://www.transfermarkt.com/rodney-strasser/profil/spieler/88712","Defensive Midfield",22,"Sierra Leone",6,1,0,77,2012
+"AC Milan","Serie A","Italy","Mathieu Flamini","https://www.transfermarkt.com/mathieu-flamini/profil/spieler/17396","Defensive Midfield",28,"France",40,22,4,1628,2012
+"AC Milan","Serie A","Italy","Riccardo Montolivo","https://www.transfermarkt.com/riccardo-montolivo/profil/spieler/19446","Defensive Midfield",27,"Italy",39,39,4,3362,2012
+"AC Milan","Serie A","Italy","Kévin Constant","https://www.transfermarkt.com/kevin-constant/profil/spieler/43760","Central Midfield",25,"Guinea",39,31,0,2289,2012
+"AC Milan","Serie A","Italy","Massimo Ambrosini","https://www.transfermarkt.com/massimo-ambrosini/profil/spieler/5818","Central Midfield",35,"Italy",34,25,0,1655,2012
+"AC Milan","Serie A","Italy","Urby Emanuelson","https://www.transfermarkt.com/urby-emanuelson/profil/spieler/20586","Central Midfield",26,"Netherlands",29,20,2,1320,2012
+"AC Milan","Serie A","Italy","Nigel de Jong","https://www.transfermarkt.com/nigel-de-jong/profil/spieler/4672","Defensive Midfield",27,"Netherlands",20,16,1,1253,2012
+"AC Milan","Serie A","Italy","Andrea Petagna","https://www.transfermarkt.com/andrea-petagna/profil/spieler/199258","Centre-Forward",17,"Italy",1,1,0,1,2012
+"AC Milan","Serie A","Italy","Stephan El Shaarawy","https://www.transfermarkt.com/stephan-el-shaarawy/profil/spieler/94529","Left Winger",19,"Italy",47,46,19,3506,2012
+"AC Milan","Serie A","Italy","M'Baye Niang","https://www.transfermarkt.com/mbaye-niang/profil/spieler/157501","Centre-Forward",17,"Senegal",37,24,1,1030,2012
+"AC Milan","Serie A","Italy","Mario Balotelli","https://www.transfermarkt.com/mario-balotelli/profil/spieler/45146","Centre-Forward",21,"Italy",13,13,12,1145,2012
+"AC Milan","Serie A","Italy","Alexandre Pato","https://www.transfermarkt.com/alexandre-pato/profil/spieler/37579","Centre-Forward",22,"Brazil",9,7,2,343,2012
+"AC Milan","Serie A","Italy","Simone Ganz","https://www.transfermarkt.com/simone-ganz/profil/spieler/160334","Centre-Forward",18,"Italy",0,0,0,0,2012
+"AC Milan","Serie A","Italy","Robinho","https://www.transfermarkt.com/robinho/profil/spieler/15511","Left Winger",28,"Brazil",34,27,2,1135,2012
+"AC Milan","Serie A","Italy","Giampaolo Pazzini","https://www.transfermarkt.com/giampaolo-pazzini/profil/spieler/19447","Centre-Forward",27,"Italy",42,37,16,2165,2012
+"AC Milan","Serie A","Italy","Bojan Krkic","https://www.transfermarkt.com/bojan-krkic/profil/spieler/44675","Second Striker",21,"Spain",41,27,3,1196,2012
+"AC Milan","Serie A","Italy","Philipp Prosenik","https://www.transfermarkt.com/philipp-prosenik/profil/spieler/81714","Centre-Forward",19,"Austria",0,0,0,0,2012
+"AC Milan","Serie A","Italy","Adrià Carmona","https://www.transfermarkt.com/adria-carmona/profil/spieler/73858","Left Winger",20,"Spain",2,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Diamante Crispino","https://www.transfermarkt.com/diamante-crispino/profil/spieler/200168","Goalkeeper",17,"Italy",2,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Morgan De Sanctis","https://www.transfermarkt.com/morgan-de-sanctis/profil/spieler/5880","Goalkeeper",35,"Italy",46,38,0,3450,2012
+"SSC Napoli","Serie A","Italy","Roberto Colombo","https://www.transfermarkt.com/roberto-colombo/profil/spieler/43411","Goalkeeper",36,"Italy",33,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Antonio Rosati","https://www.transfermarkt.com/antonio-rosati/profil/spieler/6442","Goalkeeper",29,"Italy",48,10,0,900,2012
+"SSC Napoli","Serie A","Italy","Federico Fernández","https://www.transfermarkt.com/federico-fernandez/profil/spieler/85475","Centre-Back",23,"Argentina",29,9,0,685,2012
+"SSC Napoli","Serie A","Italy","Bruno Uvini","https://www.transfermarkt.com/bruno-uvini/profil/spieler/147396","Centre-Back",21,"Brazil",14,1,0,90,2012
+"SSC Napoli","Serie A","Italy","Giuseppe Nicolao","https://www.transfermarkt.com/giuseppe-nicolao/profil/spieler/200177","Left-Back",18,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Daniele Celiento","https://www.transfermarkt.com/daniele-celiento/profil/spieler/200167","Centre-Back",17,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Emanuele Allegra","https://www.transfermarkt.com/emanuele-allegra/profil/spieler/92888","Centre-Back",18,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Leandro Rinaudo","https://www.transfermarkt.com/leandro-rinaudo/profil/spieler/21988","Centre-Back",29,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Gianluca Grava","https://www.transfermarkt.com/gianluca-grava/profil/spieler/8207","Right-Back",35,"Italy",34,2,0,146,2012
+"SSC Napoli","Serie A","Italy","Miguel Britos","https://www.transfermarkt.com/miguel-britos/profil/spieler/76799","Centre-Back",26,"Uruguay",32,27,0,2283,2012
+"SSC Napoli","Serie A","Italy","Rolando","https://www.transfermarkt.com/rolando/profil/spieler/27300","Centre-Back",26,"Portugal",18,9,0,571,2012
+"SSC Napoli","Serie A","Italy","Salvatore Aronica","https://www.transfermarkt.com/salvatore-aronica/profil/spieler/19182","Centre-Back",34,"Italy",24,10,0,643,2012
+"SSC Napoli","Serie A","Italy","Christian Maggio","https://www.transfermarkt.com/christian-maggio/profil/spieler/21151","Right-Back",30,"Italy",42,35,4,3088,2012
+"SSC Napoli","Serie A","Italy","Hugo Campagnaro","https://www.transfermarkt.com/hugo-campagnaro/profil/spieler/21782","Centre-Back",32,"Argentina",38,31,1,2713,2012
+"SSC Napoli","Serie A","Italy","Giandomenico Mesto","https://www.transfermarkt.com/giandomenico-mesto/profil/spieler/16744","Right-Back",30,"Italy",46,23,1,1265,2012
+"SSC Napoli","Serie A","Italy","Camilo Zúñiga","https://www.transfermarkt.com/camilo-zuniga/profil/spieler/37941","Right-Back",26,"Colombia",42,40,0,3055,2012
+"SSC Napoli","Serie A","Italy","Paolo Cannavaro","https://www.transfermarkt.com/paolo-cannavaro/profil/spieler/5858","Centre-Back",31,"Italy",40,35,1,3024,2012
+"SSC Napoli","Serie A","Italy","Francesco Savarise","https://www.transfermarkt.com/francesco-savarise/profil/spieler/200182","Right-Back",18,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Alessandro Gamberini","https://www.transfermarkt.com/alessandro-gamberini/profil/spieler/16868","Centre-Back",30,"Italy",44,30,1,2275,2012
+"SSC Napoli","Serie A","Italy","Josip Radosevic","https://www.transfermarkt.com/josip-radosevic/profil/spieler/160506","Defensive Midfield",18,"Croatia",6,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Omar El Kaddouri","https://www.transfermarkt.com/omar-el-kaddouri/profil/spieler/73097","Attacking Midfield",21,"Morocco",39,12,0,527,2012
+"SSC Napoli","Serie A","Italy","Giuseppe Fornito","https://www.transfermarkt.com/giuseppe-fornito/profil/spieler/167904","Central Midfield",17,"Italy",1,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Gökhan Inler","https://www.transfermarkt.com/gokhan-inler/profil/spieler/19041","Defensive Midfield",28,"Switzerland",46,39,6,2624,2012
+"SSC Napoli","Serie A","Italy","Giuseppe Palma","https://www.transfermarkt.com/giuseppe-palma/profil/spieler/200178","Central Midfield",18,"Italy",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Walter Gargano","https://www.transfermarkt.com/walter-gargano/profil/spieler/52266","Defensive Midfield",27,"Uruguay",1,1,0,52,2012
+"SSC Napoli","Serie A","Italy","Marco Donadel","https://www.transfermarkt.com/marco-donadel/profil/spieler/6427","Defensive Midfield",29,"Italy",47,13,0,769,2012
+"SSC Napoli","Serie A","Italy","Andrea Dossena","https://www.transfermarkt.com/andrea-dossena/profil/spieler/21863","Left Midfield",30,"Italy",25,15,0,866,2012
+"SSC Napoli","Serie A","Italy","Marek Hamsik","https://www.transfermarkt.com/marek-hamsik/profil/spieler/38593","Central Midfield",24,"Slovakia",44,44,11,3501,2012
+"SSC Napoli","Serie A","Italy","Blerim Dzemaili","https://www.transfermarkt.com/blerim-dzemaili/profil/spieler/9967","Central Midfield",26,"Switzerland",43,41,9,2512,2012
+"SSC Napoli","Serie A","Italy","Pablo Armero","https://www.transfermarkt.com/pablo-armero/profil/spieler/73786","Left Midfield",25,"Colombia",19,15,0,573,2012
+"SSC Napoli","Serie A","Italy","Valon Behrami","https://www.transfermarkt.com/valon-behrami/profil/spieler/21905","Defensive Midfield",27,"Switzerland",42,37,0,2969,2012
+"SSC Napoli","Serie A","Italy","Lorenzo Insigne","https://www.transfermarkt.com/lorenzo-insigne/profil/spieler/133964","Left Winger",21,"Italy",44,43,5,2129,2012
+"SSC Napoli","Serie A","Italy","Edinson Cavani","https://www.transfermarkt.com/edinson-cavani/profil/spieler/48280","Centre-Forward",25,"Uruguay",43,43,38,3653,2012
+"SSC Napoli","Serie A","Italy","Roberto Insigne","https://www.transfermarkt.com/roberto-insigne/profil/spieler/200174","Right Winger",18,"Italy",2,2,0,28,2012
+"SSC Napoli","Serie A","Italy","Eduardo Vargas","https://www.transfermarkt.com/eduardo-vargas/profil/spieler/89718","Centre-Forward",22,"Chile",27,15,3,577,2012
+"SSC Napoli","Serie A","Italy","Soma Novothny","https://www.transfermarkt.com/soma-novothny/profil/spieler/148824","Centre-Forward",18,"Hungary",0,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Davide Bariti","https://www.transfermarkt.com/davide-bariti/profil/spieler/120458","Right Winger",20,"Italy",1,0,0,0,2012
+"SSC Napoli","Serie A","Italy","Emanuele Calaiò","https://www.transfermarkt.com/emanuele-calaio/profil/spieler/22268","Centre-Forward",30,"Italy",19,8,0,233,2012
+"SSC Napoli","Serie A","Italy","Goran Pandev","https://www.transfermarkt.com/goran-pandev/profil/spieler/12563","Second Striker",28,"North Macedonia",43,41,7,2561,2012
+"ACF Fiorentina","Serie A","Italy","Neto","https://www.transfermarkt.com/neto/profil/spieler/111819","Goalkeeper",22,"Brazil",42,10,0,930,2012
+"ACF Fiorentina","Serie A","Italy","Luca Lezzerini","https://www.transfermarkt.com/luca-lezzerini/profil/spieler/135747","Goalkeeper",17,"Italy",0,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Emiliano Viviano","https://www.transfermarkt.com/emiliano-viviano/profil/spieler/24316","Goalkeeper",26,"Italy",41,32,0,2862,2012
+"ACF Fiorentina","Serie A","Italy","Cristiano Lupatelli","https://www.transfermarkt.com/cristiano-lupatelli/profil/spieler/5908","Goalkeeper",34,"Italy",38,1,0,18,2012
+"ACF Fiorentina","Serie A","Italy","Stefan Savic","https://www.transfermarkt.com/stefan-savic/profil/spieler/107010","Centre-Back",21,"Montenegro",36,27,2,2339,2012
+"ACF Fiorentina","Serie A","Italy","Ahmed Hegazy","https://www.transfermarkt.com/ahmed-hegazy/profil/spieler/111524","Centre-Back",21,"Egypt",21,3,1,121,2012
+"ACF Fiorentina","Serie A","Italy","Matija Nastasic","https://www.transfermarkt.com/matija-nastasic/profil/spieler/143559","Centre-Back",19,"Serbia",2,2,0,180,2012
+"ACF Fiorentina","Serie A","Italy","Michele Camporese","https://www.transfermarkt.com/michele-camporese/profil/spieler/62716","Centre-Back",20,"Italy",8,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Nenad Tomović","https://www.transfermarkt.com/nenad-tomovi%C4%87/profil/spieler/47085","Centre-Back",24,"Serbia",38,29,0,2350,2012
+"ACF Fiorentina","Serie A","Italy","Facundo Roncaglia","https://www.transfermarkt.com/facundo-roncaglia/profil/spieler/61546","Centre-Back",25,"Argentina",37,26,3,2318,2012
+"ACF Fiorentina","Serie A","Italy","Gonzalo Rodríguez","https://www.transfermarkt.com/gonzalo-rodriguez/profil/spieler/19998","Centre-Back",28,"Argentina",39,38,6,3422,2012
+"ACF Fiorentina","Serie A","Italy","Marvin Compper","https://www.transfermarkt.com/marvin-compper/profil/spieler/9340","Centre-Back",27,"Germany",15,7,0,600,2012
+"ACF Fiorentina","Serie A","Italy","Juan Manuel Vargas","https://www.transfermarkt.com/juan-manuel-vargas/profil/spieler/30584","Left-Back",28,"Peru",0,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Mattia Cassani","https://www.transfermarkt.com/mattia-cassani/profil/spieler/21859","Right-Back",28,"Italy",23,10,0,487,2012
+"ACF Fiorentina","Serie A","Italy","Manuel Pasqual","https://www.transfermarkt.com/manuel-pasqual/profil/spieler/23284","Left-Back",30,"Italy",41,38,3,3343,2012
+"ACF Fiorentina","Serie A","Italy","Saverio Madrigali","https://www.transfermarkt.com/saverio-madrigali/profil/spieler/197307","Centre-Back",17,"Italy",2,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Nii Nortey Ashong","https://www.transfermarkt.com/nii-nortey-ashong/profil/spieler/195290","Left-Back",17,"Ghana",0,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Matías Vecino","https://www.transfermarkt.com/matias-vecino/profil/spieler/143812","Central Midfield",20,"Uruguay",0,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Juan Cuadrado","https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970","Right Midfield",24,"Colombia",40,40,5,3238,2012
+"ACF Fiorentina","Serie A","Italy","Rafal Wolski","https://www.transfermarkt.com/rafal-wolski/profil/spieler/176514","Attacking Midfield",19,"Poland",14,1,0,30,2012
+"ACF Fiorentina","Serie A","Italy","Adem Ljajić","https://www.transfermarkt.com/adem-ljaji%C4%87/profil/spieler/69374","Attacking Midfield",20,"Serbia",37,31,12,1799,2012
+"ACF Fiorentina","Serie A","Italy","Leonardo Capezzi","https://www.transfermarkt.com/leonardo-capezzi/profil/spieler/84442","Central Midfield",17,"Italy",9,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Rômulo","https://www.transfermarkt.com/romulo/profil/spieler/121756","Central Midfield",25,"Italy",42,24,2,1242,2012
+"ACF Fiorentina","Serie A","Italy","Cristian Llama","https://www.transfermarkt.com/cristian-llama/profil/spieler/30882","Attacking Midfield",26,"Argentina",37,6,0,165,2012
+"ACF Fiorentina","Serie A","Italy","Andrea Lazzari","https://www.transfermarkt.com/andrea-lazzari/profil/spieler/19442","Central Midfield",27,"Italy",2,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Rubén Olivera","https://www.transfermarkt.com/ruben-olivera/profil/spieler/5768","Central Midfield",29,"Uruguay",18,4,0,302,2012
+"ACF Fiorentina","Serie A","Italy","Mohamed Sissoko","https://www.transfermarkt.com/mohamed-sissoko/profil/spieler/6119","Defensive Midfield",27,"Mali",10,5,0,116,2012
+"ACF Fiorentina","Serie A","Italy","David Pizarro","https://www.transfermarkt.com/david-pizarro/profil/spieler/5896","Central Midfield",32,"Chile",36,31,3,2658,2012
+"ACF Fiorentina","Serie A","Italy","Alberto Aquilani","https://www.transfermarkt.com/alberto-aquilani/profil/spieler/5957","Central Midfield",27,"Italy",30,27,7,1857,2012
+"ACF Fiorentina","Serie A","Italy","Matías Fernández","https://www.transfermarkt.com/matias-fernandez/profil/spieler/37918","Attacking Midfield",26,"Chile",33,25,1,1179,2012
+"ACF Fiorentina","Serie A","Italy","Francesco Della Rocca","https://www.transfermarkt.com/francesco-della-rocca/profil/spieler/56889","Central Midfield",24,"Italy",11,1,0,14,2012
+"ACF Fiorentina","Serie A","Italy","Borja Valero","https://www.transfermarkt.com/borja-valero/profil/spieler/40372","Central Midfield",27,"Spain",41,41,2,3627,2012
+"ACF Fiorentina","Serie A","Italy","Giulio Migliaccio","https://www.transfermarkt.com/giulio-migliaccio/profil/spieler/21756","Central Midfield",31,"Italy",39,27,1,1162,2012
+"ACF Fiorentina","Serie A","Italy","Federico Bernardeschi","https://www.transfermarkt.com/federico-bernardeschi/profil/spieler/197300","Right Winger",18,"Italy",6,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Haris Seferovic","https://www.transfermarkt.com/haris-seferovic/profil/spieler/109256","Centre-Forward",20,"Switzerland",25,9,1,364,2012
+"ACF Fiorentina","Serie A","Italy","Stevan Jovetic","https://www.transfermarkt.com/stevan-jovetic/profil/spieler/46104","Centre-Forward",22,"Montenegro",36,34,13,2751,2012
+"ACF Fiorentina","Serie A","Italy","Kenneth Zohore","https://www.transfermarkt.com/kenneth-zohore/profil/spieler/135213","Centre-Forward",18,"Denmark",0,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Marcelo Larrondo","https://www.transfermarkt.com/marcelo-larrondo/profil/spieler/87463","Centre-Forward",23,"Chile",15,7,2,271,2012
+"ACF Fiorentina","Serie A","Italy","Alessio Cerci","https://www.transfermarkt.com/alessio-cerci/profil/spieler/21748","Right Winger",24,"Italy",1,0,0,0,2012
+"ACF Fiorentina","Serie A","Italy","Mounir El Hamdaoui","https://www.transfermarkt.com/mounir-el-hamdaoui/profil/spieler/21490","Centre-Forward",27,"Morocco",28,20,3,648,2012
+"ACF Fiorentina","Serie A","Italy","Luca Toni","https://www.transfermarkt.com/luca-toni/profil/spieler/5980","Centre-Forward",35,"Italy",36,28,8,1398,2012
+"ACF Fiorentina","Serie A","Italy","Giuseppe Rossi","https://www.transfermarkt.com/giuseppe-rossi/profil/spieler/19104","Centre-Forward",25,"Italy",3,1,0,26,2012
+"AS Roma","Serie A","Italy","Tomas Svedkauskas","https://www.transfermarkt.com/tomas-svedkauskas/profil/spieler/206844","Goalkeeper",18,"Lithuania",18,0,0,0,2012
+"AS Roma","Serie A","Italy","Mauro Goicoechea","https://www.transfermarkt.com/mauro-goicoechea/profil/spieler/72578","Goalkeeper",24,"Uruguay",40,16,0,1378,2012
+"AS Roma","Serie A","Italy","Júlio Sérgio","https://www.transfermarkt.com/julio-sergio/profil/spieler/20052","Goalkeeper",33,"Brazil",0,0,0,0,2012
+"AS Roma","Serie A","Italy","Bogdan Lobont","https://www.transfermarkt.com/bogdan-lobont/profil/spieler/4310","Goalkeeper",34,"Romania",32,6,0,496,2012
+"AS Roma","Serie A","Italy","Maarten Stekelenburg","https://www.transfermarkt.com/maarten-stekelenburg/profil/spieler/4311","Goalkeeper",29,"Netherlands",30,22,0,1936,2012
+"AS Roma","Serie A","Italy","Marquinhos","https://www.transfermarkt.com/marquinhos/profil/spieler/181767","Centre-Back",18,"Brazil",36,30,0,2448,2012
+"AS Roma","Serie A","Italy","Alessio Romagnoli","https://www.transfermarkt.com/alessio-romagnoli/profil/spieler/197747","Centre-Back",17,"Italy",37,3,1,190,2012
+"AS Roma","Serie A","Italy","Alessandro Florenzi","https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365","Right-Back",21,"Italy",42,39,4,2392,2012
+"AS Roma","Serie A","Italy","Loïc Nego","https://www.transfermarkt.com/loic-nego/profil/spieler/122840","Right-Back",21,"Hungary",0,0,0,0,2012
+"AS Roma","Serie A","Italy","Dodô","https://www.transfermarkt.com/dodo/profil/spieler/109038","Left-Back",20,"Brazil",30,15,0,732,2012
+"AS Roma","Serie A","Italy","Iván Piris","https://www.transfermarkt.com/ivan-piris/profil/spieler/125251","Right-Back",23,"Paraguay",41,32,0,2673,2012
+"AS Roma","Serie A","Italy","Leandro Castán","https://www.transfermarkt.com/leandro-castan/profil/spieler/54929","Centre-Back",25,"Brazil",38,34,1,3014,2012
+"AS Roma","Serie A","Italy","Luca Antei","https://www.transfermarkt.com/luca-antei/profil/spieler/146743","Centre-Back",20,"Italy",1,0,0,0,2012
+"AS Roma","Serie A","Italy","Nicolás Burdisso","https://www.transfermarkt.com/nicolas-burdisso/profil/spieler/3417","Centre-Back",31,"Argentina",38,29,1,2640,2012
+"AS Roma","Serie A","Italy","Vasilios Torosidis","https://www.transfermarkt.com/vasilios-torosidis/profil/spieler/24977","Right-Back",27,"Greece",17,12,2,911,2012
+"AS Roma","Serie A","Italy","Massimo Sammartino","https://www.transfermarkt.com/massimo-sammartino/profil/spieler/239599","Left-Back",16,"Italy",1,0,0,0,2012
+"AS Roma","Serie A","Italy","Federico Balzaretti","https://www.transfermarkt.com/federico-balzaretti/profil/spieler/21876","Left-Back",30,"Italy",33,32,0,2352,2012
+"AS Roma","Serie A","Italy","Miralem Pjanic","https://www.transfermarkt.com/miralem-pjanic/profil/spieler/44162","Central Midfield",22,"Bosnia-Herzegovina",35,29,4,1899,2012
+"AS Roma","Serie A","Italy","Matteo Ricci","https://www.transfermarkt.com/matteo-ricci/profil/spieler/198087","Defensive Midfield",18,"Italy",0,0,0,0,2012
+"AS Roma","Serie A","Italy","Panagiotis Tachtsidis","https://www.transfermarkt.com/panagiotis-tachtsidis/profil/spieler/62415","Defensive Midfield",21,"Greece",39,23,1,1548,2012
+"AS Roma","Serie A","Italy","Jonatan Lucca","https://www.transfermarkt.com/jonatan-lucca/profil/spieler/232577","Central Midfield",18,"Brazil",17,0,0,0,2012
+"AS Roma","Serie A","Italy","Michael Bradley","https://www.transfermarkt.com/michael-bradley/profil/spieler/30593","Central Midfield",24,"United States",38,35,1,2682,2012
+"AS Roma","Serie A","Italy","Marco Frediani","https://www.transfermarkt.com/marco-frediani/profil/spieler/198084","Attacking Midfield",18,"Italy",1,0,0,0,2012
+"AS Roma","Serie A","Italy","Marquinho","https://www.transfermarkt.com/marquinho/profil/spieler/53288","Attacking Midfield",25,"Brazil",38,30,4,1470,2012
+"AS Roma","Serie A","Italy","Daniele De Rossi","https://www.transfermarkt.com/daniele-de-rossi/profil/spieler/5947","Defensive Midfield",28,"Italy",32,29,0,2140,2012
+"AS Roma","Serie A","Italy","Simone Perrotta","https://www.transfermarkt.com/simone-perrotta/profil/spieler/5922","Attacking Midfield",34,"Italy",36,17,2,589,2012
+"AS Roma","Serie A","Italy","Erik Lamela","https://www.transfermarkt.com/erik-lamela/profil/spieler/111630","Right Winger",20,"Argentina",37,36,15,2858,2012
+"AS Roma","Serie A","Italy","Nicolás López","https://www.transfermarkt.com/nicolas-lopez/profil/spieler/185593","Centre-Forward",18,"Uruguay",34,7,1,147,2012
+"AS Roma","Serie A","Italy","Mattia Destro","https://www.transfermarkt.com/mattia-destro/profil/spieler/88683","Centre-Forward",21,"Italy",30,26,11,1537,2012
+"AS Roma","Serie A","Italy","Federico Ricci","https://www.transfermarkt.com/federico-ricci/profil/spieler/198086","Right Winger",18,"Italy",1,0,0,0,2012
+"AS Roma","Serie A","Italy","Junior Tallo","https://www.transfermarkt.com/junior-tallo/profil/spieler/145416","Centre-Forward",19,"Cote d'Ivoire",3,0,0,0,2012
+"AS Roma","Serie A","Italy","Alexis Ferrante","https://www.transfermarkt.com/alexis-ferrante/profil/spieler/176023","Centre-Forward",17,"Italy",1,0,0,0,2012
+"AS Roma","Serie A","Italy","Daniel Osvaldo","https://www.transfermarkt.com/daniel-osvaldo/profil/spieler/37389","Centre-Forward",26,"Italy",35,31,17,2384,2012
+"AS Roma","Serie A","Italy","Francesco Totti","https://www.transfermarkt.com/francesco-totti/profil/spieler/5958","Second Striker",35,"Italy",39,37,12,3084,2012
+"AS Roma","Serie A","Italy","Rodrigo Taddei","https://www.transfermarkt.com/rodrigo-taddei/profil/spieler/15342","Right Winger",32,"Brazil",32,6,0,266,2012
+"AS Roma","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",30,"Italy",0,0,0,0,2012
+"AS Roma","Serie A","Italy","Bojan Krkic","https://www.transfermarkt.com/bojan-krkic/profil/spieler/44675","Second Striker",21,"Spain",1,0,0,0,2012
+"SS Lazio","Serie A","Italy","Thomas Strakosha","https://www.transfermarkt.com/thomas-strakosha/profil/spieler/222209","Goalkeeper",17,"Albania",13,0,0,0,2012
+"SS Lazio","Serie A","Italy","Alessandro Berardi","https://www.transfermarkt.com/alessandro-berardi/profil/spieler/127217","Goalkeeper",21,"Italy",1,0,0,0,2012
+"SS Lazio","Serie A","Italy","Federico Marchetti","https://www.transfermarkt.com/federico-marchetti/profil/spieler/22318","Goalkeeper",29,"Italy",49,46,0,4093,2012
+"SS Lazio","Serie A","Italy","Guido Guerrieri","https://www.transfermarkt.com/guido-guerrieri/profil/spieler/256996","Goalkeeper",16,"Italy",4,0,0,0,2012
+"SS Lazio","Serie A","Italy","Albano Bizzarri","https://www.transfermarkt.com/albano-bizzarri/profil/spieler/7797","Goalkeeper",34,"Argentina",57,11,0,947,2012
+"SS Lazio","Serie A","Italy","Tiziano Scarfagna","https://www.transfermarkt.com/tiziano-scarfagna/profil/spieler/168253","Goalkeeper",18,"Italy",7,0,0,0,2012
+"SS Lazio","Serie A","Italy","Juan Pablo Carrizo","https://www.transfermarkt.com/juan-pablo-carrizo/profil/spieler/39118","Goalkeeper",28,"Argentina",25,1,0,120,2012
+"SS Lazio","Serie A","Italy","Luis Pedro Cavanda","https://www.transfermarkt.com/luis-pedro-cavanda/profil/spieler/102192","Right-Back",21,"Belgium",32,24,0,1672,2012
+"SS Lazio","Serie A","Italy","Tommaso Mazzei","https://www.transfermarkt.com/tommaso-mazzei/profil/spieler/240352","Centre-Back",17,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Lorenzo Filippini","https://www.transfermarkt.com/lorenzo-filippini/profil/spieler/240342","Left-Back",16,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Modibo Diakité","https://www.transfermarkt.com/modibo-diakite/profil/spieler/41749","Centre-Back",25,"France",8,1,0,83,2012
+"SS Lazio","Serie A","Italy","Michaël Ciani","https://www.transfermarkt.com/michael-ciani/profil/spieler/12906","Centre-Back",28,"France",51,34,1,2302,2012
+"SS Lazio","Serie A","Italy","André Dias","https://www.transfermarkt.com/andre-dias/profil/spieler/52918","Centre-Back",33,"Brazil",38,34,0,2759,2012
+"SS Lazio","Serie A","Italy","Lionel Scaloni","https://www.transfermarkt.com/lionel-scaloni/profil/spieler/7499","Right-Back",34,"Argentina",32,7,0,331,2012
+"SS Lazio","Serie A","Italy","Giuseppe Biava","https://www.transfermarkt.com/giuseppe-biava/profil/spieler/20913","Centre-Back",35,"Italy",54,43,1,3663,2012
+"SS Lazio","Serie A","Italy","Stefan Radu","https://www.transfermarkt.com/stefan-radu/profil/spieler/44420","Left-Back",25,"Romania",41,36,3,2990,2012
+"SS Lazio","Serie A","Italy","Abdoulay Konko","https://www.transfermarkt.com/abdoulay-konko/profil/spieler/22139","Right-Back",28,"France",37,34,1,2737,2012
+"SS Lazio","Serie A","Italy","Marius Stankevicius","https://www.transfermarkt.com/marius-stankevicius/profil/spieler/5966","Centre-Back",30,"Lithuania",19,3,0,152,2012
+"SS Lazio","Serie A","Italy","Aurimas Vilkaitis","https://www.transfermarkt.com/aurimas-vilkaitis/profil/spieler/167378","Centre-Back",19,"Lithuania",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Fabrizio Bianchi","https://www.transfermarkt.com/fabrizio-bianchi/profil/spieler/245268","Centre-Back",16,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Lorenzo Silvagni","https://www.transfermarkt.com/lorenzo-silvagni/profil/spieler/244764","Centre-Back",17,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Riccardo Serpieri","https://www.transfermarkt.com/riccardo-serpieri/profil/spieler/199749","Centre-Back",18,"Italy",1,0,0,0,2012
+"SS Lazio","Serie A","Italy","Luciano Zauri","https://www.transfermarkt.com/luciano-zauri/profil/spieler/6832","Right-Back",34,"Italy",10,0,0,0,2012
+"SS Lazio","Serie A","Italy","Danilo Cataldi","https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733","Defensive Midfield",17,"Italy",3,0,0,0,2012
+"SS Lazio","Serie A","Italy","Antonio Candreva","https://www.transfermarkt.com/antonio-candreva/profil/spieler/25488","Right Midfield",25,"Italy",52,49,7,3698,2012
+"SS Lazio","Serie A","Italy","Luca Crecco","https://www.transfermarkt.com/luca-crecco/profil/spieler/228604","Left Midfield",16,"Italy",13,1,0,23,2012
+"SS Lazio","Serie A","Italy","Ogenyi Onazi","https://www.transfermarkt.com/ogenyi-onazi/profil/spieler/131709","Defensive Midfield",19,"Nigeria",44,28,2,1694,2012
+"SS Lazio","Serie A","Italy","Álvaro González","https://www.transfermarkt.com/alvaro-gonzalez/profil/spieler/55957","Central Midfield",27,"Uruguay",53,49,3,3540,2012
+"SS Lazio","Serie A","Italy","Pasquale Foggia","https://www.transfermarkt.com/pasquale-foggia/profil/spieler/17175","Attacking Midfield",29,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Stefano Mauri","https://www.transfermarkt.com/stefano-mauri/profil/spieler/6043","Attacking Midfield",32,"Italy",44,36,4,2546,2012
+"SS Lazio","Serie A","Italy","Ederson","https://www.transfermarkt.com/ederson/profil/spieler/29035","Attacking Midfield",26,"Brazil",29,23,3,856,2012
+"SS Lazio","Serie A","Italy","Hernanes","https://www.transfermarkt.com/hernanes/profil/spieler/52897","Attacking Midfield",27,"Brazil",53,53,14,4037,2012
+"SS Lazio","Serie A","Italy","Senad Lulic","https://www.transfermarkt.com/senad-lulic/profil/spieler/61449","Left Midfield",26,"Bosnia-Herzegovina",51,50,3,3930,2012
+"SS Lazio","Serie A","Italy","Cristian Ledesma","https://www.transfermarkt.com/cristian-ledesma/profil/spieler/6438","Defensive Midfield",29,"Italy",54,52,1,4065,2012
+"SS Lazio","Serie A","Italy","Lorik Cana","https://www.transfermarkt.com/lorik-cana/profil/spieler/12149","Defensive Midfield",28,"Albania",48,38,0,2466,2012
+"SS Lazio","Serie A","Italy","Cristian Brocchi","https://www.transfermarkt.com/cristian-brocchi/profil/spieler/5812","Central Midfield",36,"Italy",16,11,0,283,2012
+"SS Lazio","Serie A","Italy","Claudio Andreoli","https://www.transfermarkt.com/claudio-andreoli/profil/spieler/199730","midfield",18,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Lorenzo Pace","https://www.transfermarkt.com/lorenzo-pace/profil/spieler/252027","Defensive Midfield",17,"Italy",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Milos Antic","https://www.transfermarkt.com/milos-antic/profil/spieler/183124","Central Midfield",17,"Serbia",2,0,0,0,2012
+"SS Lazio","Serie A","Italy","Keita Baldé","https://www.transfermarkt.com/keita-balde/profil/spieler/238752","Centre-Forward",17,"Senegal",1,0,0,0,2012
+"SS Lazio","Serie A","Italy","Libor Kozak","https://www.transfermarkt.com/libor-kozak/profil/spieler/63824","Centre-Forward",23,"Czech Republic",56,31,10,1536,2012
+"SS Lazio","Serie A","Italy","Mauro Zárate","https://www.transfermarkt.com/mauro-zarate/profil/spieler/26456","Centre-Forward",25,"Argentina",16,7,1,327,2012
+"SS Lazio","Serie A","Italy","Gonzalo Barreto","https://www.transfermarkt.com/gonzalo-barreto/profil/spieler/125505","Centre-Forward",20,"Uruguay",0,0,0,0,2012
+"SS Lazio","Serie A","Italy","Cristiano Lombardi","https://www.transfermarkt.com/cristiano-lombardi/profil/spieler/240349","Right Winger",16,"Italy",2,0,0,0,2012
+"SS Lazio","Serie A","Italy","Antonio Rozzi","https://www.transfermarkt.com/antonio-rozzi/profil/spieler/162957","Centre-Forward",18,"Italy",29,4,0,92,2012
+"SS Lazio","Serie A","Italy","Tommaso Rocchi","https://www.transfermarkt.com/tommaso-rocchi/profil/spieler/6026","Centre-Forward",34,"Italy",14,3,0,155,2012
+"SS Lazio","Serie A","Italy","Miroslav Klose","https://www.transfermarkt.com/miroslav-klose/profil/spieler/10","Centre-Forward",34,"Germany",38,36,16,2585,2012
+"SS Lazio","Serie A","Italy","Pereirinha","https://www.transfermarkt.com/pereirinha/profil/spieler/45889","Right Winger",24,"Portugal",15,11,0,611,2012
+"SS Lazio","Serie A","Italy","Louis Saha","https://www.transfermarkt.com/louis-saha/profil/spieler/4015","Centre-Forward",33,"France",14,6,0,126,2012
+"SS Lazio","Serie A","Italy","Sergio Floccari","https://www.transfermarkt.com/sergio-floccari/profil/spieler/30638","Centre-Forward",30,"Italy",52,36,10,2056,2012
+"Udinese Calcio","Serie A","Italy","Simone Scuffet","https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993","Goalkeeper",16,"Italy",7,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Rafael Romo","https://www.transfermarkt.com/rafael-romo/profil/spieler/101031","Goalkeeper",22,"Venezuela",1,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Daniele Padelli","https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807","Goalkeeper",26,"Italy",44,12,0,1027,2012
+"Udinese Calcio","Serie A","Italy","Zeljko Brkic","https://www.transfermarkt.com/zeljko-brkic/profil/spieler/37278","Goalkeeper",25,"Serbia",39,37,0,3233,2012
+"Udinese Calcio","Serie A","Italy","Alessandro Favaro","https://www.transfermarkt.com/alessandro-favaro/profil/spieler/241069","Goalkeeper",16,"Italy",5,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Wojciech Pawlowski","https://www.transfermarkt.com/wojciech-pawlowski/profil/spieler/138456","Goalkeeper",19,"Poland",30,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Davide Faraoni","https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926","Right-Back",20,"Italy",44,17,0,970,2012
+"Udinese Calcio","Serie A","Italy","Gabriel Silva","https://www.transfermarkt.com/gabriel-silva/profil/spieler/114340","Left-Back",21,"Brazil",35,19,1,1317,2012
+"Udinese Calcio","Serie A","Italy","Filippo Berra","https://www.transfermarkt.com/filippo-berra/profil/spieler/213952","Right-Back",17,"Italy",8,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Max Reinthaler","https://www.transfermarkt.com/max-reinthaler/profil/spieler/202838","Centre-Back",17,"Italy",8,1,0,25,2012
+"Udinese Calcio","Serie A","Italy","Gabriele Angella","https://www.transfermarkt.com/gabriele-angella/profil/spieler/86793","Centre-Back",23,"Italy",38,15,4,1161,2012
+"Udinese Calcio","Serie A","Italy","Andrea Coda","https://www.transfermarkt.com/andrea-coda/profil/spieler/28833","Centre-Back",27,"Italy",29,13,1,1018,2012
+"Udinese Calcio","Serie A","Italy","Marco Frison","https://www.transfermarkt.com/marco-frison/profil/spieler/240409","Centre-Back",17,"Italy",1,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Tom Syku","https://www.transfermarkt.com/tom-syku/profil/spieler/204073","Centre-Back",16,"Albania",1,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Danilo","https://www.transfermarkt.com/danilo/profil/spieler/32816","Centre-Back",28,"Brazil",41,41,2,3657,2012
+"Udinese Calcio","Serie A","Italy","Dusan Basta","https://www.transfermarkt.com/dusan-basta/profil/spieler/19694","Right-Back",27,"Serbia",36,34,2,2851,2012
+"Udinese Calcio","Serie A","Italy","Maurizio Domizzi","https://www.transfermarkt.com/maurizio-domizzi/profil/spieler/6750","Centre-Back",32,"Italy",39,37,2,3147,2012
+"Udinese Calcio","Serie A","Italy","Neuton","https://www.transfermarkt.com/neuton/profil/spieler/105468","Centre-Back",22,"Brazil",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Medhi Benatia","https://www.transfermarkt.com/medhi-benatia/profil/spieler/45124","Centre-Back",25,"Morocco",27,25,2,2114,2012
+"Udinese Calcio","Serie A","Italy","Matías Campos Toro","https://www.transfermarkt.com/matias-campos-toro/profil/spieler/73408","Left-Back",23,"Chile",18,4,0,83,2012
+"Udinese Calcio","Serie A","Italy","Giovanni Pasquale","https://www.transfermarkt.com/giovanni-pasquale/profil/spieler/5793","Left-Back",30,"Italy",37,23,2,1708,2012
+"Udinese Calcio","Serie A","Italy","Luca Corrado","https://www.transfermarkt.com/luca-corrado/profil/spieler/197918","Centre-Back",18,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Thomas Heurtaux","https://www.transfermarkt.com/thomas-heurtaux/profil/spieler/109598","Centre-Back",23,"France",43,20,0,1525,2012
+"Udinese Calcio","Serie A","Italy","Piotr Zielinski","https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136","Central Midfield",18,"Poland",26,9,0,315,2012
+"Udinese Calcio","Serie A","Italy","Allan","https://www.transfermarkt.com/allan/profil/spieler/126422","Defensive Midfield",21,"Brazil",37,37,0,3127,2012
+"Udinese Calcio","Serie A","Italy","Roberto Pereyra","https://www.transfermarkt.com/roberto-pereyra/profil/spieler/112302","Central Midfield",21,"Argentina",47,46,5,3424,2012
+"Udinese Calcio","Serie A","Italy","Alexander Merkel","https://www.transfermarkt.com/alexander-merkel/profil/spieler/86926","Central Midfield",20,"Kazakhstan",19,5,0,118,2012
+"Udinese Calcio","Serie A","Italy","Cristian Battocchio","https://www.transfermarkt.com/cristian-battocchio/profil/spieler/129868","Central Midfield",20,"Italy",1,1,0,90,2012
+"Udinese Calcio","Serie A","Italy","Luca Baldassin","https://www.transfermarkt.com/luca-baldassin/profil/spieler/166557","Central Midfield",18,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Diego Rodríguez","https://www.transfermarkt.com/diego-rodriguez/profil/spieler/127828","Defensive Midfield",22,"Uruguay",15,1,0,1,2012
+"Udinese Calcio","Serie A","Italy","Emmanuel Badu","https://www.transfermarkt.com/emmanuel-badu/profil/spieler/108484","Central Midfield",21,"Ghana",35,32,0,1991,2012
+"Udinese Calcio","Serie A","Italy","Andrea Lazzari","https://www.transfermarkt.com/andrea-lazzari/profil/spieler/19442","Central Midfield",27,"Italy",29,29,1,2045,2012
+"Udinese Calcio","Serie A","Italy","Pablo Armero","https://www.transfermarkt.com/pablo-armero/profil/spieler/73786","Left Midfield",25,"Colombia",24,18,1,1434,2012
+"Udinese Calcio","Serie A","Italy","Marco Piscopo","https://www.transfermarkt.com/marco-piscopo/profil/spieler/57305","Central Midfield",18,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Giampiero Pinzi","https://www.transfermarkt.com/giampiero-pinzi/profil/spieler/5893","Central Midfield",31,"Italy",27,25,3,1784,2012
+"Udinese Calcio","Serie A","Italy","Willians","https://www.transfermarkt.com/willians/profil/spieler/76092","Defensive Midfield",26,"Brazil",22,12,0,609,2012
+"Udinese Calcio","Serie A","Italy","Luis Muriel","https://www.transfermarkt.com/luis-muriel/profil/spieler/119228","Centre-Forward",21,"Colombia",26,23,11,1426,2012
+"Udinese Calcio","Serie A","Italy","Fernando Forestieri","https://www.transfermarkt.com/fernando-forestieri/profil/spieler/44948","Second Striker",22,"Italy",1,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Davide Marsura","https://www.transfermarkt.com/davide-marsura/profil/spieler/163078","Left Winger",18,"Italy",4,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Diego Fabbrini","https://www.transfermarkt.com/diego-fabbrini/profil/spieler/56903","Left Winger",21,"Italy",29,14,1,831,2012
+"Udinese Calcio","Serie A","Italy","Federico Gerardi","https://www.transfermarkt.com/federico-gerardi/profil/spieler/44368","Centre-Forward",24,"Italy",1,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Barreto","https://www.transfermarkt.com/barreto/profil/spieler/23345","Second Striker",26,"Brazil",15,4,0,151,2012
+"Udinese Calcio","Serie A","Italy","Antonio Di Natale","https://www.transfermarkt.com/antonio-di-natale/profil/spieler/6031","Centre-Forward",34,"Italy",44,42,26,3345,2012
+"Udinese Calcio","Serie A","Italy","Mathias Ranégie","https://www.transfermarkt.com/mathias-ranegie/profil/spieler/46477","Centre-Forward",28,"Sweden",41,26,1,793,2012
+"Udinese Calcio","Serie A","Italy","Riccardo Dimitrio","https://www.transfermarkt.com/riccardo-dimitrio/profil/spieler/197921","Left Winger",17,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Ruben D'Incà","https://www.transfermarkt.com/ruben-dinca/profil/spieler/197919","Right Winger",18,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Marco Sellan","https://www.transfermarkt.com/marco-sellan/profil/spieler/177875","Centre-Forward",18,"Italy",0,0,0,0,2012
+"Udinese Calcio","Serie A","Italy","Maicosuel","https://www.transfermarkt.com/maicosuel/profil/spieler/54183","Left Winger",26,"Brazil",40,23,2,1272,2012
+"Genoa CFC","Serie A","Italy","Antonio Donnarumma","https://www.transfermarkt.com/antonio-donnarumma/profil/spieler/88685","Goalkeeper",21,"Italy",28,1,0,90,2012
+"Genoa CFC","Serie A","Italy","Lukas Zima","https://www.transfermarkt.com/lukas-zima/profil/spieler/147558","Goalkeeper",18,"Czech Republic",1,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Sébastien Frey","https://www.transfermarkt.com/sebastien-frey/profil/spieler/5854","Goalkeeper",32,"France",37,37,0,3360,2012
+"Genoa CFC","Serie A","Italy","Alexandros Tzorvas","https://www.transfermarkt.com/alexandros-tzorvas/profil/spieler/24284","Goalkeeper",29,"Greece",34,1,0,90,2012
+"Genoa CFC","Serie A","Italy","Robert Stillo","https://www.transfermarkt.com/robert-stillo/profil/spieler/56760","Goalkeeper",21,"Canada",15,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Mario Sampirisi","https://www.transfermarkt.com/mario-sampirisi/profil/spieler/160357","Right-Back",19,"Italy",21,16,0,1300,2012
+"Genoa CFC","Serie A","Italy","Luka Krajnc","https://www.transfermarkt.com/luka-krajnc/profil/spieler/138584","Centre-Back",17,"Slovenia",6,3,0,65,2012
+"Genoa CFC","Serie A","Italy","Nenad Tomović","https://www.transfermarkt.com/nenad-tomovi%C4%87/profil/spieler/47085","Centre-Back",24,"Serbia",2,1,0,120,2012
+"Genoa CFC","Serie A","Italy","Eros Pisano","https://www.transfermarkt.com/eros-pisano/profil/spieler/56609","Right-Back",25,"Italy",19,10,1,671,2012
+"Genoa CFC","Serie A","Italy","Cesare Bovo","https://www.transfermarkt.com/cesare-bovo/profil/spieler/5946","Centre-Back",29,"Italy",25,13,0,954,2012
+"Genoa CFC","Serie A","Italy","Damiano Ferronetti","https://www.transfermarkt.com/damiano-ferronetti/profil/spieler/5948","Centre-Back",27,"Italy",14,4,0,127,2012
+"Genoa CFC","Serie A","Italy","Andreas Granqvist","https://www.transfermarkt.com/andreas-granqvist/profil/spieler/29213","Centre-Back",27,"Sweden",37,36,1,3024,2012
+"Genoa CFC","Serie A","Italy","Juan Manuel Vargas","https://www.transfermarkt.com/juan-manuel-vargas/profil/spieler/30584","Left-Back",28,"Peru",21,20,0,1343,2012
+"Genoa CFC","Serie A","Italy","Luca Antonelli","https://www.transfermarkt.com/luca-antonelli/profil/spieler/45565","Left-Back",25,"Italy",35,34,1,2884,2012
+"Genoa CFC","Serie A","Italy","Giandomenico Mesto","https://www.transfermarkt.com/giandomenico-mesto/profil/spieler/16744","Right-Back",30,"Italy",2,2,1,210,2012
+"Genoa CFC","Serie A","Italy","Alberto Marchiori","https://www.transfermarkt.com/alberto-marchiori/profil/spieler/167853","Centre-Back",19,"Italy",1,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Thomas Manfredini","https://www.transfermarkt.com/thomas-manfredini/profil/spieler/5889","Centre-Back",32,"Italy",15,14,0,1236,2012
+"Genoa CFC","Serie A","Italy","Michele Canini","https://www.transfermarkt.com/michele-canini/profil/spieler/19438","Centre-Back",27,"Italy",19,15,0,1380,2012
+"Genoa CFC","Serie A","Italy","Emiliano Moretti","https://www.transfermarkt.com/emiliano-moretti/profil/spieler/5755","Centre-Back",31,"Italy",37,34,0,2417,2012
+"Genoa CFC","Serie A","Italy","Mattia Cassani","https://www.transfermarkt.com/mattia-cassani/profil/spieler/21859","Right-Back",28,"Italy",14,5,0,179,2012
+"Genoa CFC","Serie A","Italy","Daniele Portanova","https://www.transfermarkt.com/daniele-portanova/profil/spieler/21696","Centre-Back",33,"Italy",15,15,1,1350,2012
+"Genoa CFC","Serie A","Italy","Andrea Bertolacci","https://www.transfermarkt.com/andrea-bertolacci/profil/spieler/99227","Central Midfield",21,"Italy",36,29,4,2027,2012
+"Genoa CFC","Serie A","Italy","Juraj Kucka","https://www.transfermarkt.com/juraj-kucka/profil/spieler/74943","Central Midfield",25,"Slovakia",33,33,3,2819,2012
+"Genoa CFC","Serie A","Italy","Alexander Merkel","https://www.transfermarkt.com/alexander-merkel/profil/spieler/86926","Central Midfield",20,"Kazakhstan",18,7,1,346,2012
+"Genoa CFC","Serie A","Italy","Anselmo","https://www.transfermarkt.com/anselmo/profil/spieler/114341","Defensive Midfield",23,"Brazil",10,5,0,131,2012
+"Genoa CFC","Serie A","Italy","Cristobal Jorquera","https://www.transfermarkt.com/cristobal-jorquera/profil/spieler/66280","Attacking Midfield",23,"Chile",27,13,0,486,2012
+"Genoa CFC","Serie A","Italy","Davide Biondini","https://www.transfermarkt.com/davide-biondini/profil/spieler/22186","Central Midfield",29,"Italy",1,1,0,76,2012
+"Genoa CFC","Serie A","Italy","Marco Rossi","https://www.transfermarkt.com/marco-rossi/profil/spieler/21955","Right Midfield",34,"Italy",16,15,0,819,2012
+"Genoa CFC","Serie A","Italy","Rubén Olivera","https://www.transfermarkt.com/ruben-olivera/profil/spieler/5768","Central Midfield",29,"Uruguay",8,5,0,166,2012
+"Genoa CFC","Serie A","Italy","Marco Rigoni","https://www.transfermarkt.com/marco-rigoni/profil/spieler/21954","Central Midfield",32,"Italy",16,13,1,687,2012
+"Genoa CFC","Serie A","Italy","Felipe Seymour","https://www.transfermarkt.com/felipe-seymour/profil/spieler/83891","Defensive Midfield",24,"Chile",20,16,0,884,2012
+"Genoa CFC","Serie A","Italy","Valter Birsa","https://www.transfermarkt.com/valter-birsa/profil/spieler/26105","Attacking Midfield",25,"Slovenia",1,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Moro Alhassan","https://www.transfermarkt.com/moro-alhassan/profil/spieler/241326","Defensive Midfield",18,"Ghana",3,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Matuzalém","https://www.transfermarkt.com/matuzalem/profil/spieler/5974","Defensive Midfield",32,"Brazil",15,15,1,1279,2012
+"Genoa CFC","Serie A","Italy","Dániel Tőzsér","https://www.transfermarkt.com/daniel-t%C5%91zser/profil/spieler/15888","Central Midfield",27,"Hungary",38,22,0,1336,2012
+"Genoa CFC","Serie A","Italy","Ciro Immobile","https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521","Centre-Forward",22,"Italy",38,34,5,2064,2012
+"Genoa CFC","Serie A","Italy","Said Ahmed Said","https://www.transfermarkt.com/said-ahmed-said/profil/spieler/45529","Centre-Forward",19,"Italy",12,5,1,120,2012
+"Genoa CFC","Serie A","Italy","Linus Hallenius","https://www.transfermarkt.com/linus-hallenius/profil/spieler/50587","Centre-Forward",23,"Sweden",10,1,0,46,2012
+"Genoa CFC","Serie A","Italy","Leonardo Melazzi","https://www.transfermarkt.com/leonardo-melazzi/profil/spieler/135560","Right Winger",21,"Uruguay",17,2,0,29,2012
+"Genoa CFC","Serie A","Italy","Giammario Piscitella","https://www.transfermarkt.com/giammario-piscitella/profil/spieler/165894","Left Winger",19,"Italy",18,6,0,121,2012
+"Genoa CFC","Serie A","Italy","Alberto Gilardino","https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878","Centre-Forward",29,"Italy",1,1,0,120,2012
+"Genoa CFC","Serie A","Italy","Boško Janković","https://www.transfermarkt.com/bo-scaron-ko-jankovi%C4%87/profil/spieler/19708","Right Winger",28,"Serbia",26,20,4,1548,2012
+"Genoa CFC","Serie A","Italy","Marco Borriello","https://www.transfermarkt.com/marco-borriello/profil/spieler/5825","Centre-Forward",30,"Italy",30,28,12,2344,2012
+"Genoa CFC","Serie A","Italy","Enis Nadarevic","https://www.transfermarkt.com/enis-nadarevic/profil/spieler/37889","Left Winger",24,"Bosnia-Herzegovina",11,3,0,96,2012
+"Genoa CFC","Serie A","Italy","Zé Love","https://www.transfermarkt.com/ze-love/profil/spieler/30505","Centre-Forward",24,"Brazil",1,0,0,0,2012
+"Genoa CFC","Serie A","Italy","Antonio Floro Flores","https://www.transfermarkt.com/antonio-floro-flores/profil/spieler/16893","Centre-Forward",29,"Italy",12,11,2,552,2012
+"UC Sampdoria","Serie B","Italy","Wladimiro Falcone","https://www.transfermarkt.com/wladimiro-falcone/profil/spieler/238537","Goalkeeper",17,"Italy",12,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Sergio Romero","https://www.transfermarkt.com/sergio-romero/profil/spieler/30690","Goalkeeper",25,"Argentina",36,33,0,2944,2012
+"UC Sampdoria","Serie B","Italy","Daniele Padelli","https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807","Goalkeeper",26,"Italy",2,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Samuele Massolo","https://www.transfermarkt.com/samuele-massolo/profil/spieler/242537","Goalkeeper",16,"Italy",0,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Angelo da Costa","https://www.transfermarkt.com/angelo-da-costa/profil/spieler/82693","Goalkeeper",28,"Brazil",23,4,0,360,2012
+"UC Sampdoria","Serie B","Italy","Tommaso Berni","https://www.transfermarkt.com/tommaso-berni/profil/spieler/21752","Goalkeeper",29,"Italy",37,3,0,229,2012
+"UC Sampdoria","Serie B","Italy","Shkodran Mustafi","https://www.transfermarkt.com/shkodran-mustafi/profil/spieler/88590","Centre-Back",20,"Germany",37,17,0,1097,2012
+"UC Sampdoria","Serie B","Italy","Lorenzo De Silvestri","https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571","Right-Back",24,"Italy",37,25,2,1956,2012
+"UC Sampdoria","Serie B","Italy","Luca Piana","https://www.transfermarkt.com/luca-piana/profil/spieler/162955","Centre-Back",18,"Italy",0,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Andrea Costa","https://www.transfermarkt.com/andrea-costa/profil/spieler/34336","Centre-Back",26,"Italy",29,28,1,2476,2012
+"UC Sampdoria","Serie B","Italy","Matías Rodríguez","https://www.transfermarkt.com/matias-rodriguez/profil/spieler/65929","Right-Back",26,"Argentina",14,1,0,90,2012
+"UC Sampdoria","Serie B","Italy","Massimo Volta","https://www.transfermarkt.com/massimo-volta/profil/spieler/54921","Centre-Back",25,"Italy",0,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Paolo Castellini","https://www.transfermarkt.com/paolo-castellini/profil/spieler/16891","Left-Back",33,"Italy",38,8,0,430,2012
+"UC Sampdoria","Serie B","Italy","Gaetano Berardi","https://www.transfermarkt.com/gaetano-berardi/profil/spieler/43084","Right-Back",23,"Switzerland",32,21,0,1511,2012
+"UC Sampdoria","Serie B","Italy","Simon Poulsen","https://www.transfermarkt.com/simon-poulsen/profil/spieler/23097","Left-Back",27,"Denmark",33,7,0,186,2012
+"UC Sampdoria","Serie B","Italy","Zsolt Laczkó","https://www.transfermarkt.com/zsolt-laczko/profil/spieler/43333","Left-Back",25,"Hungary",0,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Daniele Gastaldello","https://www.transfermarkt.com/daniele-gastaldello/profil/spieler/7096","Centre-Back",29,"Italy",34,34,1,2984,2012
+"UC Sampdoria","Serie B","Italy","Jonathan Rossini","https://www.transfermarkt.com/jonathan-rossini/profil/spieler/54916","Centre-Back",23,"Switzerland",38,26,0,2284,2012
+"UC Sampdoria","Serie B","Italy","Roberto Soriano","https://www.transfermarkt.com/roberto-soriano/profil/spieler/63186","Attacking Midfield",21,"Italy",37,25,0,1019,2012
+"UC Sampdoria","Serie B","Italy","Pedro Obiang","https://www.transfermarkt.com/pedro-obiang/profil/spieler/101213","Central Midfield",20,"Equatorial Guinea",35,35,1,3017,2012
+"UC Sampdoria","Serie B","Italy","Andrea Poli","https://www.transfermarkt.com/andrea-poli/profil/spieler/44834","Central Midfield",22,"Italy",32,32,3,2630,2012
+"UC Sampdoria","Serie B","Italy","Nenad Krsticic","https://www.transfermarkt.com/nenad-krsticic/profil/spieler/56790","Central Midfield",21,"Serbia",26,26,1,2012,2012
+"UC Sampdoria","Serie B","Italy","Marcelo Estigarribia","https://www.transfermarkt.com/marcelo-estigarribia/profil/spieler/76329","Central Midfield",24,"Paraguay",39,35,2,2551,2012
+"UC Sampdoria","Serie B","Italy","Davide Gavazzi","https://www.transfermarkt.com/davide-gavazzi/profil/spieler/124909","Central Midfield",26,"Italy",0,0,0,0,2012
+"UC Sampdoria","Serie B","Italy","Renan","https://www.transfermarkt.com/renan/profil/spieler/52999","Defensive Midfield",26,"Brazil",35,5,0,273,2012
+"UC Sampdoria","Serie B","Italy","Enzo Maresca","https://www.transfermarkt.com/enzo-maresca/profil/spieler/16651","Central Midfield",32,"Italy",29,16,3,1141,2012
+"UC Sampdoria","Serie B","Italy","Gianni Munari","https://www.transfermarkt.com/gianni-munari/profil/spieler/22598","Central Midfield",29,"Italy",36,28,3,1558,2012
+"UC Sampdoria","Serie B","Italy","Fernando Tissone","https://www.transfermarkt.com/fernando-tissone/profil/spieler/35871","Defensive Midfield",25,"Argentina",20,12,0,602,2012
+"UC Sampdoria","Serie B","Italy","Angelo Palombo","https://www.transfermarkt.com/angelo-palombo/profil/spieler/6793","Defensive Midfield",30,"Italy",18,15,0,1326,2012
+"UC Sampdoria","Serie B","Italy","Mauro Icardi","https://www.transfermarkt.com/mauro-icardi/profil/spieler/68863","Centre-Forward",19,"Argentina",38,31,10,2118,2012
+"UC Sampdoria","Serie B","Italy","Éder","https://www.transfermarkt.com/eder/profil/spieler/37418","Centre-Forward",25,"Italy",31,30,7,2053,2012
+"UC Sampdoria","Serie B","Italy","Andelko Savic","https://www.transfermarkt.com/andelko-savic/profil/spieler/159720","Centre-Forward",19,"Switzerland",12,1,0,13,2012
+"UC Sampdoria","Serie B","Italy","Nicola Pozzi","https://www.transfermarkt.com/nicola-pozzi/profil/spieler/16117","Centre-Forward",26,"Italy",8,7,1,177,2012
+"UC Sampdoria","Serie B","Italy","Maxi López","https://www.transfermarkt.com/maxi-lopez/profil/spieler/26263","Centre-Forward",28,"Argentina",27,18,5,960,2012
+"UC Sampdoria","Serie B","Italy","Gianluca Sansone","https://www.transfermarkt.com/gianluca-sansone/profil/spieler/84846","Centre-Forward",25,"Italy",16,14,2,683,2012
+"UC Sampdoria","Serie B","Italy","Juan Antonio","https://www.transfermarkt.com/juan-antonio/profil/spieler/45644","Second Striker",24,"Argentina",9,2,0,8,2012
+"UC Sampdoria","Serie B","Italy","Gianluca Austoni","https://www.transfermarkt.com/gianluca-austoni/profil/spieler/199584","Centre-Forward",18,"Italy",3,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Pavol Bajza","https://www.transfermarkt.com/pavol-bajza/profil/spieler/120175","Goalkeeper",20,"Slovakia",37,1,0,48,2012
+"Parma Calcio 1913","Serie B","Italy","Joyce Anacoura","https://www.transfermarkt.com/joyce-anacoura/profil/spieler/199598","Goalkeeper",17,"Italy",0,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Antonio Mirante","https://www.transfermarkt.com/antonio-mirante/profil/spieler/22141","Goalkeeper",28,"Italy",33,33,0,2886,2012
+"Parma Calcio 1913","Serie B","Italy","Nicola Pavarini","https://www.transfermarkt.com/nicola-pavarini/profil/spieler/28027","Goalkeeper",38,"Italy",39,7,0,606,2012
+"Parma Calcio 1913","Serie B","Italy","Matteo Ferrari","https://www.transfermarkt.com/matteo-ferrari/profil/spieler/199603","Goalkeeper",18,"Italy",1,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Daniele De Angelis","https://www.transfermarkt.com/daniele-de-angelis/profil/spieler/248861","Goalkeeper",17,"Italy",5,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Álvaro Ampuero","https://www.transfermarkt.com/alvaro-ampuero/profil/spieler/195002","Centre-Back",19,"Peru",14,5,0,302,2012
+"Parma Calcio 1913","Serie B","Italy","Aleandro Rosi","https://www.transfermarkt.com/aleandro-rosi/profil/spieler/34239","Right-Back",25,"Italy",33,26,3,1964,2012
+"Parma Calcio 1913","Serie B","Italy","Yohan Benalouane","https://www.transfermarkt.com/yohan-benalouane/profil/spieler/50477","Centre-Back",25,"Tunisia",37,22,1,1597,2012
+"Parma Calcio 1913","Serie B","Italy","Emilio Mac Eachen","https://www.transfermarkt.com/emilio-mac-eachen/profil/spieler/174852","Centre-Back",20,"Uruguay",18,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Andrea Coda","https://www.transfermarkt.com/andrea-coda/profil/spieler/28833","Centre-Back",27,"Italy",11,8,0,471,2012
+"Parma Calcio 1913","Serie B","Italy","Francesco Modesto","https://www.transfermarkt.com/francesco-modesto/profil/spieler/22320","Left-Back",30,"Italy",1,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Djamel Mesbah","https://www.transfermarkt.com/djamel-mesbah/profil/spieler/17735","Left-Back",27,"Algeria",11,7,0,403,2012
+"Parma Calcio 1913","Serie B","Italy","Cristian Zaccardo","https://www.transfermarkt.com/cristian-zaccardo/profil/spieler/5993","Centre-Back",30,"Italy",18,16,1,1297,2012
+"Parma Calcio 1913","Serie B","Italy","Alessandro Lucarelli","https://www.transfermarkt.com/alessandro-lucarelli/profil/spieler/28022","Centre-Back",34,"Italy",36,32,1,2734,2012
+"Parma Calcio 1913","Serie B","Italy","Fabiano Santacroce","https://www.transfermarkt.com/fabiano-santacroce/profil/spieler/56817","Centre-Back",25,"Italy",17,9,0,469,2012
+"Parma Calcio 1913","Serie B","Italy","Massimo Gobbi","https://www.transfermarkt.com/massimo-gobbi/profil/spieler/28020","Left-Back",31,"Italy",38,35,1,3064,2012
+"Parma Calcio 1913","Serie B","Italy","Mohamed Traoré","https://www.transfermarkt.com/mohamed-traore/profil/spieler/125611","Right-Back",20,"Guinea",0,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Gabriel Paletta","https://www.transfermarkt.com/gabriel-paletta/profil/spieler/30767","Centre-Back",26,"Italy",37,36,1,3208,2012
+"Parma Calcio 1913","Serie B","Italy","Ignacio Fideleff","https://www.transfermarkt.com/ignacio-fideleff/profil/spieler/66960","Centre-Back",22,"Argentina",23,1,0,9,2012
+"Parma Calcio 1913","Serie B","Italy","Sotiris Ninis","https://www.transfermarkt.com/sotiris-ninis/profil/spieler/46062","Attacking Midfield",22,"Greece",38,15,0,701,2012
+"Parma Calcio 1913","Serie B","Italy","Stefano Morrone","https://www.transfermarkt.com/stefano-morrone/profil/spieler/6722","Central Midfield",33,"Italy",39,3,0,86,2012
+"Parma Calcio 1913","Serie B","Italy","Daniele Galloppa","https://www.transfermarkt.com/daniele-galloppa/profil/spieler/22594","Central Midfield",27,"Italy",18,12,1,671,2012
+"Parma Calcio 1913","Serie B","Italy","Jaime Valdés","https://www.transfermarkt.com/jaime-valdes/profil/spieler/22131","Central Midfield",31,"Chile",32,30,4,2474,2012
+"Parma Calcio 1913","Serie B","Italy","Rodney Strasser","https://www.transfermarkt.com/rodney-strasser/profil/spieler/88712","Defensive Midfield",22,"Sierra Leone",16,2,0,25,2012
+"Parma Calcio 1913","Serie B","Italy","McDonald Mariga","https://www.transfermarkt.com/mcdonald-mariga/profil/spieler/37124","Defensive Midfield",25,"Kenya",2,2,0,30,2012
+"Parma Calcio 1913","Serie B","Italy","Marco Parolo","https://www.transfermarkt.com/marco-parolo/profil/spieler/84545","Central Midfield",27,"Italy",37,37,3,3126,2012
+"Parma Calcio 1913","Serie B","Italy","Gianluca Musacci","https://www.transfermarkt.com/gianluca-musacci/profil/spieler/71302","Central Midfield",25,"Italy",19,6,0,375,2012
+"Parma Calcio 1913","Serie B","Italy","Afriyie Acquah","https://www.transfermarkt.com/afriyie-acquah/profil/spieler/145581","Central Midfield",20,"Ghana",22,13,0,533,2012
+"Parma Calcio 1913","Serie B","Italy","Floriano Vanzo","https://www.transfermarkt.com/floriano-vanzo/profil/spieler/201696","Attacking Midfield",18,"Belgium",0,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Marco Marchionni","https://www.transfermarkt.com/marco-marchionni/profil/spieler/5873","Right Midfield",31,"Italy",34,29,1,2308,2012
+"Parma Calcio 1913","Serie B","Italy","Alberto Cerri","https://www.transfermarkt.com/alberto-cerri/profil/spieler/197751","Centre-Forward",16,"Italy",5,1,0,15,2012
+"Parma Calcio 1913","Serie B","Italy","Ishak Belfodil","https://www.transfermarkt.com/ishak-belfodil/profil/spieler/111039","Centre-Forward",20,"Algeria",37,34,8,2050,2012
+"Parma Calcio 1913","Serie B","Italy","Nicola Sansone","https://www.transfermarkt.com/nicola-sansone/profil/spieler/82048","Left Winger",20,"Italy",32,26,6,1564,2012
+"Parma Calcio 1913","Serie B","Italy","Dorlan Pabón","https://www.transfermarkt.com/dorlan-pabon/profil/spieler/74667","Right Winger",24,"Colombia",22,13,1,594,2012
+"Parma Calcio 1913","Serie B","Italy","Jonathan Biabiany","https://www.transfermarkt.com/jonathan-biabiany/profil/spieler/45567","Right Winger",24,"France",35,34,2,2743,2012
+"Parma Calcio 1913","Serie B","Italy","Manuel Arteaga","https://www.transfermarkt.com/manuel-arteaga/profil/spieler/203361","Centre-Forward",18,"Venezuela",3,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Amauri","https://www.transfermarkt.com/amauri/profil/spieler/6234","Centre-Forward",32,"Italy",35,34,10,2338,2012
+"Parma Calcio 1913","Serie B","Italy","Raffaele Palladino","https://www.transfermarkt.com/raffaele-palladino/profil/spieler/28855","Left Winger",28,"Italy",28,8,1,198,2012
+"Parma Calcio 1913","Serie B","Italy","Filippo Boniperti","https://www.transfermarkt.com/filippo-boniperti/profil/spieler/130347","Right Winger",20,"Italy",13,2,0,6,2012
+"Parma Calcio 1913","Serie B","Italy","Fernando Marqués","https://www.transfermarkt.com/fernando-marques/profil/spieler/25414","Right Winger",27,"Spain",0,0,0,0,2012
+"Parma Calcio 1913","Serie B","Italy","Graziano Pellè","https://www.transfermarkt.com/graziano-pelle/profil/spieler/29594","Centre-Forward",26,"Italy",1,1,0,8,2012
+"Palermo FC","Serie B","Italy","Andrea Fulignati","https://www.transfermarkt.com/andrea-fulignati/profil/spieler/231381","Goalkeeper",17,"Italy",1,0,0,0,2012
+"Palermo FC","Serie B","Italy","Samir Ujkani","https://www.transfermarkt.com/samir-ujkani/profil/spieler/42744","Goalkeeper",23,"Kosovo",22,20,0,1756,2012
+"Palermo FC","Serie B","Italy","Giacomo Brichetto","https://www.transfermarkt.com/giacomo-brichetto/profil/spieler/100693","Goalkeeper",29,"Italy",34,0,0,0,2012
+"Palermo FC","Serie B","Italy","Stefano Sorrentino","https://www.transfermarkt.com/stefano-sorrentino/profil/spieler/21891","Goalkeeper",33,"Italy",15,15,0,1350,2012
+"Palermo FC","Serie B","Italy","Francesco Benussi","https://www.transfermarkt.com/francesco-benussi/profil/spieler/21829","Goalkeeper",30,"Italy",40,6,0,493,2012
+"Palermo FC","Serie B","Italy","Edoardo Goldaniga","https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940","Centre-Back",18,"Italy",4,0,0,0,2012
+"Palermo FC","Serie B","Italy","Santiago García","https://www.transfermarkt.com/santiago-garcia/profil/spieler/90489","Centre-Back",23,"Argentina",38,34,1,2769,2012
+"Palermo FC","Serie B","Italy","Carlos Labrín","https://www.transfermarkt.com/carlos-labrin/profil/spieler/89783","Centre-Back",21,"Chile",16,2,0,109,2012
+"Palermo FC","Serie B","Italy","Ezequiel Muñoz","https://www.transfermarkt.com/ezequiel-munoz/profil/spieler/75127","Centre-Back",21,"Argentina",38,32,0,2628,2012
+"Palermo FC","Serie B","Italy","Milan Milanovic","https://www.transfermarkt.com/milan-milanovic/profil/spieler/70574","Centre-Back",21,"Serbia",13,2,0,136,2012
+"Palermo FC","Serie B","Italy","Eros Pisano","https://www.transfermarkt.com/eros-pisano/profil/spieler/56609","Right-Back",25,"Italy",20,13,0,749,2012
+"Palermo FC","Serie B","Italy","Davide Monteleone","https://www.transfermarkt.com/davide-monteleone/profil/spieler/241475","Centre-Back",16,"Italy",0,0,0,0,2012
+"Palermo FC","Serie B","Italy","Michel Morganella","https://www.transfermarkt.com/michel-morganella/profil/spieler/47544","Right-Back",23,"Switzerland",37,31,0,2581,2012
+"Palermo FC","Serie B","Italy","Andrea Mantovani","https://www.transfermarkt.com/andrea-mantovani/profil/spieler/21935","Centre-Back",28,"Italy",8,6,0,386,2012
+"Palermo FC","Serie B","Italy","Salvatore Aronica","https://www.transfermarkt.com/salvatore-aronica/profil/spieler/19182","Centre-Back",34,"Italy",18,16,0,1345,2012
+"Palermo FC","Serie B","Italy","Luca Di Matteo","https://www.transfermarkt.com/luca-di-matteo/profil/spieler/68862","Left-Back",24,"Italy",1,0,0,0,2012
+"Palermo FC","Serie B","Italy","Mauro Cetto","https://www.transfermarkt.com/mauro-cetto/profil/spieler/5501","Centre-Back",30,"Argentina",14,5,0,383,2012
+"Palermo FC","Serie B","Italy","Nélson","https://www.transfermarkt.com/nelson/profil/spieler/17555","Right-Back",29,"Portugal",16,8,1,462,2012
+"Palermo FC","Serie B","Italy","Steve von Bergen","https://www.transfermarkt.com/steve-von-bergen/profil/spieler/4793","Centre-Back",29,"Switzerland",36,35,1,2971,2012
+"Palermo FC","Serie B","Italy","Jevrem Kosnic","https://www.transfermarkt.com/jevrem-kosnic/profil/spieler/145556","Centre-Back",19,"Serbia",2,0,0,0,2012
+"Palermo FC","Serie B","Italy","David Aquino","https://www.transfermarkt.com/david-aquino/profil/spieler/221712","Right-Back",18,"Paraguay",3,0,0,0,2012
+"Palermo FC","Serie B","Italy","Franco Vázquez","https://www.transfermarkt.com/franco-vazquez/profil/spieler/76163","Attacking Midfield",23,"Argentina",0,0,0,0,2012
+"Palermo FC","Serie B","Italy","Jasmin Kurtic","https://www.transfermarkt.com/jasmin-kurtic/profil/spieler/85825","Central Midfield",23,"Slovenia",38,32,0,2352,2012
+"Palermo FC","Serie B","Italy","Nicolas Viola","https://www.transfermarkt.com/nicolas-viola/profil/spieler/85393","Central Midfield",22,"Italy",35,7,0,230,2012
+"Palermo FC","Serie B","Italy","Davide Petermann","https://www.transfermarkt.com/davide-petermann/profil/spieler/199921","Defensive Midfield",17,"Italy",1,0,0,0,2012
+"Palermo FC","Serie B","Italy","Anselmo","https://www.transfermarkt.com/anselmo/profil/spieler/114341","Defensive Midfield",23,"Brazil",19,5,1,189,2012
+"Palermo FC","Serie B","Italy","Josip Ilicic","https://www.transfermarkt.com/josip-ilicic/profil/spieler/80351","Attacking Midfield",24,"Slovenia",35,32,11,2498,2012
+"Palermo FC","Serie B","Italy","Giulio Sanseverino","https://www.transfermarkt.com/giulio-sanseverino/profil/spieler/177231","Defensive Midfield",18,"Italy",17,3,0,170,2012
+"Palermo FC","Serie B","Italy","Egidio Arévalo Ríos","https://www.transfermarkt.com/egidio-arevalo-rios/profil/spieler/54818","Defensive Midfield",30,"Uruguay",35,27,2,2018,2012
+"Palermo FC","Serie B","Italy","Édgar Barreto","https://www.transfermarkt.com/edgar-barreto/profil/spieler/16120","Central Midfield",27,"Paraguay",32,32,0,2840,2012
+"Palermo FC","Serie B","Italy","Andrea Dossena","https://www.transfermarkt.com/andrea-dossena/profil/spieler/21863","Left Midfield",30,"Italy",15,11,0,801,2012
+"Palermo FC","Serie B","Italy","Giulio Migliaccio","https://www.transfermarkt.com/giulio-migliaccio/profil/spieler/21756","Central Midfield",31,"Italy",1,1,0,60,2012
+"Palermo FC","Serie B","Italy","Luigi Giorgi","https://www.transfermarkt.com/luigi-giorgi/profil/spieler/57389","Central Midfield",25,"Italy",17,11,3,576,2012
+"Palermo FC","Serie B","Italy","Alejandro Faurlín","https://www.transfermarkt.com/alejandro-faurlin/profil/spieler/88067","Central Midfield",25,"Argentina",16,6,0,304,2012
+"Palermo FC","Serie B","Italy","Franco Brienza","https://www.transfermarkt.com/franco-brienza/profil/spieler/16137","Attacking Midfield",33,"Italy",19,19,1,1111,2012
+"Palermo FC","Serie B","Italy","Massimo Donati","https://www.transfermarkt.com/massimo-donati/profil/spieler/5870","Defensive Midfield",31,"Italy",36,30,0,2321,2012
+"Palermo FC","Serie B","Italy","Mauro Formica","https://www.transfermarkt.com/mauro-formica/profil/spieler/55870","Attacking Midfield",24,"Argentina",16,8,1,275,2012
+"Palermo FC","Serie B","Italy","Stefano Cerniglia","https://www.transfermarkt.com/stefano-cerniglia/profil/spieler/202290","Central Midfield",18,"Italy",0,0,0,0,2012
+"Palermo FC","Serie B","Italy","Paulo Dybala","https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050","Second Striker",18,"Argentina",38,28,3,1283,2012
+"Palermo FC","Serie B","Italy","Cephas Malele","https://www.transfermarkt.com/cephas-malele/profil/spieler/22686","Centre-Forward",18,"Switzerland",8,3,0,33,2012
+"Palermo FC","Serie B","Italy","Eran Zahavi","https://www.transfermarkt.com/eran-zahavi/profil/spieler/85093","Centre-Forward",24,"Israel",11,4,0,131,2012
+"Palermo FC","Serie B","Italy","Abel Hernández","https://www.transfermarkt.com/abel-hernandez/profil/spieler/76608","Centre-Forward",21,"Uruguay",15,15,1,689,2012
+"Palermo FC","Serie B","Italy","Mauro Boselli","https://www.transfermarkt.com/mauro-boselli/profil/spieler/40822","Centre-Forward",27,"Argentina",14,8,0,426,2012
+"Palermo FC","Serie B","Italy","Mauricio Sperduti","https://www.transfermarkt.com/mauricio-sperduti/profil/spieler/55892","Right Winger",26,"Argentina",10,0,0,0,2012
+"Palermo FC","Serie B","Italy","Diego Fabbrini","https://www.transfermarkt.com/diego-fabbrini/profil/spieler/56903","Left Winger",21,"Italy",14,8,1,424,2012
+"Palermo FC","Serie B","Italy","Mauro Bollino","https://www.transfermarkt.com/mauro-bollino/profil/spieler/200615","Right Winger",17,"Italy",2,0,0,0,2012
+"Palermo FC","Serie B","Italy","Nicolás Bertolo","https://www.transfermarkt.com/nicolas-bertolo/profil/spieler/52903","Left Winger",26,"Argentina",14,8,0,445,2012
+"Palermo FC","Serie B","Italy","Fabrizio Miccoli","https://www.transfermarkt.com/fabrizio-miccoli/profil/spieler/6097","Centre-Forward",33,"Italy",31,30,10,1981,2012
+"Palermo FC","Serie B","Italy","Igor Budan","https://www.transfermarkt.com/igor-budan/profil/spieler/19437","Centre-Forward",32,"Croatia",20,7,1,139,2012
+"Palermo FC","Serie B","Italy","Agon Mehmeti","https://www.transfermarkt.com/agon-mehmeti/profil/spieler/72687","Centre-Forward",22,"Albania",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Dejan Stojanovic","https://www.transfermarkt.com/dejan-stojanovic/profil/spieler/115989","Goalkeeper",18,"Austria",26,5,0,450,2012
+"Bologna FC 1909","Serie A","Italy","Matteo Malagoli","https://www.transfermarkt.com/matteo-malagoli/profil/spieler/240956","Goalkeeper",17,"Italy",1,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Gianluca Curci","https://www.transfermarkt.com/gianluca-curci/profil/spieler/24001","Goalkeeper",26,"Italy",27,14,0,1165,2012
+"Bologna FC 1909","Serie A","Italy","Filippo Lombardi","https://www.transfermarkt.com/filippo-lombardi/profil/spieler/134382","Goalkeeper",22,"Italy",21,1,0,90,2012
+"Bologna FC 1909","Serie A","Italy","Federico Agliardi","https://www.transfermarkt.com/federico-agliardi/profil/spieler/16888","Goalkeeper",29,"Italy",40,24,0,2105,2012
+"Bologna FC 1909","Serie A","Italy","Luca Marchignoli","https://www.transfermarkt.com/luca-marchignoli/profil/spieler/197493","Goalkeeper",17,"Italy",1,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Uros Radakovic","https://www.transfermarkt.com/uros-radakovic/profil/spieler/169511","Centre-Back",18,"Serbia",12,2,0,180,2012
+"Bologna FC 1909","Serie A","Italy","Alex Ferrari","https://www.transfermarkt.com/alex-ferrari/profil/spieler/197491","Centre-Back",18,"Italy",1,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Frederik Sörensen","https://www.transfermarkt.com/frederik-sorensen/profil/spieler/91716","Centre-Back",20,"Denmark",38,27,1,2035,2012
+"Bologna FC 1909","Serie A","Italy","Naldo","https://www.transfermarkt.com/naldo/profil/spieler/148666","Centre-Back",23,"Brazil",14,5,0,266,2012
+"Bologna FC 1909","Serie A","Italy","Roger Carvalho","https://www.transfermarkt.com/roger-carvalho/profil/spieler/112962","Centre-Back",25,"Brazil",33,8,0,592,2012
+"Bologna FC 1909","Serie A","Italy","Marco Motta","https://www.transfermarkt.com/marco-motta/profil/spieler/30333","Right-Back",26,"Italy",39,22,1,1726,2012
+"Bologna FC 1909","Serie A","Italy","Marco Maini","https://www.transfermarkt.com/marco-maini/profil/spieler/216175","Centre-Back",17,"Italy",3,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Mathías Abero","https://www.transfermarkt.com/mathias-abero/profil/spieler/142370","Left-Back",22,"Uruguay",39,13,0,446,2012
+"Bologna FC 1909","Serie A","Italy","Lorenzo Dall'Osso","https://www.transfermarkt.com/lorenzo-dallosso/profil/spieler/240374","Centre-Back",17,"Italy",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Archimede Morleo","https://www.transfermarkt.com/archimede-morleo/profil/spieler/85066","Left-Back",28,"Italy",36,35,0,2728,2012
+"Bologna FC 1909","Serie A","Italy","Mikael Antonsson","https://www.transfermarkt.com/mikael-antonsson/profil/spieler/19083","Centre-Back",31,"Sweden",35,33,0,2892,2012
+"Bologna FC 1909","Serie A","Italy","György Garics","https://www.transfermarkt.com/gyorgy-garics/profil/spieler/2926","Right-Back",28,"Austria",35,28,0,2030,2012
+"Bologna FC 1909","Serie A","Italy","Cesare Natali","https://www.transfermarkt.com/cesare-natali/profil/spieler/16870","Centre-Back",33,"Italy",9,5,0,347,2012
+"Bologna FC 1909","Serie A","Italy","Nicolò Cherubin","https://www.transfermarkt.com/nicolo-cherubin/profil/spieler/56854","Centre-Back",25,"Italy",35,30,1,2596,2012
+"Bologna FC 1909","Serie A","Italy","Rubén Palomeque","https://www.transfermarkt.com/ruben-palomeque/profil/spieler/240961","Right-Back",17,"Spain",1,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Daniele Portanova","https://www.transfermarkt.com/daniele-portanova/profil/spieler/21696","Centre-Back",33,"Italy",7,7,1,596,2012
+"Bologna FC 1909","Serie A","Italy","Saphir Taïder","https://www.transfermarkt.com/saphir-taider/profil/spieler/144779","Central Midfield",20,"Algeria",36,35,5,2968,2012
+"Bologna FC 1909","Serie A","Italy","Federico Casarini","https://www.transfermarkt.com/federico-casarini/profil/spieler/56853","Central Midfield",22,"Italy",2,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Lazaros Christodoulopoulos","https://www.transfermarkt.com/lazaros-christodoulopoulos/profil/spieler/34283","Attacking Midfield",25,"Greece",16,12,1,674,2012
+"Bologna FC 1909","Serie A","Italy","Martí Riverola","https://www.transfermarkt.com/marti-riverola/profil/spieler/143863","Central Midfield",21,"Spain",22,3,0,205,2012
+"Bologna FC 1909","Serie A","Italy","Gastón Ramírez","https://www.transfermarkt.com/gaston-ramirez/profil/spieler/123742","Attacking Midfield",21,"Uruguay",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Alessandro Marchi","https://www.transfermarkt.com/alessandro-marchi/profil/spieler/103516","Central Midfield",22,"Italy",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Rene Krhin","https://www.transfermarkt.com/rene-krhin/profil/spieler/73092","Defensive Midfield",22,"Slovenia",33,22,0,1396,2012
+"Bologna FC 1909","Serie A","Italy","Andrea Pisanu","https://www.transfermarkt.com/andrea-pisanu/profil/spieler/25323","Right Midfield",30,"Italy",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Nico Pulzetti","https://www.transfermarkt.com/nico-pulzetti/profil/spieler/38602","Central Midfield",28,"Italy",25,8,0,260,2012
+"Bologna FC 1909","Serie A","Italy","Diego Pérez","https://www.transfermarkt.com/diego-perez/profil/spieler/20378","Defensive Midfield",32,"Uruguay",27,25,0,1924,2012
+"Bologna FC 1909","Serie A","Italy","Tiberio Guarente","https://www.transfermarkt.com/tiberio-guarente/profil/spieler/28868","Central Midfield",26,"Italy",40,23,2,1261,2012
+"Bologna FC 1909","Serie A","Italy","Alessandro Diamanti","https://www.transfermarkt.com/alessandro-diamanti/profil/spieler/23197","Attacking Midfield",29,"Italy",37,36,8,3155,2012
+"Bologna FC 1909","Serie A","Italy","Michele Pazienza","https://www.transfermarkt.com/michele-pazienza/profil/spieler/17130","Defensive Midfield",29,"Italy",34,17,0,1042,2012
+"Bologna FC 1909","Serie A","Italy","Panagiotis Kone","https://www.transfermarkt.com/panagiotis-kone/profil/spieler/19636","Central Midfield",24,"Greece",36,34,7,2353,2012
+"Bologna FC 1909","Serie A","Italy","Nicola Pescatore","https://www.transfermarkt.com/nicola-pescatore/profil/spieler/197494","Right Midfield",18,"Italy",1,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Manolo Gabbiadini","https://www.transfermarkt.com/manolo-gabbiadini/profil/spieler/112343","Centre-Forward",20,"Italy",35,31,7,1792,2012
+"Bologna FC 1909","Serie A","Italy","Massimo Coda","https://www.transfermarkt.com/massimo-coda/profil/spieler/33763","Centre-Forward",23,"Italy",0,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Alessandro Capello","https://www.transfermarkt.com/alessandro-capello/profil/spieler/200190","Centre-Forward",16,"Italy",2,1,0,14,2012
+"Bologna FC 1909","Serie A","Italy","Federico Rodríguez","https://www.transfermarkt.com/federico-rodriguez/profil/spieler/159778","Centre-Forward",21,"Uruguay",2,0,0,0,2012
+"Bologna FC 1909","Serie A","Italy","Cristian Pasquato","https://www.transfermarkt.com/cristian-pasquato/profil/spieler/62379","Second Striker",22,"Italy",40,18,4,574,2012
+"Bologna FC 1909","Serie A","Italy","Daniele Paponi","https://www.transfermarkt.com/daniele-paponi/profil/spieler/35853","Centre-Forward",24,"Italy",16,4,0,118,2012
+"Bologna FC 1909","Serie A","Italy","Henry Giménez","https://www.transfermarkt.com/henry-gimenez/profil/spieler/74253","Centre-Forward",26,"Uruguay",7,2,0,34,2012
+"Bologna FC 1909","Serie A","Italy","Davide Moscardelli","https://www.transfermarkt.com/davide-moscardelli/profil/spieler/21942","Centre-Forward",32,"Italy",16,9,1,155,2012
+"Bologna FC 1909","Serie A","Italy","Robert Acquafresca","https://www.transfermarkt.com/robert-acquafresca/profil/spieler/35703","Centre-Forward",24,"Italy",10,7,0,366,2012
+"Bologna FC 1909","Serie A","Italy","Alberto Gilardino","https://www.transfermarkt.com/alberto-gilardino/profil/spieler/5878","Centre-Forward",29,"Italy",37,37,13,3173,2012
+"Bologna FC 1909","Serie A","Italy","Luca Veratti","https://www.transfermarkt.com/luca-veratti/profil/spieler/163325","Centre-Forward",19,"Italy",3,2,0,94,2012
+"Bologna FC 1909","Serie A","Italy","Riccardo Benatti","https://www.transfermarkt.com/riccardo-benatti/profil/spieler/197490","Right Winger",18,"Italy",2,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Pietro Terracciano","https://www.transfermarkt.com/pietro-terracciano/profil/spieler/96254","Goalkeeper",22,"Italy",28,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Mariano Andújar","https://www.transfermarkt.com/mariano-andujar/profil/spieler/35491","Goalkeeper",28,"Argentina",39,35,0,3145,2012
+"Catania FC","Serie C - Girone C","Italy","Alberto Frison","https://www.transfermarkt.com/alberto-frison/profil/spieler/44832","Goalkeeper",24,"Italy",42,7,0,690,2012
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Messina","https://www.transfermarkt.com/giuseppe-messina/profil/spieler/168199","Goalkeeper",19,"Italy",16,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Giuseppe Bellusci","https://www.transfermarkt.com/giuseppe-bellusci/profil/spieler/57354","Centre-Back",22,"Italy",33,29,0,2411,2012
+"Catania FC","Serie C - Girone C","Italy","Erick Cabalceta","https://www.transfermarkt.com/erick-cabalceta/profil/spieler/194908","Centre-Back",19,"El Salvador",3,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Alexis Rolín","https://www.transfermarkt.com/alexis-rolin/profil/spieler/186664","Centre-Back",23,"Uruguay",36,13,0,1025,2012
+"Catania FC","Serie C - Girone C","Italy","Alessandro Potenza","https://www.transfermarkt.com/alessandro-potenza/profil/spieler/16828","Centre-Back",28,"Italy",28,2,0,31,2012
+"Catania FC","Serie C - Girone C","Italy","Nicolás Spolli","https://www.transfermarkt.com/nicolas-spolli/profil/spieler/51186","Centre-Back",29,"Argentina",33,29,2,2536,2012
+"Catania FC","Serie C - Girone C","Italy","Nicola Legrottaglie","https://www.transfermarkt.com/nicola-legrottaglie/profil/spieler/5925","Centre-Back",35,"Italy",37,30,3,2580,2012
+"Catania FC","Serie C - Girone C","Italy","Giovanni Marchese","https://www.transfermarkt.com/giovanni-marchese/profil/spieler/21887","Left-Back",27,"Italy",36,32,2,2767,2012
+"Catania FC","Serie C - Girone C","Italy","Blazej Augustyn","https://www.transfermarkt.com/blazej-augustyn/profil/spieler/42029","Centre-Back",24,"Poland",21,1,0,31,2012
+"Catania FC","Serie C - Girone C","Italy","Pablo Álvarez","https://www.transfermarkt.com/pablo-alvarez/profil/spieler/55993","Right-Back",28,"Argentina",33,30,0,2525,2012
+"Catania FC","Serie C - Girone C","Italy","Ciro Capuano","https://www.transfermarkt.com/ciro-capuano/profil/spieler/38584","Centre-Back",30,"Italy",33,18,0,1085,2012
+"Catania FC","Serie C - Girone C","Italy","Lucas Castro","https://www.transfermarkt.com/lucas-castro/profil/spieler/105892","Attacking Midfield",23,"Argentina",41,39,4,2195,2012
+"Catania FC","Serie C - Girone C","Italy","Amidu Salifu","https://www.transfermarkt.com/amidu-salifu/profil/spieler/146596","Central Midfield",19,"Ghana",40,12,0,531,2012
+"Catania FC","Serie C - Girone C","Italy","Cristian Llama","https://www.transfermarkt.com/cristian-llama/profil/spieler/30882","Attacking Midfield",26,"Argentina",2,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Sergio Almirón","https://www.transfermarkt.com/sergio-almiron/profil/spieler/5890","Central Midfield",31,"Argentina",35,33,4,2242,2012
+"Catania FC","Serie C - Girone C","Italy","Fabio Sciacca","https://www.transfermarkt.com/fabio-sciacca/profil/spieler/105625","Central Midfield",23,"Italy",9,3,0,47,2012
+"Catania FC","Serie C - Girone C","Italy","Francesco Lodi","https://www.transfermarkt.com/francesco-lodi/profil/spieler/6033","Defensive Midfield",28,"Italy",37,37,8,3263,2012
+"Catania FC","Serie C - Girone C","Italy","Mariano Izco","https://www.transfermarkt.com/mariano-izco/profil/spieler/30853","Central Midfield",29,"Argentina",37,37,1,2965,2012
+"Catania FC","Serie C - Girone C","Italy","Mario Paglialunga","https://www.transfermarkt.com/mario-paglialunga/profil/spieler/55213","Defensive Midfield",23,"Argentina",11,7,1,213,2012
+"Catania FC","Serie C - Girone C","Italy","Federico Moretti","https://www.transfermarkt.com/federico-moretti/profil/spieler/37731","Central Midfield",23,"Italy",0,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Marco Biagianti","https://www.transfermarkt.com/marco-biagianti/profil/spieler/47646","Defensive Midfield",28,"Italy",31,29,0,1596,2012
+"Catania FC","Serie C - Girone C","Italy","Sem Addamo","https://www.transfermarkt.com/sem-addamo/profil/spieler/199771","Central Midfield",17,"Italy",3,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Bruno Petkovic","https://www.transfermarkt.com/bruno-petkovic/profil/spieler/256358","Centre-Forward",17,"Croatia",5,1,0,1,2012
+"Catania FC","Serie C - Girone C","Italy","Papu Gómez","https://www.transfermarkt.com/papu-gomez/profil/spieler/20005","Left Winger",24,"Argentina",40,39,9,3275,2012
+"Catania FC","Serie C - Girone C","Italy","Mirco Antenucci","https://www.transfermarkt.com/mirco-antenucci/profil/spieler/83458","Centre-Forward",27,"Italy",1,1,0,14,2012
+"Catania FC","Serie C - Girone C","Italy","Keko Gontán","https://www.transfermarkt.com/keko-gontan/profil/spieler/66112","Attack",20,"Spain",24,5,1,191,2012
+"Catania FC","Serie C - Girone C","Italy","Maks Barisic","https://www.transfermarkt.com/maks-barisic/profil/spieler/183845","Right Winger",17,"Slovenia",1,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Gonzalo Bergessio","https://www.transfermarkt.com/gonzalo-bergessio/profil/spieler/52328","Centre-Forward",27,"Argentina",37,36,15,2937,2012
+"Catania FC","Serie C - Girone C","Italy","Takayuki Morimoto","https://www.transfermarkt.com/takayuki-morimoto/profil/spieler/42417","Centre-Forward",24,"Japan",20,8,0,258,2012
+"Catania FC","Serie C - Girone C","Italy","Edgar Cani","https://www.transfermarkt.com/edgar-cani/profil/spieler/61863","Centre-Forward",22,"Albania",12,4,0,27,2012
+"Catania FC","Serie C - Girone C","Italy","Davide Lanzafame","https://www.transfermarkt.com/davide-lanzafame/profil/spieler/61539","Centre-Forward",25,"Italy",0,0,0,0,2012
+"Catania FC","Serie C - Girone C","Italy","Adrián Ricchiuti","https://www.transfermarkt.com/adrian-ricchiuti/profil/spieler/30654","Second Striker",34,"Argentina",36,9,0,99,2012
+"Catania FC","Serie C - Girone C","Italy","Pablo Barrientos","https://www.transfermarkt.com/pablo-barrientos/profil/spieler/19946","Right Winger",27,"Argentina",36,35,5,2919,2012
+"Catania FC","Serie C - Girone C","Italy","Souleymane Doukara","https://www.transfermarkt.com/souleymane-doukara/profil/spieler/171336","Centre-Forward",20,"Mauritania",40,14,0,336,2012
+"Catania FC","Serie C - Girone C","Italy","Fabio Aveni","https://www.transfermarkt.com/fabio-aveni/profil/spieler/183029","Left Winger",17,"Italy",2,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Werther Carboni","https://www.transfermarkt.com/werther-carboni/profil/spieler/235921","Goalkeeper",16,"Italy",1,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Michael Agazzi","https://www.transfermarkt.com/michael-agazzi/profil/spieler/28862","Goalkeeper",27,"Italy",38,35,0,3100,2012
+"Cagliari Calcio","Serie A","Italy","Vlada Avramov","https://www.transfermarkt.com/vlada-avramov/profil/spieler/22185","Goalkeeper",33,"Serbia",36,7,0,499,2012
+"Cagliari Calcio","Serie A","Italy","Riccardo Anedda","https://www.transfermarkt.com/riccardo-anedda/profil/spieler/163214","Goalkeeper",18,"Italy",6,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Nicola Murru","https://www.transfermarkt.com/nicola-murru/profil/spieler/171399","Left-Back",17,"Italy",23,15,0,1256,2012
+"Cagliari Calcio","Serie A","Italy","Dario Del Fabro","https://www.transfermarkt.com/dario-del-fabro/profil/spieler/110475","Centre-Back",17,"Italy",17,5,0,330,2012
+"Cagliari Calcio","Serie A","Italy","Danilo Avelar","https://www.transfermarkt.com/danilo-avelar/profil/spieler/140748","Left-Back",23,"Brazil",33,21,0,1760,2012
+"Cagliari Calcio","Serie A","Italy","Vincenzo Camilleri","https://www.transfermarkt.com/vincenzo-camilleri/profil/spieler/69212","Centre-Back",20,"Italy",3,1,0,9,2012
+"Cagliari Calcio","Serie A","Italy","Lorenzo Ariaudo","https://www.transfermarkt.com/lorenzo-ariaudo/profil/spieler/84921","Centre-Back",23,"Italy",27,17,0,1414,2012
+"Cagliari Calcio","Serie A","Italy","Davide Astori","https://www.transfermarkt.com/davide-astori/profil/spieler/87210","Centre-Back",25,"Italy",34,33,0,2854,2012
+"Cagliari Calcio","Serie A","Italy","Francesco Pisano","https://www.transfermarkt.com/francesco-pisano/profil/spieler/35733","Right-Back",26,"Italy",29,29,1,2518,2012
+"Cagliari Calcio","Serie A","Italy","Luca Rossettini","https://www.transfermarkt.com/luca-rossettini/profil/spieler/60128","Centre-Back",27,"Italy",37,31,0,2687,2012
+"Cagliari Calcio","Serie A","Italy","Gabriele Perico","https://www.transfermarkt.com/gabriele-perico/profil/spieler/28817","Right-Back",28,"Italy",35,18,0,1279,2012
+"Cagliari Calcio","Serie A","Italy","Marco Russu","https://www.transfermarkt.com/marco-russu/profil/spieler/235924","Left-Back",16,"Italy",2,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Alessandro Deiola","https://www.transfermarkt.com/alessandro-deiola/profil/spieler/235931","Central Midfield",16,"Italy",1,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Radja Nainggolan","https://www.transfermarkt.com/radja-nainggolan/profil/spieler/41982","Central Midfield",24,"Belgium",35,35,2,3064,2012
+"Cagliari Calcio","Serie A","Italy","Albin Ekdal","https://www.transfermarkt.com/albin-ekdal/profil/spieler/49275","Defensive Midfield",22,"Sweden",37,34,1,2548,2012
+"Cagliari Calcio","Serie A","Italy","Pablo Ceppelini","https://www.transfermarkt.com/pablo-ceppelini/profil/spieler/159773","Attacking Midfield",20,"Uruguay",4,3,0,174,2012
+"Cagliari Calcio","Serie A","Italy","Federico Casarini","https://www.transfermarkt.com/federico-casarini/profil/spieler/56853","Central Midfield",22,"Italy",28,11,1,363,2012
+"Cagliari Calcio","Serie A","Italy","Daniele Dessena","https://www.transfermarkt.com/daniele-dessena/profil/spieler/29962","Central Midfield",25,"Italy",37,34,3,2539,2012
+"Cagliari Calcio","Serie A","Italy","Sebastian Eriksson","https://www.transfermarkt.com/sebastian-eriksson/profil/spieler/60534","Central Midfield",23,"Sweden",17,10,0,341,2012
+"Cagliari Calcio","Serie A","Italy","Mattia Muroni","https://www.transfermarkt.com/mattia-muroni/profil/spieler/235923","Central Midfield",16,"Italy",1,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Marco Piredda","https://www.transfermarkt.com/marco-piredda/profil/spieler/163243","Attacking Midfield",18,"Italy",3,2,0,37,2012
+"Cagliari Calcio","Serie A","Italy","Matías Cabrera","https://www.transfermarkt.com/matias-cabrera/profil/spieler/76598","Attacking Midfield",26,"Uruguay",10,7,0,233,2012
+"Cagliari Calcio","Serie A","Italy","Daniele Conti","https://www.transfermarkt.com/daniele-conti/profil/spieler/20730","Defensive Midfield",33,"Italy",30,29,3,2559,2012
+"Cagliari Calcio","Serie A","Italy","Andrea Cossu","https://www.transfermarkt.com/andrea-cossu/profil/spieler/21861","Attacking Midfield",32,"Italy",26,25,0,1271,2012
+"Cagliari Calcio","Serie A","Italy","Joaquín Larrivey","https://www.transfermarkt.com/joaquin-larrivey/profil/spieler/52428","Centre-Forward",27,"Argentina",7,4,1,224,2012
+"Cagliari Calcio","Serie A","Italy","Thiago Ribeiro","https://www.transfermarkt.com/thiago-ribeiro/profil/spieler/22948","Left Winger",26,"Brazil",39,32,5,1721,2012
+"Cagliari Calcio","Serie A","Italy","Marco Sau","https://www.transfermarkt.com/marco-sau/profil/spieler/55801","Centre-Forward",24,"Italy",34,30,12,1963,2012
+"Cagliari Calcio","Serie A","Italy","Víctor Ibarbo","https://www.transfermarkt.com/victor-ibarbo/profil/spieler/92141","Second Striker",22,"Colombia",39,37,6,2259,2012
+"Cagliari Calcio","Serie A","Italy","Antonio Loi","https://www.transfermarkt.com/antonio-loi/profil/spieler/213911","Left Winger",15,"Italy",0,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Nenê","https://www.transfermarkt.com/nene/profil/spieler/45717","Centre-Forward",28,"Brazil",34,23,3,997,2012
+"Cagliari Calcio","Serie A","Italy","Michele Chelo","https://www.transfermarkt.com/michele-chelo/profil/spieler/163219","Centre-Forward",19,"Italy",2,0,0,0,2012
+"Cagliari Calcio","Serie A","Italy","Mauricio Pinilla","https://www.transfermarkt.com/mauricio-pinilla/profil/spieler/6160","Centre-Forward",28,"Chile",30,26,9,1456,2012
+"Atalanta BC","Serie A","Italy","Andrea Consigli","https://www.transfermarkt.com/andrea-consigli/profil/spieler/35865","Goalkeeper",25,"Italy",38,37,0,3311,2012
+"Atalanta BC","Serie A","Italy","Ciro Polito","https://www.transfermarkt.com/ciro-polito/profil/spieler/22123","Goalkeeper",33,"Italy",38,5,0,379,2012
+"Atalanta BC","Serie A","Italy","Giorgio Frezzolini","https://www.transfermarkt.com/giorgio-frezzolini/profil/spieler/7102","Goalkeeper",36,"Italy",36,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Luca Milesi","https://www.transfermarkt.com/luca-milesi/profil/spieler/197474","Centre-Back",19,"Italy",5,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Ezequiel Schelotto","https://www.transfermarkt.com/ezequiel-schelotto/profil/spieler/119164","Right-Back",23,"Italy",19,18,0,1273,2012
+"Atalanta BC","Serie A","Italy","Guglielmo Stendardo","https://www.transfermarkt.com/guglielmo-stendardo/profil/spieler/22093","Centre-Back",31,"Italy",35,32,2,2632,2012
+"Atalanta BC","Serie A","Italy","Stefano Lucchini","https://www.transfermarkt.com/stefano-lucchini/profil/spieler/6012","Centre-Back",31,"Italy",32,24,0,1966,2012
+"Atalanta BC","Serie A","Italy","Daniele Capelli","https://www.transfermarkt.com/daniele-capelli/profil/spieler/30332","Centre-Back",26,"Italy",6,1,0,74,2012
+"Atalanta BC","Serie A","Italy","Lionel Scaloni","https://www.transfermarkt.com/lionel-scaloni/profil/spieler/7499","Right-Back",34,"Argentina",12,7,0,530,2012
+"Atalanta BC","Serie A","Italy","Thomas Manfredini","https://www.transfermarkt.com/thomas-manfredini/profil/spieler/5889","Centre-Back",32,"Italy",19,16,0,1337,2012
+"Atalanta BC","Serie A","Italy","Gianpaolo Bellini","https://www.transfermarkt.com/gianpaolo-bellini/profil/spieler/19435","Left-Back",32,"Italy",19,12,0,930,2012
+"Atalanta BC","Serie A","Italy","Michele Canini","https://www.transfermarkt.com/michele-canini/profil/spieler/19438","Centre-Back",27,"Italy",19,12,0,964,2012
+"Atalanta BC","Serie A","Italy","Federico Peluso","https://www.transfermarkt.com/federico-peluso/profil/spieler/21763","Left-Back",28,"Italy",14,13,1,1064,2012
+"Atalanta BC","Serie A","Italy","Matteo Contini","https://www.transfermarkt.com/matteo-contini/profil/spieler/25318","Centre-Back",32,"Italy",14,3,0,161,2012
+"Atalanta BC","Serie A","Italy","Carlos Matheu","https://www.transfermarkt.com/carlos-matheu/profil/spieler/55932","Centre-Back",27,"Argentina",25,6,0,354,2012
+"Atalanta BC","Serie A","Italy","Davide Brivio","https://www.transfermarkt.com/davide-brivio/profil/spieler/38824","Left-Back",24,"Italy",40,23,1,1711,2012
+"Atalanta BC","Serie A","Italy","Michele Ferri","https://www.transfermarkt.com/michele-ferri/profil/spieler/20920","Centre-Back",31,"Italy",30,10,0,647,2012
+"Atalanta BC","Serie A","Italy","Cristiano Del Grosso","https://www.transfermarkt.com/cristiano-del-grosso/profil/spieler/34211","Left-Back",29,"Italy",14,13,1,1059,2012
+"Atalanta BC","Serie A","Italy","Roberto Gagliardini","https://www.transfermarkt.com/roberto-gagliardini/profil/spieler/197471","Central Midfield",18,"Italy",4,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Giacomo Bonaventura","https://www.transfermarkt.com/giacomo-bonaventura/profil/spieler/57280","Central Midfield",22,"Italy",37,36,8,2702,2012
+"Atalanta BC","Serie A","Italy","Ivan Radovanovic","https://www.transfermarkt.com/ivan-radovanovic/profil/spieler/46105","Defensive Midfield",23,"Serbia",26,17,0,718,2012
+"Atalanta BC","Serie A","Italy","James Troisi","https://www.transfermarkt.com/james-troisi/profil/spieler/52585","Attacking Midfield",23,"Australia",33,8,0,305,2012
+"Atalanta BC","Serie A","Italy","Luca Cigarini","https://www.transfermarkt.com/luca-cigarini/profil/spieler/33218","Defensive Midfield",26,"Italy",33,30,2,2491,2012
+"Atalanta BC","Serie A","Italy","Maxi Moralez","https://www.transfermarkt.com/maxi-moralez/profil/spieler/30687","Attacking Midfield",25,"Argentina",40,31,1,2179,2012
+"Atalanta BC","Serie A","Italy","Matteo Scozzarella","https://www.transfermarkt.com/matteo-scozzarella/profil/spieler/85208","Defensive Midfield",24,"Italy",16,5,0,189,2012
+"Atalanta BC","Serie A","Italy","Moussa Koné","https://www.transfermarkt.com/moussa-kone/profil/spieler/57295","Defensive Midfield",22,"Cote d'Ivoire",2,1,0,15,2012
+"Atalanta BC","Serie A","Italy","Antonio Palma","https://www.transfermarkt.com/antonio-palma/profil/spieler/197482","Central Midfield",18,"Italy",9,1,0,19,2012
+"Atalanta BC","Serie A","Italy","Riccardo Cazzola","https://www.transfermarkt.com/riccardo-cazzola/profil/spieler/29604","Defensive Midfield",26,"Italy",32,25,0,1123,2012
+"Atalanta BC","Serie A","Italy","Carlos Carmona","https://www.transfermarkt.com/carlos-carmona/profil/spieler/76387","Defensive Midfield",25,"Chile",25,22,2,1615,2012
+"Atalanta BC","Serie A","Italy","Luigi Giorgi","https://www.transfermarkt.com/luigi-giorgi/profil/spieler/57389","Central Midfield",25,"Italy",18,15,2,965,2012
+"Atalanta BC","Serie A","Italy","Franco Brienza","https://www.transfermarkt.com/franco-brienza/profil/spieler/16137","Attacking Midfield",33,"Italy",9,6,0,313,2012
+"Atalanta BC","Serie A","Italy","Cristian Raimondi","https://www.transfermarkt.com/cristian-raimondi/profil/spieler/22249","Right Midfield",31,"Italy",33,27,1,2127,2012
+"Atalanta BC","Serie A","Italy","Davide Biondini","https://www.transfermarkt.com/davide-biondini/profil/spieler/22186","Central Midfield",29,"Italy",25,24,0,1775,2012
+"Atalanta BC","Serie A","Italy","Marko Livaja","https://www.transfermarkt.com/marko-livaja/profil/spieler/95438","Centre-Forward",18,"Croatia",12,11,2,611,2012
+"Atalanta BC","Serie A","Italy","Giuseppe De Luca","https://www.transfermarkt.com/giuseppe-de-luca/profil/spieler/62751","Centre-Forward",20,"Italy",38,20,3,836,2012
+"Atalanta BC","Serie A","Italy","Guido Marilungo","https://www.transfermarkt.com/guido-marilungo/profil/spieler/61786","Centre-Forward",22,"Italy",9,3,0,84,2012
+"Atalanta BC","Serie A","Italy","Facundo Parra","https://www.transfermarkt.com/facundo-parra/profil/spieler/54794","Centre-Forward",27,"Argentina",36,16,2,542,2012
+"Atalanta BC","Serie A","Italy","Germán Denis","https://www.transfermarkt.com/german-denis/profil/spieler/30873","Centre-Forward",30,"Argentina",39,38,15,3268,2012
+"Atalanta BC","Serie A","Italy","Ferreira Pinto","https://www.transfermarkt.com/ferreira-pinto/profil/spieler/22811","Right Winger",32,"Brazil",6,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Leonardo Pettinari","https://www.transfermarkt.com/leonardo-pettinari/profil/spieler/54135","Left Winger",25,"Italy",0,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Igor Budan","https://www.transfermarkt.com/igor-budan/profil/spieler/19437","Centre-Forward",32,"Croatia",6,2,0,15,2012
+"Atalanta BC","Serie A","Italy","Simone Tiribocchi","https://www.transfermarkt.com/simone-tiribocchi/profil/spieler/21700","Centre-Forward",34,"Italy",0,0,0,0,2012
+"Atalanta BC","Serie A","Italy","Davide Cais","https://www.transfermarkt.com/davide-cais/profil/spieler/176463","Centre-Forward",18,"Italy",0,0,0,0,2012
+"Torino FC","Serie A","Italy","Alfred Gomis","https://www.transfermarkt.com/alfred-gomis/profil/spieler/163568","Goalkeeper",18,"Senegal",5,0,0,0,2012
+"Torino FC","Serie A","Italy","Jean-François Gillet","https://www.transfermarkt.com/jean-francois-gillet/profil/spieler/22149","Goalkeeper",33,"Belgium",39,38,0,3420,2012
+"Torino FC","Serie A","Italy","Lys Gomis","https://www.transfermarkt.com/lys-gomis/profil/spieler/57644","Goalkeeper",22,"Senegal",23,1,0,90,2012
+"Torino FC","Serie A","Italy","Ferdinando Coppola","https://www.transfermarkt.com/ferdinando-coppola/profil/spieler/5986","Goalkeeper",34,"Italy",16,1,0,90,2012
+"Torino FC","Serie A","Italy","Matteo Darmian","https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906","Right-Back",22,"Italy",38,32,0,2868,2012
+"Torino FC","Serie A","Italy","Danilo D'Ambrosio","https://www.transfermarkt.com/danilo-dambrosio/profil/spieler/55769","Centre-Back",23,"Italy",36,28,2,1960,2012
+"Torino FC","Serie A","Italy","Angelo Ogbonna","https://www.transfermarkt.com/angelo-ogbonna/profil/spieler/48002","Centre-Back",24,"Italy",26,23,0,2053,2012
+"Torino FC","Serie A","Italy","Kamil Glik","https://www.transfermarkt.com/kamil-glik/profil/spieler/46552","Centre-Back",24,"Poland",36,33,1,2781,2012
+"Torino FC","Serie A","Italy","Valerio Di Cesare","https://www.transfermarkt.com/valerio-di-cesare/profil/spieler/3159","Centre-Back",29,"Italy",37,10,0,763,2012
+"Torino FC","Serie A","Italy","Marco Migliorini","https://www.transfermarkt.com/marco-migliorini/profil/spieler/167817","Centre-Back",20,"Italy",1,0,0,0,2012
+"Torino FC","Serie A","Italy","Davide Cinaglia","https://www.transfermarkt.com/davide-cinaglia/profil/spieler/198973","Centre-Back",18,"Italy",1,0,0,0,2012
+"Torino FC","Serie A","Italy","Guillermo Rodríguez","https://www.transfermarkt.com/guillermo-rodriguez/profil/spieler/37633","Centre-Back",28,"Uruguay",38,23,0,1962,2012
+"Torino FC","Serie A","Italy","Pablo Cáceres","https://www.transfermarkt.com/pablo-caceres/profil/spieler/40790","Left-Back",27,"Uruguay",22,2,0,180,2012
+"Torino FC","Serie A","Italy","Salvatore Masiello","https://www.transfermarkt.com/salvatore-masiello/profil/spieler/21769","Left-Back",30,"Italy",33,26,0,2189,2012
+"Torino FC","Serie A","Italy","Alessandro Agostini","https://www.transfermarkt.com/alessandro-agostini/profil/spieler/17171","Left-Back",32,"Italy",11,0,0,0,2012
+"Torino FC","Serie A","Italy","Simone Verdi","https://www.transfermarkt.com/simone-verdi/profil/spieler/130360","Attacking Midfield",19,"Italy",19,6,0,136,2012
+"Torino FC","Serie A","Italy","Marko Bakic","https://www.transfermarkt.com/marko-bakic/profil/spieler/188335","Central Midfield",18,"Montenegro",19,1,0,69,2012
+"Torino FC","Serie A","Italy","Nicolás Gorobsov","https://www.transfermarkt.com/nicolas-gorobsov/profil/spieler/75611","Defensive Midfield",22,"Argentina",0,0,0,0,2012
+"Torino FC","Serie A","Italy","Emanuele Gatto","https://www.transfermarkt.com/emanuele-gatto/profil/spieler/92870","Defensive Midfield",17,"Italy",0,0,0,0,2012
+"Torino FC","Serie A","Italy","Sergiu Suciu","https://www.transfermarkt.com/sergiu-suciu/profil/spieler/113612","Central Midfield",22,"Romania",7,2,0,20,2012
+"Torino FC","Serie A","Italy","Migjen Basha","https://www.transfermarkt.com/migjen-basha/profil/spieler/33042","Defensive Midfield",25,"Albania",38,21,1,1595,2012
+"Torino FC","Serie A","Italy","Alessandro Gazzi","https://www.transfermarkt.com/alessandro-gazzi/profil/spieler/28827","Defensive Midfield",29,"Italy",38,35,2,2961,2012
+"Torino FC","Serie A","Italy","Giuseppe Vives","https://www.transfermarkt.com/giuseppe-vives/profil/spieler/42345","Defensive Midfield",31,"Italy",34,27,0,1938,2012
+"Torino FC","Serie A","Italy","Giuseppe De Feudis","https://www.transfermarkt.com/giuseppe-de-feudis/profil/spieler/24305","Defensive Midfield",28,"Italy",2,0,0,0,2012
+"Torino FC","Serie A","Italy","Matteo Brighi","https://www.transfermarkt.com/matteo-brighi/profil/spieler/5868","Central Midfield",31,"Italy",35,25,2,1779,2012
+"Torino FC","Serie A","Italy","Valter Birsa","https://www.transfermarkt.com/valter-birsa/profil/spieler/26105","Attacking Midfield",25,"Slovenia",29,18,2,656,2012
+"Torino FC","Serie A","Italy","Willyan","https://www.transfermarkt.com/willyan/profil/spieler/198974","Left Winger",18,"Brazil",0,0,0,0,2012
+"Torino FC","Serie A","Italy","Jonathas","https://www.transfermarkt.com/jonathas/profil/spieler/58345","Centre-Forward",23,"Brazil",14,11,2,203,2012
+"Torino FC","Serie A","Italy","Alen Stevanovic","https://www.transfermarkt.com/alen-stevanovic/profil/spieler/124559","Left Winger",21,"Serbia",28,17,2,819,2012
+"Torino FC","Serie A","Italy","Abou Diop","https://www.transfermarkt.com/abou-diop/profil/spieler/198976","Centre-Forward",18,"Senegal",14,3,0,19,2012
+"Torino FC","Serie A","Italy","Mario Santana","https://www.transfermarkt.com/mario-santana/profil/spieler/6721","Second Striker",30,"Argentina",29,28,4,1793,2012
+"Torino FC","Serie A","Italy","Rolando Bianchi","https://www.transfermarkt.com/rolando-bianchi/profil/spieler/20726","Centre-Forward",29,"Italy",36,33,13,2399,2012
+"Torino FC","Serie A","Italy","Barreto","https://www.transfermarkt.com/barreto/profil/spieler/23345","Second Striker",26,"Brazil",17,16,3,1063,2012
+"Torino FC","Serie A","Italy","Alessandro Sgrigna","https://www.transfermarkt.com/alessandro-sgrigna/profil/spieler/38642","Second Striker",32,"Italy",21,13,2,712,2012
+"Torino FC","Serie A","Italy","Alessio Cerci","https://www.transfermarkt.com/alessio-cerci/profil/spieler/21748","Right Winger",24,"Italy",35,35,8,2736,2012
+"Torino FC","Serie A","Italy","Gianluca Sansone","https://www.transfermarkt.com/gianluca-sansone/profil/spieler/84846","Centre-Forward",25,"Italy",21,15,1,572,2012
+"Torino FC","Serie A","Italy","Dolly Menga","https://www.transfermarkt.com/dolly-menga/profil/spieler/132414","Centre-Forward",19,"Angola",14,1,0,1,2012
+"Torino FC","Serie A","Italy","Riccardo Meggiorini","https://www.transfermarkt.com/riccardo-meggiorini/profil/spieler/28936","Centre-Forward",26,"Italy",37,33,3,1656,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Mattia Perin","https://www.transfermarkt.com/mattia-perin/profil/spieler/110923","Goalkeeper",19,"Italy",39,30,0,2609,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Luca Savelloni","https://www.transfermarkt.com/luca-savelloni/profil/spieler/179658","Goalkeeper",16,"Italy",1,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Luca Anania","https://www.transfermarkt.com/luca-anania/profil/spieler/28007","Goalkeeper",32,"Italy",2,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Ivan Pelizzoli","https://www.transfermarkt.com/ivan-pelizzoli/profil/spieler/5936","Goalkeeper",31,"Italy",34,12,0,990,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Salvatore Falso","https://www.transfermarkt.com/salvatore-falso/profil/spieler/203054","Goalkeeper",18,"Italy",13,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Simone Romagnoli","https://www.transfermarkt.com/simone-romagnoli/profil/spieler/88706","Centre-Back",22,"Italy",17,8,0,632,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Riccardo Brosco","https://www.transfermarkt.com/riccardo-brosco/profil/spieler/89034","Centre-Back",21,"Italy",0,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Uros Cosic","https://www.transfermarkt.com/uros-cosic/profil/spieler/94305","Centre-Back",19,"Serbia",29,21,0,1693,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Marco Capuano","https://www.transfermarkt.com/marco-capuano/profil/spieler/164091","Centre-Back",20,"Italy",35,27,0,2210,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Alessandro Crescenzi","https://www.transfermarkt.com/alessandro-crescenzi/profil/spieler/96758","Left-Back",20,"Italy",9,1,0,61,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Antonio Balzano","https://www.transfermarkt.com/antonio-balzano/profil/spieler/160825","Right-Back",26,"Italy",34,28,0,2258,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Damiano Zanon","https://www.transfermarkt.com/damiano-zanon/profil/spieler/110577","Right-Back",29,"Italy",35,25,0,1991,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Francesco Karkalis","https://www.transfermarkt.com/francesco-karkalis/profil/spieler/235822","Left-Back",17,"Italy",0,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Per Kröldrup","https://www.transfermarkt.com/per-kroldrup/profil/spieler/12112","Centre-Back",32,"Denmark",7,5,0,412,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Luciano Zauri","https://www.transfermarkt.com/luciano-zauri/profil/spieler/6832","Right-Back",34,"Italy",11,8,0,601,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Francesco Modesto","https://www.transfermarkt.com/francesco-modesto/profil/spieler/22320","Left-Back",30,"Italy",23,19,0,1612,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Antonio Bocchetti","https://www.transfermarkt.com/antonio-bocchetti/profil/spieler/21779","Left-Back",32,"Italy",37,25,0,2134,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","David Mbodj Mbaye","https://www.transfermarkt.com/david-mbodj-mbaye/profil/spieler/203057","Centre-Back",17,"Senegal",1,1,0,6,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Nicolás Bianchi Arce","https://www.transfermarkt.com/nicolas-bianchi-arce/profil/spieler/54488","Centre-Back",25,"Argentina",17,10,0,534,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Marco Vittiglio","https://www.transfermarkt.com/marco-vittiglio/profil/spieler/200185","Right-Back",18,"Italy",3,1,1,22,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Christian Terlizzi","https://www.transfermarkt.com/christian-terlizzi/profil/spieler/20941","Centre-Back",32,"Italy",13,12,2,988,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Juan Fernando Quintero","https://www.transfermarkt.com/juan-fernando-quintero/profil/spieler/122582","Attacking Midfield",19,"Colombia",23,17,1,1024,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Gastón Brugman","https://www.transfermarkt.com/gaston-brugman/profil/spieler/131109","Defensive Midfield",19,"Uruguay",13,1,0,90,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Birkir Bjarnason","https://www.transfermarkt.com/birkir-bjarnason/profil/spieler/34453","Central Midfield",24,"Iceland",39,25,2,1630,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Giuseppe Rizzo","https://www.transfermarkt.com/giuseppe-rizzo/profil/spieler/130172","Central Midfield",21,"Italy",12,11,0,909,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Luca Berardocco","https://www.transfermarkt.com/luca-berardocco/profil/spieler/164088","Defensive Midfield",21,"Italy",3,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Matti Lund Nielsen","https://www.transfermarkt.com/matti-lund-nielsen/profil/spieler/44720","Central Midfield",24,"Denmark",24,21,0,1502,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Emmanuel Cascione","https://www.transfermarkt.com/emmanuel-cascione/profil/spieler/8206","Central Midfield",28,"Italy",36,32,3,2361,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Danilo Soddimo","https://www.transfermarkt.com/danilo-soddimo/profil/spieler/39690","Left Midfield",24,"Italy",16,1,0,17,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Giuseppe Colucci","https://www.transfermarkt.com/giuseppe-colucci/profil/spieler/6717","Central Midfield",31,"Italy",14,12,0,871,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Lucas Chiaretti","https://www.transfermarkt.com/lucas-chiaretti/profil/spieler/140138","Attacking Midfield",24,"Brazil",2,1,0,21,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Romulo Togni","https://www.transfermarkt.com/romulo-togni/profil/spieler/103004","Defensive Midfield",29,"Brazil",22,17,2,1397,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Manuele Blasi","https://www.transfermarkt.com/manuele-blasi/profil/spieler/6090","Central Midfield",31,"Italy",26,12,0,824,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Marco Iannascoli","https://www.transfermarkt.com/marco-iannascoli/profil/spieler/203055","Central Midfield",17,"Italy",3,1,0,9,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Tiziano Cherubini","https://www.transfermarkt.com/tiziano-cherubini/profil/spieler/213306","midfield",17,"Italy",1,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Gaetano D'Agostino","https://www.transfermarkt.com/gaetano-dagostino/profil/spieler/6157","Central Midfield",30,"Italy",8,7,2,471,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Gianluca Caprari","https://www.transfermarkt.com/gianluca-caprari/profil/spieler/146752","Second Striker",18,"Italy",34,26,2,1438,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Federico Di Francesco","https://www.transfermarkt.com/federico-di-francesco/profil/spieler/38607","Left Winger",18,"Italy",8,7,0,471,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Vladimir Weiss","https://www.transfermarkt.com/vladimir-weiss/profil/spieler/92701","Left Winger",22,"Slovakia",24,23,5,1493,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Ante Vukusic","https://www.transfermarkt.com/ante-vukusic/profil/spieler/99345","Centre-Forward",21,"Croatia",34,19,1,1104,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Riccardo Maniero","https://www.transfermarkt.com/riccardo-maniero/profil/spieler/52135","Centre-Forward",24,"Italy",0,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Antonino Ragusa","https://www.transfermarkt.com/antonino-ragusa/profil/spieler/102470","Left Winger",22,"Italy",1,0,0,0,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Jonathas","https://www.transfermarkt.com/jonathas/profil/spieler/58345","Centre-Forward",23,"Brazil",19,14,1,728,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Mervan Celik","https://www.transfermarkt.com/mervan-celik/profil/spieler/72237","Left Winger",22,"Sweden",38,24,4,1284,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Milton Caraglio","https://www.transfermarkt.com/milton-caraglio/profil/spieler/55156","Centre-Forward",23,"Argentina",14,4,0,262,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Andrea Mancini","https://www.transfermarkt.com/andrea-mancini/profil/spieler/257831","Left Winger",16,"Italy",3,1,0,15,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Giovanbattista Catalano","https://www.transfermarkt.com/giovanbattista-catalano/profil/spieler/214576","Right Winger",18,"Italy",4,2,0,25,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Giuseppe Sculli","https://www.transfermarkt.com/giuseppe-sculli/profil/spieler/6046","Left Winger",31,"Italy",11,10,1,668,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Elvis Abbruscato","https://www.transfermarkt.com/elvis-abbruscato/profil/spieler/23163","Centre-Forward",31,"Italy",39,26,3,1207,2012
+"Delfino Pescara 1936","Serie C - Girone B","Italy","Ferdinando Sforzini","https://www.transfermarkt.com/ferdinando-sforzini/profil/spieler/33349","Centre-Forward",27,"Italy",10,10,0,803,2012
