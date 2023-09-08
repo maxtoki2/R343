@@ -29,8 +29,8 @@ jobs:
         shell: Rscript {0}
 
       - name: Generate data
-              run: source("R/run_everything.r")
-              shell: Rscript {0}
+        run: source("R/run_everything.r")
+        shell: Rscript {0}
 
       - name: Commit files
               run: |
