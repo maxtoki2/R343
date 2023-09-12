@@ -28,9 +28,15 @@ jobs:
           http-user-agent: ${{ matrix.config.http-user-agent }}
 
       - name: Install dependencies
-        run: |
-          remotes::install_deps(dependencies = TRUE)
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 2
+          extra-packages: |
+            any::ggplot2
+            any::rcmdcheck
+          needs: |
+            website
+            coverage
 
       - name: Generate data
         run: source("R/run_everything.r")
