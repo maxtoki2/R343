@@ -1,1 +1,2 @@
+source("hello.R")
 hello()
