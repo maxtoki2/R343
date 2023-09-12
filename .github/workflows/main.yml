@@ -27,9 +27,6 @@ jobs:
         with:
           r-version: ${{ matrix.config.r }}
           http-user-agent: ${{ matrix.config.http-user-agent }}
-
-      - name: Install dependencies
-        with:
           cache-version: 2
           extra-packages: |
             any::ggplot2
