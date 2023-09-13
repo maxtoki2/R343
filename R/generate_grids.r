@@ -56,7 +56,7 @@ create_daily_grid <- function(grid_population = valid_grids, database_plr = plr_
     inner_join(row_players, column_players, by = "player_url")
   })
 
-  # TODO: jolly player to justify the 343 name
+  jolly_scores <- bind_rows(daily_grid[[2]]) %>% group_by(player_url) %>% tally()
 
-  list(grid_matrix, valid_answers)
+  list(grid_matrix, valid_answers, jolly_scores)
 }
