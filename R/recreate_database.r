@@ -14,7 +14,7 @@ recreate_database <- function(country_selected, filepath){
 summarise_players <- function(database_plr = plr_database){
   # plr_database %>%
   database_plr %>%
-    group_by(player_url, player_name, nationality) %>%
-    summarise(min_season = min(season), max_season = max(season), app = sum(appearances), min = sum(minutes_played)) %>%
+    group_by(player_id, player_name, player_name_translit, nationality) %>%
+    summarise(min_season = min(season), max_season = max(season), app = sum(appearances), min = sum(minutes_played), gs = sum(goals)) %>%
     unite(time_range, min_season, max_season, sep = "-")
 }

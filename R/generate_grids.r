@@ -1,9 +1,9 @@
 # generating all valid grids based on requirements (size and min combinations)
 generate_valid_grids <- function(database_plr = plr_database, size = 3, min_combos = 5){
   inner_join(
-    database_plr %>% filter(appearances > 0) %>% select(player_url, player_name, team_name)
-    , database_plr %>% filter(appearances > 0) %>% select(player_url, player_name, team_name)
-    , by = c("player_url", "player_name"), suffix = c("1", "2")
+    database_plr %>% filter(appearances > 0) %>% select(player_id, player_name, team_name)
+    , database_plr %>% filter(appearances > 0) %>% select(player_id, player_name, team_name)
+    , by = c("player_id", "player_name"), suffix = c("1", "2")
   ) %>%
     filter(team_name1 != team_name2) %>%
     distinct() -> combinations
@@ -45,18 +45,18 @@ create_daily_grid <- function(grid_population = valid_grids, database_plr = plr_
   valid_answers <- lapply(1:nrow(grid_matrix), function(i){
     row_players <- database_plr %>%
       filter(team_name == grid_matrix[i, "row"]) %>%
-      distinct(player_url) %>%
-      arrange(player_url)
+      distinct(player_id) %>%
+      arrange(player_id)
 
     column_players <- database_plr %>%
       filter(team_name == grid_matrix[i, "column"]) %>%
-      distinct(player_url) %>%
-      arrange(player_url)
+      distinct(player_id) %>%
+      arrange(player_id)
 
-    inner_join(row_players, column_players, by = "player_url")
+    inner_join(row_players, column_players, by = "player_id")
   })
 
-  jolly_scores <- bind_rows(daily_grid[[2]]) %>% group_by(player_url) %>% tally()
+  jolly_scores <- bind_rows(daily_grid[[2]]) %>% group_by(player_id) %>% tally()
 
   list(grid_matrix, valid_answers, jolly_scores)
 }
