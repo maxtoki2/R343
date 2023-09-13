@@ -3,6 +3,7 @@ library(dplyr)
 library(glue)
 library(purrr)
 library(tidyr)
+library(stringi)
 
 # TODO: update database
 

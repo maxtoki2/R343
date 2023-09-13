@@ -6,7 +6,9 @@ recreate_database <- function(country_selected, filepath){
   lapply(available_files, function(f){
     read.csv(f)
   }) %>%
-    bind_rows()
+    bind_rows() %>%
+    mutate(player_id = stri_extract(player_url, regex = ("\\d+$"))) %>%
+    mutate(player_name_translit = iconv(player_name, to = "ASCII//TRANSLIT"))
 }
 
 summarise_players <- function(database_plr = plr_database){
