@@ -34,3 +34,29 @@ generate_valid_grids <- function(database_plr = plr_database, size = 3, min_comb
   valid_grids
 }
 
+create_daily_grid <- function(grid_population = valid_grids, database_plr = plr_database){
+  immaculate_grid <- grid_population %>% sample_n(1)
+
+  expand.grid(
+    row = immaculate_grid %>% select(starts_with("team")) %>% unlist
+    , column = immaculate_grid %>% select(starts_with("match")) %>% unlist
+  ) -> grid_matrix
+
+  valid_answers <- lapply(1:nrow(grid_matrix), function(i){
+    row_players <- database_plr %>%
+      filter(team_name == grid_matrix[i, "row"]) %>%
+      distinct(player_url) %>%
+      arrange(player_url)
+
+    column_players <- database_plr %>%
+      filter(team_name == grid_matrix[i, "column"]) %>%
+      distinct(player_url) %>%
+      arrange(player_url)
+
+    inner_join(row_players, column_players, by = "player_url")
+  })
+
+  # TODO: jolly player to justify the 343 name
+
+  list(grid_matrix, valid_answers)
+}
