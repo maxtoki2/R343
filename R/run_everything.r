@@ -2,4 +2,4 @@
 # hello()
 
 x <- list.files()
-save(x, file = paste0("data-raw/data_", make.names(Sys.time()), ".Rda"))
+write.table(x, file = paste0("data-raw/data_", make.names(Sys.time()), ".txt"))
