@@ -30,6 +30,10 @@ jobs:
           cache-version: 2
           extra-packages: |
             any::ggplot2
+            any::shinydashboard
+            any::shinyjs
+            any::shinyBS
+            any::gt
             any::rcmdcheck
           needs: |
             website
