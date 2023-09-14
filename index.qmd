@@ -19,7 +19,7 @@ include-in-header:
 
   const webR = new WebR();
   // TODO
-  const shinyScriptURL = 'https://raw.githubusercontent.com/maxtoki2/R343/main/R/app.R'
+  const shinyScriptURL = 'https://raw.githubusercontent.com/maxtoki2/R343/main/app.R'
   const shinyScriptName = 'app.R'
 
   let webSocketHandleCounter = 0;
