@@ -84,10 +84,13 @@ server <- function(input, output, session) {
       fmt_markdown(columns = -1)
   })
 
-  onclick('cell1_1', showModal(modalDialog(
+  lapply(c('cell1_1', 'cell1_2'), function(x){
+    onclick(x, showModal(modalDialog(
       title = "Your title",
       renderDataTable(data)
     )))
+  })
+
 }
 
 shinyApp(ui, server)
