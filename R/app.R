@@ -1,5 +1,5 @@
 ui <- fluidPage(
-  names(sessionInfo()$otherPkgs)
+  "Hello, world!"
 )
 server <- function(input, output, session) {
 }
