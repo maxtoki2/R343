@@ -7,9 +7,16 @@ library(glue)
 library(gt)
 library(tidyr)
 library(dplyr)
+library(shinyWidgets)
 
 grid_file <- sort(grep("grid", list.files("../data-raw"), value = T), T)[1]
 today_grid <- readRDS(glue("../data-raw/{grid_file}"))
+players <- readRDS("../data-raw/player_summary.RDS") %>%
+  mutate(choice_txt = paste(player_name, time_range)) %>%
+  arrange(player_name)
+  # TODO: remove */? and decide on transliteration
+players_choices <- players$player_id
+names(players_choices) <- players$choice_txt
 
 
 ui <- fluidPage(
@@ -35,10 +42,9 @@ server <- function(input, output, session) {
       fmt_markdown(columns = -1)
   })
 
-  lapply(glue("cell{cells}"), function(x){
-    onclick(x, showModal(modalDialog(
-      title = "Your title",
-      renderDataTable(data)
+  lapply(cells, function(x){
+    onclick(glue("cell{x}"), showModal(modalDialog(
+      pickerInput(glue("selPlayer{x}"), glue("Giocatore {x}"), players_choices)
     )))
   })
 
