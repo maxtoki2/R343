@@ -20,18 +20,22 @@ ui <- fluidPage(
 
 
 server <- function(input, output, session) {
+  rows <- rep(1:3, 3)
+  cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
+  cells <- paste(rows, cols, sep = "_")
+
   output$table <- render_gt({
     today_grid[[1]] %>%
       # mutate(dummy = "") %>%
-      mutate(rn = rep(1:3, 3), cn = unlist(lapply(1:3, function(x) rep(x, 3)))) %>%
-      unite(cell, rn, cn) %>%
-      mutate(cell = glue('<div id="cell{cell}">Text<br /><img src="image.jpg" /><br />Text</div>')) %>%
+      #mutate(rn = rows, cn = ) %>%
+      #unite(cell, rn, cn) %>%
+      mutate(cell = glue('<div id="cell{cells}">Text<br /><img src="toguess.jpg" /><br />Text</div>')) %>%
       pivot_wider(names_from = column, values_from = cell) %>%
       gt(rowname_col = "row") %>%
       fmt_markdown(columns = -1)
   })
 
-  lapply(c('cell1_1', 'cell1_2'), function(x){
+  lapply(glue("cell{cells}"), function(x){
     onclick(x, showModal(modalDialog(
       title = "Your title",
       renderDataTable(data)
