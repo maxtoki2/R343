@@ -51,7 +51,7 @@ server <- function(input, output, session) {
 
 
   output$table <- render_gt({
-    today_grid[[1]] %>%
+    gtobj <- today_grid[[1]] %>%
       # mutate(dummy = "") %>%
       #mutate(rn = rows, cn = ) %>%
       #unite(cell, rn, cn) %>%
@@ -59,9 +59,24 @@ server <- function(input, output, session) {
       pivot_wider(names_from = column, values_from = cell) %>%
       gt(rowname_col = "row") %>%
       fmt_markdown(columns = -1)
+
+    for(i in rows){
+      for(j in cols){
+        gtobj <- gtobj %>%
+          tab_style(style = cell_fill(color = case_when(
+            game_state$guessed_right[i,j] == 0 ~ "white"
+            , game_state$guessed_right[i,j] == 1 ~ "green"
+            , game_state$guessed_right[i,j] == 2 ~ "black"
+            )
+          )
+        , locations = cells_body(columns = j + 1, rows = i))
+      }
+    }
+
+    gtobj
   })
 
-  output$dummy <- renderText(game_state$guessed_right)
+  output$dummy <- renderText(game_state$attempts_left)
 
   lapply(cells, function(x){
     onclick(glue("cell{x}"), showModal(
@@ -79,6 +94,7 @@ server <- function(input, output, session) {
       game_state$attempts_left <- game_state$attempts_left - 1
       game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]])
       game_state$guessed_right[ci[1], ci[2]] <- 1 * (input[[glue("selPlayer{x}")]] %in% unlist(today_grid[[2]][x]))
+      if(game_state$attempts_left <= 0) game_state$guessed_right[which(game_state$guessed_right == 0)] <- 2
       removeModal()
     })
   })
