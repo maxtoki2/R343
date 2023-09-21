@@ -39,7 +39,11 @@ server <- function(input, output, session) {
   #   )
   # })
   # previously_selected <- reactiveVal(list())
-  attempts_left <- reactiveVal(9)
+  # attempts_left <- reactiveVal(9)
+  game_state <- reactiveValues(
+    attempts_left = 9
+    , players_used = character(0)
+  )
 
 
   output$table <- render_gt({
@@ -53,7 +57,7 @@ server <- function(input, output, session) {
       fmt_markdown(columns = -1)
   })
 
-  output$dummy <- renderText(attempts_left())
+  output$dummy <- renderText(paste(game_state$players_used, collapse = ","))
 
   lapply(cells, function(x){
     onclick(glue("cell{x}"), showModal(
@@ -71,7 +75,8 @@ server <- function(input, output, session) {
   #   previously_selected <- c(previously_selected, input$selPlayer)
   # })
   observeEvent(input$actSelectPlayer, {
-    attempts_left(attempts_left() - 1)
+    game_state$attempts_left <- game_state$attempts_left - 1
+    game_state$players_used <- c(game_state$players_used, input$selPlayer)
   })
 
 }
