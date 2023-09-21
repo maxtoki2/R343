@@ -62,22 +62,22 @@ server <- function(input, output, session) {
   lapply(cells, function(x){
     onclick(glue("cell{x}"), showModal(
       modalDialog(
-        pickerInput("selPlayer", glue("Giocatore {x}"), players_choices)
+        selectInput("selPlayer", glue("Giocatore {x}"), players_choices[!(players_choices %in% game_state$players_used)])
         , footer = tagList(
             modalButton("Cancel")
-            , actionButton("actSelectPlayer", glue("OK ({x})"))
+            , actionButton(glue("actSelectPlayer{x}"), glue("OK ({x})"))
           )
       )
     ))
   })
 
-  # observeEvent(input$actSelectPlayer, {
-  #   previously_selected <- c(previously_selected, input$selPlayer)
-  # })
-  observeEvent(input$actSelectPlayer, {
-    game_state$attempts_left <- game_state$attempts_left - 1
-    game_state$players_used <- c(game_state$players_used, input$selPlayer)
+  lapply(cells, function(x){
+    observeEvent(input[[glue("actSelectPlayer{x}")]], {
+      game_state$attempts_left <- game_state$attempts_left - 1
+      game_state$players_used <- c(game_state$players_used, input$selPlayer)
+    })
   })
+
 
 }
 
