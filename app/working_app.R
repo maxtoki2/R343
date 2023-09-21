@@ -22,6 +22,7 @@ names(players_choices) <- players$choice_txt
 ui <- fluidPage(
   useShinyjs()
   , gt_output(outputId = "table")
+  , textOutput("dummy")
 )
 
 
@@ -30,6 +31,16 @@ server <- function(input, output, session) {
   rows <- rep(1:3, 3)
   cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
   cells <- paste(rows, cols, sep = "_")
+
+  # playing_grid <- reactive({
+  #   list(
+  #     grid_matrix = today_grid[[1]]
+  #
+  #   )
+  # })
+  # previously_selected <- reactiveVal(list())
+  attempts_left <- reactiveVal(9)
+
 
   output$table <- render_gt({
     today_grid[[1]] %>%
@@ -42,10 +53,25 @@ server <- function(input, output, session) {
       fmt_markdown(columns = -1)
   })
 
+  output$dummy <- renderText(attempts_left())
+
   lapply(cells, function(x){
-    onclick(glue("cell{x}"), showModal(modalDialog(
-      pickerInput(glue("selPlayer{x}"), glue("Giocatore {x}"), players_choices)
-    )))
+    onclick(glue("cell{x}"), showModal(
+      modalDialog(
+        pickerInput("selPlayer", glue("Giocatore {x}"), players_choices)
+        , footer = tagList(
+            modalButton("Cancel")
+            , actionButton("actSelectPlayer", glue("OK ({x})"))
+          )
+      )
+    ))
+  })
+
+  # observeEvent(input$actSelectPlayer, {
+  #   previously_selected <- c(previously_selected, input$selPlayer)
+  # })
+  observeEvent(input$actSelectPlayer, {
+    attempts_left(attempts_left() - 1)
   })
 
 }
