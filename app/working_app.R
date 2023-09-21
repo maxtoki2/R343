@@ -9,8 +9,14 @@ library(tidyr)
 library(dplyr)
 library(shinyWidgets)
 
+rows <- rep(1:3, 3)
+cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
+cells <- paste(rows, cols, sep = "_")
+
+
 grid_file <- sort(grep("grid", list.files("../data-raw"), value = T), T)[1]
 today_grid <- readRDS(glue("../data-raw/{grid_file}"))
+names(today_grid[[2]]) <- cells
 players <- readRDS("../data-raw/player_summary.RDS") %>%
   mutate(choice_txt = paste(player_name, time_range)) %>%
   arrange(player_name)
@@ -28,9 +34,6 @@ ui <- fluidPage(
 
 
 server <- function(input, output, session) {
-  rows <- rep(1:3, 3)
-  cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
-  cells <- paste(rows, cols, sep = "_")
 
   # playing_grid <- reactive({
   #   list(
@@ -43,6 +46,7 @@ server <- function(input, output, session) {
   game_state <- reactiveValues(
     attempts_left = 9
     , players_used = character(0)
+    , guessed_right = matrix(0, 3, 3) #, dimnames = list(rows, cols)
   )
 
 
@@ -57,27 +61,27 @@ server <- function(input, output, session) {
       fmt_markdown(columns = -1)
   })
 
-  output$dummy <- renderText(paste(game_state$players_used, collapse = ","))
+  output$dummy <- renderText(game_state$guessed_right)
 
   lapply(cells, function(x){
     onclick(glue("cell{x}"), showModal(
       modalDialog(
-        selectInput("selPlayer", glue("Giocatore {x}"), players_choices[!(players_choices %in% game_state$players_used)])
+        selectizeInput(glue("selPlayer{x}"), glue("Giocatore {x}"), players_choices[!(players_choices %in% game_state$players_used)])
         , footer = tagList(
             modalButton("Cancel")
             , actionButton(glue("actSelectPlayer{x}"), glue("OK ({x})"))
           )
       )
     ))
-  })
 
-  lapply(cells, function(x){
     observeEvent(input[[glue("actSelectPlayer{x}")]], {
+      ci <- as.integer(unlist(strsplit(x, "_")))
       game_state$attempts_left <- game_state$attempts_left - 1
-      game_state$players_used <- c(game_state$players_used, input$selPlayer)
+      game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]])
+      game_state$guessed_right[ci[1], ci[2]] <- 1 * (input[[glue("selPlayer{x}")]] %in% unlist(today_grid[[2]][x]))
+      removeModal()
     })
   })
-
 
 }
 
