@@ -9,10 +9,21 @@ library(tidyr)
 library(dplyr)
 library(shinyWidgets)
 
+#### TODO LIST
+# point to github files
+# remove ?/* from unknown first names
+# settle on transliteration
+
 rows <- rep(1:3, 3)
 cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
 cells <- paste(rows, cols, sep = "_")
 
+conditional_formatting <- tibble::tribble(
+  ~guess, ~bgcolor, ~picture
+  , 0, "white", "toguess.png"
+  , 1, "green", "correct.png"
+  , 2, "red", "gameover.png"
+)
 
 grid_file <- sort(grep("grid", list.files("../data-raw"), value = T), T)[1]
 today_grid <- readRDS(glue("../data-raw/{grid_file}"))
@@ -20,7 +31,6 @@ names(today_grid[[2]]) <- cells
 players <- readRDS("../data-raw/player_summary.RDS") %>%
   mutate(choice_txt = paste(player_name, time_range)) %>%
   arrange(player_name)
-  # TODO: remove */? and decide on transliteration
 players_choices <- players$player_id
 names(players_choices) <- players$choice_txt
 
@@ -47,6 +57,10 @@ server <- function(input, output, session) {
     attempts_left = 9
     , players_used = character(0)
     , guessed_right = matrix(0, 3, 3) #, dimnames = list(rows, cols)
+    , cells_state = data.frame(
+        cell = cells
+        , guess = 0
+      )
   )
 
 
@@ -55,7 +69,7 @@ server <- function(input, output, session) {
       # mutate(dummy = "") %>%
       #mutate(rn = rows, cn = ) %>%
       #unite(cell, rn, cn) %>%
-      mutate(cell = glue('<div id="cell{cells}">Text<br /><img src="toguess.jpg" /><br />Text</div>')) %>%
+      mutate(cell = glue('<div id="cell{cells}">Text<br /><img src="toguess.png" /><br />Text</div>')) %>%
       pivot_wider(names_from = column, values_from = cell) %>%
       gt(rowname_col = "row") %>%
       fmt_markdown(columns = -1)
