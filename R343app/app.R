@@ -13,6 +13,8 @@ library(shinyWidgets)
 # point to github files
 # remove ?/* from unknown first names
 # settle on transliteration
+# optimize input select
+# players ungroup in the original file
 
 rows <- rep(1:3, 3)
 cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
@@ -30,7 +32,8 @@ today_grid <- readRDS(glue("../data-raw/{grid_file}"))
 names(today_grid[[2]]) <- cells
 players <- readRDS("../data-raw/player_summary.RDS") %>%
   mutate(choice_txt = paste(player_name, time_range)) %>%
-  arrange(player_name)
+  arrange(player_name) %>%
+  ungroup()
 players_choices <- players$player_id
 names(players_choices) <- players$choice_txt
 
@@ -60,6 +63,7 @@ server <- function(input, output, session) {
     , cells_state = data.frame(
         cell = cells
         , guess = 0
+        , correct_player = "---"
       )
   )
 
@@ -72,23 +76,27 @@ server <- function(input, output, session) {
       mutate(cell = cells) %>%
       inner_join(game_state$cells_state) %>%
       inner_join(conditional_formatting) %>%
-      mutate(cell_html = glue('<div id="cell{cell}">Text<br /><img src="{picture}" /><br />Text</div>')) %>%
+      mutate(cell_html = glue('<div id="cell{cell}">Text<br /><img src="{picture}" /><br />{correct_player}</div>')) %>%
       select(row, column, cell_html) %>%
       pivot_wider(names_from = column, values_from = cell_html) %>%
       gt(rowname_col = "row") %>%
-      fmt_markdown(columns = -1)
+      fmt_markdown(columns = -1) %>%
+      tab_style(cell_text(size = 8), locations = cells_body())
 
     for(i in rows){
       for(j in cols){
         rc <- paste(i, j, sep = "_")
         cell_guess <- game_state$cells_state[which(game_state$cells_state$cell == rc), "guess"]
         gtobj <- gtobj %>%
-          tab_style(style = cell_fill(color = case_when(
-            cell_guess == 0 ~ "white"
-            , cell_guess == 1 ~ "green"
-            , cell_guess == 2 ~ "black"
-            )
+          tab_style(style = list(
+            cell_fill(color = case_when(
+                cell_guess == 0 ~ "white"
+                , cell_guess == 1 ~ "green"
+                , cell_guess == 2 ~ "#D3D3D3"
+              ))
+            , cell_text(size = px(10))
           )
+
         , locations = cells_body(columns = j + 1, rows = i))
       }
     }
@@ -114,8 +122,10 @@ server <- function(input, output, session) {
       game_state$attempts_left <- game_state$attempts_left - 1
       sel_player <- input[[glue("selPlayer{x}")]]
       if(sel_player  %in% unlist(today_grid[[2]][x])){
-        game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]])
-        game_state$cells_state[which(game_state$cells_state$cell == x), "guess"] <- 1
+        target_index <- which(game_state$cells_state$cell == x)
+        game_state$players_used <- c(game_state$players_used, sel_player)
+        game_state$cells_state[target_index, "guess"] <- 1
+        game_state$cells_state[target_index, "correct_player"] <- players %>% filter(player_id == sel_player) %>% select(player_name) %>% unlist
       }
       if(game_state$attempts_left <= 0) game_state$cells_state[which(game_state$cells_state$guess == 0), "guess"] <- 2
 
