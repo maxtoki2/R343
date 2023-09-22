@@ -8,6 +8,7 @@ library(gt)
 library(tidyr)
 library(dplyr)
 library(shinyWidgets)
+library(jsonlite)
 
 #### TODO LIST
 # point to github files
@@ -15,6 +16,12 @@ library(shinyWidgets)
 # settle on transliteration
 # optimize input select
 # players ungroup in the original file
+
+# wdir <- ""
+# wdir <- "../"
+# file_list <- list.files(glue("{wdir}/data-raw")
+wdir <- "https://raw.githubusercontent.com/maxtoki2/R343/main/" #https://api.github.com/repositories/689012066/contents/data-raw
+file_list <- gsub("https://raw.githubusercontent.com/maxtoki2/R343/main/data-raw/", "", fromJSON("https://api.github.com/repos/maxtoki2/R343/contents/data-raw")$download_url)
 
 rows <- rep(1:3, 3)
 cols <- unlist(lapply(1:3, function(x) rep(x, 3)))
@@ -27,10 +34,10 @@ conditional_formatting <- tibble::tribble(
   , 2, "red", "gameover.png"
 )
 
-grid_file <- sort(grep("grid", list.files("../data-raw"), value = T), T)[1]
-today_grid <- readRDS(glue("../data-raw/{grid_file}"))
+grid_file <- sort(grep("grid", file_list, value = T), T)[1]
+today_grid <- readRDS(gzcon(url(glue("{wdir}data-raw/{grid_file}"))))
 names(today_grid[[2]]) <- cells
-players <- readRDS("../data-raw/player_summary.RDS") %>%
+players <- readRDS(gzcon(url(glue("{wdir}/data-raw/player_summary.RDS")))) %>%
   mutate(choice_txt = paste(player_name, time_range)) %>%
   arrange(player_name) %>%
   ungroup()
