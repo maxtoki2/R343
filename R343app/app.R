@@ -56,31 +56,37 @@ server <- function(input, output, session) {
   game_state <- reactiveValues(
     attempts_left = 9
     , players_used = character(0)
-    , guessed_right = matrix(0, 3, 3) #, dimnames = list(rows, cols)
+    # , guessed_right = matrix(0, 3, 3) #, dimnames = list(rows, cols)
     , cells_state = data.frame(
         cell = cells
         , guess = 0
       )
   )
 
-
+  # output$table <- render_gt(game_state$cells_state %>% gt())
   output$table <- render_gt({
     gtobj <- today_grid[[1]] %>%
       # mutate(dummy = "") %>%
       #mutate(rn = rows, cn = ) %>%
       #unite(cell, rn, cn) %>%
-      mutate(cell = glue('<div id="cell{cells}">Text<br /><img src="toguess.png" /><br />Text</div>')) %>%
-      pivot_wider(names_from = column, values_from = cell) %>%
+      mutate(cell = cells) %>%
+      inner_join(game_state$cells_state) %>%
+      inner_join(conditional_formatting) %>%
+      mutate(cell_html = glue('<div id="cell{cell}">Text<br /><img src="{picture}" /><br />Text</div>')) %>%
+      select(row, column, cell_html) %>%
+      pivot_wider(names_from = column, values_from = cell_html) %>%
       gt(rowname_col = "row") %>%
       fmt_markdown(columns = -1)
 
     for(i in rows){
       for(j in cols){
+        rc <- paste(i, j, sep = "_")
+        cell_guess <- game_state$cells_state[which(game_state$cells_state$cell == rc), "guess"]
         gtobj <- gtobj %>%
           tab_style(style = cell_fill(color = case_when(
-            game_state$guessed_right[i,j] == 0 ~ "white"
-            , game_state$guessed_right[i,j] == 1 ~ "green"
-            , game_state$guessed_right[i,j] == 2 ~ "black"
+            cell_guess == 0 ~ "white"
+            , cell_guess == 1 ~ "green"
+            , cell_guess == 2 ~ "black"
             )
           )
         , locations = cells_body(columns = j + 1, rows = i))
@@ -106,9 +112,16 @@ server <- function(input, output, session) {
     observeEvent(input[[glue("actSelectPlayer{x}")]], {
       ci <- as.integer(unlist(strsplit(x, "_")))
       game_state$attempts_left <- game_state$attempts_left - 1
-      game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]])
-      game_state$guessed_right[ci[1], ci[2]] <- 1 * (input[[glue("selPlayer{x}")]] %in% unlist(today_grid[[2]][x]))
-      if(game_state$attempts_left <= 0) game_state$guessed_right[which(game_state$guessed_right == 0)] <- 2
+      sel_player <- input[[glue("selPlayer{x}")]]
+      if(sel_player  %in% unlist(today_grid[[2]][x])){
+        game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]])
+        game_state$cells_state[which(game_state$cells_state$cell == x), "guess"] <- 1
+      }
+      if(game_state$attempts_left <= 0) game_state$cells_state[which(game_state$cells_state$guess == 0), "guess"] <- 2
+
+      # game_state$players_used <- c(game_state$players_used, input[[glue("selPlayer{x}")]]) #TODO: only if guessed right
+      # game_state$guessed_right[ci[1], ci[2]] <- 1 * (input[[glue("selPlayer{x}")]] %in% unlist(today_grid[[2]][x]))
+      # if(game_state$attempts_left <= 0) game_state$guessed_right[which(game_state$guessed_right == 0)] <- 2
       removeModal()
     })
   })
