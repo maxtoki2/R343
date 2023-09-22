@@ -47,8 +47,13 @@ names(players_choices) <- players$choice_txt
 
 ui <- fluidPage(
   useShinyjs()
+  , p(style = "text-align: center;", "In ciascuna cella scrivi un giocatore che ha militato in entrambe le squadre")
+  , p(style = "text-align: center;", "Solo giocatori con almeno una presenza in entrambe le squadre")
+  , p(style = "text-align: center;", "Solo presenze in serie A")
   , gt_output(outputId = "table")
-  , textOutput("dummy")
+  # , textOutput("dummy")
+  , p()
+  , fluidRow(valueBoxOutput("tries_left"), align = "center")
 )
 
 
@@ -111,7 +116,10 @@ server <- function(input, output, session) {
     gtobj
   })
 
-  output$dummy <- renderText(game_state$attempts_left)
+  # output$dummy <- renderText(game_state$attempts_left)
+  output$tries_left <- renderValueBox({
+    valueBox("Tentativi Rimasti", game_state$attempts_left)
+  })
 
   lapply(cells, function(x){
     onclick(glue("cell{x}"), showModal(
