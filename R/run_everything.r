@@ -13,7 +13,7 @@ source("R/generate_grids.r")
 plr_database <- recreate_database("Italy", "inst/extdata")
 plr_summary <- summarise_players(plr_database)
 
-valid_grids <- generate_valid_grids(min_combos = 10)
+valid_grids <- generate_valid_grids(min_combos = 20)
 
 daily_grid <- create_daily_grid(valid_grids, plr_database)
 # daily_grid <- c(daily_grid, list(plr_summary))
