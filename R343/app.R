@@ -11,11 +11,12 @@ library(shinyWidgets)
 library(jsonlite)
 
 #### TODO LIST
-# prevent reclicking on guessed right
+# preserve guesses on disconnect (shinyStore)
 # terminate the game
 # remove ?/* from unknown first names
 # settle on transliteration
 # players ungroup in the original file
+# find a way to lower the min overlap so that more teams come up (in the daily update)
 
 # wdir <- ""
 # wdir <- "../"
@@ -128,19 +129,21 @@ server <- function(input, output, session) {
       unlist()
     )
 
-    # if(is_clickable())
+
       onclick(glue("cell{x}"), {
-        showModal(
-          modalDialog(
-            p(not_clickable())
-            , selectizeInput(glue("selPlayer{x}"), glue("Giocatore"), choices = NULL)
-            , footer = tagList(
+        if(isolate(not_clickable()) == 0){
+          showModal(
+            modalDialog(
+              p(not_clickable())
+              , selectizeInput(glue("selPlayer{x}"), glue("Giocatore"), choices = NULL)
+              , footer = tagList(
                 modalButton("Cancel")
                 , actionButton(glue("actSelectPlayer{x}"), glue("OK"))
               )
             )
           )
           updateSelectizeInput(session, glue("selPlayer{x}"), choices = players_choices[!(players_choices %in% game_state$players_used)], server = TRUE)
+        }
         }
       )
 

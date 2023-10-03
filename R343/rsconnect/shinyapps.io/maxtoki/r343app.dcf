@@ -5,6 +5,6 @@ account: maxtoki
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9942607
-bundleId: 7716183
+bundleId: 7756547
 url: https://maxtoki.shinyapps.io/r343app/
 version: 1
