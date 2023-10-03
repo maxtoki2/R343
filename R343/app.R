@@ -11,10 +11,10 @@ library(shinyWidgets)
 library(jsonlite)
 
 #### TODO LIST
-# point to github files
+# prevent reclicking on guessed right
+# terminate the game
 # remove ?/* from unknown first names
 # settle on transliteration
-# optimize input select
 # players ungroup in the original file
 
 # wdir <- ""
@@ -122,15 +122,27 @@ server <- function(input, output, session) {
   })
 
   lapply(cells, function(x){
-    onclick(glue("cell{x}"), showModal(
-      modalDialog(
-        selectizeInput(glue("selPlayer{x}"), glue("Giocatore {x}"), players_choices[!(players_choices %in% game_state$players_used)])
-        , footer = tagList(
-            modalButton("Cancel")
-            , actionButton(glue("actSelectPlayer{x}"), glue("OK ({x})"))
+    not_clickable <- reactive(game_state$cells_state %>%
+      filter(cell == x) %>%
+      select(guess) %>%
+      unlist()
+    )
+
+    # if(is_clickable())
+      onclick(glue("cell{x}"), {
+        showModal(
+          modalDialog(
+            p(not_clickable())
+            , selectizeInput(glue("selPlayer{x}"), glue("Giocatore"), choices = NULL)
+            , footer = tagList(
+                modalButton("Cancel")
+                , actionButton(glue("actSelectPlayer{x}"), glue("OK"))
+              )
+            )
           )
+          updateSelectizeInput(session, glue("selPlayer{x}"), choices = players_choices[!(players_choices %in% game_state$players_used)], server = TRUE)
+        }
       )
-    ))
 
     observeEvent(input[[glue("actSelectPlayer{x}")]], {
       ci <- as.integer(unlist(strsplit(x, "_")))
