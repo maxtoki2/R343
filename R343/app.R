@@ -11,12 +11,14 @@ library(shinyWidgets)
 library(jsonlite)
 
 #### TODO LIST
-# preserve guesses on disconnect (shinyStore)
 # terminate the game
+# preserve guesses on disconnect (shinyStore)
 # remove ?/* from unknown first names
 # settle on transliteration
 # players ungroup in the original file
 # find a way to lower the min overlap so that more teams come up (in the daily update)
+# allow to copy text to share results
+# rarity score
 
 # wdir <- ""
 # wdir <- "../"
